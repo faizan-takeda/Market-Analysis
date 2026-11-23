@@ -128,7 +128,8 @@ export function Scroll({ children }: { children: React.ReactNode }) { return <di
 /** Multi-series line chart. series: {key, color, points:[x,y]} */
 export function LineChart({ series, height = 300, yLabel, xTicks }: { series: { key: string; color: string; points: [number, number][] }[]; height?: number; yLabel?: string; xTicks?: number[] }) {
   const ref = useRef<SVGSVGElement>(null);
-  const [wrap, w] = useWidth(640);
+  const [wrap, measuredWidth] = useWidth(640);
+  const w = Math.max(480, measuredWidth);
   useEffect(() => {
     const svg = d3.select(ref.current); svg.selectAll("*").remove();
     const m = { t: 16, r: 90, b: 34, l: 56 }; const iw = w - m.l - m.r, ih = height - m.t - m.b;
@@ -150,7 +151,7 @@ export function LineChart({ series, height = 300, yLabel, xTicks }: { series: { 
       g.append("text").attr("x", x(last[0]) + 6).attr("y", y(last[1]) + 4).attr("fill", s.color).attr("font-size", 11).attr("font-weight", 600).text(s.key.length > 14 ? s.key.slice(0, 13) + "…" : s.key);
     }
   }, [series, w, height, yLabel, xTicks]);
-  return <div ref={wrap}><svg ref={ref} width="100%" height={height} role="img" aria-label={yLabel ?? "chart"} /></div>;
+  return <div ref={wrap} className="scroll" tabIndex={0} role="region" aria-label="Scrollable chart"><svg ref={ref} width={w} height={height} role="img" aria-label={yLabel ?? "chart"} /></div>;
 }
 
 /** Small-multiple bar chart; bars are focusable and open evidence. */
@@ -177,7 +178,8 @@ export function MiniBars({ data, color, height = 90, fmt, open }: { data: { labe
 export interface SwimItem { lane: string; t: number; label: string; claim_ids: string[]; color?: string; shape?: "dot" | "diamond" | "cross" }
 /** Swim-lane time strip. Items sharing a lane/time are stacked. Each item is keyboard-focusable. */
 export function Swim({ lanes, items, open, domain, laneH = 54 }: { lanes: { key: string; label: string; color: string }[]; items: SwimItem[]; open: Open; domain?: [number, number]; laneH?: number }) {
-  const [wrap, w] = useWidth(800);
+  const [wrap, measuredWidth] = useWidth(800);
+  const w = Math.max(600, measuredWidth);
   const ts = items.map((i) => i.t); if (!ts.length) return <div className="meta">no dated items</div>;
   const [t0, t1] = domain ?? [Math.floor(Math.min(...ts)), Math.ceil(Math.max(...ts)) + 0.001];
   const ml = 84, mr = 16, iw = Math.max(120, w - ml - mr); const x = d3.scaleLinear().domain([t0, t1]).range([0, iw]);
@@ -185,8 +187,8 @@ export function Swim({ lanes, items, open, domain, laneH = 54 }: { lanes: { key:
   const stack: Record<string, number> = {}; const pos = items.map((it) => { const k = `${it.lane}|${Math.round(x(it.t) / 11)}`; const n = stack[k] ?? 0; stack[k] = n + 1; return n; });
   const H = lanes.length * laneH + 28;
   return (
-    <div ref={wrap} className="swim">
-      <svg width="100%" height={H} viewBox={`0 0 ${w} ${H}`} role="group" aria-label="timeline">
+    <div ref={wrap} className="swim scroll" tabIndex={0} role="region" aria-label="Scrollable timeline">
+      <svg width={w} height={H} viewBox={`0 0 ${w} ${H}`} role="group" aria-label="timeline">
         {years.map((y) => <g key={y}><line x1={ml + x(y)} x2={ml + x(y)} y1={14} y2={H - 14} stroke="#eceff4" /><text x={ml + x(y)} y={10} textAnchor="middle" fontSize={10} fill="#6b7384">{y}</text></g>)}
         {lanes.map((l, li) => <g key={l.key}><text x={0} y={22 + li * laneH + laneH / 2} fontSize={11.5} fontWeight={600} fill={l.color}>{l.label}</text><line x1={ml} x2={ml + iw} y1={22 + li * laneH + laneH / 2} y2={22 + li * laneH + laneH / 2} stroke="#dfe3ea" /></g>)}
         {items.map((it, i) => { const li = lanes.findIndex((l) => l.key === it.lane); if (li < 0) return null; const cx = ml + x(it.t); const cy = 22 + li * laneH + laneH / 2 + (pos[i] % 2 ? 1 : -1) * Math.ceil(pos[i] / 2) * 9; const col = it.color ?? lanes[li].color;

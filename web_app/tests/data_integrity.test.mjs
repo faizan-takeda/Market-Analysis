@@ -61,7 +61,7 @@ if (sf.portfolios.available) ok("every simulated portfolio value is labelled ASS
 // --- report bundle (the reader's backbone) and the Q&A index
 const mdFiles = []; const walk = (d) => { for (const e of fs.readdirSync(d, { withFileTypes: true })) { if (e.name.startsWith(".") || ["node_modules", "raw_documents", "extracted_text"].includes(e.name)) continue; const p = path.join(d, e.name); if (e.isDirectory()) walk(p); else if (e.name.toLowerCase().endsWith(".md")) mdFiles.push(path.relative(root, p).split(path.sep).join("/")); } };
 // Layout: the MEDICINE repository (../New_mediciine, ../data, ../deliverables) or the packaged Final_Medicine folder
-// (../Data/{normalized,database}, ../MEDICINE_2040_Hub.html). Repo-only checks are skipped in the package.
+// (../Data/{normalized,database}, ../index.html). Repo-only checks are skipped in the package.
 const repoLayout = fs.existsSync(path.join(root, "New_mediciine"));
 const firstExisting = (...cands) => cands.find((p) => fs.existsSync(p));
 if (repoLayout) {
@@ -116,7 +116,7 @@ if (fs.existsSync(distIdx)) {
   ok("dist/data matches public/data (no stale build)", stale.length === 0, stale.join(","));
 }
 // --- single-file export
-const single = firstExisting(path.join(root, "deliverables", "MEDICINE_2040_Hub.html"), path.join(root, "MEDICINE_2040_Hub.html")) ?? path.join(root, "deliverables", "MEDICINE_2040_Hub.html");
+const single = firstExisting(path.join(root, "deliverables", "MEDICINE_2040_Hub.html"), path.join(root, "MEDICINE_2040_Hub.html"), path.join(root, "index.html")) ?? path.join(root, "deliverables", "MEDICINE_2040_Hub.html");
 ok("single-file export exists (run scripts/build_single_file.py)", fs.existsSync(single));
 if (fs.existsSync(single)) {
   const h = fs.readFileSync(single, "utf8"); const mb = fs.statSync(single).size / 1048576;

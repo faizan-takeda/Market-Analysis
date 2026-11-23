@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Single-file export: inline the built app (JS, CSS) and every dataset into deliverables/MEDICINE_2040_Hub.html.
+"""Single-file export: inline the built app (JS, CSS) and every dataset.
 
-Run after `npm run build` in executive_application/ (launch.sh does this). The result opens from file:// with no server:
+Run after `npm run build` in web_app/ (or executive_application/ in the original repository). The result opens from file:// with no server:
 data is read from <script type="application/json" id="medicine-data"> (see src/data.ts), routing is hash-based, and no
 external font, script or stylesheet is referenced. Exit 1 on any missing input.
 """
@@ -11,6 +11,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 APP = os.path.join(ROOT, "executive_application")
 DIST = os.path.join(APP, "dist")
 OUT = os.path.join(ROOT, "deliverables", "MEDICINE_2040_Hub.html")
+PACKAGE_ROOT = os.path.dirname(os.path.dirname(ROOT))
+if os.path.isdir(os.path.join(PACKAGE_ROOT, "web_app")):
+    ROOT = PACKAGE_ROOT
+    APP = os.path.join(ROOT, "web_app")
+    DIST = os.path.join(APP, "dist")
+    OUT = os.path.join(ROOT, "index.html")
 DATASETS = ["claims", "sources", "financials", "products", "knowledge_graph", "research_graph", "coverage", "maturity", "maturity_matrix", "project_state", "search_index", "timelines",
             "mechanism_cards", "deals", "approvals", "setbacks", "takeda_baseline", "conflicts", "strategy", "reports", "qa_index", "research_log"]
 
@@ -26,7 +32,7 @@ def js_safe(s):
 def main():
     idx = os.path.join(DIST, "index.html")
     if not os.path.exists(idx):
-        fail("dist/index.html missing; run `npm run build` in executive_application first")
+        fail("dist/index.html missing; run `npm run build` in the app directory first")
     html = open(idx, encoding="utf-8").read()
     blob = {}
     for n in DATASETS:

@@ -211,3 +211,34 @@ table.matrix th:nth-child(2), table.matrix td:nth-child(2), table.matrix th:nth-
 table.matrix td:nth-child(4) { min-width: 9.5rem; }
 table.matrix td .badge, table.matrix td .pill { white-space: nowrap; }
 table.matrix th { letter-spacing: 0.04em; }
+
+/* Compact navigation and readable controls on touch-sized screens. */
+@media (max-width: 920px) {
+  .topbar { position: static; }
+  .topbar-in { gap: 8px; padding: 8px 12px 0; }
+  .gsearch { min-width: 0; }
+  .pillars { flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain; margin: 0; scrollbar-width: thin; }
+  .pillar { flex: 0 0 auto; display: flex; align-items: center; min-height: 44px; }
+  .subnav ul, .tabs, .scroll, .tablewrap, .spine, .ladder { overscroll-behavior-x: contain; }
+  .subnav li a, .tab { min-height: 44px; align-items: center; }
+  .ladder { overflow-x: auto; }
+  .rung { flex-shrink: 0; }
+  .drawer { height: 100dvh; }
+  .drawer button.close { min-width: 44px; min-height: 44px; }
+  .clamp { display: block; overflow: visible; }
+}
+@media (min-width: 601px) and (max-width: 920px) {
+  .g2, .g3, .g4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 921px) and (max-width: 1100px) {
+  .topbar { position: static; }
+  .subnav, .outline { top: 0; max-height: 100vh; }
+}
+@media (max-width: 640px) {
+  .gsearch { width: 100%; }
+  .gsearch input, .askbar input, .toolbar input, .toolbar select { font-size: 1rem; }
+  .gsearch input, .askbar input, .btn, button.chip:not(.id) { min-height: 44px; }
+  .askbar input { min-width: 0; width: 100%; }
+  .panel { padding: 16px; }
+  .sliders { grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); }
+}

@@ -34,6 +34,7 @@ npm run preview
 For development, run `npm run dev` from `web_app` and open the URL printed by Vite. The app reads the included JSON datasets in `web_app/public/data`; a data-generation step is not needed to run the packaged snapshot.
 
 The generated `web_app/dist` directory and installed dependencies are excluded from Git. Rebuild with `npm run build` after changing the source or packaged datasets.
+To refresh the standalone page after building, run `python Data/pipeline/scripts/build_single_file.py` from the package root.
 
 ## Package layout
 
@@ -62,7 +63,7 @@ The pipeline scripts under `Data/pipeline` were written for the original MEDICIN
 
 ## Testing
 
-From `web_app`, run `npm run build` followed by `npm test`. The suite checks dataset integrity and references, built assets, routes and server-side rendering. **Package limitation:** the integrity test expects the standalone export to be named `MEDICINE_2040_Hub.html` in the original locations, while this package calls it `index.html`; that check reports a missing export unless the test or layout is adapted. Tests also write results to `quality/application_tests`.
+From `web_app`, run `npm run build`, refresh the standalone page as described above, then run `npm test`. The suite checks dataset integrity and references, built assets, routes and server-side rendering. Tests also write results to `quality/application_tests`.
 
 ## Optional model-assisted answers
 
