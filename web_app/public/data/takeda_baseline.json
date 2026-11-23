@@ -1,0 +1,365 @@
+{
+"available": true,
+"capability_path": "New_mediciine/companies/takeda_public_baseline/capability_baseline/capability_baseline.md",
+"backlog_path": "New_mediciine/companies/takeda_public_baseline/internal_validation_backlog/backlog.md",
+"capabilities": [
+{
+"area": "GI / immunology franchise",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH",
+"claim_ids": [
+"CLM-005009",
+"CLM-005012"
+],
+"validation": "Entyvio erosion curve (IVB-004)",
+"ivb_refs": [
+"IVB-004"
+]
+},
+{
+"area": "Plasma network and PDT manufacturing",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH",
+"claim_ids": [
+"CLM-005063",
+"CLM-005064",
+"CLM-005065",
+"CLM-005060"
+],
+"validation": "Yield, cost per litre (IVB-006)",
+"ivb_refs": [
+"IVB-006"
+]
+},
+{
+"area": "Rare disease / orexin science",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH",
+"claim_ids": [
+"CLM-005048",
+"CLM-005029",
+"CLM-005032"
+],
+"validation": "Pipeline refill (IVB-008)",
+"ivb_refs": [
+"IVB-008"
+]
+},
+{
+"area": "Late-stage development execution",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH",
+"claim_ids": [
+"CLM-005042",
+"CLM-005028",
+"CLM-005033"
+],
+"validation": "Cycle times (IVB-009)",
+"ivb_refs": [
+"IVB-009"
+]
+},
+{
+"area": "External innovation / BD",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH (deal flow); organisation EVIDENCE_GAP",
+"claim_ids": [
+"CLM-005050",
+"CLM-005036",
+"CLM-005043",
+"CLM-005052"
+],
+"validation": "Ventures / CEI scope (IVB-007)",
+"ivb_refs": [
+"IVB-007"
+]
+},
+{
+"area": "Portfolio discipline (stop decisions)",
+"class": "EXISTING_STRENGTH",
+"class_raw": "EXISTING_STRENGTH, with write-down cost",
+"claim_ids": [
+"CLM-005025",
+"CLM-005024",
+"CLM-005022"
+],
+"validation": "Kill criteria",
+"ivb_refs": []
+},
+{
+"area": "LOE replacement / revenue depth",
+"class": "EXISTING_BUT_UNDERDEVELOPED",
+"class_raw": "EXISTING_BUT_UNDERDEVELOPED",
+"claim_ids": [
+"CLM-005015",
+"CLM-005016",
+"CLM-005017"
+],
+"validation": "Launch forecasts (IVB-005)",
+"ivb_refs": [
+"IVB-005"
+]
+},
+{
+"area": "New-brand launch execution",
+"class": "POTENTIAL_NEW_CAPABILITY",
+"class_raw": "POTENTIAL_NEW_CAPABILITY (to be proven)",
+"claim_ids": [
+"CLM-005069",
+"CLM-005074",
+"CLM-005045"
+],
+"validation": "Launch readiness",
+"ivb_refs": []
+},
+{
+"area": "Enterprise data and AI platform",
+"class": "EXISTING_BUT_UNDERDEVELOPED",
+"class_raw": "EXISTING_BUT_UNDERDEVELOPED (outcomes unproven)",
+"claim_ids": [
+"CLM-005058",
+"CLM-005055",
+"CLM-005057",
+"CLM-005056"
+],
+"validation": "Production vs pilot (IVB-001)",
+"ivb_refs": [
+"IVB-001"
+]
+},
+{
+"area": "AI-enabled discovery / development",
+"class": "EVIDENCE_GAP",
+"class_raw": "EVIDENCE_GAP",
+"claim_ids": [
+"CLM-005049",
+"CLM-005053"
+],
+"validation": "IVB-001, IVB-010",
+"ivb_refs": [
+"IVB-001",
+"IVB-010"
+]
+},
+{
+"area": "Lab automation and robotics",
+"class": "EVIDENCE_GAP",
+"class_raw": "EVIDENCE_GAP",
+"claim_ids": [
+"CLM-005067"
+],
+"validation": "IVB-002",
+"ivb_refs": [
+"IVB-002"
+]
+},
+{
+"area": "Manufacturing quality",
+"class": "EXISTING_BUT_UNDERDEVELOPED",
+"class_raw": "EXISTING_BUT_UNDERDEVELOPED (documented failure, closed)",
+"claim_ids": [
+"CLM-005020"
+],
+"validation": "Inspection record (IVB-011)",
+"ivb_refs": [
+"IVB-011"
+]
+},
+{
+"area": "Supply-chain AI",
+"class": "EVIDENCE_GAP",
+"class_raw": "EVIDENCE_GAP (executive claim only)",
+"claim_ids": [
+"CLM-005057"
+],
+"validation": "Scope and benefits",
+"ivb_refs": []
+},
+{
+"area": "Patient services / market access",
+"class": "EVIDENCE_GAP",
+"class_raw": "EVIDENCE_GAP",
+"claim_ids": [
+"CLM-005072"
+],
+"validation": "IVB-013",
+"ivb_refs": [
+"IVB-013"
+]
+},
+{
+"area": "Cell therapy",
+"class": "OTHER",
+"class_raw": "Exited",
+"claim_ids": [
+"CLM-005025"
+],
+"validation": "Partnering outcome",
+"ivb_refs": []
+},
+{
+"area": "Cost transformation",
+"class": "EXISTING_BUT_UNDERDEVELOPED",
+"class_raw": "EXISTING_BUT_UNDERDEVELOPED (plan, not yet realised)",
+"claim_ids": [
+"CLM-005077",
+"CLM-005059",
+"CLM-005078"
+],
+"validation": "Realised savings (IVB-003)",
+"ivb_refs": [
+"IVB-003"
+]
+}
+],
+"backlog": [
+{
+"id": "IVB-001",
+"question": "Inventory of AI and data products: production vs pilot, users, outcomes",
+"why": "Data/AI outcomes unproven",
+"linked": "[CLM-005058, CLM-005080]",
+"owner": "DD&T",
+"claim_ids": [
+"CLM-005058",
+"CLM-005080"
+]
+},
+{
+"id": "IVB-002",
+"question": "Lab automation and robotics footprint (Shonan, Boston, Vienna)",
+"why": "No public evidence",
+"linked": "[CLM-005067]",
+"owner": "R&D operations",
+"claim_ids": [
+"CLM-005067"
+]
+},
+{
+"id": "IVB-003",
+"question": "Realised vs targeted savings (JPY 200bn by FY2028) and technology share; restructuring cost series 150bn → 170.0bn → 160.0bn",
+"why": "Separates AI from headcount cuts",
+"linked": "[CLM-005078, CLM-005059]",
+"owner": "CFO office",
+"claim_ids": [
+"CLM-005078",
+"CLM-005059"
+]
+},
+{
+"id": "IVB-004",
+"question": "Entyvio erosion scenarios, subcutaneous conversion, patent litigation posture",
+"why": "Largest revenue exposure",
+"linked": "[CLM-005017, CLM-005012]",
+"owner": "GI franchise",
+"claim_ids": [
+"CLM-005017",
+"CLM-005012"
+]
+},
+{
+"id": "IVB-005",
+"question": "Internal probability of success and launch forecasts (zasocitinib, oveporexton, rusfertide)",
+"why": "Tests the USD 10-20bn estimate, which is a company statement not adjusted for probability of success",
+"linked": "[CLM-005041] [CLM-014049]",
+"owner": "R&D portfolio",
+"claim_ids": [
+"CLM-005041",
+"CLM-014049"
+]
+},
+{
+"id": "IVB-006",
+"question": "Plasma yield per center, cost per litre, fractionation automation",
+"why": "Whether PDT is a platform strength",
+"linked": "[CLM-005063, CLM-005065]",
+"owner": "PDT / BioLife",
+"claim_ids": [
+"CLM-005063",
+"CLM-005065"
+]
+},
+{
+"id": "IVB-007",
+"question": "Scope of Takeda Ventures and Center for External Innovation; external pipeline share",
+"why": "Not found publicly",
+"linked": "[CLM-005052]",
+"owner": "Corporate development",
+"claim_ids": [
+"CLM-005052"
+]
+},
+{
+"id": "IVB-008",
+"question": "Early-pipeline depth beyond the six late-stage programs",
+"why": "Refill after 2030",
+"linked": "[CLM-005044]",
+"owner": "R&D",
+"claim_ids": [
+"CLM-005044"
+]
+},
+{
+"id": "IVB-009",
+"question": "Development cycle time and cost per trial vs peers",
+"why": "Execution benchmark",
+"linked": "[CLM-005042]",
+"owner": "Clinical operations",
+"claim_ids": [
+"CLM-005042"
+]
+},
+{
+"id": "IVB-010",
+"question": "Use of AI models in target selection and clinical operations; alliance results",
+"why": "Alliance outcomes unknown",
+"linked": "[CLM-005049]",
+"owner": "Research",
+"claim_ids": [
+"CLM-005049"
+]
+},
+{
+"id": "IVB-011",
+"question": "Current FDA/EMA inspection status of Hikari and other sites",
+"why": "Quality baseline",
+"linked": "[CLM-005020]",
+"owner": "Quality",
+"claim_ids": [
+"CLM-005020"
+]
+},
+{
+"id": "IVB-012",
+"question": "Amitiza judgment timing, trebling, reserve adequacy, cash plan",
+"why": "Legal cash exposure",
+"linked": "[CLM-005013, CLM-005014, CLM-014048]",
+"owner": "Legal / treasury",
+"claim_ids": [
+"CLM-005013",
+"CLM-005014",
+"CLM-014048"
+]
+},
+{
+"id": "IVB-013",
+"question": "Patient assistance and market-access program inventory",
+"why": "Not found publicly",
+"linked": "[CLM-005072]",
+"owner": "U.S. commercial",
+"claim_ids": [
+"CLM-005072"
+]
+},
+{
+"id": "IVB-014",
+"question": "Approved multi-year technology capital envelope",
+"why": "Simulation inputs are hypothetical until known",
+"linked": "[CLM-005007, CLM-005006]",
+"owner": "CFO office",
+"claim_ids": [
+"CLM-005007",
+"CLM-005006"
+]
+}
+]
+}

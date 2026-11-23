@@ -1,0 +1,589 @@
+{
+ "generated": "2026-11-21T11:35:01+00:00",
+ "query": "lead sponsor; interventional; Phase 2/3; start 2021-01-01..2026-11-21",
+ "limits": [
+  "lead-sponsor only (collaborator studies excluded)",
+  "registrant-entered phase labels",
+  "registrations != molecules",
+  "J&J queried as Janssen Research & Development, LLC (main pharma registrant); other J&J entities not included"
+ ],
+ "companies": {
+  "eli_lilly": {
+   "sponsor_query": "Eli Lilly and Company",
+   "total": 217,
+   "by_phase_year": {
+    "PHASE3": {
+     "2021": 18,
+     "2022": 14,
+     "2023": 26,
+     "2024": 20,
+     "2025": 29,
+     "2026": 17
+    },
+    "PHASE2": {
+     "2021": 13,
+     "2022": 13,
+     "2023": 12,
+     "2024": 13,
+     "2025": 15,
+     "2026": 23
+    },
+    "PHASE1/PHASE2": {
+     "2021": 1,
+     "2023": 1,
+     "2025": 2
+    }
+   },
+   "by_status": {
+    "COMPLETED": 85,
+    "RECRUITING": 73,
+    "ACTIVE_NOT_RECRUITING": 41,
+    "TERMINATED": 11,
+    "WITHDRAWN": 3,
+    "NOT_YET_RECRUITING": 3,
+    "ENROLLING_BY_INVITATION": 1
+   },
+   "top_conditions": [
+    [
+     "Obesity",
+     59
+    ],
+    [
+     "Overweight",
+     43
+    ],
+    [
+     "Type 2 Diabetes",
+     25
+    ],
+    [
+     "Diabetes Mellitus, Type 2",
+     9
+    ],
+    [
+     "Neoplasm Metastasis",
+     8
+    ],
+    [
+     "Alzheimer Disease",
+     8
+    ],
+    [
+     "Atopic Dermatitis",
+     7
+    ],
+    [
+     "Overweight or Obesity",
+     7
+    ],
+    [
+     "Ulcerative Colitis",
+     7
+    ],
+    [
+     "Breast Neoplasms",
+     5
+    ],
+    [
+     "Hypertension",
+     4
+    ],
+    [
+     "Chronic Kidney Disease",
+     4
+    ],
+    [
+     "Carcinoma, Non-Small-Cell Lung",
+     4
+    ],
+    [
+     "Inflammatory Bowel Diseases",
+     4
+    ],
+    [
+     "Rheumatoid Arthritis",
+     4
+    ],
+    [
+     "Crohn's Disease",
+     4
+    ],
+    [
+     "Osteoarthritis",
+     4
+    ],
+    [
+     "Diabetic Peripheral Neuropathic Pain",
+     4
+    ],
+    [
+     "Glucose Metabolism Disorders",
+     4
+    ],
+    [
+     "Plaque Psoriasis",
+     3
+    ],
+    [
+     "Obstructive Sleep Apnea",
+     3
+    ],
+    [
+     "Eczema",
+     3
+    ],
+    [
+     "Cardiovascular Diseases",
+     3
+    ],
+    [
+     "Chronic Low-back Pain",
+     3
+    ],
+    [
+     "Colitis, Ulcerative",
+     3
+    ]
+   ],
+   "phase3_count": 124
+  },
+  "johnson_johnson": {
+   "sponsor_query": "Janssen Research & Development, LLC",
+   "total": 140,
+   "by_phase_year": {
+    "PHASE2": {
+     "2021": 17,
+     "2022": 14,
+     "2023": 6,
+     "2024": 7,
+     "2025": 2,
+     "2026": 8
+    },
+    "PHASE3": {
+     "2021": 11,
+     "2022": 12,
+     "2023": 12,
+     "2024": 15,
+     "2025": 10,
+     "2026": 12
+    },
+    "PHASE1/PHASE2": {
+     "2021": 1,
+     "2022": 4,
+     "2023": 1,
+     "2024": 2,
+     "2025": 1,
+     "2026": 1
+    },
+    "PHASE2/PHASE3": {
+     "2022": 2,
+     "2024": 1,
+     "2025": 1
+    }
+   },
+   "by_status": {
+    "RECRUITING": 46,
+    "ACTIVE_NOT_RECRUITING": 42,
+    "COMPLETED": 32,
+    "TERMINATED": 15,
+    "WITHDRAWN": 5
+   },
+   "top_conditions": [
+    [
+     "Multiple Myeloma",
+     16
+    ],
+    [
+     "Plaque Psoriasis",
+     9
+    ],
+    [
+     "Depressive Disorder, Major",
+     9
+    ],
+    [
+     "Carcinoma, Non-Small-Cell Lung",
+     9
+    ],
+    [
+     "Colitis, Ulcerative",
+     9
+    ],
+    [
+     "Arthritis, Psoriatic",
+     8
+    ],
+    [
+     "Crohn Disease",
+     7
+    ],
+    [
+     "Anhedonia",
+     4
+    ],
+    [
+     "Dermatitis, Atopic",
+     4
+    ],
+    [
+     "Non-Muscle Invasive Bladder Neoplasms",
+     4
+    ],
+    [
+     "Crohn's Disease",
+     3
+    ],
+    [
+     "Myasthenia Gravis",
+     3
+    ],
+    [
+     "Hepatitis B, Chronic",
+     3
+    ],
+    [
+     "Geographic Atrophy",
+     2
+    ],
+    [
+     "Invasive Extraintestinal Pathogenic Escherichia Coli Disease (IED) Prevention",
+     2
+    ],
+    [
+     "Colorectal Neoplasms",
+     2
+    ],
+    [
+     "Arthritis, Rheumatoid",
+     2
+    ],
+    [
+     "Thrombocytopenia, Neonatal Alloimmune",
+     2
+    ],
+    [
+     "Squamous Cell Carcinoma of Head and Neck",
+     2
+    ],
+    [
+     "Prostatic Neoplasms",
+     2
+    ],
+    [
+     "Dengue",
+     2
+    ],
+    [
+     "Alzheimer Disease",
+     2
+    ],
+    [
+     "Arthritis, Juvenile",
+     2
+    ],
+    [
+     "Hidradenitis Suppurativa",
+     1
+    ],
+    [
+     "Hemolytic Disease of the Fetus and Newborn",
+     1
+    ]
+   ],
+   "phase3_count": 76
+  },
+  "abbvie": {
+   "sponsor_query": "AbbVie",
+   "total": 177,
+   "by_phase_year": {
+    "PHASE2": {
+     "2021": 13,
+     "2022": 11,
+     "2023": 9,
+     "2024": 11,
+     "2025": 16,
+     "2026": 13
+    },
+    "PHASE3": {
+     "2021": 15,
+     "2022": 15,
+     "2023": 21,
+     "2024": 17,
+     "2025": 12,
+     "2026": 7
+    },
+    "PHASE2/PHASE3": {
+     "2023": 1,
+     "2024": 4,
+     "2025": 2,
+     "2026": 4
+    },
+    "PHASE1/PHASE2": {
+     "2024": 1,
+     "2025": 4,
+     "2026": 1
+    }
+   },
+   "by_status": {
+    "RECRUITING": 61,
+    "COMPLETED": 55,
+    "ACTIVE_NOT_RECRUITING": 36,
+    "TERMINATED": 14,
+    "WITHDRAWN": 5,
+    "ENROLLING_BY_INVITATION": 4,
+    "NOT_YET_RECRUITING": 2
+   },
+   "top_conditions": [
+    [
+     "Ulcerative Colitis",
+     7
+    ],
+    [
+     "Migraine",
+     7
+    ],
+    [
+     "Atopic Dermatitis",
+     7
+    ],
+    [
+     "Crohn's Disease",
+     6
+    ],
+    [
+     "Schizophrenia",
+     6
+    ],
+    [
+     "Non-Small Cell Lung Cancer",
+     5
+    ],
+    [
+     "c-MET",
+     5
+    ],
+    [
+     "Fallopian Tube Cancer",
+     5
+    ],
+    [
+     "Glabellar Lines",
+     5
+    ],
+    [
+     "Hidradenitis Suppurativa",
+     4
+    ],
+    [
+     "Masseter Muscle Prominence",
+     4
+    ],
+    [
+     "Bipolar I Disorder",
+     4
+    ],
+    [
+     "Multiple Myeloma",
+     4
+    ],
+    [
+     "Chronic Migraine",
+     3
+    ],
+    [
+     "Ovarian Cancer",
+     3
+    ],
+    [
+     "Forehead Lines",
+     3
+    ],
+    [
+     "Episodic Migraine",
+     3
+    ],
+    [
+     "Psoriasis",
+     3
+    ],
+    [
+     "Platysma Prominence",
+     3
+    ],
+    [
+     "Primary Peritoneal Cancer",
+     3
+    ],
+    [
+     "Alopecia Areata",
+     2
+    ],
+    [
+     "Peritoneal Cancer",
+     2
+    ],
+    [
+     "Nasolabial Folds",
+     2
+    ],
+    [
+     "Hepatocellular Carcinoma",
+     2
+    ],
+    [
+     "Neck Lines",
+     2
+    ]
+   ],
+   "phase3_count": 98
+  },
+  "takeda": {
+   "sponsor_query": "Takeda",
+   "total": 119,
+   "by_phase_year": {
+    "PHASE3": {
+     "2021": 12,
+     "2022": 11,
+     "2023": 11,
+     "2024": 11,
+     "2025": 18,
+     "2026": 7
+    },
+    "PHASE2": {
+     "2021": 5,
+     "2022": 4,
+     "2023": 7,
+     "2024": 3,
+     "2025": 5,
+     "2026": 7
+    },
+    "PHASE1/PHASE2": {
+     "2021": 6,
+     "2022": 2,
+     "2023": 1,
+     "2024": 1,
+     "2025": 1,
+     "2026": 1
+    },
+    "PHASE2/PHASE3": {
+     "2021": 1,
+     "2023": 2,
+     "2024": 1,
+     "2025": 1,
+     "2026": 1
+    }
+   },
+   "by_status": {
+    "COMPLETED": 43,
+    "RECRUITING": 42,
+    "ACTIVE_NOT_RECRUITING": 18,
+    "TERMINATED": 13,
+    "WITHDRAWN": 2,
+    "NOT_YET_RECRUITING": 1
+   },
+   "top_conditions": [
+    [
+     "Crohn's Disease",
+     10
+    ],
+    [
+     "Ulcerative Colitis",
+     6
+    ],
+    [
+     "Narcolepsy Type 1",
+     6
+    ],
+    [
+     "Plaque Psoriasis",
+     5
+    ],
+    [
+     "Dengue Fever",
+     5
+    ],
+    [
+     "Primary Immunodeficiency Diseases (PID)",
+     4
+    ],
+    [
+     "Psoriatic Arthritis",
+     4
+    ],
+    [
+     "Dravet Syndrome (DS)",
+     3
+    ],
+    [
+     "Cytomegalovirus (CMV)",
+     3
+    ],
+    [
+     "Chronic Inflammatory Demyelinating Polyradiculoneuropathy (CIDP)",
+     3
+    ],
+    [
+     "Alpha1-Antitrypsin Deficiency",
+     3
+    ],
+    [
+     "Narcolepsy Type 2",
+     3
+    ],
+    [
+     "Lennox Gastaut Syndrome (LGS)",
+     2
+    ],
+    [
+     "Myelodysplastic Syndromes",
+     2
+    ],
+    [
+     "Coronavirus Disease (COVID-19)",
+     2
+    ],
+    [
+     "Celiac Disease",
+     2
+    ],
+    [
+     "Hereditary Angioedema",
+     2
+    ],
+    [
+     "Healthy Volunteers",
+     2
+    ],
+    [
+     "Thrombotic Thrombocytopenic Purpura (TTP)",
+     2
+    ],
+    [
+     "Anemia",
+     2
+    ],
+    [
+     "Von Willebrand Disease (VWD)",
+     2
+    ],
+    [
+     "Myelofibrosis",
+     2
+    ],
+    [
+     "Immune Thrombocytopenic Purpura (ITP)",
+     2
+    ],
+    [
+     "Short Bowel Syndrome",
+     2
+    ],
+    [
+     "Idiopathic Hypersomnia",
+     2
+    ]
+   ],
+   "phase3_count": 76
+  }
+ }
+}

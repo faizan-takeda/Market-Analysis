@@ -1,0 +1,119 @@
+Selected Drugs and Negotiated Prices | CMS 
+
+ Selected Drugs and Negotiated Prices 
+
+ The file below contains the list of National Drug Codes (NDC) associated with the selected drug list, which represents the NDCs for which any negotiated maximum fair price would apply consistent with CMS guidance. 
+ For any selected drugs for which CMS and participating drug companies have agreed upon negotiated prices under the Medicare Drug Price Negotiation Program, which the statute refers to as maximum fair prices (MFPs) the file also contains the single negotiated price for a 30-day equivalent supply of each selected drug, NDC-9 per unit price, and NDC-11 per package price, as well as other important information regarding updates to the NDCs and MFPs.  
+
+ The file is updated annually each year subsequent to the first initial price applicability year of the price applicability period for each selected drug, at a minimum, to show the inflation-adjusted negotiated price for the selected drug. Additional updates are made on a recurring basis to account for the application of the negotiated price to new NDC-11s of selected drugs or when an NDC-11 should no longer have the negotiated price applied. Lastly, additional updates are made to account for when a drug is no longer selected. CMS will publish the file in both .xlsx and .csv file formats.  
+ Selected Drug List and Negotiated Prices, also known as Maximum Fair Prices in Statute (ZIP) (November 2, 2026)
+ Selected Drug List for Initial Price Applicability Year 2028 
+ Fact Sheet: Medicare Drug Price Negotiation Program: Selected Drug List and Drugs Selected for Renegotiation for Initial Price Applicability Year 2028 (PDF) 
+ Fact Sheet: Medicare Drug Price Negotiation Program: Top 50 Negotiation-Eligible Drugs for Initial Price Applicability Year 2028 (PDF) 
+ Fact Sheet: CMS Announces Manufacturer Participation in Third Cycle of Medicare Drug Price Negotiation (PDF) 
+ CMS announced on March 13, 2026 that the drug companies that manufacture all 15 drugs payable under Medicare Part B and/or covered under Medicare Part D selected for the third cycle of negotiation have chosen to participate in the Negotiation Program. In addition, the drug company that manufacturers the one drug selected for renegotiation for the third cycle of negotiations continues to participate in the Negotiation Program. The negotiations with participating drug companies will occur in 2026, and any negotiated prices will become effective beginning in 2028. The fact sheet above contains additional information.
+ Selected Drug List for Initial Price Applicability Year 2027 
+ Fact Sheet on Negotiated Prices for IPAY 2027 (PDF) 
+ Infographic on Negotiated Prices for IPAY 2027 (PDF) 
+ Infographic: Drug Selection Process for a Hypothetical Drug for Initial Price Applicability Year 2027 (PDF) 
+ The infographic provides information on each step of the drug selection process for initial price applicability year 2027 using a hypothetical biological product (Drug Hypothetical).  
+ Fact Sheet: Medicare Drug Price Negotiation Program: Selected Drugs for Initial Price Applicability Year 2027 (PDF) 
+ Fact Sheet: CMS Announces Manufacturer Participation in Second Cycle of Medicare Drug Price Negotiation (PDF) 
+
+ The below links contain the MFP explanations for the 15 drugs covered under Medicare Part D that were selected for the second cycle of negotiations; the MFPs will go into effect on January 1, 2027. 
+ MFP Explanations  The MFP explanations provide information about CMS’ perspective on the data that had the greatest impact on CMS’ determination of offers and consideration of counteroffers consistent with the factors outlined in the law. Each MFP explanation includes details that are unique to the negotiation for that particular drug, along with information about the data received, the exchange of offers and counteroffers, and the negotiation meetings. Consistent with the confidentiality policy in CMS’ final guidance (PDF) , the MFP explanations include redactions to protect proprietary information.  If you require assistance obtaining or wish to report an issue related to the accessibility of any content included in the MFP explanation files, please email IRARebateandNegotiation@cms.hhs.gov. 
+ File for the MFP Explanation for Austedo; Austedo XR (ZIP)  
+ File for the MFP Explanation for Breo Ellipta (ZIP)  
+ File for the MFP Explanation for Calquence (ZIP)  
+ File for the MFP Explanation for Ibrance (ZIP)  
+ File for the MFP Explanation for Janumet; Janumet XR (ZIP)  
+ File for the MFP Explanation for Linzess (ZIP)  
+ File for the MFP Explanation for Ofev (ZIP)  
+ File for the MFP Explanation for Otezla; Otezla XR (ZIP)  
+ File for the MFP Explanation for Ozempic; Rybelsus; Wegovy (ZIP)  
+ File for the MFP Explanation for Pomalyst (ZIP)  
+ File for the MFP Explanation for Tradjenta (ZIP)  
+ File for the MFP Explanation for Trelegy Ellipta (ZIP)  
+ File for the MFP Explanation for Vraylar (ZIP)  
+ File for the MFP Explanation for Xifaxan (ZIP)  
+ File for the MFP Explanation for Xtandi (ZIP)  
+ Selected Drug List for Initial Price Applicability Year 2026 
+ Fact Sheet: Negotiated Prices for Initial Price Applicability Year 2026 (PDF) 
+ Infographic on Negotiated Prices (Maximum Fair Price) for Initial Price Applicability Year 2026 (PDF) 
+ Fact Sheet: Medicare Drug Price Negotiation Program: Selected Drugs for Initial Price Applicability Year 2026 (PDF) (August 2023) 
+ Fact Sheet: Manufacturer Agreements for Selected Drugs for Initial Price Applicability Year 2026 (PDF) (October 3, 2023) 
+ The below links contain the MFP explanations for the 10 drugs covered under Medicare Part D that were selected for the first cycle of negotiations; the MFPs will go into effect on January 1, 2026. 
+ MFP Explanations  The MFP explanations provide information about CMS’ perspective on the data that had the greatest impact on CMS’ determination of offers and consideration of counteroffers consistent with the factors outlined in the IRA. Each MFP explanation includes details that are unique to the negotiation for that particular drug, along with information about the data received, the exchange of offers and counteroffers, and the negotiation meetings. Consistent with the confidentiality policy in CMS’  revised guidance (PDF) , the MFP explanations include redactions to protect proprietary information.  If you require assistance obtaining or wish to report an issue related to the accessibility of any content included in the MFP explanation files, please email  IRARebateandNegotiation@cms.hhs.gov . 
+ File for the MFP Explanation for Eliquis (ZIP)   
+
+ File for the MFP Explanation for Enbrel (ZIP)     
+
+ File for the MFP Explanation for Entresto (ZIP)   
+
+ File for the MFP Explanation for Farxiga (ZIP)     
+
+ File for the MFP Explanation for Imbruvica (ZIP)   
+
+ File for the MFP Explanation for Januvia (ZIP)   
+
+ File for the MFP Explanation for Jardiance (ZIP)     
+
+ File for the MFP Explanation for NovoLog/Fiasp (ZIP)   
+
+ File for the MFP Explanation for Stelara (ZIP)   
+
+ File for the MFP Explanation for Xarelto (ZIP)   
+
+ Drugs with Deselection Determinations
+ A selected drug will no longer be subject to the negotiation process and will cease to be a selected drug under certain circumstances, such as when FDA has approved a generic drug that identifies as its reference-listed drug a product that is included in the selected drug, or FDA has licensed a biosimilar that identifies as its reference product a product that is included in the selected drug, and the generic drug or biosimilar, as applicable, is marketed pursuant to such approval or licensure. Section 70 of Medicare Drug Price Negotiation Program: Final Guidance, Implementation of Sections 1191 – 1198 of the Social Security Act for Initial Price Applicability Year 2028 and Manufacturer Effectuation of the Maximum Fair Price in 2026, 2027, and 2028 (“ Final Guidance (PDF) ”) details the determination process and timeline of removal for deselected drugs from the Selected Drug List and Medicare Drug Price Negotiation Program.
+ When CMS makes a deselection determination, CMS issues a memo through the CMS Health Plan Management System (CMS HPMS) notifying affected plans and stakeholders.
+ The table below lists drugs with deselection determinations, the timing of their removal from the Selected Drug List, and the associated CMS HPMS memos for reference.
+ Drug Name   
+
+ Timing of Determination   
+
+ Removal Effective Date   
+
+ HPMS Memo   
+
+ STELARA   
+
+ October 2025   
+
+ January 1, 2027   
+
+ View Memo (PDF) 
+ ENTRESTO   
+
+ October 2025   
+
+ January 1, 2027   
+
+ View Memo (PDF) 
+ XARELTO   
+
+ October 2025   
+
+ January 1, 2027   
+
+ View Memo (PDF) 
+ NOVOLOG; NOVOLOG FLEXPEN; NOVOLOG PENFILL; FIASP; FIASP FLEXTOUCH; FIASP PENFILL
+
+ March 2026   
+
+ January 1, 2027   
+
+ View Memo (PDF) 
+ XELJANZ; XELJANZ XR   
+
+ June 2026   
+
+ January 1, 2029   
+
+ View Memo (PDF) 
+ Medicare Drug Price Negotiation Agreement 
+ Drug manufacturers and other interested parties may review the  Medicare Drug Price Negotiation Program Agreement (PDF)  and the  Instructions for this Agreement (PDF) . The Agreement is executed in the CMS  Health Plan Management System (HPMS) . 
+
+ Page Last Modified:
+
+ 11/02/2026 02:11 PM

@@ -1,0 +1,449 @@
+{
+ "version": "v2",
+ "changes_from_v1": [
+  {
+   "decision_record_row": "1",
+   "change": "BET-15 DEFER -> REJECT as framed (fails the 3.0x leverage ceiling by council arithmetic, ASM-119); its stage gates are removed and its roadmap milestones move to BET-18."
+  },
+  {
+   "decision_record_row": "1",
+   "change": "New BET-18 'Phase 2/3 in-licensing channel' (PARTNER, secondary INVEST; USD 0.5-2bn contingent on IVB-012 and ASM-033; ASM-118 to ASM-120) with a complete A-M template labelled 'v2 addition (council-proposed)'; USD 0 committed, contingent pool 500 / 1,030 / 2,000."
+  },
+  {
+   "decision_record_row": "2",
+   "change": "ASM-025 range widened 2030-2032 -> 2028-2032 (central 2031 unchanged); ASM-038 early-entry stress case; stress case S-A added to scenarios; RM-026 moved 2029 H2 -> 2028 H1 and RM-031 to 2028 H2 (earliest window)."
+  },
+  {
+   "decision_record_row": "3",
+   "change": "BET-06 balanced USD 700m -> 300m, scorecard-first; the USD 400m balance is contingent on RM-007 and the first two deals."
+  },
+  {
+   "decision_record_row": "4",
+   "change": "BET-02 BUILD -> EXPERIMENT; balanced USD 430m -> 230m (baseline and shadow-mode tranche about USD 65m at risk); ASM-031 re-based on money; demand-versus-capacity and plasma-peer tests added as gates (RM-004, new RM-051); Takeda-execution dissent recorded."
+  },
+  {
+   "decision_record_row": "5",
+   "change": "BET-03 balanced USD 500m -> 300m; Phase 1 gate before the H2 tranche (RM-030); additionality test and competitor orexin scan (new RM-052)."
+  },
+  {
+   "decision_record_row": "6",
+   "change": "BET-04 stays BUILD; benefit-channel gate 2027 H1 (RM-003, IVB-004); outcome reframed 'retain 10 points of erosion' -> 'delay and measure'."
+  },
+  {
+   "decision_record_row": "7",
+   "change": "BET-07 prerequisites re-wired (RM-020 depends on RM-015 and RM-018; RM-011 on the decision-log standard and contract stop rules, new RM-053); balanced USD 180m -> 80m with H2/H3 tranches released only at RM-020."
+  },
+  {
+   "decision_record_row": "8",
+   "change": "BET-11 stays BUILD; baseline first; BET-04 channel conflict stated and wired (RM-013 depends on RM-003); confidence -> hypothesis."
+  },
+  {
+   "decision_record_row": "9",
+   "change": "BET-12 capped at USD 50m (from 100m), attached to the oveporexton launch, start 2027 H2 -> 2027 H1 (RM-012)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-13 carry removed (balanced USD 80m -> 0; ambitious USD 160m -> 0 by the proportional rescale)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-17 measurement owner moved from the CFO to internal audit or the CDTO with Audit Committee visibility."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Six bets (BET-04, 05, 08, 09, 11, 16) relabelled evidence_backed -> hypothesis (BET-11 also in row 8)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "CVS Caremark Zepbound removal corrected from 'about 11 months [CLM-007011]' to about 15 months [CLM-007011] [CLM-007013]."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Stage-gate capital at risk is now allocated in whole USD 5m units that sum to the bet size, so no gate total exceeds the bet size (v1 exceeded it by USD 5m for BET-02, 07, 09 and 11)."
+  },
+  {
+   "decision_record_row": "— (re-rating)",
+   "change": "Published robustness table is the council's re-rating (19 of 85 cells changed); the strategy author's v1 rating is kept as a second column."
+  },
+  {
+   "decision_record_row": "— (owned labs)",
+   "change": "'Owned labs fail' narrative softened for BET-09 and BET-10: Lilly's reason undisclosed, the Strateos link unsupported, the NVIDIA joint lab reads as re-platforming; BET-10 stays REJECT with an operational trigger set (T1-T3)."
+  },
+  {
+   "decision_record_row": "Net effect",
+   "change": "Balanced USD 2,950m -> 1,920m committed-at-gates (plus about USD 1,030m contingent headroom for BET-18, not a saving); capital-constrained USD 1,590m -> 1,130m and ambitious USD 4,975m -> 3,155m by proportional rescale of the changed bets; core H1 2027-29 tranche USD 465m."
+  }
+ ],
+ "assumptions": [
+  {
+   "id": "ASM-001",
+   "text": "JPY per USD used only to size strategic-bet envelopes against disclosed Takeda JPY figures.",
+   "value": 150,
+   "unit": "JPY_per_USD",
+   "rationale": "Round planning rate, not a forecast. Takeda R&D JPY 675.9bn [CLM-005004] converts to about USD 4.5bn at this rate; Takeda amounts otherwise stay in JPY.",
+   "sensitivity": "low",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-002",
+   "text": "Balanced portfolio: committed-at-gates strategic-bet envelope, cumulative 2027-2040 (sum of v2 bet sizings; v1 was USD 2,950m).",
+   "value": 1920,
+   "unit": "USD_m",
+   "rationale": "Takeda's budget is not public (IVB-014). v2: USD 1,920m committed at gates plus about USD 1,030m contingent headroom reserved for BET-18 (ASM-118), which is not a saving. Anchors for scale: Lilly-NVIDIA lab up to USD 1bn over 5 years, joint [CLM-000281]; Nimbus USD 4.0bn upfront [CLM-009076]; AbbVie early-stage stream USD 0.6-1.0bn a year [CLM-009097]. About 3.0% of 14 years of flat R&D at ASM-001; incremental to base R&D and base plant capex (ASM-035).",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-003",
+   "text": "Capital-constrained portfolio envelope, cumulative 2027-2040 (v2; v1 was USD 1,590m).",
+   "value": 1130,
+   "unit": "USD_m",
+   "rationale": "v2: the v1 constrained cells of BET-02, 03, 06, 07, 12 and 13 are rescaled by the same ratio as their balanced size (v2/v1), rounded to USD 5m; about 59% of the v2 balanced. Assumes leverage and Amitiza cash timing constrain spend [CLM-005005] [CLM-005014]. About 1.8% of 14 years of flat R&D at ASM-001.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-004",
+   "text": "Ambitious portfolio envelope, cumulative 2027-2040 (v2; v1 was USD 4,975m).",
+   "value": 3155,
+   "unit": "USD_m",
+   "rationale": "v2: ambitious cells rescaled by the same ratios as the balanced changes, rounded to USD 5m; about 1.6x the v2 balanced; assumes validated outcomes (SCN-1) and cash headroom after Amitiza. About 5.0% of 14 years of flat R&D at ASM-001.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-020",
+   "text": "Probability that an operational data or process bet meets its own gate criterion through the scale decision.",
+   "value": 0.65,
+   "unit": "probability",
+   "rationale": "Range 0.5-0.8. Not a drug probability of success. No competitor in the set has an independent outcome [CLM-011052], so the range is judgment.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-001"
+  },
+  {
+   "id": "ASM-021",
+   "text": "Probability that an early-research asset (second orexin asset, AI-designed molecule) reaches approval.",
+   "value": 0.15,
+   "unit": "probability",
+   "rationale": "Range 0.05-0.3. Cited AI-origin Phase 2 success is about the same as conventional (secondary citation) [CLM-006049]; no registry figure for conventional approval odds, so the range is judgment.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-008"
+  },
+  {
+   "id": "ASM-022",
+   "text": "Probability that a late-stage immunology indication extension reaches approval and meaningful coverage.",
+   "value": 0.6,
+   "unit": "probability",
+   "rationale": "Range 0.5-0.75. Takeda reports positive Phase 3 readouts for the lead indication [CLM-005042]; the USD 10-20bn peak estimate is not probability-adjusted [CLM-014049]. Internal PTS required (IVB-005).",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-005"
+  },
+  {
+   "id": "ASM-024",
+   "text": "Entyvio net-revenue erosion over the three years after first meaningful U.S. biosimilar entry.",
+   "value": 60,
+   "unit": "percent",
+   "rationale": "Range 40-80%. Illustrative bracket from Eylea U.S. net sales -42% in 2025 and Humira -78.6% over 2022-2025, both different products [CLM-011017] [CLM-003002]. Not a forecast. Applied to FY2025 Entyvio JPY 958.0bn [CLM-005009] gives JPY 380-770bn of annual revenue at risk by year three.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-004"
+  },
+  {
+   "id": "ASM-025",
+   "text": "Year of first meaningful U.S. Entyvio biosimilar entry (central case).",
+   "value": 2031,
+   "unit": "year",
+   "rationale": "v2: range widened from 2030-2032 to 2028-2032; the central case is unchanged and the early-entry stress case is ASM-038. Takeda says exclusivity is lost in the latter half of the decade; some patents expire in 2032; two biosimilar BLAs are under FDA review with exclusivity timing outside the registry [CLM-005017] [CLM-014051] [CLM-014050] (IVB-004 open; statutory exclusivity date is a research gap).",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-004"
+  },
+  {
+   "id": "ASM-028",
+   "text": "Probability that a funded early option or early licence asset reaches approval.",
+   "value": 0.1,
+   "unit": "probability",
+   "rationale": "Range 0.05-0.15. No option from the window had produced an approved product by cutoff [CLM-009097]; Nimbus and rusfertide are counter-examples of success [CLM-012151].",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-007"
+  },
+  {
+   "id": "ASM-031",
+   "text": "Pilot acceptance threshold for plasma yield or cost per litre improvement at one site, re-based on money.",
+   "value": 2,
+   "unit": "percent",
+   "rationale": "v2: the pilot passes only if the value of a gain of this size per litre (gain x litres x cost per litre) exceeds pilot and run cost; litres and cost per litre are not public, so the money value is set after the baseline (IVB-006). Illustrative range 1-4%; not an evidence-based estimate; also tested against a plasma-peer benchmark.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-006"
+  },
+  {
+   "id": "ASM-033",
+   "text": "Leverage ceiling after any USD 5bn+ acquisition before dividend or buyback policy is revisited.",
+   "value": 3.0,
+   "unit": "x_adjusted_net_debt_to_EBITDA",
+   "rationale": "Takeda was 2.6x at March 2026 and 3.1x at March 2024 [CLM-005005]; ceiling is a planning assumption, not a Takeda policy.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-012"
+  },
+  {
+   "id": "ASM-034",
+   "text": "Amitiza cash outflow range for planning (provision JPY 403.5bn).",
+   "value": 403.5,
+   "unit": "JPY_bn",
+   "rationale": "Provision follows a jury verdict Takeda intends to appeal; cash timing and trebling are not public [CLM-005014] [CLM-014047] [CLM-014048].",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-012"
+  },
+  {
+   "id": "ASM-035",
+   "text": "Envelope is incremental to base R&D (JPY 675.9bn FY2025) and base plant capex (including the USD 230m Los Angeles expansion).",
+   "value": 0,
+   "unit": "convention",
+   "rationale": "Prevents double counting with plans already in Takeda's baseline [CLM-005004] [CLM-005065].",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-036",
+   "text": "Planning range around each balanced point sizing: -25%/+25% for initial, -40%/+40% for follow-on and scaled.",
+   "value": 40,
+   "unit": "percent",
+   "rationale": "Replaces false precision; later-horizon numbers are less certain.",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-037",
+   "text": "Stage-gate capital at risk as a share of a bet's balanced total: discovery 5%, feasibility 10%, prototype 15%, pilot 25%, scale 35%, value review 10%.",
+   "value": 0,
+   "unit": "convention",
+   "rationale": "Convention for six-stage bets; shorter gate lists use shares stated in stage_gates.md. v2: gate amounts are allocated in whole USD 5m units that sum to the bet size, so gate capital never exceeds the bet size; BET-02 and BET-18 use explicit gate amounts stated in stage_gates.md.",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-014"
+  },
+  {
+   "id": "ASM-101",
+   "text": "Governed data and decision layer sizing, balanced 2027-2040.",
+   "value": 200,
+   "unit": "USD_m",
+   "rationale": "Anchor: ARCH was built by fewer than ten full-time staff plus contractors [CLM-006032]; sizing allows enterprise scope and run cost.",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-001"
+  },
+  {
+   "id": "ASM-102",
+   "text": "Plasma process-intelligence and automation sizing, incremental to base expansion, balanced (v2 EXPERIMENT size; v1 was USD 430m).",
+   "value": 230,
+   "unit": "USD_m",
+   "rationale": "Anchor: USD 230m Los Angeles expansion [CLM-005065]; baseline and shadow-mode tranche about USD 65m at risk, remainder contingent on the demand-versus-capacity test, the plasma-peer benchmark and ASM-031 [CLM-005064].",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-006"
+  },
+  {
+   "id": "ASM-103",
+   "text": "Orexin discovery platform sizing, balanced (v2 constrained size; v1 was USD 500m).",
+   "value": 300,
+   "unit": "USD_m",
+   "rationale": "Anchor: Takeda R&D JPY 675.9bn [CLM-005004]; discovery and early clinical for a second asset, excluding late-stage costs funded in base R&D; Phase 1 gate before the H2 tranche and an additionality test.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-008"
+  },
+  {
+   "id": "ASM-104",
+   "text": "Entyvio defence sizing, balanced.",
+   "value": 140,
+   "unit": "USD_m",
+   "rationale": "Payer analytics, evidence generation and playbook; against JPY 958.0bn annual revenue [CLM-005009].",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-004"
+  },
+  {
+   "id": "ASM-105",
+   "text": "Zasocitinib breadth incremental sizing, balanced.",
+   "value": 180,
+   "unit": "USD_m",
+   "rationale": "Only studies beyond the plan; base programme and milestones of USD 1.0bn each are outside [CLM-009076].",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-005"
+  },
+  {
+   "id": "ASM-106",
+   "text": "Option-based external innovation upfronts and option fees, balanced (excludes contingent milestones; v2 constrained size, v1 was USD 700m).",
+   "value": 300,
+   "unit": "USD_m",
+   "rationale": "Anchors: ADARx USD 335m upfront [CLM-009061]; Innovent USD 1.2bn upfront including USD 100m equity [CLM-009078]. The remaining USD 400m of the v1 size is contingent on the scorecard (RM-007) and the first two deals.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-007"
+  },
+  {
+   "id": "ASM-107",
+   "text": "AI-design partnership upfronts and research payments, balanced (excludes success-based payments; v2 constrained size, v1 was USD 180m).",
+   "value": 80,
+   "unit": "USD_m",
+   "rationale": "Anchors: Isomorphic USD 45m upfront [CLM-006012]; BigHat USD 30m [CLM-006035]; Nabla double-digit millions [CLM-006039]. H2 and H3 tranches released only at RM-020.",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-010"
+  },
+  {
+   "id": "ASM-108",
+   "text": "Federated consortium participation sizing, balanced.",
+   "value": 35,
+   "unit": "USD_m",
+   "rationale": "Membership and evaluation cost; no public fee data [CLM-006042].",
+   "sensitivity": "low",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-001"
+  },
+  {
+   "id": "ASM-109",
+   "text": "Rented automated data generation sizing, balanced.",
+   "value": 95,
+   "unit": "USD_m",
+   "rationale": "CRO service spend; no public price per data point [CLM-006016].",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-002"
+  },
+  {
+   "id": "ASM-110",
+   "text": "Owned autonomous lab: no capital budgeted.",
+   "value": 0,
+   "unit": "USD_m",
+   "rationale": "Rejected; competitor reference up to USD 1bn over 5 years, joint, is not a Takeda sizing [CLM-000281].",
+   "sensitivity": "low",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-002"
+  },
+  {
+   "id": "ASM-111",
+   "text": "Drug-device and home-administration sizing, balanced.",
+   "value": 190,
+   "unit": "USD_m",
+   "rationale": "Incremental device development; no public device spend [CLM-007042].",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-004"
+  },
+  {
+   "id": "ASM-112",
+   "text": "Launch pathway and patient-services measurement sizing, balanced (v2 cap; v1 was USD 100m).",
+   "value": 50,
+   "unit": "USD_m",
+   "rationale": "Hub spend is not public [CLM-005072]. v2: capped and attached to the oveporexton launch; includes the USD 25m options paper for BET-13 (RM-028).",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-013"
+  },
+  {
+   "id": "ASM-113",
+   "text": "Neutral registry sizing: no balanced capital in v2 (conditional, 2030+; v1 was USD 80m).",
+   "value": 0,
+   "unit": "USD_m",
+   "rationale": "Carry removed in v2. Roche paid USD 1.9bn for Flatiron [CLM-011022]; any build is decided after the options paper (RM-028) funded inside BET-12.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-013"
+  },
+  {
+   "id": "ASM-114",
+   "text": "Productised model platform: no capital budgeted.",
+   "value": 0,
+   "unit": "USD_m",
+   "rationale": "Rejected; Lilly reports over USD 1bn data cost [CLM-000280].",
+   "sensitivity": "low",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-001"
+  },
+  {
+   "id": "ASM-115",
+   "text": "Large acquisition placeholder, outside every portfolio envelope (BET-15 rejected in v2).",
+   "value": 5000,
+   "unit": "USD_m",
+   "rationale": "Domain 6 frames a USD 5bn+ purchase as the finance-module question [CLM-009098]; AbbVie ImmunoGen USD 9.2bn net [CLM-003086]. Not budgeted; the leverage test fails (ASM-119).",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-012"
+  },
+  {
+   "id": "ASM-116",
+   "text": "U.S. cash-pay channel: no capital budgeted.",
+   "value": 0,
+   "unit": "USD_m",
+   "rationale": "Rejected [CLM-007052].",
+   "sensitivity": "low",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-013"
+  },
+  {
+   "id": "ASM-117",
+   "text": "AI measurement, decision support and reskilling sizing, balanced.",
+   "value": 120,
+   "unit": "USD_m",
+   "rationale": "Anchor: J&J reallocated AI ownership after 900-case review [CLM-006018]; Takeda JPY 200bn savings plan [CLM-005059].",
+   "sensitivity": "medium",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-003"
+  },
+  {
+   "id": "ASM-038",
+   "text": "Early-entry stress case (council case S-A): year of first U.S. Entyvio biosimilar entry.",
+   "value": 2028,
+   "unit": "year",
+   "rationale": "Earliest year in the widened ASM-025 range (2028-2032); two biosimilar BLAs are under FDA review, the reference product was approved in 2014, and Takeda says earlier launches must address patent validity and infringement [CLM-014051] [CLM-014050] [CLM-005017]. The statutory exclusivity rule is outside the registry and is to be verified (IVB-004). A stress case, not a forecast.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-004"
+  },
+  {
+   "id": "ASM-118",
+   "text": "BET-18 contingent pool, balanced portfolio (per-deal upfront ceiling range USD 500-2,000m).",
+   "value": 1030,
+   "unit": "USD_m",
+   "rationale": "Council suggestion of a per-deal ceiling of USD 0.5-2bn, to be set after IVB-012. The balanced pool equals the headroom freed by the v2 changes (BET-06 400, BET-03 200, BET-02 200, BET-07 100, BET-13 80, BET-12 50); constrained pool 500 and ambitious pool 2,000 are the range ends. Not committed; released only if the leverage test (ASM-033, ASM-119) passes. Comparators: Innovent USD 1.2bn upfront [CLM-009078]; Nimbus USD 4.0bn upfront exceeds the ceiling [CLM-009076].",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-012"
+  },
+  {
+   "id": "ASM-119",
+   "text": "Debt headroom to the ASM-033 leverage ceiling after the Amitiza provision is debt-funded (council arithmetic).",
+   "value": 150.5,
+   "unit": "JPY_bn",
+   "rationale": "Council arithmetic from registry values, free cash flow and acquired earnings ignored: adjusted net debt JPY 3,817.6bn at 2.6x implies EBITDA JPY 1,457.2bn [CLM-005005]; a 3.0x ceiling allows JPY 4,371.6bn, so headroom is JPY 554.0bn before and JPY 150.5bn after a JPY 403.5bn Amitiza outflow [CLM-005014]; at ASM-001 that is about USD 3.7bn and USD 1.0bn. A USD 5bn purchase gives about 3.13x and about 3.41x with Amitiza.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-012"
+  },
+  {
+   "id": "ASM-120",
+   "text": "Probability that a licensed Phase 2/3 asset reaches approval.",
+   "value": 0.45,
+   "unit": "probability",
+   "rationale": "Range 0.3-0.6. No Takeda internal probability of success is public (IVB-005); Nimbus and rusfertide are counter-examples of success [CLM-012151] and Cerevel is a failure benchmark [CLM-009054]. Judgment range, not an estimate.",
+   "sensitivity": "high",
+   "needs_internal_validation": true,
+   "ivb_ref": "IVB-005"
+  }
+ ]
+}

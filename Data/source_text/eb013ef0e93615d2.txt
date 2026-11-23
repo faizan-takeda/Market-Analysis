@@ -1,0 +1,96 @@
+1. JAMA. 2026 Nov 9:e2624080. doi: 10.1001/jama.2026.24080. Online ahead of
+print.
+
+Orforglipron for Obstructive Sleep Apnea: Results From 2 Randomized Clinical 
+Trials (ATTAIN-OSA).
+
+Malhotra A(1), Gottlieb DJ(2), Woehrle H(3), Dennehy EB(4), Calamai G(4), Liu 
+Z(4), Chakladar S(4), Grimes R(4), Falcon BL(4), Kundel V(5); ATTAIN-OSA 
+Investigators.
+
+Collaborators: Morales Virgen JJ, Alpizar Salazar M, Li HY, Costanzo P, 
+Vutikullird A, Schürholz T, Shirahama R, Larrateguy L, Soucie G, Lederer K, Wang 
+G, Gohma I, Jiang X, Hudson J, Nakamura K, Lopez Maldonado F, Cercato C, Hang 
+LW, Schaum T, Rose L, Zhu X, Waintrub M, Arechavaleta Granell M, Aizenberg D, 
+Yao J, Chou CK, Maynard J, Weber D, Osawa S, Kipp G, Henrique Canani L, Calvo 
+Vargas C, Nevarez L, Li L, Hartley P, Yang Y, Kawano T, Halova Karoliova K, 
+Parker J, Cheng H, Cappelletti C, Palchick B, Chevts J, Miralles D, Balabem 
+Alves B, Layle S, Haasova T, Foglarova Z, Jiang H, Augusto G, Grossman M, Haas 
+J, Haque W, Sanni A, Rossi P, Sher L, Rechul K, Yang YC, Ji L, Cheng Z, González 
+González JG, Halpern B, Lengler U, Mayer M, Green D, Cheng Z.
+
+Author information:
+(1)University of California, San Diego, La Jolla.
+(2)Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+(3)Lung Center Ulm, Ulm, Germany.
+(4)Eli Lilly and Company, Indianapolis, Indiana.
+(5)Icahn School of Medicine at Mount Sinai, New York, New York.
+
+Comment in
+ doi: 10.1001/jama.2026.23386.
+ doi: 10.1001/jama.2026.24386.
+
+Comment in
+ doi: 10.1001/jama.2026.24226.
+
+IMPORTANCE: Obstructive sleep apnea (OSA) is a common disorder characterized by 
+repeated upper airway collapse during sleep that is associated with reduced 
+quality of life and increased incidence of cardiometabolic disease.
+OBJECTIVE: To assess the effects of orforglipron on moderate to severe OSA in 
+adults with obesity or overweight, compared with placebo.
+DESIGN, SETTING, AND PARTICIPANTS: Two 52-week, phase 3, multicenter, 
+double-blind, placebo-controlled randomized clinical trials were conducted at 66 
+sites in the US, Argentina, Brazil, China, Czech Republic, Germany, Japan, 
+Mexico, and Taiwan. Adults with moderate to severe OSA and body mass index (BMI; 
+calculated as weight in kilograms divided by height in meters squared) of 27 or 
+higher were enrolled between November 11, 2024, and July 23, 2025. Final 
+follow-up occurred on July 30, 2026. Trial 1 included patients not receiving 
+positive airway pressure treatment and trial 2 included patients receiving 
+positive airway pressure treatment.
+INTERVENTION: Patients were randomized (1:1) to receive either once-daily 
+orforglipron (maximum tolerated dose: equivalent to 9-, 14.5-, or 17.2-mg tablet 
+dose) or placebo.
+MAIN OUTCOMES AND MEASURES: The primary end point was change in apnea-hypopnea 
+index (AHI, events/h) from baseline to week 52. Seven key 
+multiplicity-controlled secondary end points included change in sleep 
+apnea-specific hypoxic burden, the Patient-Reported Outcomes Measurement 
+Information System Short Form Sleep-Related Impairment T-score, and 
+high-sensitivity C-reactive protein.
+RESULTS: A total of 363 patients were randomized in trial 1 (mean age, 48.4 
+years; BMI, 37.4; AHI, 50.7 events/h; 31.4% female) and 349 patients were 
+randomized in trial 2 (mean age, 51.1 years; BMI, 38.6; AHI, 57.6 events/h; 
+26.9% female). For the treatment regimen estimand, in trial 1, the mean AHI 
+change was -17.8 for orforglipron compared with -4.5 for placebo (difference, 
+-13.2 [95% CI, -17.7 to -8.7]; P < .001) at 52 weeks. In trial 2, the mean AHI 
+change was -17.3 for orforglipron and -5.3 for placebo (difference, -12.0 [95% 
+CI, -17.1 to -6.9]; P < .001) at 52 weeks. Of 7 key secondary end points, 6 were 
+statistically significant, favoring orforglipron. Gastrointestinal events were 
+the most commonly reported adverse events, occurring in 123 (68.0%) participants 
+randomized to receive orforglipron vs 68 (37.4%) randomized to receive placebo 
+in trial 1 and in 125 (70.6%) participants randomized to receive orforglipron vs 
+63 (36.6%) randomized to receive placebo in trial 2.
+CONCLUSIONS AND RELEVANCE: These results provide evidence for the potential use 
+of oral orforglipron to improve sleep-disordered breathing in adults with 
+moderate to severe OSA and obesity or overweight.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06649045.
+
+DOI: 10.1001/jama.2026.24080
+PMCID: PMC13749232
+PMID: 43002161
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Malhotra 
+reported receiving personal fees from Eli Lilly, ZOLL, LivaNova, and Aerin 
+Medical during the conduct of the study; a donation to his institution from 
+Resmed; and being a start-up co-founder of and owning equity in Clairyon outside 
+the submitted work. Dr Gottlieb reported receiving personal fees from Eli Lilly 
+for study design during the conduct of the study and personal fees from Apnimed 
+and Takeda Development Center Americas outside the submitted work. Dr Woehrle 
+reported receiving personal fees from Eli Lilly during the conduct of the study 
+and personal fees from Resmed, Inspire, Bioprojet, GSK, and Eli Lilly outside 
+the submitted work. Dr Kundel reported receiving consultation fees from the Eli 
+Lilly steering committee during the conduct of the study; being an 
+advisor/consultant for Apnimed, ZOLL Respicardia, and Axsome; and receiving 
+grants from the National Institutes of Health/National Heart, Lung, and Blood 
+Institute (K23HL161324) outside the submitted work. No other disclosures were 
+reported.

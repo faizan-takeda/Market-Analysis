@@ -1,0 +1,1102 @@
+{
+ "version": "v2",
+ "changes_from_v1": [
+  {
+   "decision_record_row": "1",
+   "change": "BET-15 DEFER -> REJECT as framed (fails the 3.0x leverage ceiling by council arithmetic, ASM-119); its stage gates are removed and its roadmap milestones move to BET-18."
+  },
+  {
+   "decision_record_row": "1",
+   "change": "New BET-18 'Phase 2/3 in-licensing channel' (PARTNER, secondary INVEST; USD 0.5-2bn contingent on IVB-012 and ASM-033; ASM-118 to ASM-120) with a complete A-M template labelled 'v2 addition (council-proposed)'; USD 0 committed, contingent pool 500 / 1,030 / 2,000."
+  },
+  {
+   "decision_record_row": "2",
+   "change": "ASM-025 range widened 2030-2032 -> 2028-2032 (central 2031 unchanged); ASM-038 early-entry stress case; stress case S-A added to scenarios; RM-026 moved 2029 H2 -> 2028 H1 and RM-031 to 2028 H2 (earliest window)."
+  },
+  {
+   "decision_record_row": "3",
+   "change": "BET-06 balanced USD 700m -> 300m, scorecard-first; the USD 400m balance is contingent on RM-007 and the first two deals."
+  },
+  {
+   "decision_record_row": "4",
+   "change": "BET-02 BUILD -> EXPERIMENT; balanced USD 430m -> 230m (baseline and shadow-mode tranche about USD 65m at risk); ASM-031 re-based on money; demand-versus-capacity and plasma-peer tests added as gates (RM-004, new RM-051); Takeda-execution dissent recorded."
+  },
+  {
+   "decision_record_row": "5",
+   "change": "BET-03 balanced USD 500m -> 300m; Phase 1 gate before the H2 tranche (RM-030); additionality test and competitor orexin scan (new RM-052)."
+  },
+  {
+   "decision_record_row": "6",
+   "change": "BET-04 stays BUILD; benefit-channel gate 2027 H1 (RM-003, IVB-004); outcome reframed 'retain 10 points of erosion' -> 'delay and measure'."
+  },
+  {
+   "decision_record_row": "7",
+   "change": "BET-07 prerequisites re-wired (RM-020 depends on RM-015 and RM-018; RM-011 on the decision-log standard and contract stop rules, new RM-053); balanced USD 180m -> 80m with H2/H3 tranches released only at RM-020."
+  },
+  {
+   "decision_record_row": "8",
+   "change": "BET-11 stays BUILD; baseline first; BET-04 channel conflict stated and wired (RM-013 depends on RM-003); confidence -> hypothesis."
+  },
+  {
+   "decision_record_row": "9",
+   "change": "BET-12 capped at USD 50m (from 100m), attached to the oveporexton launch, start 2027 H2 -> 2027 H1 (RM-012)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-13 carry removed (balanced USD 80m -> 0; ambitious USD 160m -> 0 by the proportional rescale)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-17 measurement owner moved from the CFO to internal audit or the CDTO with Audit Committee visibility."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Six bets (BET-04, 05, 08, 09, 11, 16) relabelled evidence_backed -> hypothesis (BET-11 also in row 8)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "CVS Caremark Zepbound removal corrected from 'about 11 months [CLM-007011]' to about 15 months [CLM-007011] [CLM-007013]."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Stage-gate capital at risk is now allocated in whole USD 5m units that sum to the bet size, so no gate total exceeds the bet size (v1 exceeded it by USD 5m for BET-02, 07, 09 and 11)."
+  },
+  {
+   "decision_record_row": "— (re-rating)",
+   "change": "Published robustness table is the council's re-rating (19 of 85 cells changed); the strategy author's v1 rating is kept as a second column."
+  },
+  {
+   "decision_record_row": "— (owned labs)",
+   "change": "'Owned labs fail' narrative softened for BET-09 and BET-10: Lilly's reason undisclosed, the Strateos link unsupported, the NVIDIA joint lab reads as re-platforming; BET-10 stays REJECT with an operational trigger set (T1-T3)."
+  },
+  {
+   "decision_record_row": "Net effect",
+   "change": "Balanced USD 2,950m -> 1,920m committed-at-gates (plus about USD 1,030m contingent headroom for BET-18, not a saving); capital-constrained USD 1,590m -> 1,130m and ambitious USD 4,975m -> 3,155m by proportional rescale of the changed bets; core H1 2027-29 tranche USD 465m."
+  }
+ ],
+ "portfolios": [
+  {
+   "name": "capital_constrained",
+   "version": "v2",
+   "total_usd_m": 1130,
+   "v1_total_usd_m": 1590,
+   "contingent_usd_m": 500,
+   "contingent_bet_id": "BET-18",
+   "h1_core_usd_m": 285,
+   "h1_gated_usd_m": 55,
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-003",
+    "ASM-035",
+    "ASM-036",
+    "ASM-118"
+   ],
+   "horizon_allocation_pct": {
+    "H1": 30,
+    "H2": 44,
+    "H3": 26
+   },
+   "horizon_usd_m": {
+    "H1": 340,
+    "H2": 500,
+    "H3": 290
+   },
+   "theme_allocation_pct": {
+    "core_capability": 62,
+    "adjacent": 20,
+    "long_horizon_bets": 4,
+    "external_innovation": 14
+   },
+   "theme_usd_m": {
+    "core_capability": 705,
+    "adjacent": 230,
+    "long_horizon_bets": 40,
+    "external_innovation": 155
+   },
+   "bets": [
+    {
+     "bet_id": "BET-01",
+     "usd_m": 120,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-02",
+     "usd_m": 125,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-03",
+     "usd_m": 180,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-04",
+     "usd_m": 120,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-05",
+     "usd_m": 130,
+     "stage": "scale"
+    },
+    {
+     "bet_id": "BET-06",
+     "usd_m": 130,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-07",
+     "usd_m": 40,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-08",
+     "usd_m": 25,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-09",
+     "usd_m": 50,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-10",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-11",
+     "usd_m": 120,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-12",
+     "usd_m": 25,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-13",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-14",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-15",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-16",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-17",
+     "usd_m": 65,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-18",
+     "usd_m": 0,
+     "stage": "discovery"
+    }
+   ]
+  },
+  {
+   "name": "balanced",
+   "version": "v2",
+   "total_usd_m": 1920,
+   "v1_total_usd_m": 2950,
+   "contingent_usd_m": 1030,
+   "contingent_bet_id": "BET-18",
+   "h1_core_usd_m": 465,
+   "h1_gated_usd_m": 130,
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-002",
+    "ASM-035",
+    "ASM-036",
+    "ASM-118"
+   ],
+   "horizon_allocation_pct": {
+    "H1": 31,
+    "H2": 44,
+    "H3": 25
+   },
+   "horizon_usd_m": {
+    "H1": 595,
+    "H2": 845,
+    "H3": 480
+   },
+   "theme_allocation_pct": {
+    "core_capability": 58,
+    "adjacent": 21,
+    "long_horizon_bets": 4,
+    "external_innovation": 17
+   },
+   "theme_usd_m": {
+    "core_capability": 1110,
+    "adjacent": 395,
+    "long_horizon_bets": 80,
+    "external_innovation": 335
+   },
+   "bets": [
+    {
+     "bet_id": "BET-01",
+     "usd_m": 200,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-02",
+     "usd_m": 230,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-03",
+     "usd_m": 300,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-04",
+     "usd_m": 140,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-05",
+     "usd_m": 180,
+     "stage": "scale"
+    },
+    {
+     "bet_id": "BET-06",
+     "usd_m": 300,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-07",
+     "usd_m": 80,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-08",
+     "usd_m": 35,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-09",
+     "usd_m": 95,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-10",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-11",
+     "usd_m": 190,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-12",
+     "usd_m": 50,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-13",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-14",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-15",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-16",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-17",
+     "usd_m": 120,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-18",
+     "usd_m": 0,
+     "stage": "discovery"
+    }
+   ]
+  },
+  {
+   "name": "ambitious",
+   "version": "v2",
+   "total_usd_m": 3155,
+   "v1_total_usd_m": 4975,
+   "contingent_usd_m": 2000,
+   "contingent_bet_id": "BET-18",
+   "h1_core_usd_m": 555,
+   "h1_gated_usd_m": 160,
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-004",
+    "ASM-035",
+    "ASM-036",
+    "ASM-118"
+   ],
+   "horizon_allocation_pct": {
+    "H1": 23,
+    "H2": 43,
+    "H3": 34
+   },
+   "horizon_usd_m": {
+    "H1": 715,
+    "H2": 1375,
+    "H3": 1065
+   },
+   "theme_allocation_pct": {
+    "core_capability": 55,
+    "adjacent": 22,
+    "long_horizon_bets": 5,
+    "external_innovation": 18
+   },
+   "theme_usd_m": {
+    "core_capability": 1725,
+    "adjacent": 700,
+    "long_horizon_bets": 165,
+    "external_innovation": 565
+   },
+   "bets": [
+    {
+     "bet_id": "BET-01",
+     "usd_m": 340,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-02",
+     "usd_m": 395,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-03",
+     "usd_m": 510,
+     "stage": "feasibility"
+    },
+    {
+     "bet_id": "BET-04",
+     "usd_m": 200,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-05",
+     "usd_m": 250,
+     "stage": "scale"
+    },
+    {
+     "bet_id": "BET-06",
+     "usd_m": 515,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-07",
+     "usd_m": 165,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-08",
+     "usd_m": 50,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-09",
+     "usd_m": 190,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-10",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-11",
+     "usd_m": 290,
+     "stage": "prototype"
+    },
+    {
+     "bet_id": "BET-12",
+     "usd_m": 75,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-13",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-14",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-15",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-16",
+     "usd_m": 0,
+     "stage": "discovery"
+    },
+    {
+     "bet_id": "BET-17",
+     "usd_m": 175,
+     "stage": "pilot"
+    },
+    {
+     "bet_id": "BET-18",
+     "usd_m": 0,
+     "stage": "discovery"
+    }
+   ]
+  }
+ ],
+ "evaluation": [
+  {
+   "bet_id": "BET-01",
+   "pts": 0.65,
+   "pts_range": [
+    0.5,
+    0.8
+   ],
+   "p_commercial": 0.62,
+   "p_commercial_range": [
+    0.5,
+    0.75
+   ],
+   "time_to_payoff_years": 4,
+   "time_to_payoff_range_years": [
+    3,
+    5
+   ],
+   "capability_reuse": "high",
+   "strategic_differentiation": "Moderate: data advantage only if decision-linked and measured [CLM-006055].",
+   "execution_complexity": "Medium: governance across franchises.",
+   "expected_value_and_downside": "Expected value: decision-speed and reuse gains, unmeasured; downside bounded at the ASM-101 envelope.",
+   "real_option_value": "Enables BET-07, BET-09 stage 3, BET-10 and BET-14 decisions.",
+   "capital_efficiency": "High: cost is small relative to R&D.",
+   "regulatory_feasibility": "High: no regulatory approval needed; credibility documentation [CLM-006046].",
+   "synergy_with_takeda_assets": "High: plasma and trial data (BET-02, BET-05).",
+   "follow_on_options": "Federated, registry or stage-3 pilots.",
+   "rnpv_note": "No: benefit is unquantified and indirect; a number would be false precision.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-101"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "pts": 0.62,
+   "pts_range": [
+    0.5,
+    0.75
+   ],
+   "p_commercial": 0.55,
+   "p_commercial_range": [
+    0.4,
+    0.7
+   ],
+   "time_to_payoff_years": 6,
+   "time_to_payoff_range_years": [
+    4,
+    7
+   ],
+   "capability_reuse": "high",
+   "strategic_differentiation": "High if yield headroom is real: proprietary data class [CLM-011056].",
+   "execution_complexity": "High: GMP validation, vendor terms.",
+   "expected_value_and_downside": "Expected value depends on yield and cost headroom and on whether plasma is capacity- or demand-bound, both unknown (IVB-006) [CLM-005064]; downside bounded at the baseline and shadow-mode tranche (about USD 65m at risk).",
+   "real_option_value": "Network roll-out and possible neutral analytics, only after the gates.",
+   "capital_efficiency": "Medium to high: fixed-price terms cap exposure [CLM-011031].",
+   "regulatory_feasibility": "Medium: validation burden; prior warning letter [CLM-005020].",
+   "synergy_with_takeda_assets": "High: plasma network, LA expansion [CLM-005065].",
+   "follow_on_options": "Neutral capacity or analytics offer (low confidence).",
+   "rnpv_note": "Possible after IVB-006 supplies yield and cost per litre; not before.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-031",
+    "ASM-102"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "pts": 0.2,
+   "pts_range": [
+    0.1,
+    0.3
+   ],
+   "p_commercial": 0.5,
+   "p_commercial_range": [
+    0.4,
+    0.6
+   ],
+   "time_to_payoff_years": 10,
+   "time_to_payoff_range_years": [
+    8,
+    12
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "High: in-house orexin lead [CLM-005048].",
+   "execution_complexity": "High: discovery risk, CNS variance.",
+   "expected_value_and_downside": "Expected value is a small probability of a large outcome; downside is spend with no second asset; incrementality over base R&D is untested [CLM-005004].",
+   "real_option_value": "Second asset, additional indications, partnering of non-core indications.",
+   "capital_efficiency": "Medium: discovery spend is small versus an asset purchase [CLM-009076].",
+   "regulatory_feasibility": "Medium: standard development path.",
+   "synergy_with_takeda_assets": "High: orexin knowledge, Shonan.",
+   "follow_on_options": "Out-licence indications; platform proof only if two assets approve.",
+   "rnpv_note": "Not meaningful before a candidate exists; use stage-gate option value.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-021",
+    "ASM-103"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "pts": 0.72,
+   "pts_range": [
+    0.6,
+    0.85
+   ],
+   "p_commercial": 0.65,
+   "p_commercial_range": [
+    0.5,
+    0.8
+   ],
+   "time_to_payoff_years": 2,
+   "time_to_payoff_range_years": [
+    1,
+    4
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low to moderate: defence, replicable by rivals [CLM-011086].",
+   "execution_complexity": "Medium: capability gap in contracting [CLM-005072].",
+   "expected_value_and_downside": "Revenue exposure JPY 380-770bn a year by year three at ASM-024. The bet's measure is delay and measurement of net price and persistence against the ASM-024 low case; no revenue-retention value is claimed because the 2028 price is statutory and the benefit-channel split is unknown (IVB-004) [CLM-007026].",
+   "real_option_value": "Playbook reusable for any LOE event.",
+   "capital_efficiency": "High: low capital against large exposure.",
+   "regulatory_feasibility": "High: contracting, no approval.",
+   "synergy_with_takeda_assets": "High: SC pen, Entyvio franchise [CLM-007041].",
+   "follow_on_options": "Lifecycle indications; settlement posture.",
+   "rnpv_note": "Scenario arithmetic only; erosion curve and net price unknown (IVB-004).",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-024",
+    "ASM-025",
+    "ASM-104"
+   ]
+  },
+  {
+   "bet_id": "BET-05",
+   "pts": 0.62,
+   "pts_range": [
+    0.5,
+    0.75
+   ],
+   "p_commercial": 0.6,
+   "p_commercial_range": [
+    0.5,
+    0.7
+   ],
+   "time_to_payoff_years": 4,
+   "time_to_payoff_range_years": [
+    3,
+    6
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Moderate to high: head-to-head data [CLM-005034].",
+   "execution_complexity": "Medium: launch execution unproven [CLM-005074].",
+   "expected_value_and_downside": "Takeda peak estimate USD 10-20bn for six programmes is not probability-adjusted [CLM-014049]; incremental value of breadth unknown.",
+   "real_option_value": "More indications; GI-class successor decision.",
+   "capital_efficiency": "Medium to high: incremental to existing programme.",
+   "regulatory_feasibility": "High: NDA accepted [CLM-005035].",
+   "synergy_with_takeda_assets": "High: Nimbus asset, late-stage execution [CLM-005042].",
+   "follow_on_options": "Further immune indications.",
+   "rnpv_note": "rNPV needs internal PTS and forecasts (IVB-005); not computed from public data.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-022",
+    "ASM-105"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "pts": 0.1,
+   "pts_range": [
+    0.05,
+    0.15
+   ],
+   "p_commercial": 0.5,
+   "p_commercial_range": [
+    0.4,
+    0.6
+   ],
+   "time_to_payoff_years": 10,
+   "time_to_payoff_range_years": [
+    7,
+    12
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low to moderate: others license similar assets [CLM-009097].",
+   "execution_complexity": "Medium: portfolio management.",
+   "expected_value_and_downside": "Per-asset probability low; contingent payments limit downside; loss is upfront and option fees.",
+   "real_option_value": "High: options preserve choice; exercise on Phase 1/2 data.",
+   "capital_efficiency": "Medium to high versus purchases [CLM-009054].",
+   "regulatory_feasibility": "Medium: antitrust not researched.",
+   "synergy_with_takeda_assets": "Medium: disease depth in GI, rare, oncology [CLM-009078].",
+   "follow_on_options": "Exercise; extend; expire.",
+   "rnpv_note": "rNPV per asset is meaningful only with asset data; portfolio-level not meaningful publicly.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-028",
+    "ASM-106"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "pts": 0.12,
+   "pts_range": [
+    0.05,
+    0.2
+   ],
+   "p_commercial": 0.4,
+   "p_commercial_range": [
+    0.3,
+    0.5
+   ],
+   "time_to_payoff_years": 8,
+   "time_to_payoff_range_years": [
+    6,
+    10
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low: models converge [CLM-006056].",
+   "execution_complexity": "Medium.",
+   "expected_value_and_downside": "Success-based payments exceed USD 1bn per deal but cost nothing without data [CLM-006039]; spend is upfront only.",
+   "real_option_value": "High: cheap options on AI design.",
+   "capital_efficiency": "High if stop rules honoured.",
+   "regulatory_feasibility": "Medium: FDA draft AI framework [CLM-006046].",
+   "synergy_with_takeda_assets": "Medium: orexin and GI discovery.",
+   "follow_on_options": "Scale, license, stop.",
+   "rnpv_note": "Not meaningful: no outcome data in the industry [CLM-011052].",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-021",
+    "ASM-107"
+   ]
+  },
+  {
+   "bet_id": "BET-08",
+   "pts": 0.65,
+   "pts_range": [
+    0.5,
+    0.8
+   ],
+   "p_commercial": 0.4,
+   "p_commercial_range": [
+    0.3,
+    0.5
+   ],
+   "time_to_payoff_years": 3,
+   "time_to_payoff_range_years": [
+    2,
+    4
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low: pooled access, not exclusive [CLM-006056].",
+   "execution_complexity": "Low.",
+   "expected_value_and_downside": "Low cost; downside bounded.",
+   "real_option_value": "Add tasks; exit.",
+   "capital_efficiency": "High.",
+   "regulatory_feasibility": "High: governance via federation.",
+   "synergy_with_takeda_assets": "Medium: Takeda data (BET-01).",
+   "follow_on_options": "More consortia tasks.",
+   "rnpv_note": "Not meaningful.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-108"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "pts": 0.8,
+   "pts_range": [
+    0.7,
+    0.9
+   ],
+   "p_commercial": 0.65,
+   "p_commercial_range": [
+    0.5,
+    0.8
+   ],
+   "time_to_payoff_years": 2,
+   "time_to_payoff_range_years": [
+    1,
+    3
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low: purchasable [CLM-006016].",
+   "execution_complexity": "Low to medium.",
+   "expected_value_and_downside": "Low downside; value is data and speed for BET-07.",
+   "real_option_value": "Stage-3 pilot on triggers.",
+   "capital_efficiency": "High: service model [CLM-006013].",
+   "regulatory_feasibility": "High.",
+   "synergy_with_takeda_assets": "Medium.",
+   "follow_on_options": "Stage-3 pilot.",
+   "rnpv_note": "Not meaningful: cost avoidance versus unknown baseline.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-109"
+   ]
+  },
+  {
+   "bet_id": "BET-10",
+   "pts": 0.12,
+   "pts_range": [
+    0.05,
+    0.2
+   ],
+   "p_commercial": 0.2,
+   "p_commercial_range": [
+    0.1,
+    0.3
+   ],
+   "time_to_payoff_years": 12,
+   "time_to_payoff_range_years": [
+    10,
+    15
+   ],
+   "capability_reuse": "low",
+   "strategic_differentiation": "Unproven.",
+   "execution_complexity": "Very high.",
+   "expected_value_and_downside": "Evidence shows distressed outcomes [CLM-006051]; no funded exposure.",
+   "real_option_value": "Trigger-based revisit.",
+   "capital_efficiency": "Low.",
+   "regulatory_feasibility": "Low: unsettled for submission use.",
+   "synergy_with_takeda_assets": "Low.",
+   "follow_on_options": "Partner.",
+   "rnpv_note": "Not applicable (rejected).",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-110"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "pts": 0.72,
+   "pts_range": [
+    0.6,
+    0.85
+   ],
+   "p_commercial": 0.62,
+   "p_commercial_range": [
+    0.5,
+    0.75
+   ],
+   "time_to_payoff_years": 4,
+   "time_to_payoff_range_years": [
+    2,
+    5
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Moderate: device IP [CLM-007042].",
+   "execution_complexity": "Medium: device and regulatory.",
+   "expected_value_and_downside": "Retains patients on convenient formats; effect after biosimilar entry unknown and in conflict with BET-04 channel exposure [CLM-007053] [CLM-007015].",
+   "real_option_value": "New devices and products.",
+   "capital_efficiency": "High.",
+   "regulatory_feasibility": "High: 510(k) precedent [CLM-007042].",
+   "synergy_with_takeda_assets": "High: Entyvio, Hyqvia.",
+   "follow_on_options": "Further devices.",
+   "rnpv_note": "Not meaningful without persistence data (IVB-004).",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-111"
+   ]
+  },
+  {
+   "bet_id": "BET-12",
+   "pts": 0.62,
+   "pts_range": [
+    0.5,
+    0.75
+   ],
+   "p_commercial": 0.5,
+   "p_commercial_range": [
+    0.4,
+    0.6
+   ],
+   "time_to_payoff_years": 3,
+   "time_to_payoff_range_years": [
+    2,
+    4
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Low to moderate.",
+   "execution_complexity": "Medium.",
+   "expected_value_and_downside": "Small spend; value is learning for launches.",
+   "real_option_value": "Scale to other launches.",
+   "capital_efficiency": "High.",
+   "regulatory_feasibility": "Medium: compliance [CLM-007010].",
+   "synergy_with_takeda_assets": "High: launches.",
+   "follow_on_options": "Registry (BET-13).",
+   "rnpv_note": "Not meaningful.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-112"
+   ]
+  },
+  {
+   "bet_id": "BET-13",
+   "pts": 0.4,
+   "pts_range": [
+    0.3,
+    0.5
+   ],
+   "p_commercial": 0.3,
+   "p_commercial_range": [
+    0.2,
+    0.4
+   ],
+   "time_to_payoff_years": 8,
+   "time_to_payoff_range_years": [
+    6,
+    9
+   ],
+   "capability_reuse": "low",
+   "strategic_differentiation": "Low to moderate if neutral.",
+   "execution_complexity": "High.",
+   "expected_value_and_downside": "Conditional; unfunded in every portfolio (carry removed in v2).",
+   "real_option_value": "Partner or stop.",
+   "capital_efficiency": "Low.",
+   "regulatory_feasibility": "Medium: consent.",
+   "synergy_with_takeda_assets": "Low.",
+   "follow_on_options": "Registry expansion.",
+   "rnpv_note": "Not meaningful.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-113"
+   ]
+  },
+  {
+   "bet_id": "BET-14",
+   "pts": 0.17,
+   "pts_range": [
+    0.1,
+    0.25
+   ],
+   "p_commercial": 0.2,
+   "p_commercial_range": [
+    0.1,
+    0.3
+   ],
+   "time_to_payoff_years": 10,
+   "time_to_payoff_range_years": [
+    8,
+    12
+   ],
+   "capability_reuse": "low",
+   "strategic_differentiation": "Low.",
+   "execution_complexity": "High.",
+   "expected_value_and_downside": "Rejected.",
+   "real_option_value": "None.",
+   "capital_efficiency": "Low.",
+   "regulatory_feasibility": "Medium.",
+   "synergy_with_takeda_assets": "Low.",
+   "follow_on_options": "None.",
+   "rnpv_note": "Not applicable.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-114"
+   ]
+  },
+  {
+   "bet_id": "BET-15",
+   "pts": 0.5,
+   "pts_range": [
+    0.4,
+    0.6
+   ],
+   "p_commercial": 0.6,
+   "p_commercial_range": [
+    0.5,
+    0.7
+   ],
+   "time_to_payoff_years": 4,
+   "time_to_payoff_range_years": [
+    3,
+    6
+   ],
+   "capability_reuse": "low",
+   "strategic_differentiation": "Asset-dependent.",
+   "execution_complexity": "High.",
+   "expected_value_and_downside": "Rejected as framed: the leverage test fails by arithmetic (ASM-033, ASM-119); single-asset write-down of 54% of price at AbbVie [CLM-009054]; outside envelope.",
+   "real_option_value": "None; replaced by BET-18.",
+   "capital_efficiency": "Low.",
+   "regulatory_feasibility": "Medium: antitrust not researched.",
+   "synergy_with_takeda_assets": "Medium.",
+   "follow_on_options": "Further M&A.",
+   "rnpv_note": "Not applicable (rejected).",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-115"
+   ]
+  },
+  {
+   "bet_id": "BET-16",
+   "pts": 0.4,
+   "pts_range": [
+    0.3,
+    0.5
+   ],
+   "p_commercial": 0.2,
+   "p_commercial_range": [
+    0.1,
+    0.3
+   ],
+   "time_to_payoff_years": 2,
+   "time_to_payoff_range_years": [
+    2,
+    3
+   ],
+   "capability_reuse": "low",
+   "strategic_differentiation": "Low.",
+   "execution_complexity": "Medium.",
+   "expected_value_and_downside": "Rejected.",
+   "real_option_value": "None.",
+   "capital_efficiency": "Low.",
+   "regulatory_feasibility": "Low: anti-kickback [CLM-007010].",
+   "synergy_with_takeda_assets": "Low.",
+   "follow_on_options": "None.",
+   "rnpv_note": "Not applicable.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-116"
+   ]
+  },
+  {
+   "bet_id": "BET-17",
+   "pts": 0.72,
+   "pts_range": [
+    0.6,
+    0.85
+   ],
+   "p_commercial": 0.5,
+   "p_commercial_range": [
+    0.4,
+    0.6
+   ],
+   "time_to_payoff_years": 2,
+   "time_to_payoff_range_years": [
+    1,
+    3
+   ],
+   "capability_reuse": "high",
+   "strategic_differentiation": "Low.",
+   "execution_complexity": "Low to medium.",
+   "expected_value_and_downside": "Prunes low-value spend; benefit unmeasured.",
+   "real_option_value": "Scale what is measured.",
+   "capital_efficiency": "High.",
+   "regulatory_feasibility": "High.",
+   "synergy_with_takeda_assets": "High.",
+   "follow_on_options": "Wider rollout.",
+   "rnpv_note": "Not meaningful.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-117"
+   ]
+  },
+  {
+   "bet_id": "BET-18",
+   "pts": 0.45,
+   "pts_range": [
+    0.3,
+    0.6
+   ],
+   "p_commercial": 0.5,
+   "p_commercial_range": [
+    0.4,
+    0.6
+   ],
+   "time_to_payoff_years": 6,
+   "time_to_payoff_range_years": [
+    4,
+    8
+   ],
+   "capability_reuse": "medium",
+   "strategic_differentiation": "Moderate: others license similar assets [CLM-009097].",
+   "execution_complexity": "Medium: portfolio management and leverage discipline.",
+   "expected_value_and_downside": "Per-asset probability moderate; downside is the upfront, capped per deal by the ceiling and the leverage test (ASM-118, ASM-119).",
+   "real_option_value": "High: exercise or extend on Phase 2/3 data; no deal if the leverage test fails.",
+   "capital_efficiency": "Medium: mid-size licences versus USD 5bn purchases [CLM-009076] [CLM-009078].",
+   "regulatory_feasibility": "Medium: antitrust not researched [CLM-009098].",
+   "synergy_with_takeda_assets": "Medium: disease depth in GI, rare, oncology, neuroscience [CLM-005050].",
+   "follow_on_options": "Further licences; co-development.",
+   "rnpv_note": "rNPV only for a named asset with internal PTS (IVB-005); not computed from public data.",
+   "pts_definition": "Probability the bet meets its own stage-gate success criterion through the scale decision; for asset-type bets, probability of approval (ASSUMPTION)",
+   "p_commercial_definition": "Probability that, if technically successful, the bet creates value above its cost (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-118",
+    "ASM-119",
+    "ASM-120",
+    "ASM-033"
+   ]
+  }
+ ]
+}

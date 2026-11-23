@@ -1,0 +1,327 @@
+{
+"nodes": [
+{
+"id": "A",
+"label": "Research Mission",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "B",
+"label": "Research Protocol & Architecture (Gate 0)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "C",
+"label": "Build Encyclopedia & Evidence Schema",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "D",
+"label": "Research Question Decomposition",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E1",
+"label": "Eli Lilly Research (A1)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E2",
+"label": "J&J Research (A2)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E3",
+"label": "AbbVie Research (A3)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E4",
+"label": "Cross-Company AI/Data/Robotics (A6)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E5",
+"label": "Policy (A8) & Financial (A4 EDGAR)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "E6",
+"label": "Takeda Public Baseline (A5)",
+"shape": "box",
+"status": "pending"
+},
+{
+"id": "F",
+"label": "Source & Claims Registry (single-writer merge)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "G",
+"label": "Independent Evidence Audit (A10)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "H",
+"label": "Evidence sufficient?",
+"shape": "diamond",
+"status": "done"
+},
+{
+"id": "I",
+"label": "Gap Analysis & Revised Queries",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "J",
+"label": "Company Dossiers & Knowledge Graph (Gate 1)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "K",
+"label": "Cross-Company Comparative Analysis",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "L",
+"label": "Takeda Baseline accepted (Gate 2)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "M",
+"label": "Strategic Futures & Investment Council (A11)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "N",
+"label": "Independent Challenge, Red Team & Scenario Tests",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "O",
+"label": "Decision-grade?",
+"shape": "diamond",
+"status": "done"
+},
+{
+"id": "P",
+"label": "Targeted Research & Model Revision",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "Q",
+"label": "Interactive Executive Application (A13) (Gate 3 inputs only)",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "R",
+"label": "Automated & Manual QA",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "S",
+"label": "All acceptance gates pass?",
+"shape": "diamond",
+"status": "done"
+},
+{
+"id": "T",
+"label": "Correct Defects & Revalidate",
+"shape": "box",
+"status": "done"
+},
+{
+"id": "U",
+"label": "Final Encyclopedia & Strategic Deliverables",
+"shape": "box",
+"status": "done"
+}
+],
+"edges": [
+{
+"source": "A",
+"target": "B",
+"label": ""
+},
+{
+"source": "B",
+"target": "C",
+"label": ""
+},
+{
+"source": "C",
+"target": "D",
+"label": ""
+},
+{
+"source": "D",
+"target": "E1",
+"label": ""
+},
+{
+"source": "D",
+"target": "E2",
+"label": ""
+},
+{
+"source": "D",
+"target": "E3",
+"label": ""
+},
+{
+"source": "D",
+"target": "E4",
+"label": ""
+},
+{
+"source": "D",
+"target": "E5",
+"label": ""
+},
+{
+"source": "D",
+"target": "E6",
+"label": ""
+},
+{
+"source": "E1",
+"target": "F",
+"label": ""
+},
+{
+"source": "E2",
+"target": "F",
+"label": ""
+},
+{
+"source": "E3",
+"target": "F",
+"label": ""
+},
+{
+"source": "E4",
+"target": "F",
+"label": ""
+},
+{
+"source": "E5",
+"target": "F",
+"label": ""
+},
+{
+"source": "E6",
+"target": "F",
+"label": ""
+},
+{
+"source": "F",
+"target": "G",
+"label": ""
+},
+{
+"source": "G",
+"target": "H",
+"label": ""
+},
+{
+"source": "H",
+"target": "I",
+"label": "No"
+},
+{
+"source": "I",
+"target": "D",
+"label": ""
+},
+{
+"source": "H",
+"target": "J",
+"label": "Yes"
+},
+{
+"source": "J",
+"target": "K",
+"label": ""
+},
+{
+"source": "K",
+"target": "L",
+"label": ""
+},
+{
+"source": "L",
+"target": "M",
+"label": ""
+},
+{
+"source": "M",
+"target": "N",
+"label": ""
+},
+{
+"source": "N",
+"target": "O",
+"label": ""
+},
+{
+"source": "O",
+"target": "P",
+"label": "No"
+},
+{
+"source": "P",
+"target": "M",
+"label": ""
+},
+{
+"source": "O",
+"target": "Q",
+"label": "Yes"
+},
+{
+"source": "Q",
+"target": "R",
+"label": ""
+},
+{
+"source": "R",
+"target": "S",
+"label": ""
+},
+{
+"source": "S",
+"target": "T",
+"label": "No"
+},
+{
+"source": "T",
+"target": "R",
+"label": ""
+},
+{
+"source": "S",
+"target": "U",
+"label": "Yes"
+}
+]
+}

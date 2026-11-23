@@ -1,0 +1,44 @@
+Unanimous Thumbs-Up From FDA Advisors for Alzheimer's Drug | MedPage Today 
+
+ Neurology 
+ >
+ Alzheimer's Disease 
+
+ Unanimous Thumbs-Up From FDA Advisors for Alzheimer's Drug
+
+ — Advisory committee decision smooths the way for eventual FDA approval
+
+ by Judy George , Deputy Managing Editor, MedPage Today 
+
+ June 10, 2024
+ • 3 min read 
+
+ Add MedPage Today on Google
+
+ MedpageToday
+
+ An FDA advisory committee on Monday unanimously supported the investigational drug donanemab for treating early Alzheimer's disease.
+
+ In an 11-0 vote, the Peripheral and Central Nervous System Drugs Advisory Committee said the benefits of donanemab outweighed its risks for the population of Alzheimer's disease patients with mild cognitive impairment and mild dementia enrolled in the donanemab clinical trials.
+
+ The committee also voted 11-0 that available data showed that donanemab was effective in treating Alzheimer's disease in that population. Though FDA staffers raised concerns last week that Alzheimer's patients with no or very low tau were excluded from the pivotal donanemab trial, the committee agreed overall that the drug should not be restricted to Alzheimer's patients with a specific tau burden.
+
+ "The evidence over the population studies in the trial is very strong and consistent across subgroups," said committee member and NIH biostatistician Dean Follmann, PhD.
+
+ "The biomarker data also were convincing of the effect," added committee member Kathleen Poston, MD, MS, of Stanford University in California. "The benefits outweigh the risks, as long as the risks are being monitored."
+
+ But, throughout the meeting, Poston and others voiced concerns about the lack of data on donanemab and other anti-amyloid drugs in African-American and Hispanic populations. "That will be important in the future to obtain to make sure that these encouraging findings can be extrapolated to everyone with Alzheimer's disease," she said.
+
+ While the risks, especially for amyloid-related imaging abnormalities (ARIA), were clear in the trial data, many of them could be mitigated, FDA advisors suggested. Safeguards to manage ARIA could be put in place and risks could be "safely clarified with a proposed MRI program and training," noted committee member Cynthia Carlsson, MD, MS, of the University of Wisconsin School of Medicine and Public Health in Madison.
+
+ Neurologist Marwan Sabbagh, MD, of the Barrow Neurological Institute in Phoenix, who wasn't involved with the donanemab trials, summed up the views of most Alzheimer's patients who spoke at the public hearing discussion during the meeting. Patients with Alzheimer's "have a 100% chance of getting worse and losing autonomy -- juxtaposed against a 6% chance of symptomatic ARIA," Sabbagh said.
+
+ Donanemab was tested in the phase III TRAILBLAZER-ALZ 2 trial of 1,736 early Alzheimer's patients. The drug met the trial's primary endpoint of change from baseline in the Integrated Alzheimer's Disease Rating Scale (iADRS), slowing decline relative to placebo ( P <0.001). The drug also met a key secondary endpoint, showing less decline on the Clinical Dementia Rating-Sum of Boxes (CDR-SB) at 76 weeks ( P <0.001).
+
+ Like other anti-amyloid drugs, donanemab's safety issues centered around ARIA with edema or effusion (ARIA-E) and ARIA with microhemorrhages and hemosiderin deposits (ARIA-H). ARIA occurs more frequently in APOE4 homozygotes than in heterozygotes or noncarriers.
+
+ In TRAILBLAZER-ALZ 2, 24% of donanemab-treated participants had ARIA-E and 31.4% had ARIA-H. Two ARIA-related deaths were attributed to donanemab.
+
+ If approved, donanemab will be the third amyloid-targeted drug to come to market: the first being the controversial aducanumab (Aduhelm), which received accelerated approval but was subsequently abandoned, and the second being lecanemab (Leqembi), which received full FDA approval last year.
+
+ The FDA has not named a date for its final decision about donanemab. While the agency isn't required to follow its advisory committees' recommendations, it typically does.

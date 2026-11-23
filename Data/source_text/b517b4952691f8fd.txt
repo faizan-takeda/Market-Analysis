@@ -1,0 +1,114 @@
+1. N Engl J Med. 2026 Sep 24;395(12):1166-1179. doi: 10.1056/NEJMoa2601598. Epub 
+2026 Sep 9.
+
+Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials.
+
+Dauvilliers Y(1)(2)(3), Mignot E(4), Antczak J(5), Arnulf I(6), Barateau 
+L(1)(2)(3), Buntinx E(7), Corser B(8), Iranzo A(9)(10)(11), Khatami R(12)(13), 
+Lammers GJ(14)(15), Lederer K(16), Nilsen KB(17)(18), Pizza F(19)(20), Schmidt 
+MH(21), Sivam S(22)(23)(24), Sum-Ping O(4), Taniguchi M(25), Zhan S(26), Abraham 
+A(27), Cai A(27), Du Y(27), Etherton MR(27), Faessel H(27), Hsiao S(27), Kadali 
+H(27), Koundourakis E(27), Naylor M(27), Neuwirth R(27), Olsson T(27), Rogers 
+R(27), Sheikh S(27), Tanaka S(27), von Rosenstiel P(27), von Hehn C(27), Hang 
+Y(27), Yao B(27), Del Rio Villegas R(28)(29), Plazzi G(20)(30); The First Light 
+and The Radiant Light.
+
+Collaborators: Leech J, Shapiro C, Desautels A, Dauvilliers Y, Arnulf I, Debs R, 
+Peter-Derex L, Benes H, Lederer K, Kallweit U, Schreck R, Plazzi G, Liguori C, 
+Lammers GJ, Nilsen K, Olberg H, Del Rio Villegas R, Ortega Albas JJ, Iranzo A, 
+Puertas Cuesta F, Alvarez Ruiz de Larrinaga A, Santo Tomas OR, Miano S, Khatami 
+R, Schmidt M, Perez Carbonell L, Bernath O, Bolton C, Schreiber A, Mignot E, 
+Corser B, Lacey D, Bogan R, Krahn L, Ajayi A, Strunc M, Foldvary-Schaefer N, 
+Garber D, Downing M, Ojile J, Morse A, Makhija M, Ries J, Kuriyama K, Ikegami A, 
+Taniguchi M, Shirahama R, Inoue Y, Ozone M, Ito W, Ariyoshi Y, Haranaka M, 
+Nakamura K, Kotorii N, Sivam S, Antczak J, Heidnreder A, Baharloo F, Buntinx E, 
+Hodl S, Martinot JB, Testelmans D, Lambert I, Leclair-Visonneau L, Pepin JL, 
+Philip P, Andrea R, Partinen M, Sarkanen T, Fink K, Niemela V, Cho YW, Hong SC, 
+Lee YJ, Yu H, Zhan S, Zhang B, Zhang H.
+
+Author information:
+(1)Sleep-Wake Disorders Center, Department of Neurology, Gui-de-Chauliac 
+Hospital, Centre Hospitalier Universitaire, Montpellier, France.
+(2)Institute for Neurosciences of Montpellier, INSERM, University of 
+Montpellier, Montpellier, France.
+(3)National Reference Network for Narcolepsy, Montpellier, France.
+(4)Stanford Center for Sleep Sciences and Medicine, Palo Alto, CA.
+(5)Department of Neurology, Jagiellonian University Medical College, Kraków, 
+Poland.
+(6)National Reference Center for Rare Hypersomnias, Pitié-Salpêtrière University 
+Hospital, Assistance Publique-Hôpitaux de Paris, Sorbonne University, Paris.
+(7)ANIMA Research, Alken, Belgium.
+(8)Sleep Management Institute, Cincinnati.
+(9)Sleep Disorders Center, Neurology Service, Hospital Clínic Barcelona, 
+Universitat de Barcelona, Barcelona.
+(10)Biomedical Research Networking Center on Neurodegenerative Diseases 
+(CIBERNED), Barcelona.
+(11)August Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona.
+(12)Center of Sleep Medicine and Sleep Research, Klinik Barmelweid, Barmelweid, 
+Switzerland.
+(13)Department of Neurology, University Hospital of Bern, Bern, Switzerland.
+(14)Stichting Epilepsie Instellingen Nederland, Sleep-Wake Center, Heemstede, 
+the Netherlands.
+(15)Department of Neurology, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(16)Advanced Sleep Research, Berlin.
+(17)Department of Neurology, Section for Clinical Neurophysiology, Clinic for 
+Neuroscience, Oslo University Hospital, Oslo.
+(18)Institute of Clinical Medicine, University of Oslo, Oslo.
+(19)Department of Biomedical and Neuromotor Sciences, University of Bologna, 
+Bologna, Italy.
+(20)IRCCS, Istituto delle Scienze Neurologiche di Bologna, Bologna, Italy.
+(21)Sleep-Wake-Epilepsy Center, Department of Neurology, Bern University 
+Hospital, Bern, Switzerland.
+(22)Woolcock Institute of Medical Research, Sydney.
+(23)Royal Prince Alfred Hospital, Sydney.
+(24)University of Sydney, Sydney.
+(25)Sleep Medical Center, Osaka Kaisei Hospital, Osaka, Japan.
+(26)Department of Neurology, National Center for Neurological Disorders, Xuanwu 
+Hospital, Capital Medical University, Beijing.
+(27)Takeda Development Center Americas, Cambridge, MA.
+(28)Neurophysiology and Sleep Disorders Unit, Vithas Hospitals, Madrid.
+(29)Department of Clinical Medical Sciences, Universidad CEU (Centro de Estudios 
+Universitarios) San Pablo, CEU Universities, Madrid.
+(30)Department of Biomedical, Metabolic, and Neural Sciences, University of 
+Modena and Reggio Emilia, Modena, Italy.
+
+BACKGROUND: Narcolepsy type 1 is characterized by excessive daytime sleepiness, 
+cataplexy, disrupted sleep, sleep paralysis, and hypnagogic or hypnopompic 
+hallucinations. Oveporexton (TAK-861), an oral orexin receptor 2-selective 
+agonist, reduced symptoms of narcolepsy type 1 in a previous phase 2 trial.
+METHODS: We conducted two phase 3, randomized, placebo-controlled trials 
+evaluating the efficacy and safety of oveporexton over a period of 12 weeks. 
+Participants 16 to 70 years of age with narcolepsy type 1 were randomly assigned 
+in a 3:3:2 ratio to receive twice-daily oveporexton (1 mg or 2 mg) or placebo in 
+the First Light trial and in a 2:1 ratio to receive twice-daily oveporexton (2 
+mg) or placebo in the Radiant Light trial. The primary end point was the change 
+from baseline to week 12 in mean sleep latency (the ability to stay awake under 
+soporific conditions) on the Maintenance of Wakefulness Test (MWT; range, 0 to 
+40 minutes; normal, ≥20). Key secondary end points included the change from 
+baseline to week 12 in the Epworth Sleepiness Scale (ESS) total score (range, 0 
+to 24; normal, ≤10) and the weekly cataplexy rate at week 12.
+RESULTS: A total of 168 participants were enrolled in the First Light trial and 
+105 in the Radiant Light trial. Mean changes from baseline to week 12 in mean 
+sleep latency on the MWT ranged from 14.3 to 19.8 minutes with oveporexton, as 
+compared with -0.4 to -0.8 minutes with placebo (adjusted P<0.001 for all 
+comparisons vs. placebo). Mean changes in the ESS total score ranged from -9.7 
+to -11.8 with oveporexton, as compared with -1.5 to -1.7 with placebo (adjusted 
+P<0.001 for all comparisons vs. placebo). Median percent reductions in the 
+weekly cataplexy rate ranged from 79.0 to 88.8% with oveporexton, as compared 
+with 27.7 to 39.1% with placebo (adjusted P<0.001 for all comparisons vs. 
+placebo). Adverse events occurred in 86 to 89% of the participants with 
+oveporexton, as compared with 43 to 54% with placebo; the most common adverse 
+events were increased urinary frequency and transient insomnia, which occurred 
+in a majority of participants receiving oveporexton.
+CONCLUSIONS: Over a period of 12 weeks, oveporexton significantly improved 
+measures of wakefulness, sleepiness, and cataplexy in participants with 
+narcolepsy type 1. Increased urinary frequency and transient insomnia were 
+common side effects. (Funded by Takeda Development Center Americas; the First 
+Light and Radiant Light ClinicalTrials.gov numbers, NCT06470828 and 
+NCT06505031.).
+
+Copyright © 2026 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2601598
+PMID: 42714024 [Indexed for MEDLINE]

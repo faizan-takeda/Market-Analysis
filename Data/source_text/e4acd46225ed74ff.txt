@@ -1,0 +1,121 @@
+1. JAMA Dermatol. 2024 Oct 1;160(10):1066-1074. doi: 
+10.1001/jamadermatol.2024.2701.
+
+Tyrosine Kinase 2 Inhibition With Zasocitinib (TAK-279) in Psoriasis: A 
+Randomized Clinical Trial.
+
+Armstrong AW(1), Gooderham M(2), Lynde C(3), Maari C(4), Forman S(5), Green 
+L(6), Laquer V(7), Zhang X(8), Franchimont N(8), Gangolli EA(8), Blau J(9), Zhao 
+Y(9), Zhang W(9), Srivastava B(8), Heap G(9), Papp K(10)(11).
+
+Author information:
+(1)University of California, Los Angeles.
+(2)SKiN Centre for Dermatology and Probity Medical Research, Peterborough, 
+Ontario, Canada.
+(3)Lynde Institute for Dermatology and Probity Medical Research, Markham, 
+Ontario, Canada.
+(4)Innovaderm Research, Montreal, Quebec, Canada.
+(5)ForCare Medical Center, Tampa, Florida.
+(6)George Washington University School of Medicine, Rockville, Maryland.
+(7)First OC Dermatology Research, Fountain Valley, California.
+(8)Nimbus Discovery Inc, Boston, Massachusetts.
+(9)Takeda Development Center Americas Inc, Cambridge, Massachusetts.
+(10)Alliance Clinical Trials and Probity Medical Research, Waterloo, Ontario, 
+Canada.
+(11)Department of Dermatology, University of Toronto School of Medicine, 
+Toronto, Ontario, Canada.
+
+IMPORTANCE: New, effective, and well-tolerated oral therapies are needed for 
+treating psoriasis. Zasocitinib, a highly selective allosteric tyrosine kinase 2 
+(TYK2) inhibitor, is a potential new oral treatment for this disease.
+OBJECTIVE: To assess the efficacy, safety, and tolerability of zasocitinib in 
+patients with moderate to severe plaque psoriasis.
+DESIGN, SETTING, AND PARTICIPANTS: This phase 2b, randomized, double-blind, 
+placebo-controlled, multiple-dose randomized clinical trial was conducted from 
+August 11, 2021, to September 12, 2022, at 47 centers in the US and 8 in Canada. 
+The study included a 12-week treatment period and a 4-week follow-up period. Key 
+eligibility criteria for participants included age 18 to 70 years; a Psoriasis 
+Area and Severity Index (PASI) score of 12 or greater; a Physician's Global 
+Assessment score of 3 or greater; and a body surface area covered by plaque 
+psoriasis of 10% or greater. Of 287 patients randomized, 259 (90.2%) received at 
+least 1 dose of study treatment.
+INTERVENTION: Patients were randomly assigned (1:1:1:1:1) to receive zasocitinib 
+at 2, 5, 15, or 30 mg or placebo orally, once daily, for 12 weeks.
+MAIN OUTCOMES AND MEASURES: The primary efficacy end point was the proportion of 
+patients achieving 75% or greater improvement in PASI score (PASI 75) at week 
+12. Secondary efficacy end points included PASI 90 and 100 responses. Safety was 
+also assessed.
+RESULTS: In total, 259 patients were randomized and received treatment (mean 
+[SD] age, 47 [13] years; 82 women [32%]). At week 12, PASI 75 was achieved for 9 
+(18%), 23 (44%), 36 (68%), and 35 (67%) patients receiving zasocitinib at 2, 5, 
+15, and 30 mg, respectively, and 3 patients (6%) receiving placebo. PASI 90 
+responses were consistent with PASI 75. PASI 100 demonstrated a dose response at 
+all doses, with 17 patients (33%) achieving PASI 100 with zasocitinib, 30 mg. 
+Treatment-emergent adverse events occurred for 23 patients (44%) receiving 
+placebo and 28 (53%) to 31 (62%) patients receiving the 4 different doses of 
+zasocitinib, with no dose dependency and no clinically meaningful longitudinal 
+differences in laboratory parameters.
+CONCLUSIONS AND RELEVANCE: This randomized clinical trial found that potent and 
+selective inhibition of TYK2 with zasocitinib at oral doses of 5 mg or more once 
+daily resulted in greater skin clearance than placebo over 12 weeks.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04999839.
+
+DOI: 10.1001/jamadermatol.2024.2701
+PMCID: PMC11339701
+PMID: 39167366 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Armstrong 
+reported grants from AbbVie, ASLAN, BMS, Dermavant Sciences, Dermira, Eli Lilly, 
+Galderma, Incyte, Janssen, Leo Pharma, Meiji Seika Pharma Co, Modernizing 
+Medicine, Nimbus Therapeautics, Novartis, Ortho Dermatologics, Pfizer, Sanofi 
+Genzyme, UCB, and Ventyx Biosciences; personal fees from AbbVie, ASLAN, 
+Almirall, Amgen, Arcutis, Beiersdorf, BMS, Dermavant, EPI Health, Janssen, LEO 
+Pharma, Mindera, Nimbus, Organon & Co, Sanofi, Sun Pharma, Takeda, Ventyx 
+Biosciences, Incyte, Regeneron, and UCB; and data safety monitoring board 
+service for Boehringer Ingelheim and Parexel during the conduct of the study. Dr 
+Gooderham reported nonfinancial support from Takeda during the conduct of the 
+study as well as personal fees from AbbVie, Amgen, Arcutis, Bristol Myers 
+Squibb, Boehringer Ingelheim, Eli Lilly, Galderma, Incyte, Janssen, Leo Pharma, 
+Meiji, Dermavant, Moonlake, Nektar, Nimbus, Novartis, Pfizer, Regeneron, Sanofi, 
+Sun Pharma, Tarsus, Takeda, UCB, Union, Ventyx, and Apogee outside the submitted 
+work. Dr Lynde reported being a principal investigator for AbbVie, Amgen, Akros, 
+Arcutis, Bausch Health, Bayer, BioJAMP, Boehringer Ingelheim, Bristol Myers 
+Squibb, Celgene, Celltrion, CeraVe, Bioderma, Cipher, Concert, Dermavant, Eli 
+Lilly, Devonian, Evelo, Galderma, GSK, InCyte, Intega Skin, Janssen, Kyowa 
+Kirin, La Roche Posay, Leo Pharma, L’Oreal, Medexus, Merck, MoonLake, Nao, 
+Nimbus, Novartis, P&G, PediaPharm, Pfizer, Regeneron, Roche, Sanofi Genzyme, 
+Sandoz, Sentrex, SunPharma, Takeda, TEVA, Tribute, UCB, Valeant, Viatris, and 
+Volo Health during the conduct of the study as well as personal fees from 
+AbbVie, Amgen, Aralez, Bausch Health, Bayer, Bioderma , BioJAMP, Boehringer 
+Ingelheim, Bristol Myers Squibb, Celgene, Celltrion, CeraVe, Cipher, Dermavant, 
+Eli Lilly, Fresnius Kabi, Gakderna, GSK, InCyte, Innovaderm, Intega Skin, 
+Janssen, Kyowa Kirin, La Roche Posay, Leo Pharma, L’Oreal, Medexus, MedX, Merck, 
+Naos, Novartis, P&G, PediaPharm, Pfizer, Regeneron, Roche, Sanofi Genzyme, 
+Sandoz, Sentrex, Skinceuticals, SunPharma, Takeda, TEVA, Tribute, UCB, Valeant, 
+Viatris, and VOLO Health outside the submitted work. Dr Maari reported a 
+research grant from Nimbus Pharmaceutical. Dr Green reported grants from Takeda 
+during the conduct of the study as well as grants from Amgen, Arcutis, 
+Dermavant, BMS, Alumis, HIghlittl, Takeda, Galderma, OrthoDerm, UCB, and Janssen 
+outside the submitted work. Dr Franchimont reported being employed by and 
+holding equity in Nimbus during the conduct of the study as well as being a 
+former employee of and shareholder in Biogen, holding stock and shares in and 
+board service for OMass Therapeutics, personal fees from Bain Capital and Atara 
+Biotherapeutics, and board service for Rome Therapeutics outside the submitted 
+work; additionally, their spouse is an employee and shareholder of Alexion. Dr 
+Gangolli reported employment for and stock ownership in Nimbus during the 
+conduct of the study as well as stock ownership in Bristol Myers Squibb and 
+AstraZeneca outside the submitted work. Dr Blau reported personal fees from 
+Takeda Pharmaceuticals outside the submitted work. Dr Zhao reported being an 
+employee of Takeda outside the submitted work. Dr W. Zhang reported personal 
+fees from Takeda during the conduct of the study and outside the submitted work. 
+Dr Srivastava reported being an employee of and shareholder in Nimbus 
+Therapeutics during the conduct of the study and outside the submitted work. Dr 
+Heap reported stock holdings and employment with Takeda Pharmaceuticals. Dr Papp 
+reported committee/board service for AbbVie, Acelyrin, Akros, Alumis, Amgen, 
+Arcutis, Bausch Health, Boehringer Ingelheim, BMS, Can-Fite Biopharma, 
+Celltrion, Concert, Dermavant, Dermira, Dice Pharmaceuticals, Eli Lilly, Evelo 
+Biosciences, Forbion, Galderma, Horizon Therapeutics, Incyte, Janssen, Kymab, 
+Kyowa Hakko Kirin , Leo, Meiji Seika Pharma, Mitsubishi Pharma, Nimbus, 
+Novartis, Pfizer, Reistone, Sanofi-Aventis, Sandoz, Sun Pharma, Takeda, Tarsus 
+Pharmaceuticals, UCB, and Zai Lab Co during the conduct of the study. No other 
+disclosures were reported.

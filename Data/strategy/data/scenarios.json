@@ -1,0 +1,696 @@
+{
+ "version": "v2",
+ "changes_from_v1": [
+  {
+   "decision_record_row": "1",
+   "change": "BET-15 DEFER -> REJECT as framed (fails the 3.0x leverage ceiling by council arithmetic, ASM-119); its stage gates are removed and its roadmap milestones move to BET-18."
+  },
+  {
+   "decision_record_row": "1",
+   "change": "New BET-18 'Phase 2/3 in-licensing channel' (PARTNER, secondary INVEST; USD 0.5-2bn contingent on IVB-012 and ASM-033; ASM-118 to ASM-120) with a complete A-M template labelled 'v2 addition (council-proposed)'; USD 0 committed, contingent pool 500 / 1,030 / 2,000."
+  },
+  {
+   "decision_record_row": "2",
+   "change": "ASM-025 range widened 2030-2032 -> 2028-2032 (central 2031 unchanged); ASM-038 early-entry stress case; stress case S-A added to scenarios; RM-026 moved 2029 H2 -> 2028 H1 and RM-031 to 2028 H2 (earliest window)."
+  },
+  {
+   "decision_record_row": "3",
+   "change": "BET-06 balanced USD 700m -> 300m, scorecard-first; the USD 400m balance is contingent on RM-007 and the first two deals."
+  },
+  {
+   "decision_record_row": "4",
+   "change": "BET-02 BUILD -> EXPERIMENT; balanced USD 430m -> 230m (baseline and shadow-mode tranche about USD 65m at risk); ASM-031 re-based on money; demand-versus-capacity and plasma-peer tests added as gates (RM-004, new RM-051); Takeda-execution dissent recorded."
+  },
+  {
+   "decision_record_row": "5",
+   "change": "BET-03 balanced USD 500m -> 300m; Phase 1 gate before the H2 tranche (RM-030); additionality test and competitor orexin scan (new RM-052)."
+  },
+  {
+   "decision_record_row": "6",
+   "change": "BET-04 stays BUILD; benefit-channel gate 2027 H1 (RM-003, IVB-004); outcome reframed 'retain 10 points of erosion' -> 'delay and measure'."
+  },
+  {
+   "decision_record_row": "7",
+   "change": "BET-07 prerequisites re-wired (RM-020 depends on RM-015 and RM-018; RM-011 on the decision-log standard and contract stop rules, new RM-053); balanced USD 180m -> 80m with H2/H3 tranches released only at RM-020."
+  },
+  {
+   "decision_record_row": "8",
+   "change": "BET-11 stays BUILD; baseline first; BET-04 channel conflict stated and wired (RM-013 depends on RM-003); confidence -> hypothesis."
+  },
+  {
+   "decision_record_row": "9",
+   "change": "BET-12 capped at USD 50m (from 100m), attached to the oveporexton launch, start 2027 H2 -> 2027 H1 (RM-012)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-13 carry removed (balanced USD 80m -> 0; ambitious USD 160m -> 0 by the proportional rescale)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-17 measurement owner moved from the CFO to internal audit or the CDTO with Audit Committee visibility."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Six bets (BET-04, 05, 08, 09, 11, 16) relabelled evidence_backed -> hypothesis (BET-11 also in row 8)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "CVS Caremark Zepbound removal corrected from 'about 11 months [CLM-007011]' to about 15 months [CLM-007011] [CLM-007013]."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Stage-gate capital at risk is now allocated in whole USD 5m units that sum to the bet size, so no gate total exceeds the bet size (v1 exceeded it by USD 5m for BET-02, 07, 09 and 11)."
+  },
+  {
+   "decision_record_row": "— (re-rating)",
+   "change": "Published robustness table is the council's re-rating (19 of 85 cells changed); the strategy author's v1 rating is kept as a second column."
+  },
+  {
+   "decision_record_row": "— (owned labs)",
+   "change": "'Owned labs fail' narrative softened for BET-09 and BET-10: Lilly's reason undisclosed, the Strateos link unsupported, the NVIDIA joint lab reads as re-platforming; BET-10 stays REJECT with an operational trigger set (T1-T3)."
+  },
+  {
+   "decision_record_row": "Net effect",
+   "change": "Balanced USD 2,950m -> 1,920m committed-at-gates (plus about USD 1,030m contingent headroom for BET-18, not a saving); capital-constrained USD 1,590m -> 1,130m and ambitious USD 4,975m -> 3,155m by proportional rescale of the changed bets; core H1 2027-29 tranche USD 465m."
+  }
+ ],
+ "scenarios": [
+  {
+   "id": "SCN-1",
+   "name": "AI materially accelerates R&D",
+   "description": "SCENARIO: by about 2031 independent evidence shows AI-planned discovery and development cutting cycle time or raising hit rate at several companies; first-in-human data from AI-designed molecules are positive; compute and models commoditise further.",
+   "drivers": [
+    "Positive first-in-human data from AI-designed molecules (Nabla expected in one to two years) [CLM-006039]",
+    "Independent result from the Lilly-NVIDIA lab [CLM-000281]",
+    "FDA credibility framework finalised [CLM-006046]",
+    "Commodity compute and shared models [CLM-006056]"
+   ],
+   "claim_ids": [
+    "CLM-006039",
+    "CLM-000281",
+    "CLM-006046",
+    "CLM-006056",
+    "CLM-011062"
+   ]
+  },
+  {
+   "id": "SCN-2",
+   "name": "AI incremental",
+   "description": "SCENARIO: AI delivers productivity gains in documents, operations and decision support but no step change in probability of success or cycle time; no independent outcome appears for platform investments.",
+   "drivers": [
+    "AI-origin Phase 2 success about the same as conventional (secondary citation) [CLM-006049]",
+    "Platform pipelines keep ordinary attrition [CLM-006047]",
+    "No independent outcome for any data platform [CLM-011052]"
+   ],
+   "claim_ids": [
+    "CLM-006049",
+    "CLM-006047",
+    "CLM-011052",
+    "CLM-006054"
+   ]
+  },
+  {
+   "id": "SCN-3",
+   "name": "Pricing, regulatory and biosimilar pressure intensifies",
+   "description": "SCENARIO: Medicare negotiation, most-favoured-nation pricing and PBM private-label biosimilars compress net price faster; Entyvio erosion lands at the high end of ASM-024; Takhzyro and others face negotiated prices.",
+   "drivers": [
+    "Entyvio Medicare price from January 2028 [CLM-007026]",
+    "PBM template formularies preferring biosimilars (CVS Stelara template from 1 July 2026) [CLM-007015]; formulary exclusion can directly reduce usage [CLM-007025]",
+    "Lilly realised prices -15% in Q3 2026 [CLM-014003]",
+    "Government pricing agreements [CLM-008037] [CLM-008015]"
+   ],
+   "claim_ids": [
+    "CLM-007026",
+    "CLM-007025",
+    "CLM-007015",
+    "CLM-014003",
+    "CLM-008037",
+    "CLM-008015",
+    "CLM-014051"
+   ]
+  },
+  {
+   "id": "SCN-4",
+   "name": "New modalities, care models and tech-native competitors reshape value",
+   "description": "SCENARIO: in-vivo cell therapy, siRNA and gene editing move into the clinic; home and digital care models change where value accrues; AI-native biotechs and tech platforms (Isomorphic-type) win partnerships; platforms do not protect single products.",
+   "drivers": [
+    "AbbVie Capstan and ADARx; Lilly Verve; J&J Ambrx at early clinical or concept [CLM-009058] [CLM-009061] [CLM-009010] [CLM-009035]",
+    "Isomorphic raised outside capital [CLM-011014]",
+    "Regeneron EYLEA -42% despite platform [CLM-011017]",
+    "Pear Therapeutics failure shows reimbursement limits for stand-alone digital care [CLM-007045]"
+   ],
+   "claim_ids": [
+    "CLM-009058",
+    "CLM-009061",
+    "CLM-009010",
+    "CLM-009035",
+    "CLM-011014",
+    "CLM-011017",
+    "CLM-007045"
+   ]
+  },
+  {
+   "id": "SCN-5",
+   "name": "Combined downside",
+   "description": "SCENARIO: SCN-2 and SCN-3 together, plus launch slippage for 2026 approvals (inspection findings, payer delays) and Amitiza cash outflow near the full provision; leverage stays near 3x and discretionary spend is cut.",
+   "drivers": [
+    "Amitiza provision JPY 403.5bn, final amount and timing unknown [CLM-005014] [CLM-014048]",
+    "Base revenue still falling at constant rates [CLM-005011]",
+    "Inspection-driven approval delays occurred at Lilly and AbbVie [CLM-012134] [CLM-012112]",
+    "Leverage 2.6x at March 2026, 3.1x at March 2024 [CLM-005005]"
+   ],
+   "claim_ids": [
+    "CLM-005014",
+    "CLM-014048",
+    "CLM-005011",
+    "CLM-012134",
+    "CLM-012112",
+    "CLM-005005"
+   ]
+  }
+ ],
+ "robustness": [
+  {
+   "bet_id": "BET-01",
+   "SCN-1": "robust",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "robust",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "robust",
+    "SCN-3": "neutral",
+    "SCN-4": "robust",
+    "SCN-5": "neutral"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-5",
+     "author_rating": "neutral",
+     "council_rating": "fragile",
+     "reason": "First discretionary cut in a cash squeeze; only the thin slice (metadata standard, decision log) is worth protecting."
+    }
+   ],
+   "rationale": "Cheap enabling layer; value rises with AI success, holds as productivity in SCN-2; neutral under price pressure because it does not defend revenue; vulnerable to being cut in SCN-5 though small."
+  },
+  {
+   "bet_id": "BET-02",
+   "SCN-1": "robust",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "neutral",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Immunoglobulin exposure to MFN and negotiation was not researched, and PDT revenue was -1.5% at constant rates in H1 FY2026, so lower prices do not make the cost case stronger by themselves [CLM-005064]."
+    },
+    {
+     "scenario": "SCN-5",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "The baseline and shadow-mode tranche survives; the USD 350m roll-out is the first large item to be deferred when leverage binds."
+    }
+   ],
+   "rationale": "Plasma is outside the biosimilar mechanism; cost per litre matters more when prices fall; independent of AI success. Depends on unvalidated headroom (IVB-006)."
+  },
+  {
+   "bet_id": "BET-03",
+   "SCN-1": "robust",
+   "SCN-2": "neutral",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "neutral",
+    "SCN-3": "robust",
+    "SCN-4": "neutral",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Payoff is 2035-2038, after the Entyvio erosion window; it does not cushion SCN-3 and competes for the same cash."
+    }
+   ],
+   "rationale": "Diversifies away from Entyvio in SCN-3 and benefits from faster discovery in SCN-1; long-dated spend is first to be cut in the combined downside."
+  },
+  {
+   "bet_id": "BET-04",
+   "SCN-1": "neutral",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "robust",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Needed in every scenario, but the Medicare price from January 2028 is statutory and PBM private-label biosimilars route around contracts [CLM-007026] [CLM-007015]. Value holds only as delay."
+    }
+   ],
+   "rationale": "Directly addresses SCN-3; needed in every scenario with a biosimilar event; unaffected by AI outcomes."
+  },
+  {
+   "bet_id": "BET-05",
+   "SCN-1": "neutral",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "neutral",
+    "SCN-4": "neutral",
+    "SCN-5": "neutral"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-5",
+     "author_rating": "neutral",
+     "council_rating": "fragile",
+     "reason": "SCN-5 contains launch slippage; PsA binary readout and inspection risk sit directly on this bet [CLM-005037] [CLM-012134]."
+    }
+   ],
+   "rationale": "Core replacement revenue; robust to AI pace; exposed to class competition and payer terms [CLM-014049]."
+  },
+  {
+   "bet_id": "BET-06",
+   "SCN-1": "neutral",
+   "SCN-2": "neutral",
+   "SCN-3": "neutral",
+   "SCN-4": "robust",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "robust",
+    "SCN-5": "robust"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-2",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Option value does not depend on AI pace; 'robust' overstates it when no option has produced an approval [CLM-009097]."
+    },
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "The loss is capped, but options pay after 2035 and do not defend Entyvio net price in 2028-2034; 'robust' should mean value holds, not that the loss is small."
+    },
+    {
+     "scenario": "SCN-5",
+     "author_rating": "robust",
+     "council_rating": "fragile",
+     "reason": "Upfronts and option fees are cash (ASM-106 excludes only contingent milestones); the constrained portfolio still allocates USD 300m (19%) here, and it is the first line to cut."
+    }
+   ],
+   "rationale": "Option structure caps loss, keeps access to new modalities; contingent payments cost nothing without data."
+  },
+  {
+   "bet_id": "BET-07",
+   "SCN-1": "option_value",
+   "SCN-2": "fragile",
+   "SCN-3": "neutral",
+   "SCN-4": "option_value",
+   "SCN-5": "neutral",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "fragile",
+    "SCN-3": "neutral",
+    "SCN-4": "option_value",
+    "SCN-5": "neutral"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-1",
+     "author_rating": "robust",
+     "council_rating": "option_value",
+     "reason": "If AI accelerates, models commoditise (the SCN-1 driver) and value accrues to partners and to owners of proprietary data, not to licensees [CLM-006056]."
+    }
+   ],
+   "rationale": "Pays off if AI works; wasted if AI is incremental; upfronts small; option value if tech-native competitors win."
+  },
+  {
+   "bet_id": "BET-08",
+   "SCN-1": "robust",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "robust",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "robust",
+    "SCN-3": "neutral",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [],
+   "rationale": "Cheap and reversible."
+  },
+  {
+   "bet_id": "BET-09",
+   "SCN-1": "robust",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "robust",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "A rented-assay service is irrelevant to price pressure; its value is cost avoidance against an unknown baseline (IVB-002)."
+    }
+   ],
+   "rationale": "Service model avoids fixed cost; useful whatever AI does."
+  },
+  {
+   "bet_id": "BET-10",
+   "SCN-1": "option_value",
+   "SCN-2": "fragile",
+   "SCN-3": "fragile",
+   "SCN-4": "neutral",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "option_value",
+    "SCN-2": "fragile",
+    "SCN-3": "fragile",
+    "SCN-4": "neutral",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [],
+   "rationale": "Would only pay off if SCN-1 with demonstrated autonomy; fragile otherwise; rejected now, retained as a trigger option."
+  },
+  {
+   "bet_id": "BET-11",
+   "SCN-1": "neutral",
+   "SCN-2": "robust",
+   "SCN-3": "fragile",
+   "SCN-4": "neutral",
+   "SCN-5": "neutral",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "fragile",
+     "reason": "SC pens move patients into the pharmacy benefit where PBM biosimilar templates operate [CLM-007015] [CLM-007016]; the effect after entry is unestablished [CLM-007053]."
+    },
+    {
+     "scenario": "SCN-5",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Device capex is deferrable; the existing pen and HYHUB stay."
+    }
+   ],
+   "rationale": "Convenience formats help retention under price pressure; effect after biosimilar entry unestablished [CLM-007053]."
+  },
+  {
+   "bet_id": "BET-12",
+   "SCN-1": "neutral",
+   "SCN-2": "neutral",
+   "SCN-3": "neutral",
+   "SCN-4": "option_value",
+   "SCN-5": "neutral",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "robust",
+    "SCN-4": "robust",
+    "SCN-5": "neutral"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-2",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "The pathway hypothesis has no outcome evidence in any scenario [CLM-007039]; 'robust' should be reserved for bets with evidence of value."
+    },
+    {
+     "scenario": "SCN-3",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "As above; compliance exposure rises under pricing pressure [CLM-007010]."
+    },
+    {
+     "scenario": "SCN-4",
+     "author_rating": "robust",
+     "council_rating": "option_value",
+     "reason": "Care-model change could make pathway data valuable; no evidence yet [CLM-007045]."
+    }
+   ],
+   "rationale": "Launch-pathway learning matters under pricing pressure and new care models."
+  },
+  {
+   "bet_id": "BET-13",
+   "SCN-1": "option_value",
+   "SCN-2": "neutral",
+   "SCN-3": "neutral",
+   "SCN-4": "option_value",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "option_value",
+    "SCN-2": "neutral",
+    "SCN-3": "neutral",
+    "SCN-4": "robust",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-4",
+     "author_rating": "robust",
+     "council_rating": "option_value",
+     "reason": "Unproven; Flatiron's neutrality does not transfer [CLM-011050]."
+    }
+   ],
+   "rationale": "Option value on data value; fragile when capital is cut."
+  },
+  {
+   "bet_id": "BET-14",
+   "SCN-1": "option_value",
+   "SCN-2": "fragile",
+   "SCN-3": "fragile",
+   "SCN-4": "fragile",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "option_value",
+    "SCN-2": "fragile",
+    "SCN-3": "fragile",
+    "SCN-4": "fragile",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [],
+   "rationale": "Needs unmeasured advantage and external demand; fragile everywhere else."
+  },
+  {
+   "bet_id": "BET-15",
+   "SCN-1": "neutral",
+   "SCN-2": "neutral",
+   "SCN-3": "fragile",
+   "SCN-4": "neutral",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "robust",
+    "SCN-3": "option_value",
+    "SCN-4": "neutral",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [
+    {
+     "scenario": "SCN-2",
+     "author_rating": "robust",
+     "council_rating": "neutral",
+     "reason": "Need for a bridge does not depend on AI pace."
+    },
+    {
+     "scenario": "SCN-3",
+     "author_rating": "option_value",
+     "council_rating": "fragile",
+     "reason": "Under pricing pressure free cash flow falls while leverage already fails the 3.0x test by council arithmetic [CLM-005005] [CLM-005014]."
+    }
+   ],
+   "rationale": "Needed as a bridge if replacement slips; option value under pricing pressure; fragile when leverage and Amitiza bind."
+  },
+  {
+   "bet_id": "BET-16",
+   "SCN-1": "fragile",
+   "SCN-2": "fragile",
+   "SCN-3": "fragile",
+   "SCN-4": "neutral",
+   "SCN-5": "fragile",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "fragile",
+    "SCN-2": "fragile",
+    "SCN-3": "fragile",
+    "SCN-4": "neutral",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [],
+   "rationale": "Poor structural fit; fragile where cash-pay rules tighten."
+  },
+  {
+   "bet_id": "BET-17",
+   "SCN-1": "robust",
+   "SCN-2": "robust",
+   "SCN-3": "neutral",
+   "SCN-4": "neutral",
+   "SCN-5": "robust",
+   "rating_basis": "council re-rating (published)",
+   "author_rating": {
+    "SCN-1": "robust",
+    "SCN-2": "robust",
+    "SCN-3": "neutral",
+    "SCN-4": "neutral",
+    "SCN-5": "robust"
+   },
+   "council_notes": [],
+   "rationale": "Cheap discipline that prunes spend in every scenario."
+  },
+  {
+   "bet_id": "BET-18",
+   "SCN-1": "neutral",
+   "SCN-2": "neutral",
+   "SCN-3": "fragile",
+   "SCN-4": "option_value",
+   "SCN-5": "fragile",
+   "rating_basis": "v2 author rating (not council-rated)",
+   "author_rating": {
+    "SCN-1": "neutral",
+    "SCN-2": "neutral",
+    "SCN-3": "fragile",
+    "SCN-4": "option_value",
+    "SCN-5": "fragile"
+   },
+   "council_notes": [],
+   "rationale": "v2 addition rated by the author (not council-rated): neutral where AI pace is irrelevant, option value under new modalities, fragile when pricing pressure lowers free cash flow and when leverage binds."
+  }
+ ],
+ "stress_cases": [
+  {
+   "id": "S-A",
+   "name": "Early Entyvio biosimilar entry (2028-2029) with an Amitiza outcome at or above the provision",
+   "description": "STRESS CASE (council-added, adopted in v2; not a forecast): first meaningful U.S. biosimilar entry in 2028-2029 (ASM-038) with the Amitiza outcome at or above the provision (ASM-034). ASM-025's central case (2031) is unchanged; its range is widened to 2028-2032.",
+   "drivers": [
+    "Two biosimilar BLAs under FDA review [CLM-014051]",
+    "Takeda says earlier launches must address patent validity and infringement; some patents expire in 2032 and revocation actions are filed [CLM-005017] [CLM-014050]",
+    "Amitiza provision JPY 403.5bn, outcome open [CLM-005014] [CLM-014048]"
+   ],
+   "claim_ids": [
+    "CLM-014051",
+    "CLM-014050",
+    "CLM-005017",
+    "CLM-005014",
+    "CLM-014048"
+   ],
+   "bet_effects": {
+    "BET-04": {
+     "rating": "neutral",
+     "effect": "Playbook RM-026 re-dated from 2029 H2 to 2028 H1 at no extra capital so it is not late."
+    },
+    "BET-05": {
+     "rating": "robust",
+     "effect": "Becomes the only replacement in time; PsA readout (May 2027) and launch coverage carry more weight [CLM-005037]."
+    },
+    "BET-03": {
+     "rating": "fragile",
+     "effect": "Payoff 2035-2038 misses the window."
+    },
+    "BET-06": {
+     "rating": "fragile",
+     "effect": "First option-sourced approval 2035 (RM-043) misses the window; capital competes with the bridge."
+    },
+    "BET-11": {
+     "rating": "fragile",
+     "effect": "SC migration before entry raises pharmacy-benefit exposure at the worst moment [CLM-007015]."
+    },
+    "BET-15": {
+     "rating": "fragile",
+     "effect": "A USD 5bn bridge is infeasible at the leverage arithmetic (ASM-119); rejected in v2."
+    },
+    "BET-18": {
+     "rating": "neutral",
+     "effect": "v2 author rating: the channel is the bridge that fits the balance sheet but only within the ASM-119 headroom; Amitiza at or above the provision can close it."
+    }
+   }
+  }
+ ],
+ "timing": {
+  "early_start": {
+   "BET-04": "Fixed external dates: benefit-channel gate 2027 H1, January 2028 negotiation [CLM-007026], biosimilar reviews and possible 2028-2029 entry [CLM-014051], 2032 patents [CLM-005017].",
+   "BET-02": "Baseline, demand-versus-capacity test and plasma-peer benchmark take 2-3 years; the network decision should precede capacity commitments [CLM-005065].",
+   "BET-03": "Discovery to a second asset takes many years (INTERPRETATION); delay moves refill beyond 2035.",
+   "BET-01": "Thin slice must exist before stage-3 automation or AI-design benchmarking.",
+   "BET-17": "Baselines must exist before any value claim; cheap.",
+   "BET-05": "Regulatory dates drive timing [CLM-005035] [CLM-005037].",
+   "BET-06": "Option pipeline needs 5-10 years to show approvals [CLM-009097].",
+   "BET-11": "Device development cycles and approvals [CLM-007042].",
+   "BET-12": "Attach to the oveporexton launch (approved 2026-08-05 [CLM-005029]); a 2027 H2 pilot is late, so the start moves to 2027 H1."
+  },
+  "postponable": {
+   "BET-13": "Needs BET-12 data; revisit 2029.",
+   "BET-10": "Triggers not yet fired.",
+   "BET-14": "No measured advantage.",
+   "BET-07": "Scale only after first-in-human data; existing alliances continue.",
+   "BET-09": "Stage-3 pilot waits on triggers; stage 1-2 can start now.",
+   "BET-08": "Cheap; can start any time but value rests on BET-01.",
+   "BET-18": "Triggered: no deal before the leverage test passes (ASM-033, IVB-012); policy and ceiling set 2027 H2.",
+   "BET-15": "Rejected as framed; replaced by BET-18."
+  }
+ }
+}

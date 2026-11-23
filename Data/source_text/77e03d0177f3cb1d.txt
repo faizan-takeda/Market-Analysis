@@ -1,0 +1,121 @@
+AbbVie’s R&D Convergence Hub 
+
+ Subscribe 
+
+ News 
+
+ Latest News 
+
+ View Press Releases 
+
+ Post a Press Release 
+
+ Reprint Articles 
+
+ Podcast 
+
+ Advertise 
+
+ Media Kit 
+
+ Digital Advertising 
+
+ Lead Generation 
+
+ Editorial Calendar 
+
+ Webinars 
+
+ Whitepapers 
+
+ Podcasts 
+
+ View Press Releases 
+
+ Post a Press Release 
+
+ Free Downloads 
+
+ Whitepapers 
+
+ Podcasts 
+
+ Webinars 
+
+ Inside eBooks 
+
+ Events 
+
+ Webinars 
+
+ Industry Events 
+
+ IT Conferences 
+
+ Bio-IT World Expo 
+
+ About Us 
+
+ Editorial Profile 
+
+ Editorial Calendar 
+
+ Contact Us 
+
+ Submit a story 
+
+ Innovative Practices Awards 
+
+ Linking Policy 
+
+ Bio-IT World Expo 
+
+ AbbVie’s R&D Convergence Hub 
+
+ August 24, 2023 
+
+ By Allison Proffitt  
+
+ August 24, 2023 | The AbbVie R&D Convergence Hub, known as the ARCH, was conceived in 2020 and already the data platform is breaking silos and improving productivity, explained Brian Martin, research fellow and head of AI at AbbVie. Martin presented the ARCH platform at the 2023 Bio-IT World Conference and Expo, one of the 2023 Bio-IT World Innovative Practices winners .  
+
+ The Bio-IT World judges highlighted the project’s amazing and thoughtful execution and speed, crediting—as did Martin in his presentation—the championship of AbbVie CSO Thomas Hudson.   
+
+ Construction of the ARCH started in 2020 with a focus on rapidly developing the data ingestion, normalization, and curation processes to gather and connect disparate datasets from internal and external platforms and warehouses. ARCH is built on a knowledge graph, a key strength according to Martin.  
+
+ “Let’s stop thinking, necessarily, about being data driven, and instead think about being knowledge-driven. There’s a fundamental difference there,” he said. Data is what an organization gathers, but knowledge is what subject matter experts and domain scientists tell you those data mean. “That’s what you should build your platform on—that’s what you build your ecosystem around—so that you can share that knowledge, not just the data, but the expert interpretation.”  
+
+ The initial knowledge graph was driven by AbbVie use cases, Martin explained, thinking about what researchers would want to access and do with the data. “We started with a lake. Call it swamp; it was a little dirty. Actually, it was really dirty,” Martin quipped.  
+
+ Effort of Partners  
+
+ The ARCH project relied on less than ten full-time AbbVie employees, Martin said, but many contractors. “The number of partners and consultants we brought in to co-develop the interfaces, to co-build the infrastructure, that’s significant. It took top-level stakeholder commitment to make that happen,” he noted.  
+
+ AbbVie worked with teams from Modak, SciBite, and Tellic using tools from Modak and SciBite and an initial set of knowledge graph data from Tellic to build the initial ARCH knowledge graph. Modak’s Nabu platform automates and manages the underlying data movement; SciBite’s CENtree platform democratizes the creation and management of ontologies. The CENtree platform holds the collection of AbbVie’s enterprise ontologies which can be served to downstream applications and processes such as SciBite’s Named Entity Recognition (NER) tool TERMite or custom data normalization pipelines. These ontologies were essential to develop and deploy pipelines which could bring together the vast and diverse data at hand.  
+
+ Tellic’s knowledge graph data accelerated delivery through immediate access to over a billion biomedical relationships extracted using NLP from the overwhelming corpus of scientific literature, preprints, conference abstracts, grants, patents, and combined with structured data sources. Pipelines then normalized the Tellic knowledge graph data with AbbVie’s internal data to create a harmonized corpus that is over 124TB in size.  
+
+ Data governance was a key question once the data were gathered, Martin explained. “Lo and behold, we got the right people in the right room, and they said, ‘This platform is for every person in R&D. Period,’” he reported. All of AbbVie’s R&D employees have access to data from medical affairs, early discovery, clinical, real-world data, and more. “Based on a risk-based analysis, all 2,000+ of our clinical trials worth of data could be de-identified and presented and made accessible to the entire organization for secondary use,” Martin explained, with two exceptions: prison and pediatric populations.  
+
+ Mining the Graph  
+
+ Harmonized data are mined through scripts and models for knowledge which is extracted and published into a labeled property graph known as the AbbVie Repository of Knowledge (ARK). The ARK graph contains over 30 million nodes and nearly 2 billion relationships covering more than 30 entities and 80 different types of relationships. Each of these relationships has been extracted by leveraging the expertise of hundreds of scientists, and each knowledge assertion is provided with transparent and easily understood descriptive content and explanations. Scientists can easily find details of the curation process to verify the validity of the knowledge for their reuse. Through the ARCH, scientists can access this aggregation of knowledge and then retrieve the underlying source data for a specific subset of knowledge allowing them to further identify new insights and develop new hypotheses.  
+
+ To connect this vast repository with users, the expertise of TXI Digital was brought in to help AbbVie Information Research teams co-develop user interfaces and experiences delivering an experience that is intuitive, fast, and flexible. Leveraging AbbVie’s internal Unity design system, ARCH applications such as ARCH Search and Safety/Target Dossiers provide a consistent look and feel that is functionally tailored to specific use cases or tasks. For example, Safety Dossier rapidly collects 18 different views and insights across the aggregate knowledge and information to provide a comprehensive view on the safety of a given molecule or drug. The Target Dossier through the same style of interface presents a comprehensive view of information about a gene target such as pathways, variants, and phenotypes. 
+
+ Beyond the specifically-designed tools and interfaces, the ARCH also enables deployment of a broad set of BI tools and dashboards. Using various dashboarding platforms, scientists can easily access information about RWD population scale data, clinical trial cohorts and results, and many more scenarios. Leveraging these dashboards over the ARCH data and knowledge gives scientists and researchers fast and configurable access to information in ways that they can filter and sort for their specific needs. This helps researchers understand what data might be available to engage with their data science counterparts to more deeply analyze and mine. Additionally, this helps give visibility to existing data preventing duplicated acquisition and increasing reuse across the enterprise. 
+
+ When data scientists look for ways to get access to the underlying data, information, and knowledge to develop algorithms and build tools, the ARCH platform provides a rapid mechanism to deploy computational resources on-demand giving them the tools to perform rapid experimentation.  
+
+ Through the use of Cloudera Machine Learning workspaces, AbbVie scientists have an environment for deep analysis and exploration at their fingertips – without needing to worry about access credentials or spinning up new servers. When new mechanisms of insight are identified, they can easily convert their exploratory work into applications that can be deployed within the ARCH and shared with the whole R&D Community.  
+
+ Culture and Dashboards  
+
+ In order to support this entire process, a clear and agile process for governance of data ingestion and use was created to specifically enable the rapid development and broad use of the platform. A discourse forum lets the AbbVie community ask questions of how to best use the ARCH.  
+
+ A wholly-internal peer-reviewed publication—AbbVie Convergence Journal—publishes use cases for the ARCH about once a quarter. “Every article of the journal is generating or showing a use case using the ARCH, using that converged data platform, using the converged science. It goes out to our research fellows for peer review,” Martin explained. “This is possibly one of the most amazing culture change commitments…, because the ability to not just show people the products that have been built, but how people are building their own products on that platform and that ecosystem—that’s transformational.”  
+
+ Martin reports that the ARCH platform is already having patient impacts. He shared a bioRxiv preprint from December 2022 that outlined how the ARCH has flagged potential drugs for repurposing. ( DOI: 10.1101/2022.12.20.521235 ).  
+
+ In his presentation at Bio-IT World, Martin was very candid about the efforts and investments required to create the ARCH. AbbVie could have prioritized building the platform quickly, cheaply, or perfectly, he explained. “We made the decision, ultimately in the first version, to do it quick. It was not cheap; it is not right [or final].” He declined to put a price tag on the effort but did call it a “significant investment” that required sacrifices elsewhere in the company. “It requires an organizational investment in changing R&D,” he said.  
+
+ But now, he says, AbbVie has seen the proven the value of the tool and can work to “rebalance that three-legged stool” to refine performance and cost efficiency so that ARCH can accelerate and scale moving forward.

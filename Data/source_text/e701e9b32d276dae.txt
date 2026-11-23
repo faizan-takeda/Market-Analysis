@@ -1,0 +1,45 @@
+Eli Lilly Sells Automated Lab to Arctoris, Platform Relocates to Oxford
+
+ | BiopharmaTrend 
+
+ BioPharmaTrend 
+ -->
+
+ Sign in 
+
+    News 
+
+ Arctoris , a contract research organization (CRO) specializing in automated drug discovery, has acquired Eli Lilly's Life Sciences Studio laboratory. The acquisition involves relocating the lab's advanced automation platform from San Diego to Arctoris' headquarters in Oxford, UK, effectively doubling the company's laboratory capacity.
+
+ Originally established by Eli Lilly in 2017 as part of a $90 million investment, the Life Sciences Studio was designed to integrate various drug discovery processes into a fully automated platform. The 11,500-square-foot facility combined design, synthesis, purification, analysis, and hypothesis testing, enabling researchers to control experiments remotely via cloud-based software.
+
+ With the acquisition, Arctoris adds five automated biochemistry modules, a high-throughput screening module, and an additional automated BSL2 cell biology module to its platform. The company also increases its compound storage capacity to 4 million compounds using automated storage systems and advanced plate formatting technologies.
+
+ See also: The CRO Industry in Flux: Navigating Technology, Business Models, and Trends in Pharma R&D Outsourcing 
+
+ Arctoris utilizes its proprietary automation platform , Ulysses, which combines robotics and data science to accelerate drug discovery across disciplines such as biochemistry, biophysics, and molecular and cellular biology.
+
+ By automating experiments, Ulysses is designed to generate high-quality, reproducible data while reducing human error and variability. This approach aims to enable faster decision-making and accelerate the progression of drug candidates from target validation through lead optimization.
+
+ Collaborating with biotech firms and pharmaceutical companies, Arctoris supports various stages of drug discovery, including target validation, hit identification, and lead optimization. The company's platform is intended to enhance data quality and reliability, which is crucial for training machine learning models used in computational drug design.
+
+ The expanded capabilities from the acquisition are expected to further reduce research timelines and address reproducibility challenges associated with traditional laboratory methods.
+
+ Topic: 
+ Industry Movers 
+
+ Arctoris 
+
+ Eli Lilly 
+
+ Share:  
+
+ We use cookies to personalise content and to analyse our traffic. 
+ You consent to our cookies if you continue to use our website. Read more details in our 
+ cookies policy .
+
+ Agree 
+
+ Sign in or create an account
+
+ ^

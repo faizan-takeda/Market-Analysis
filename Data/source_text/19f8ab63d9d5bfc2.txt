@@ -1,0 +1,37 @@
+insitro partners with Lilly to build first-in-kind machine learning models to advance small molecule drug discovery - insitro 
+
+ 09/09/2025 
+
+ insitro partners with Lilly to build first-in-kind machine learning models to advance small molecule drug discovery
+
+ Share
+
+ Share on LinkedIn 
+
+ SOUTH SAN FRANCISCO, Calif. – SEPTEMBER 9, 2025 – insitro, a pioneer in machine learning for drug discovery and development, today announced a new collaboration with Eli Lilly and Company (Lilly) to develop advanced machine learning models that can accurately predict key pharmacological properties of small molecules, including their behavior in vivo . This effort aims to address longstanding challenges in drug development where such properties have traditionally been slow and costly to determine through experimental methods in the lab.
+
+ The ability to build next-generation models for small molecule design that save time and reduce experimentation cycles has remained an area of continued focus to the industry, due to either insufficient data or inadequate models. By combining insitro’s advanced computational expertise with Lilly’s extensive drug discovery data, the collaboration seeks to achieve an industry goal and drive innovation through Lilly TuneLab™, a new drug discovery platform designed to accelerate the development of new medicines by providing biotechs access to powerful machine learning models, also announced today.
+
+ Daphne Koller, Ph.D., founder and CEO of insitro said: “The rapid design of safe and effective small molecules has long been a holy grail in drug discovery, but has been stymied by the unpredictability of key pharmacological properties, such as a molecule’s behavior in vivo . AI can address this challenge, but only with robust, coherent, and consistently collected data on advanced molecules, data that are very rarely found. That is why we are especially excited to again partner with Lilly in bringing our ML capabilities to their unique dataset, so we can build best-in-class predictive models for small molecule properties, and bring the benefits of delivering better drugs faster to the patients who are waiting.”
+
+ Under the agreement, insitro will build advanced machine learning models and train them on Lilly’s proprietary preclinical data, leveraging a rich set of in vitro and in vivo measurements from a vast array of compounds with established ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties, derived from decades of Lilly’s drug discovery programs, representing a world-class dataset in quality, consistency and scale. The models will be used to accelerate the design of compounds with favorable ADMET/pharmacokinetic profiles, aimed at reducing timelines and the number of in vivo studies required. This collaboration expands the relationship between insitro and Lilly, announced in 2024, which focuses on Lilly’s siRNA delivery and antibody discovery capabilities to enable insitro’s emerging pipeline in metabolic diseases. 
+
+ Philip Tagari, Chief Scientific Officer of insitro, said: “These models have the potential to be a game-changer by giving researchers an elegant and powerful way to zero in on drug-like chemical structures at the earliest stages. Small molecules that reach the right tissue at the optimal concentration for the right duration result in better patient outcomes. ML-informed decision making for molecular design has been a key focus area for insitro, so we are confident these new models will improve the identification of development candidates, delivering not just for members of this collaboration, but also elevating the broader ecosystem.”  
+
+ The models being developed are designed to improve the efficiency of hit-to-lead and lead optimization efforts by predicting multiple ADMET properties including the in vivo behavior of small molecules. While the advantages of small molecules are clear, the breadth and diversity of chemical space they occupy have made the effort of optimizing them particularly challenging. In addition, the properties are interconnected, complex, and currently very hard to predict without lengthy and expensive experimentation. Traditional approaches to optimizing pharmacokinetics can often take years and cost tens of millions of dollars.
+
+ The machine learning models developed by insitro will be available to insitro and Lilly, as well as their partners, including biotech companies that partner with Lilly TuneLab, and will be continuously updated as the dataset continues to expand. Lilly TuneLab is part of the Lilly Catalyze360 model, a comprehensive approach to empower early-stage biotechs. The platform is built on a federated learning infrastructure and hosted by a third-party provider, with both Lilly’s and its partners’ data remaining separate and private. 
+
+ These novel ADMET models will be a critical component of insitro’s end-to-end AI capability for small molecule chemistry, including machine learning and physics-based in silico screening, affinity machine learning models from proprietary DNA-encoded libraries, and an active learning medicinal chemistry engine that together comprise insitro’s leading ChemML platform. 
+
+ About insitro 
+
+ insitro is a machine learning-enabled drug discovery and development company creating a new approach for target and drug discovery. insitro is uncovering genetic targets and new therapeutic hypotheses by integrating multimodal data from human cohorts and cellular models with the power of AI and machine learning to increase the therapeutic probability of success. These insights provide the starting point for discovering new molecules, which are either built with in-house, AI-enabled drug discovery platforms or with partners that extend insitro’s impact. With more than $700 million in capital raised to date, insitro is building a “pipeline through platform” with a focus on metabolic disease and neuroscience. Approaching the clinic, insitro aims to deploy its AI models to run smaller, better powered trials, enrolling the patients who can benefit most. Learn more at insitro.com .
+
+ Media Contact 
+
+ Gwynne Oosterbaan
+ gwynne@insitro.com 
+
+ Dan Budwick
+ dan@1abmedia.com

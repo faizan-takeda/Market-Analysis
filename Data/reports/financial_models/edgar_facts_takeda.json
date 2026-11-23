@@ -1,0 +1,937 @@
+{
+ "entity": "Takeda Pharmaceutical Company Limited",
+ "cik": "0001395064",
+ "selected": {
+  "revenue": {
+   "2019": {
+    "val": 3291188000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "Revenue",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 3197812000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "Revenue",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 3569006000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "Revenue",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 4027478000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "Revenue",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 4263762000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "Revenue",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 4581551000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "Revenue",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "cost_of_sales": {
+   "2019": {
+    "val": 1089764000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "CostOfSales",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 994308000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "CostOfSales",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 1106846000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "CostOfSales",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 1244072000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "CostOfSales",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 1426678000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "CostOfSales",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 1580217000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "CostOfSales",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "rd_expense": {
+   "2019": {
+    "val": 492381000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 455833000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 526087000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 633325000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 729924000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 730227000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "ResearchAndDevelopmentExpense",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "sga_expense": {},
+  "operating_income": {
+   "2019": {
+    "val": 100408000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 509269000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 460844000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 490505000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 214075000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 342586000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "ProfitLossFromOperatingActivities",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "net_income": {
+   "2019": {
+    "val": 44290000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "ProfitLoss",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 376171000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "ProfitLoss",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 230166000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "ProfitLoss",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 317038000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "ProfitLoss",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 144197000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "ProfitLoss",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 108143000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "ProfitLoss",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "operating_cash_flow": {
+   "2019": {
+    "val": 669752000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 1010931000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 1123105000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 977156000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 716344000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 1057182000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "CashFlowsFromUsedInOperatingActivities",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "capex": {
+   "2019": {
+    "val": 127082000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 111206000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 123252000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 140657000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 175420000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 200795000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "dividends_paid": {
+   "2019": {
+    "val": 282582000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 283357000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 283665000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 279416000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 287188000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 302498000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "DividendsPaidClassifiedAsFinancingActivities",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "long_term_debt": {
+   "2019": {
+    "val": 5093304000000,
+    "end": "2020-03-31",
+    "start": null,
+    "accn": "0001395064-20-000110",
+    "tag": "Borrowings",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 4635371000000,
+    "end": "2021-03-31",
+    "start": null,
+    "accn": "0001395064-21-000140",
+    "tag": "Borrowings",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 4345410000000,
+    "end": "2022-03-31",
+    "start": null,
+    "accn": "0001395064-22-000107",
+    "tag": "Borrowings",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 4382341000000,
+    "end": "2023-03-31",
+    "start": null,
+    "accn": "0001395064-23-000072",
+    "tag": "Borrowings",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 4843752000000,
+    "end": "2024-03-31",
+    "start": null,
+    "accn": "0001395064-24-000086",
+    "tag": "Borrowings",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 4515265000000,
+    "end": "2025-03-31",
+    "start": null,
+    "accn": "0001395064-25-000095",
+    "tag": "Borrowings",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "total_assets": {
+   "2019": {
+    "val": 12821094000000,
+    "end": "2020-03-31",
+    "start": null,
+    "accn": "0001395064-20-000110",
+    "tag": "Assets",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 12912293000000,
+    "end": "2021-03-31",
+    "start": null,
+    "accn": "0001395064-21-000140",
+    "tag": "Assets",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 13178018000000,
+    "end": "2022-03-31",
+    "start": null,
+    "accn": "0001395064-22-000107",
+    "tag": "Assets",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 13957750000000,
+    "end": "2023-03-31",
+    "start": null,
+    "accn": "0001395064-23-000072",
+    "tag": "Assets",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 15108792000000,
+    "end": "2024-03-31",
+    "start": null,
+    "accn": "0001395064-24-000086",
+    "tag": "Assets",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 14248344000000,
+    "end": "2025-03-31",
+    "start": null,
+    "accn": "0001395064-25-000095",
+    "tag": "Assets",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "cash": {
+   "2019": {
+    "val": 637614000000,
+    "end": "2020-03-31",
+    "start": null,
+    "accn": "0001395064-20-000110",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 966222000000,
+    "end": "2021-03-31",
+    "start": null,
+    "accn": "0001395064-21-000140",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 849695000000,
+    "end": "2022-03-31",
+    "start": null,
+    "accn": "0001395064-22-000107",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 533530000000,
+    "end": "2023-03-31",
+    "start": null,
+    "accn": "0001395064-23-000072",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 457800000000,
+    "end": "2024-03-31",
+    "start": null,
+    "accn": "0001395064-24-000086",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 385113000000,
+    "end": "2025-03-31",
+    "start": null,
+    "accn": "0001395064-25-000095",
+    "tag": "CashAndCashEquivalents",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "goodwill": {
+   "2019": {
+    "val": 4012528000000,
+    "end": "2020-03-31",
+    "start": null,
+    "accn": "0001395064-20-000110",
+    "tag": "Goodwill",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 4033917000000,
+    "end": "2021-03-31",
+    "start": null,
+    "accn": "0001395064-21-000140",
+    "tag": "Goodwill",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 4407749000000,
+    "end": "2022-03-31",
+    "start": null,
+    "accn": "0001395064-22-000107",
+    "tag": "Goodwill",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 4790723000000,
+    "end": "2023-03-31",
+    "start": null,
+    "accn": "0001395064-23-000072",
+    "tag": "Goodwill",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 5410067000000,
+    "end": "2024-03-31",
+    "start": null,
+    "accn": "0001395064-24-000086",
+    "tag": "Goodwill",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 5324430000000,
+    "end": "2025-03-31",
+    "start": null,
+    "accn": "0001395064-25-000095",
+    "tag": "Goodwill",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "intangibles": {
+   "2019": {
+    "val": 4171361000000,
+    "end": "2020-03-31",
+    "start": null,
+    "accn": "0001395064-20-000110",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 3909106000000,
+    "end": "2021-03-31",
+    "start": null,
+    "accn": "0001395064-21-000140",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 3818544000000,
+    "end": "2022-03-31",
+    "start": null,
+    "accn": "0001395064-22-000107",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 4269657000000,
+    "end": "2023-03-31",
+    "start": null,
+    "accn": "0001395064-23-000072",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 4274682000000,
+    "end": "2024-03-31",
+    "start": null,
+    "accn": "0001395064-24-000086",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 3631560000000,
+    "end": "2025-03-31",
+    "start": null,
+    "accn": "0001395064-25-000095",
+    "tag": "IntangibleAssetsOtherThanGoodwill",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "eps_diluted": {
+   "2019": {
+    "val": 28.25,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": 238.96,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 145.87,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 201.94,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": 91.16,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 67.23,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "DilutedEarningsLossPerShare",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  },
+  "income_tax": {
+   "2019": {
+    "val": -105044000000,
+    "end": "2020-03-31",
+    "start": "2019-04-01",
+    "accn": "0001395064-20-000110",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2020,
+    "filed": "2020-06-24",
+    "form": "20-F"
+   },
+   "2020": {
+    "val": -9936000000,
+    "end": "2021-03-31",
+    "start": "2020-04-01",
+    "accn": "0001395064-21-000140",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2021,
+    "filed": "2021-06-29",
+    "form": "20-F"
+   },
+   "2021": {
+    "val": 72405000000,
+    "end": "2022-03-31",
+    "start": "2021-04-01",
+    "accn": "0001395064-22-000107",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2022,
+    "filed": "2022-06-29",
+    "form": "20-F"
+   },
+   "2022": {
+    "val": 58052000000,
+    "end": "2023-03-31",
+    "start": "2022-04-01",
+    "accn": "0001395064-23-000072",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2023,
+    "filed": "2023-06-28",
+    "form": "20-F"
+   },
+   "2023": {
+    "val": -91406000000,
+    "end": "2024-03-31",
+    "start": "2023-04-01",
+    "accn": "0001395064-24-000086",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2024,
+    "filed": "2024-06-26",
+    "form": "20-F"
+   },
+   "2024": {
+    "val": 66941000000,
+    "end": "2025-03-31",
+    "start": "2024-04-01",
+    "accn": "0001395064-25-000095",
+    "tag": "IncomeTaxExpenseContinuingOperations",
+    "fy_label": 2025,
+    "filed": "2025-06-25",
+    "form": "20-F"
+   }
+  }
+ }
+}

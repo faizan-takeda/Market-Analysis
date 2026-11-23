@@ -1,0 +1,184 @@
+340B rebate model: 2027 claims and payment rules | HFMA 
+
+ Skip to main content 
+
+ Healthcare Operations Management 
+
+ Nick Hut 
+
+ Published 
+
+ October 5, 2026 
+
+ 4:55 pm 
+ | 
+
+ Updated 
+
+ October 10, 2026 
+
+ 11:31 am 
+
+ Share this:
+
+ Share on X (Opens in new window) 
+ X 
+
+ Share on Facebook (Opens in new window) 
+ Facebook 
+
+ Share on LinkedIn (Opens in new window) 
+ LinkedIn 
+
+ Email a link to a friend (Opens in new window) 
+ Email 
+
+  Print 
+
+ The new rebate model for the 340B Drug Pricing Program took a step closer to implementation Oct. 1 with the announcement of the initial cohort of participating manufacturers and covered drugs.
+
+ The Health Resources and Services Administration (HRSA) posted 10 manufacturers and 21 drugs that have been approved for the pilot, which is scheduled to begin Jan. 1, 2027. Instead of taking the form of upfront discounts, 340B prices for those drugs will be available only via rebates.
+
+ Covered entities (i.e., providers) must submit claims data to obtain the rebate, with manufacturers then paying back the difference between the wholesale acquisition cost (WAC) and the 340B price.
+
+ Some drugs no longer qualify 
+
+ The rebate model does not include Johnson & Johnson’s Stelara and Xarelto nor Novo Nordisk’s Fiasp and NovoLog, two companies and four drugs that were approved to participate in a rebate pilot set to start Jan. 1, 2026 , before hospital-led litigation thwarted those plans.
+
+ The drugs are not in the updated 340B rebate model because eligibility hinges on inclusion in the Medicare Drug Price Negotiation Program , from which the drugs have been removed for 2027 due to the emergence of generic or biosimilar alternatives.
+
+ Novo Nordisk’s trio of GLP-1 drugs (Ozempic, Rybelsus, Wegovy) and AstraZeneca’s Calquence drug are subject to Medicare-negotiated prices starting in 2027 but are not part of the newly announced rebate model group. It was not immediately known whether the manufacturers chose not to participate or whether another issue prevented their products from being included.
+
+ Oct. 8 update: NovoNordisk and AstraZeneca say they did not submit bids to have the aforementioned drugs included in the rebate model.
+
+ Litigation and legislation could still disrupt the 2027 launch 
+
+ After its initial effort at a 340B rebate model was struck down in federal court , HRSA responded by striving to fix procedural defects that had been highlighted in the litigation. Mainly, the agency formally obtained stakeholder input through a request for information (RFI) about the rebate model, and it addressed concerns about the financial and operational burden through steps such as an increase from 60 days to 90 days for the advance notice from participating manufacturers to providers.
+
+ Despite those and other changes, the American Hospital Association (AHA) implied that more litigation may be appropriate, saying HRSA still has not adequately considered and addressed the impact of the rebate model. The AHA said it is considering “all available options to prevent this flawed program from going into effect.”
+
+ Another development with the potential to stymie the model is drafted legislation known as the SUSTAIN 340B Act. The Senate bill would bring significant changes to 340B , including a halt to the rebate model, which would be replaced by a third-party clearinghouse for claims data submission
+
+ How the rebate model calls for hospitals to submit claims and receive rebates 
+
+ According to posted manufacturer plans , the companies participating in the model are all deploying the Beacon platform for covered entities (i.e., healthcare providers) to submit pharmacy and medical claims in the required format. Use is free to covered entities, and the platform can be integrated with third-party administrators at no charge.
+
+ Covered entities buy the drugs through their existing 340B wholesale accounts, at wholesale acquisition cost. As HRSA previously stipulated, covered entities have 45 days from date of dispense to submit their rebate claims, with resubmission allowed within that window for incomplete or unvalidated claims.
+
+ Manufacturers are supposed to pay rebates via automated clearing house (ACH) banking within 10 calendar days of a complete submission. Denials also will be issued within 10 days, with supporting documentation. Resubmitted claims get the same 10-day turnaround.
+
+ As an accommodation, covered entities can file for rebates on up to two unreplenished packages per drug code for dispenses that take place in the 15 days before the Jan. 1 start date. It’s essentially a soft launch to avoid situations of administrative limbo if a drug is dispensed under the traditional 340B format and has not yet been replenished when the rebate model begins.
+
+ The grace period still requires claim submission within a 45-day window.
+
+ Broader manufacturer claims-data policies face separate legal challenges 
+
+ A development with a similar dynamic to the rebate model is the move by various manufacturers in recent months to make 340B discounts contingent on the submission of claims data for all covered drugs. Before 2026, any such policies generally applied only to drugs dispensed through contract pharmacies, not a hospital’s in-house pharmacy.
+
+ Eli Lilly was one of the first manufacturers to issue the requirement. The company now is subject to separate federal lawsuits brought in July by Tampa General Hospital and New Hampshire-based Mary Hitchcock Memorial Hospital after Lilly revoked 340B discount eligibility for the organizations.
+
+ The AHA, the New Hampshire Hospital Association and 340B Health recently filed a joint amicus brief in support of Mary Hitchcock Memorial’s request for a preliminary injunction on Lilly’s policy, saying the court should block the policy while the case proceeds.
+
+ Per the amicus brief, Mary Hitchcock Memorial is likely to win the case on the merits, and hospitals such as the plaintiff will suffer irreparable harm due to administrative burden and loss of 340B discounts if the injunction is not granted.
+
+ The advocacy groups challenged Lilly’s reference to the upcoming rebate model as a sign that HRSA has endorsed the concept of company requirements for comprehensive claims submission by hospitals.
+
+ “The Rebate Program is entirely distinct from Lilly’s policy and only involves a small number of drugs,” the amicus brief states. “To our knowledge, HRSA has never stated that the new requirements imposed by Lilly’s policy are not burdensome.”
+
+ About the Author 
+
+ Nick Hut
+
+ is a senior editor with HFMA, Downers Grove, IL. ( [email protected] ).
+
+ See All Articles 
+
+ Related Tags
+
+ 340B Drug Pricing Program 
+
+ Advertisements
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text1' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text2' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text3' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text4' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text5' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text6' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-text7' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-leaderboard' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-cube1' );
+ } );
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-cube2' );
+ } );
+
+ Recent Healthcare Operations Management
+
+ How to measure the long-term value of GLP-1s within employer healthcare costs 
+
+ Healthcare purchasing falls amid financial pressures 
+
+ Hospital obstetric service closures grow as Congress considers responses 
+
+ googletag.cmd.push( function () {
+ googletag.display( 'hfma-gpt-cube3' );
+ } );
+
+ Recommended Articles 
+
+ Java4Shell vulnerability prompts hospitals to review systems and patch risks 
+
+ CMS’s CRUSH proposed rule would increase fraud oversight across federal programs 
+
+ Hospital revenue surges ahead of OBBBA cuts 
+
+ {{ loadingHeading }}
+
+ {{ loadingSubHeading }}
+
+ We’re having trouble logging you in.
+
+ For assistance, 
+ contact 
+ our Member Services Team.
+
+ OK 
+
+ Your session has expired.
+
+ Please reload the page and try again. 
+
+ OK 
+
+ Sign up for The Buzz 
+
+ Healthcare finance content, event info and membership offers delivered to your inbox. Sign up for HFMA’s monthly e-newslettter, The Buzz. 
+
+ Subscribe

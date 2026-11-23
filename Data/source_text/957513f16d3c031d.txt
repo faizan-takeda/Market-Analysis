@@ -1,0 +1,89 @@
+FDA Announced Removal of Tirzepatide from the Drug Shortage List | Wilson Sonsini 
+
+ FDA Announced Removal of Tirzepatide from the Drug Shortage List 
+
+ Alerts
+
+ January 2, 2025
+
+ On December 19, 2024, the U.S. Food and Drug Administration (FDA) issued a   declaratory order   determining that the shortage of diabetes and weight-loss tirzepatide injection products (Mounjaro and Zepbound; Eli Lilly and Company) has been resolved. The declaratory order revokes and replaces the agency’s October 2, 2024, decision on the same subject after a court remanded the decision to the agency for reevaluation. 1 
+
+ In an effort to minimize unnecessary disruptions to patient treatment, the FDA confirmed that it does not intend to take enforcement action against outsourcing facilities and compounders for violations of the Federal Food, Drug, and Cosmetic Act (FDCA) arising from conditions that depend on tirzepatide injection products’ inclusion on the FDA’s drug shortage list, or for compounding, distributing, or dispensing tirzepatide injection products that are essentially a copy of Mounjaro and Zepbound, during the following periods:
+
+ For state-licensed pharmacists or physicians compounding under section 503A of the FDCA, 60 calendar days from the date of this order, or until February 18, 2025; and
+
+ For outsourcing facilities under section 503B of the FDCA, 90 calendar days from the date of this order, or until March 19, 2025.
+
+ However, the FDA may still take action against these parties regarding violations of other statutory or regulatory requirements, such as to address findings that a product may be of substandard quality or otherwise unsafe for patients.
+
+ The FDA issued this declaratory order through an informal adjudication process upon evaluating detailed production and inventory information provided by Eli Lilly and Company showing that its current and projected supplies are sufficient to meet or exceed demand, along with potentially relevant information from multiple interested parties, including patients, healthcare providers, pharmacy compounders, and outsourcing facilities. The agency explained that the informal adjudication process is more consistent with its drug shortage authority than with rulemaking because the agency is applying the statutory standard for drug shortages to the relevant facts here, where such application does not create new law, and because the temporary nature of drug shortage determinations. The FDA also states that formal rulemaking is “impossible to reconcile” with its drug shortage authority given challenges surrounding the FDA’s discretion to not disclose certain information that may negatively impact public health (e.g., disclosures that incentivize hoarding or price gauging), manufacturers’ right to keep trade secrets and confidential business information from public disclosure under applicable laws, and fulfilling its statutory mandate to maintain an “up-to-date” drug shortage list, among other things.
+
+ This order relates to certain FDA-approved Mounjaro and Zepbound products. The Mounjaro products are pre-filled single-dose pens (2.5 mg/0.5 mL, 5 mg/0.5 mL, 7.5 mg/0.5 mL, 10 mg/0.5 mL, 12.5 mg/0.5 mL, and 15 mg/0.5 mL), which were approved for commercial sale in May 2022 (NDA 215866) and added to the drug shortage list in December 2022 due to high demand. The Zepbound products are also pre-filled single-dose pens (of the same strengths as Mounjaro), which were approved for commercial sale in November 2023 (NDA 217806) and added to the drug shortage list in April 2024 due to high demand. The FDA clarifies that both Mounjaro single-dose vial products, which were approved in July 2023 (supplement to NDA 215866), and Zepbound single-dose vials, which were approved in March 2024 (supplement to NDA 217806), never appeared on the shortage list.
+
+ As of January 2, 2025, the following GLP-1 products are listed as “currently in shortage” in the FDA drug shortage database.
+
+ Dulaglutide injection
+
+ Semaglutide injection
+
+ Liraglutide injection
+
+ In addition to the FDA’s scrutiny of outsourcing facilities and compounders in the GLP-1 space, the FDA has expressed concerns over the use of unapproved GLP-1 drugs for weight loss, 2   including dosing concerns with compounded semaglutide and tirzepatide products, salt forms that should not be used to compound semaglutide, use of retatrutide in compounding, and adverse events related to compounded versions of semaglutide and tirzepatide, among others.
+
+ For more information on this FDA declaratory order, regulation of GLP-1 drug products by the FDA and state pharmacy authorities, or any related matters, please contact a member of Wilson Sonsini’s   FDA regulatory, healthcare, and consumer products ,   patents and innovations , and   patent litigation   practice groups.
+
+ [1] See Outsourcing Facilities Ass’n v. FDA , No. 4:24‐cv‐953, ECF Nos. 27, 28 (N.D. Tex.).
+
+ [2] See FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss , available at https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss . 
+
+ Contributors
+
+ Eva F. Yin
+
+ Wendy L. Devine
+
+ Lou Lieto
+
+ Michael Hostetler
+
+ Daniel E. Orr
+
+ Emily Shingle
+
+ Jessica Ramsey
+
+ people 
+
+ insights 
+
+ about us 
+
+ careers 
+
+ Binder 
+
+ Alumni 
+
+ Mailing List Signup 
+
+ Client FTP Portal 
+
+ Cookie Settings 
+
+ Privacy Policy 
+
+ Terms of Use 
+
+ Accessibility 
+
+ Twitter 
+
+ LinkedIn 
+
+ Facebook 
+
+ Instagram 
+
+ Youtube 
+
+ Copyright © 2026 Wilson Sonsini Goodrich & Rosati. All Rights Reserved.

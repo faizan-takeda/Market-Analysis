@@ -1,0 +1,210 @@
+AbbVie Provides Update on Phase 2 Results for Emraclidine in Schizophrenia - Nov 11, 2024 
+
+ Home 
+ / 
+
+ News 
+
+ News
+
+ standard 
+
+ https://news.abbvie.com/email-alerts 
+
+ -->
+
+ Neuroscience 
+ R&D News 
+
+ November 11, 2024
+
+ AbbVie Provides Update on Phase 2 Results for Emraclidine in Schizophrenia
+
+ Open a printable version of this page 
+ Email the URL of this page to a friend 
+
+ EMPOWER-1 and EMPOWER-2 Phase 2 clinical trials did not meet their primary endpoint 
+ Emraclidine was well-tolerated with an adverse event profile consistent with Phase 1b trial 
+ NORTH CHICAGO, Ill. , Nov. 11, 2024 / PRNewswire / -- AbbVie (NYSE: ABBV) today announced that its two Phase 2 EMPOWER trials investigating emraclidine as a once-daily, oral monotherapy treatment for adults with schizophrenia who are experiencing an acute exacerbation of psychotic symptoms, did not meet their primary endpoint of showing a statistically significant reduction (improvement) in the change from baseline in the Positive and Negative Syndrome Scale (PANSS) total score compared to the placebo group at week 6.
+
+ "While we are disappointed with the results, we are continuing to analyze the data to determine next steps," said Roopal Thakkar , M.D., executive vice president, research and development, chief scientific officer, AbbVie. "We would like to extend our gratitude to the study participants and their loved ones as well as to our network of clinical investigative sites for their participation in these trials. We are confident that our innovative pipeline will continue to bring meaningful therapies to patients, and we remain committed to finding better treatments for people living with psychiatric and neurological disorders."
+
+ Change from Baseline to Week 6 in PANSS Total Score 
+
+ EMPOWER-1
+
+ EMPOWER-2
+
+ Placebo 
+
+ (N= 127)
+
+ Emraclidine 
+10mg QD 
+
+ (N = 125)
+
+ Emraclidine 
+30mg QD 
+
+ (N = 127)
+
+ Placebo 
+
+ (N = 128)
+
+ Emraclidine
+15mg QD 
+
+ (N = 122)
+
+ Emraclidine 
+30mg QD 
+
+ (N = 123)
+
+ Baseline (SD)
+
+ 98.3 (8.16)
+
+ 97.6 (7.65)
+
+ 97.9 (7.89)
+
+ 97.4 (8.22)
+
+ 98.0 (8.49)
+
+ 97.2 (7.75)
+
+ LS Mean 
+
+ (95% CI)
+
+ -13.5  
+
+ (-17.0, -10.0)
+
+ -14.7 
+
+ (-18.1, -11.2)
+
+ -16.5 
+
+ (-20.0, -13.1)
+
+ -16.1 
+
+ (-19.4, -12.8)
+
+ -18.5 
+
+ (-22.0, -15.0)
+
+ -14.2 
+
+ (-17.6, -10.8)
+
+ In the EMPOWER trials, emraclidine was well-tolerated with a safety profile comparable to that observed in the Phase 1b trial. The most commonly reported adverse events in EMPOWER-1 and EMPOWER-2, respectively, were headache (9.4% and 10.8% in placebo, 14.1% in EMPOWER-1 10mg and 14.6% in EMPOWER-2 15mg, and 13.2% and 13.0% in 30mg), dry mouth (2.3% and 0.8% in placebo, 3.9% in EMPOWER-1 10mg and 0.8% in EMPOWER-2 15mg, and 9.3% and 5.3% in 30mg), and dyspepsia (3.1% and 1.5% in placebo, 3.9% in EMPOWER-1 10mg, and 3.1% in EMPOWER-2 15mg, and 7.8% and 2.3% in 30mg).
+
+ Neuroscience is a key area of focus for AbbVie. In addition to emraclidine, through the Cerevel acquisition AbbVie gained a neuroscience pipeline of multiple clinical-stage and preclinical candidates that are complementary to the company's existing neuroscience portfolio with leading on-market brands in psychiatry, migraine, and Parkinson's disease.
+
+ About Schizophrenia 
+
+ Schizophrenia is a serious, complex, and debilitating mental health disorder characterized by a constellation of symptoms, including delusions, hallucinations, disorganized speech or behavior, slowed speech and blunted affect. Schizophrenia is also often associated with significant cognitive impairment, which further limits a patient's ability to be gainfully employed and maintain relationships. Diagnosis of schizophrenia is usually made in young adulthood and the disease follows a chronic and indolent course characterized by periods of remission and relapse. 1 Only 20% of patients report favorable treatment outcomes and medication adherence is poor, with a compliance rate of about 60% and a discontinuation rate of 74% within 18 months. Patients who discontinue their medication suffer from high relapse rates of 77% at one year and 90% at two years. 2,3 People with schizophrenia have a 10- to 25-year reduction in life expectancy compared to the general population. 4,5 An estimated 24 million people worldwide suffer from schizophrenia. 6 
+
+ About Emraclidine 
+
+ Emraclidine is a potential novel M4-selective positive allosteric modulator (PAM) in development for schizophrenia and Alzheimer's disease psychosis as a once-daily medication without the need for titration. 7 
+
+ As a highly selective PAM of centrally located M4 muscarinic acetylcholine receptors, emraclidine is designed to potentially reduce excess dopamine signaling in the striatum without blocking dopamine type 2 (D2) receptors. It is hypothesized that by selectively targeting M4 receptors, emraclidine has the potential to reduce psychotic symptoms without interfering with dopamine, serotonin and/or histamine receptors, which is believed to underlie many of the side effects of current antipsychotics. 7  
+
+ EMPOWER Clinical Development Program 
+
+ The EMPOWER clinical development program evaluated emraclidine in patients with schizophrenia who are experiencing an acute exacerbation in two adequately-powered, placebo-controlled Phase 2 trials, known as EMPOWER-1 ( NCT05227690 ) and EMPOWER-2 ( NCT05227703 ). The Phase 2 program was designed to study multiple dosing options to enable the full exploration of the therapeutic dose range for emraclidine.
+
+ The program also includes a 52-week open label extension trial EMPOWER-3 ( NCT05443724 ) evaluating emraclidine in people living with schizophrenia who have stable symptoms and are not currently experiencing an acute exacerbation of psychotic symptoms.
+
+ More information on the EMPOWER trials can be found on  www.clinicaltrials.gov .
+
+ About AbbVie in Neuroscience 
+
+ At AbbVie, our commitment to preserving personhood of people around the world living with neurological and psychiatric disorders is unwavering. With more than three decades of experience in neuroscience, we are providing meaningful treatment options today and advancing innovation for the future. AbbVie's Neuroscience portfolio consists of approved treatments in neurological conditions, including migraine, movement disorders and psychiatric disorders, along with a robust pipeline of transformative therapies. We have made a strong investment in research and are committed to building a deeper understanding of neurological and psychiatric disorders. Every challenge makes us more determined and drives us to discover and deliver advancements for those impacted by these conditions, their care partners and clinicians. For more information, visit www.abbvie.com . 
+
+ About AbbVie 
+
+ AbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas – immunology, oncology, neuroscience, and eye care – and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com . Follow @abbvie on LinkedIn,   Facebook , Instagram , X (formerly Twitter) , and YouTube. 
+
+ Forward-Looking Statements  
+
+ Some statements in this news release are, or may be considered, forward-looking statements for purposes of the Private Securities Litigation Reform Act of 1995. The words "believe," "expect," "anticipate," "project" and similar expressions and uses of future or conditional verbs, generally identify forward-looking statements. AbbVie cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those expressed or implied in the forward-looking statements. Such risks and uncertainties include, but are not limited to, challenges to intellectual property, competition from other products, difficulties inherent in the research and development process, adverse litigation or government action, and changes to laws and regulations applicable to our industry. Additional information about the economic, competitive, governmental, technological and other factors that may affect AbbVie's operations is set forth in Item 1A, "Risk Factors," of AbbVie's 2023 Annual Report on Form 10-K, which has been filed with the Securities and Exchange Commission, as updated by its subsequent Quarterly Reports on Form 10-Q. AbbVie undertakes no obligation, and specifically declines, to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.  
+
+ References 
+
+ Patel KR, Cherian J, Gohil K, Atkinson D. Schizophrenia: overview and treatment options. P T. 2014 Sep;39(9):638-45. PMID: 25210417; PMCID: PMC4159061.
+ Higashi K, Medic G, Littlewood KJ, Diez T, Granström O, De Hert M. Medication adherence in schizophrenia: factors influencing adherence and consequences of nonadherence, a systematic literature review. Ther Adv Psychopharmacol. 2013 Aug;3(4):200-18. doi: 10.1177/2045125312474019. PMID: 24167693; PMCID: PMC3805432.
+ Zipursky RB, Menezes NM, Streiner DL. Risk of symptom recurrence with medication discontinuation in first-episode psychosis: a systematic review. Schizophr Res. 2014 Feb;152(2-3):408-14. doi: 10.1016/j.schres.2013.08.001. Epub 2013 Aug 21. PMID: 23972821.
+ Tanskanen A, Tiihonen J, Taipale H. Mortality in schizophrenia: 30-year nationwide follow-up study. Acta Psychiatr Scand. 2018 Dec;138(6):492-499. doi: 10.1111/acps.12913. Epub 2018 Jun 13. PMID: 29900527.
+ Crump C, Winkleby MA, Sundquist K, Sundquist J. Comorbidities and mortality in persons with schizophrenia: a Swedish national cohort study. Am J Psychiatry. 2013 Mar;170(3):324-33. doi: 10.1176/appi.ajp.2012.12050599. PMID: 23318474.
+ World Health Organization. Schizophrenia. https://www.who.int/news-room/fact-sheets/detail/schizophrenia. Updated January 10, 2022 . Accessed March 31, 2022 .
+ Krystal, John H, et al. Emraclidine, a novel positive allosteric modulator of cholinergic M4 receptors, for the treatment of schizophrenia: a two-part, randomised, double-blind, placebo-controlled, phase 1b trial. The Lancet. 2022; 400(10369): 2210 – 2220. doi: 10.1016/S0140-6736(22)01990-0.
+
+ SOURCE AbbVie
+
+ For further information: Media: Jackie Pacelli, jaquelin.pacelli@abbvie.com; Investors: Liz Shea, liz.shea@abbvie.com
+
+ The information in the press releases on these pages was factually accurate on the date of publication. These press releases remain on AbbVie's website for historical purposes only. AbbVie assumes no duty to update the information to reflect subsequent developments. Readers should not rely upon the information in these pages as current or accurate after their publication dates.
+
+ For more information 
+
+ Contact us » 
+
+ Subscribe for email alerts 
+
+ Sign up 
+
+ Subscription management 
+
+ AbbVie social media 
+
+ twitter 
+ facebook 
+ linkedin 
+ Instagram 
+ youtube 
+
+ We also welcome the opportunity to hear from you in these social channels, but remember we work in a highly-regulated industry with unique legal considerations. Before engaging, please read and adhere to our established community guidelines for each channel.
+
+ View our social media channel guidelines » 
+
+ AbbVie.com 
+ | 
+ Site Map 
+ | 
+ Terms of Use 
+ | 
+ Privacy Notice 
+ | 
+ Consumer Health Data Privacy Notice 
+ | 
+ Cookie Settings 
+ | 
+ Your Privacy Choices 
+
+ Copyright © 2026 AbbVie Inc. North Chicago, Illinois, U.S.A.
+
+ Unless otherwise specified, all product names appearing in this Internet site are trademarks owned by or licensed to AbbVie Inc., its subsidiaries or affiliates. No use of any AbbVie trademark, trade name, or trade dress in this site may be made without the prior written authorization of AbbVie Inc., except to identify the product or services of the company.
+
+ YOU ARE ABOUT TO LEAVE FOR A 3RD PARTY WEBSITE 
+
+ Notice
+
+ The "Yes" link below will take you out of the AbbVie family of websites.
+
+ Links which take you out of the AbbVie worldwide websites are not under the control of AbbVie, and AbbVie is not responsible for the contents of any such site or any further links from such site. AbbVie is providing these links to you only as a convenience and the inclusion of any link does not imply endorsement of the linked site by AbbVie.
+
+ The Internet site that you have requested may not be optimized to your screen size.
+
+ Do you wish to leave this site?
+
+ (opens in a new window)

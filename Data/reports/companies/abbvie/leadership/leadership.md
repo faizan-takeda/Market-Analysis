@@ -1,0 +1,2 @@
+# Leadership (A3)
+CEO succession Gonzalez to Michael [CLM-003076, CLM-003077]. Executive team: Reents (CFO), Stewart (CCO), Thakkar (CSO), Donoghoe, Saleki-Gerhardt [CLM-003078]. Continuity assessment (INTERPRETATION) [CLM-003079]. External innovation as stated strategy [CLM-003075]. Michael (Q4 2025 call, 2026-02-04): record USD 61.2bn ex-IPR&D revenue despite nearly USD 16bn of U.S. Humira erosion, 90 clinical programmes, more than USD 5bn of business development (one call transcript) [CLM-014072]. Gap: Thakkar full biography; R&D philosophy statements beyond 10-K.

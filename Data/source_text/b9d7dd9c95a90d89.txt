@@ -1,0 +1,155 @@
+Lilly Deploys World’s Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD | NVIDIA Blog 
+
+ Skip to content 
+
+ Lilly Deploys World’s Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD
+
+ Built with over 1,000 NVIDIA Blackwell Ultra GPUs, the AI factory will support modern scientific research using foundation models, as well as physical and agentic AI. 
+
+ October 28, 2025 by Rory Kelleher 
+
+ Your browser does not support the video tag.
+
+ Share 
+
+ X 
+
+ Facebook 
+
+ LinkedIn 
+
+ Email 0 
+
+ Lilly, a pioneer in medicine, is deploying the largest, most powerful AI factory wholly owned and operated by a pharmaceutical company — the world’s first NVIDIA DGX SuperPOD with DGX B300 systems .
+
+ Built with 1,016 NVIDIA Blackwell Ultra GPUs and announced today at NVIDIA GTC Washington, D.C., the AI factory is poised to compress drug discovery timelines and enable accelerated breakthroughs in genomics, personalized medicine and molecular design at industrial scale.
+
+ Your browser does not support the video tag. 
+
+ Video courtesy of Lilly. 
+
+ The AI factory will be used to train large scale biomedical foundation and frontier models for drug discovery and development. Select models will be made available on Lilly TuneLab — an AI and machine learning platform that provides biotech companies with access to drug discovery models built on $1 billion worth of Lilly’s proprietary data.
+
+ TuneLab is now the first drug discovery platform to offer Lilly models and NVIDIA Clara open foundation models for healthcare and life sciences, further expanding AI access for the biotech ecosystem.
+
+ TuneLab uses a federated learning infrastructure built on NVIDIA FLARE , which enables biotechs to tap into powerful proprietary AI models while keeping their own data private and separate from other users. As more companies participate, the models improve, benefitting all users.
+
+ “Our foundation models are spawning new possibilities for our chemists, helping them uncover new motifs and configurations of atoms that were out of reach with traditional methods,” said Thomas Fuchs, chief AI officer at Lilly. “AI gives us the means to accelerate progress toward both developing and delivering better, more personalized and targeted medicines.”
+
+ The AI factory is powered by NVIDIA’s full-stack AI factory architecture offered with NVIDIA DGX SuperPOD — including accelerated computing, NVIDIA Spectrum-X Ethernet networking and optimized AI software. This provides a secure, scalable, purpose-built platform for the highly regulated healthcare and life sciences industries.
+
+ NVIDIA Mission Control software allows Lilly to manage its DGX SuperPOD, orchestrate workloads, monitor performance and automate AI operations securely and efficiently across more than 1,000 GPUs.
+
+ AI Applied Across Drug Discovery, Precision Medicine
+ Lilly scientists can use the AI factory to analyze entire genome sequences, predict patient outcomes and explore multitudes of biochemical possibilities.
+
+ “In our 150 years, Lilly has always closely connected science and technology,” said Diogo Rau, executive vice president and chief information and digital officer at Lilly. “If you focus only on science, you’re just going to have an experiment, a paper or a treatment — but if you bring together science and technology, like the accelerated compute we’re getting through this AI factory, you can reach a massive scale to bring the treatment to millions of people.”
+
+ Using the NVIDIA BioNeMo platform, Lilly can train AI models that combine the learnings of millions of past experiments with public research to generate and test new antibodies, nanobodies and novel molecules with greater accuracy and speed than ever.
+
+ The AI factory can also be applied to help discover new biomarkers and design gene therapies for degenerative conditions, Fuchs said.
+
+ Your browser does not support HTML5 video.
+
+ Video courtesy of Lilly. 
+
+ And the impact extends beyond drug discovery.
+
+ Using the AI factory, the company can build large language models that accelerate clinical trials by helping with medical writing and other internal workflows.
+
+ And combined with the open-source MONAI framework, the AI factory can accelerate Lilly’s imaging-based research in precision medicine. Deep learning on massive imaging datasets can reduce processing time from months to days, allowing for quicker, more personalized treatments.
+
+ Research and Biomanufacturing With Physical and Agentic AI
+ The AI factory is poised to enhance Lilly’s capacity to manufacture high-demand medications and strengthen supply chain reliability, including through the use of physical AI .
+
+ Your browser does not support the video tag. 
+
+ Video courtesy of Lilly 
+
+ With technologies like the NVIDIA Omniverse platform and NVIDIA RTX PRO Servers , the pharma company can create digital twins of its manufacturing lines to model, stress-test and optimize entire supply chains before making physical changes in the real world.
+
+ Digital twins can increase production safety while accelerating quality assurance and other biomanufacturing operations, ultimately getting medicines to patients faster.
+
+ Lilly also uses robots in its factories for quality inspection and transport of goods — such as medicines and treatment components like injectors — optimizing operations and keeping production lines up and running.
+
+ Your browser does not support the video tag. 
+
+ Video courtesy of Lilly. 
+
+ “Machinery downtime can mean significant delays in getting patients the medicines they rely on,” Fuchs said. “We’re focused on optimizing systems and driving toward peak performance using AI.”
+
+ With the NVIDIA Isaac platform, Lilly can deploy intelligent robotics to modernize therapeutics production and support the workforce. NVIDIA Isaac Sim , for example, lets developers simulate and test AI-driven robotics solutions that can be adapted to pharma workflows.
+
+ Plus, using NVIDIA NeMo software, Lilly can create AI agents that can reason, plan and act across digital and physical labs, with the goal of helping to generate new molecules, design treatments in silico and test them in vitro.
+
+ “AI agents can work 24/7 and explore ideas that humans might not have the time or capacity to experiment with,” Rau said. “At the end of the day, it’s all about human learning — not machine learning. Machines are helping make humans smarter by stimulating new ideas for new molecules.”
+
+ Fueling US Leadership and Economic Growth
+ Lilly is already ranked the No. 1 most AI-ready pharma company, according to CB Insights , cited as having the highest AI innovation score and the most partnerships with AI-enabled drug development platforms in the industry.
+
+ Now, the new AI factory positions Lilly as an AI-native U.S. and global pharma leader.
+
+ The leap in computing power is immense.
+
+ In 1992, Lilly’s Cray supercomputer was the pinnacle of scientific computing. Today, a single NVIDIA Blackwell Ultra GPU in the new AI factory contains the power of approximately 7 million Cray systems.
+
+ And since the AI factory comprises 1,016 Blackwell Ultra GPUs, it delivers over 9,000 petaflops of AI performance. This means it can do over 9 quintillion math problems every second.
+
+ The collaboration with NVIDIA is a cornerstone of Lilly’s innovation blueprint, building on its $50 billion commitment to expanding its U.S. manufacturing and R&D footprint. This commitment includes four new facilities and a proposed $4.5 billion lab in Indiana, called the Lilly Medicine Foundry , for advanced manufacturing and drug development.
+
+ Combined, these initiatives are poised to create 13,000 high-wage manufacturing and construction jobs. The Medicine Foundry will also create approximately 500 new jobs, including for engineers, scientists, operations personnel and lab technicians.
+
+ Turning proprietary data into intelligence supports Lilly in helping patients while creating economic value and fueling U.S. leadership in advanced manufacturing and regulated industries.
+
+ “We’re just scratching the surface of what’s possible with AI in medicine design and development,” Fuchs said. “This new AI factory and our collaborations across the whole biotech community will fundamentally change how we design, build and develop medicines.”
+
+ Watch the GTC Washington, D.C., keynote from NVIDIA founder and CEO Jensen Huang and explore sessions . 
+
+ Categories: 
+ AI  
+ AI Infrastructure 
+
+ Tags: 
+ AI Factory AI for Good Artificial Intelligence Digital Twin GTC 2025 Healthcare and Life Sciences High-Performance Computing Industrial and Manufacturing NVIDIA Clara NVIDIA DGX Omniverse Scientific Visualization Simulation and Design Supercomputing 
+
+ Related News
+
+ NVIDIA RTX Spark Compact Desktops Out Now 
+
+ New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.... 
+
+ NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab 
+
+ At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a... 
+
+ NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance 
+
+ In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.  NVIDIA swept every MLPerf Training v6.1 benchmark... 
+
+ CUDA at 20: How the Platform Transformed Scientific Computing 
+
+ This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. ... 
+
+  Share This 
+  Facebook 
+  LinkedIn 
+
+ Share on Mastodon
+
+ Enter your Mastodon instance URL (optional) 
+
+ Share 
+
+ Share this Article 
+
+ Friend's Email Address 
+
+ Your Name 
+
+ Your Email Address 
+
+ Comments 
+
+ Send Email 
+
+ Email sent!

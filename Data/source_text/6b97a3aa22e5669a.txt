@@ -1,0 +1,158 @@
+1. N Engl J Med. 2024 Oct 24;391(16):1486-1498. doi: 10.1056/NEJMoa2403614. Epub 
+2024 Jun 26.
+
+Amivantamab plus Lazertinib in Previously Untreated EGFR-Mutated Advanced NSCLC.
+
+Cho BC(1), Lu S(1), Felip E(1), Spira AI(1), Girard N(1), Lee JS(1), Lee SH(1), 
+Ostapenko Y(1), Danchaivijitr P(1), Liu B(1), Alip A(1), Korbenfeld E(1), Mourão 
+Dias J(1), Besse B(1), Lee KH(1), Xiong H(1), How SH(1), Cheng Y(1), Chang 
+GC(1), Yoshioka H(1), Yang JC(1), Thomas M(1), Nguyen D(1), Ou SI(1), Mukhedkar 
+S(1), Prabhash K(1), D'Arcangelo M(1), Alatorre-Alexander J(1), Vázquez Limón 
+JC(1), Alves S(1), Stroyakovskiy D(1), Peregudova M(1), Şendur MAN(1), Yazici 
+O(1), Califano R(1), Gutiérrez Calderón V(1), de Marinis F(1), Passaro A(1), Kim 
+SW(1), Gadgeel SM(1), Xie J(1), Sun T(1), Martinez M(1), Ennis M(1), Fennema 
+E(1), Daksh M(1), Millington D(1), Leconte I(1), Iwasawa R(1), Lorenzini P(1), 
+Baig M(1), Shah S(1), Bauml JM(1), Shreeve SM(1), Sethi S(1), Knoblauch RE(1), 
+Hayashi H(1); MARIPOSA Investigators.
+
+Collaborators: Aguilar A, Ahmad AR, Alatorre-Alexander J, Aleixo S, Alip A, 
+Alvarez R, Alves S, Andabekov T, Araujo A, Arslan C, Artac M, Azuma K, Baldotto 
+C, Bosch Barrera J, Bayona C, Besse B, Biesma B, Bilici A, Blasco A, Bondarenko 
+I, Boom L, Bowyer S, Bria E, Brocca CA, Califano R, Cao B, Caro RB, Chang GC, 
+Charoentum C, Chen J, Chen Y, Cheng Y, Cho BC, Chuken YL, Cil T, Claessens N, 
+Colinet B, Cortinovis D, Cortot A, Costa MV, Carcereny Costa E, Cousin S, Silva 
+Melo Cruz FJ, Cruz-Correa M, Danchaivijitr P, D'Arcangelo M, De Castro J, De 
+Castro Junior G, Delmonte A, De Marinis F, Demedts I, Dooms C, Dziadziuszko R, 
+Eigendorff E, Enriquez MI, Erdogan B, Fang J, Fang Y, Felip E, Fernandez de 
+Sanmamed M, Ferreira CGM, Fischer J, Forster M, Franke F, Freitas H, Fujimoto D, 
+Gadgeel S, Gaffar Y, Galffy G, Ganguly S, Gao B, Garcia Campelo MDR, García 
+Montes LV, Gelatti AC, Gessner C, Girard N, Gottfried M, Griesinger F, Gumus M, 
+Guo Z, Gutiérrez Calderón V, Han Z, Hasmucrai D, Hataji O, Hayashi H, Helissey 
+C, Hernandez O, Hoo HFS, How SH, Hsia TC, Hu Y, Hung JY, Ichihara E, Isla D, 
+Jain M, Ji M, Jotte R, Juergens R, Kaen DL, Kang E, Kang JH, Kawamura T, 
+Kazarnowicz A, Khan S, Kim SW, Kim YJ, Kimmich M, Kiraly Z, Kislov N, Kitazono 
+S, Korbenfeld E, Kowalski D, Kowalyszyn R, Kuyama S, Lee JS, Lee KY, Lee KH, Lee 
+SH, Lee S, Lee YG, Leonov O, Leonova V, Li J, Li J, Li W, Li Y, Lim CS, Lin CC, 
+Liu B, Liu C, Lu S, Liu Z, Lv D, MacKean M, Maeda T, Majem M, Martin C, 
+Matrosova M, Matsumoto S, Merimsky O, Mimori T, Misch D, Mohan MK, Mori M, 
+Moro-Sibilot D, Mourao Dias J, Mukhedkar S, Nagaiah G, Nagarkar R, Newsom-Davis 
+T, Nguyen D, Nogami N, Novello S, O'Byrne K, Odintsova S, Ogliari F, Osipov M, 
+Ostapenko Y, Ostoros G, Ou SI, Owen S, Oyamada Y, Ozguroglu M, Ozyilkan O, Pádua 
+CAJ, Papai-Szekely Z, Parakh S, Parente B, Soto Parra HJ, Passaro A, Paz-Ares L, 
+Peguero J, Perdrizet K, Peregudova M, Peressoni M, Peretz I, Pichon E, Piet B, 
+Pieters T, Pikiel J, Pires LA, Pirmagomedov A, Poncin R, Ponomarenko D, 
+Pons-Tostivint E, Popat S, Prabhash K, Prasongsook N, Proto C, Provencio M, 
+Prygara D, Ramlau R, Reinmuth N, Rekuta A, Richardson G, Rocco D, Rodriguez JR, 
+Rousey S, Sacco PC, Sakaeva D, Santoro A, Santos V, Schuette W, Schuler M, 
+Semiglazova T, Sendur MAN, Shen H, Shinno Y, Spigel DR, Spira AI, Oliveira SCS, 
+Stoelben E, Stroyakovskiy D, Sukumaran S, Sun P, Sunpaweravong P, Szima B, 
+Takeoka H, Tanaka H, Tang K, Thiagarajan M, Thomas M, Tiscoski K, Tishchenko A, 
+Tomasini P, Urban D, Urbán L, Usynin E, Uyeki J, Vázquez Limón JC, Veillon R, 
+Vergnenegre A, Wang B, Wang CC, Wang J, Wei YF, Wheatley-Price P, Wong KYM, Wu 
+L, Xiong H, Yang JC, Yao Y, Yazici O, Yoshii A, Yoshioka H, Zhang Y, Zhao J, 
+Zhao Y, Zhong D, Zhou L, Zhou X, Zukov R, Zurawski B.
+
+Author information:
+(1)From the Division of Medical Oncology, Yonsei Cancer Center, Yonsei 
+University College of Medicine (B.C.C.), Samsung Medical Center, Sungkyunkwan 
+University School of Medicine (S.-H.L.), and the Lung Cancer Center, Asan 
+Medical Center Cancer Institute (S.-W.K.), Seoul, the Department of 
+Hematology-Oncology, Seoul National University Bundang Hospital, Seongnam 
+(J.-S.L.), and the Medical Department, Chungbuk National University Hospital, 
+Cheongju (K.-H.L.) - all in South Korea; the Department of Medical Oncology, 
+Shanghai Chest Hospital, School of Medicine, Shanghai Jiao Tong University, 
+Shanghai (S.L.), Harbin Medical University Cancer Hospital, Harbin (B.L.), the 
+Department of Medical Oncology, Huizhou Municipal Central Hospital of Guangdong 
+Province, Huizhou (H.X.), and Jilin Cancer Hospital, Changchun (Y.C.) - all in 
+China; the Medical Oncology Service, Vall d'Hebron Barcelona Hospital 
+Campus-Vall d'Hebron University Hospital, Barcelona (E. Felip), and the Medical 
+Oncology Department, Hospital Regional Universitario de Málaga y Virgen de la 
+Victoria, Institute of Biomedical Research of Malaga, Malaga (V.G.C.) - both in 
+Spain; Virginia Cancer Specialists, Fairfax (A.I.S.); Institut Curie, Institut 
+du Thorax Curie-Montsouris, Paris (N.G.), and Paris-Saclay University, 
+Université de Versailles Saint-Quentin-en-Yvelines, Versailles (N.G.), and 
+Paris-Saclay University and Institut Gustave Roussy, Villejuif (B.B.) - all in 
+France; the National Cancer Institute, Kyiv, Ukraine (Y.O.); the Division of 
+Medical Oncology, Department of Medicine, Siriraj Hospital Faculty of Medicine, 
+Mahidol University Bangkok Noi Campus, Bangkok, Thailand (P.D.); the Clinical 
+Oncology Unit, Faculty of Medicine, University of Malaya, Kuala Lumpur (A.A.), 
+and the Department of Internal Medicine, Division of Respiratory Medicine, 
+International Islamic University Malaysia Medical Specialist Center, Pahang 
+(S.-H.H.) - both in Malaysia; British Hospital of Buenos Aires, Central British 
+Hospital, Buenos Aires (E.K.); the Department of Medical Oncology, Barretos 
+Cancer Hospital, São Paulo (J.M.D.); the School of Medicine and Institute of 
+Medicine, Chung Shan Medical University, and the Division of Pulmonary Medicine, 
+Department of Internal Medicine, Chung Shan Medical University Hospital, 
+Taichung (G.-C.C.), and the Department of Medical Oncology, National Taiwan 
+University Cancer Center, Taipei (J.C.-H.Y.) - both in Taiwan; the Department of 
+Thoracic Oncology, Kansai Medical University Hospital, Hirakata (H.Y.), and the 
+Department of Medical Oncology, Kindai University Faculty of Medicine, Osaka 
+(H.H.) - both in Japan; the Department of Thoracic Oncology, Thoraxklinik, 
+Heidelberg University Hospital, and the National Center for Tumor Diseases 
+Heidelberg, German Center for Lung Research, Heidelberg, Germany (M.T.); City of 
+Hope National Medical Center, Duarte (D.N.), Chao Family Comprehensive Cancer 
+Center, University of California, Irvine, School of Medicine, Orange 
+(S.-H.I.O.), and Janssen Research and Development, San Diego (E. Fennema, D.M., 
+S.M.S.) - all in California; St. John of God Murdoch Hospital, Murdoch, WA, 
+Australia (S.M.); the Department of Medical Oncology, Division of Adult Solid 
+Tumor, Tata Memorial Center and Homi Bhabha National Institute, Mumbai, India 
+(K.P.); the Local Health Unit Authority of Romagna, Ravenna Hospital and 
+Department of Onco-Hematology, Santa Maria delle Croci Hospital of Ravenna, 
+Ravenna (M. D'Arcangelo), and the Division of Thoracic Oncology, European 
+Institute of Oncology IRCCS, Milan (F.M., A.P.) - both in Italy; Health Pharma 
+Professional Research, Mexico City (J.A.-A.), Oncología Médica, Antiguo Hospital 
+Civil de Guadalajara "Fray Antonio Alcalde," Guadalajara, and Universidad de 
+Guadalajara, Guadalajara (J.C.V.L.) - all in Mexico; Instituto Português de 
+Oncologia do Porto, Porto, Portugal (S.A.); Moscow City Oncology Hospital No. 62 
+(D.S.) and the Medical Center in Kolomenskoe (M.P.) - both in Moscow; the 
+Department of Medical Oncology, Ankara Bilkent City Hospital and Ankara Yıldırım 
+Beyazıt University (M.A.N.Ş.), and the Department of Medical Oncology, Gazi 
+University Faculty of Medicine (O.Y.) - both in Ankara, Turkey; the Department 
+of Medical Oncology, Christie NHS Foundation Trust and Division of Cancer 
+Sciences, University of Manchester, Manchester, United Kingdom (R.C.); the 
+Division of Hematology-Oncology, Henry Ford Cancer Institute, Henry Ford Health, 
+Detroit (S.M.G.); Janssen Research and Development, Raritan, NJ (J.X., T.S., 
+M.M., M. Daksh, M.B.); Janssen Research and Development, Spring House, PA (M.E., 
+R.I., P.L., S. Shah, J.M.B., S. Sethi, R.E.K.); and Johnson and Johnson Clinical 
+Innovation, Campus Basel, Allschwil, Switzerland (I.L.).
+
+Comment in
+ N Engl J Med. 2025 Feb 6;392(6):619-620. doi: 10.1056/NEJMc2414705.
+ N Engl J Med. 2025 Feb 6;392(6):620-621. doi: 10.1056/NEJMc2414705.
+
+BACKGROUND: Amivantamab plus lazertinib (amivantamab-lazertinib) has shown 
+clinically meaningful and durable antitumor activity in patients with previously 
+untreated or osimertinib-pretreated EGFR (epidermal growth factor 
+receptor)-mutated advanced non-small-cell lung cancer (NSCLC).
+METHODS: In a phase 3, international, randomized trial, we assigned, in a 2:2:1 
+ratio, patients with previously untreated EGFR-mutated (exon 19 deletion or 
+L858R), locally advanced or metastatic NSCLC to receive amivantamab-lazertinib 
+(in an open-label fashion), osimertinib (in a blinded fashion), or lazertinib 
+(in a blinded fashion, to assess the contribution of treatment components). The 
+primary end point was progression-free survival in the amivantamab-lazertinib 
+group as compared with the osimertinib group, as assessed by blinded independent 
+central review.
+RESULTS: Overall, 1074 patients underwent randomization (429 to 
+amivantamab-lazertinib, 429 to osimertinib, and 216 to lazertinib). The median 
+progression-free survival was significantly longer in the amivantamab-lazertinib 
+group than in the osimertinib group (23.7 vs. 16.6 months; hazard ratio for 
+disease progression or death, 0.70; 95% confidence interval [CI], 0.58 to 0.85; 
+P<0.001). An objective response was observed in 86% of the patients (95% CI, 83 
+to 89) in the amivantamab-lazertinib group and in 85% of those (95% CI, 81 to 
+88) in the osimertinib group; among patients with a confirmed response (336 in 
+the amivantamab-lazertinib group and 314 in the osimertinib group), the median 
+response duration was 25.8 months (95% CI, 20.1 to could not be estimated) and 
+16.8 months (95% CI, 14.8 to 18.5), respectively. In a planned interim overall 
+survival analysis of amivantamab-lazertinib as compared with osimertinib, the 
+hazard ratio for death was 0.80 (95% CI, 0.61 to 1.05). Predominant adverse 
+events were EGFR-related toxic effects. The incidence of discontinuation of all 
+agents due to treatment-related adverse events was 10% with 
+amivantamab-lazertinib and 3% with osimertinib.
+CONCLUSIONS: Amivantamab-lazertinib showed superior efficacy to osimertinib as 
+first-line treatment in EGFR-mutated advanced NSCLC. (Funded by Janssen Research 
+and Development; MARIPOSA ClinicalTrials.gov number, NCT04487080.).
+
+Copyright © 2024 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2403614
+PMID: 38924756 [Indexed for MEDLINE]

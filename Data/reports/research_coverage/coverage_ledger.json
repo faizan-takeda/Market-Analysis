@@ -1,0 +1,1111 @@
+{
+ "_about": "Coverage ledger: expected source families x company, with what was discovered, reviewed, unavailable. Status values: not_started | discovered | partially_reviewed | reviewed | unavailable. Updated at every checkpoint by the Director. Source families follow master prompt \u00a77.",
+ "updated_at": "2026-11-21T14:38:33+00:00",
+ "totals": {
+  "sources": 524,
+  "claims": 1401,
+  "claims_by_company": {
+   "ABBV": 339,
+   "JNJ": 331,
+   "LLY": 386,
+   "TAK": 292,
+   "MULTI": 1,
+   "INDUSTRY": 99
+  }
+ },
+ "rows": [
+  {
+   "company": "LLY",
+   "family": "10-K annual reports FY2021-FY2025",
+   "status": "partially_reviewed",
+   "discovered": 5,
+   "reviewed": 1,
+   "notes": "All five indexed (SRC metadata); FY2025 10-K full text retrieved and mined (RUN-0002). FY2021-2024 text not yet read; XBRL values for all five years ingested. | All 5 filings downloaded and text-extracted (extracted_text/sec/); only FY2025 mined so far.",
+   "gap": "Read FY2021-2024 MD&A for transformation timeline"
+  },
+  {
+   "company": "LLY",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "14 concepts x FY2021-2025",
+   "gap": null
+  },
+  {
+   "company": "LLY",
+   "family": "Earnings releases / transcripts",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "Q4 calls 2022-2025 for guidance vs. delivery"
+  },
+  {
+   "company": "LLY",
+   "family": "Investor / R&D day decks",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": null
+  },
+  {
+   "company": "LLY",
+   "family": "Leadership interviews (CEO/CFO/CSO/CIDO)",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "Ricks, Ashkenazi, Skovronsky, Diogo Rau"
+  },
+  {
+   "company": "LLY",
+   "family": "Technology/AI announcements",
+   "status": "partially_reviewed",
+   "discovered": 3,
+   "reviewed": 2,
+   "notes": "TuneLab (full), NVIDIA lab (full); AI factory original release open",
+   "gap": "XtalPi, Isomorphic, OpenAI, Insilico partnerships; Lilly Direct"
+  },
+  {
+   "company": "LLY",
+   "family": "Clinical trials / FDA decisions",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "orforglipron, retatrutide, Kisunla label history"
+  },
+  {
+   "company": "LLY",
+   "family": "Lobbying disclosures (LDA)",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": null
+  },
+  {
+   "company": "LLY",
+   "family": "Independent reporting",
+   "status": "discovered",
+   "discovered": 1,
+   "reviewed": 0,
+   "notes": "BioPharma Dive TuneLab (metadata)",
+   "gap": "Reuters/STAT/FT on manufacturing build-out and pricing"
+  },
+  {
+   "company": "JNJ",
+   "family": "10-K annual reports FY2021-FY2025",
+   "status": "partially_reviewed",
+   "discovered": 5,
+   "reviewed": 1,
+   "notes": "FY2025 10-K mined; Kenvue separation (2023) comparability flagged | All 5 filings downloaded and text-extracted (extracted_text/sec/); only FY2025 mined so far.",
+   "gap": "Restated continuing-ops series for 2021-2022"
+  },
+  {
+   "company": "JNJ",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "13 concepts x FY2021-2025; 52/53-week years mapped",
+   "gap": "Operating income not tagged; pre-tax used"
+  },
+  {
+   "company": "JNJ",
+   "family": "Earnings releases / transcripts",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": null
+  },
+  {
+   "company": "JNJ",
+   "family": "Technology/AI/robotics announcements",
+   "status": "partially_reviewed",
+   "discovered": 3,
+   "reviewed": 1,
+   "notes": "OTTAVA FDA (full), first install (snippet), MedTech Dive (metadata)",
+   "gap": "MONARCH, VELYS, Polyphonic digital surgery; J&J AI publications"
+  },
+  {
+   "company": "JNJ",
+   "family": "Clinical trials / FDA decisions",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "Rybrevant/Lazcluze, nipocalimab, icotrokinra, TAR-200"
+  },
+  {
+   "company": "JNJ",
+   "family": "Litigation (talc) disclosures",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": "Material to 2023-2024 earnings swings",
+   "gap": null
+  },
+  {
+   "company": "JNJ",
+   "family": "Lobbying disclosures (LDA)",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": null
+  },
+  {
+   "company": "ABBV",
+   "family": "10-K annual reports FY2021-FY2025",
+   "status": "partially_reviewed",
+   "discovered": 5,
+   "reviewed": 1,
+   "notes": "FY2025 10-K mined (Humira/Skyrizi/Rinvoq series, Cerevel, emraclidine) | All 5 filings downloaded and text-extracted (extracted_text/sec/); only FY2025 mined so far.",
+   "gap": "Allergan integration narrative 2021-2022"
+  },
+  {
+   "company": "ABBV",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "14 concepts x FY2021-2025",
+   "gap": null
+  },
+  {
+   "company": "ABBV",
+   "family": "Technology/AI announcements",
+   "status": "partially_reviewed",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "Valkai (full)",
+   "gap": "ARCH/Abbvie AI in R&D publications; Allergan Aesthetics digital"
+  },
+  {
+   "company": "ABBV",
+   "family": "Clinical trials / FDA decisions",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "Elahere, Epkinly, tavapadon, Emrelis"
+  },
+  {
+   "company": "ABBV",
+   "family": "Lobbying disclosures (LDA)",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": null
+  },
+  {
+   "company": "TAK",
+   "family": "20-F / integrated reports FY2021-FY2025",
+   "status": "partially_reviewed",
+   "discovered": 5,
+   "reviewed": 1,
+   "notes": "FY2025 20-F (period to Mar 2026) mined; XBRL lacks FY2025 so headline figures hand-extracted | All 5 filings downloaded and text-extracted (extracted_text/sec/); only FY2025 mined so far.",
+   "gap": "Annual Integrated Report narrative; pipeline page"
+  },
+  {
+   "company": "TAK",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "9 IFRS concepts x FY2021-FY2024",
+   "gap": "FY2025 not in companyfacts API as of retrieval"
+  },
+  {
+   "company": "TAK",
+   "family": "Data/AI/digital evidence",
+   "status": "discovered",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "Risk-factor disclosure only",
+   "gap": "Takeda digital/AI publications; plasma automation"
+  },
+  {
+   "company": "TAK",
+   "family": "Pipeline (takeda.com/science/pipeline)",
+   "status": "not_started",
+   "discovered": 0,
+   "reviewed": 0,
+   "notes": null,
+   "gap": "oveporexton, zasocitinib, rusfertide, fazirsiran"
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Policy (IRA, Medicare negotiation, tariffs, MFN)",
+   "status": "discovered",
+   "discovered": 1,
+   "reviewed": 1,
+   "notes": "Lilly 10-K mentions 2025 pricing agreements",
+   "gap": "CMS negotiation lists; LDA filings"
+  },
+  {
+   "company": "METHODOLOGY",
+   "family": "Research-agent methodology references",
+   "status": "reviewed",
+   "discovered": 9,
+   "reviewed": 9,
+   "notes": "Karpathy, Anthropic x3, OpenAI, Kiro docs x3",
+   "gap": null
+  },
+  {
+   "company": "LLY",
+   "family": "Clinical trial registry",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 27,
+   "reviewed": 27,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Company press releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 43,
+   "reviewed": 41,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Company web pages",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 1,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Earnings releases",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 3,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Earnings transcripts",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Government data & records",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 1,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Independent reporting",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 1,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Industry / analyst reports",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 0,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Investor / R&D day decks",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Leadership interviews / transcripts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Lobbying / political disclosures",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Other",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 0,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Patents",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Peer-reviewed publications",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 10,
+   "reviewed": 10,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Public dataset APIs",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 1,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Regulator records (FDA/EMA)",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 24,
+   "reviewed": 22,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "SEC filings (10-K/20-F/8-K/6-K)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 14,
+   "reviewed": 14,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "LLY",
+   "family": "Trade press",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 12,
+   "reviewed": 8,
+   "metadata_only": 3,
+   "unavailable": 1
+  },
+  {
+   "company": "LLY",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Clinical trial registry",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 15,
+   "reviewed": 15,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Company press releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 31,
+   "reviewed": 30,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Company web pages",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 4,
+   "reviewed": 4,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Earnings releases",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Earnings transcripts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Government data & records",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 1,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Independent reporting",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 4,
+   "reviewed": 2,
+   "metadata_only": 1,
+   "unavailable": 1
+  },
+  {
+   "company": "JNJ",
+   "family": "Industry / analyst reports",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Investor / R&D day decks",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Leadership interviews / transcripts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Lobbying / political disclosures",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Other",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Patents",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Peer-reviewed publications",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 4,
+   "reviewed": 4,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Public dataset APIs",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Regulator records (FDA/EMA)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 29,
+   "reviewed": 29,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "SEC filings (10-K/20-F/8-K/6-K)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 14,
+   "reviewed": 14,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "Trade press",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 9,
+   "reviewed": 7,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "JNJ",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Clinical trial registry",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 17,
+   "reviewed": 17,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Company press releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 23,
+   "reviewed": 19,
+   "metadata_only": 4,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Company web pages",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 0,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Earnings releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 1,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Earnings transcripts",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 1,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Government data & records",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 2,
+   "metadata_only": 0,
+   "unavailable": 1
+  },
+  {
+   "company": "ABBV",
+   "family": "Independent reporting",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 1,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Industry / analyst reports",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Investor / R&D day decks",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Leadership interviews / transcripts",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Lobbying / political disclosures",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 1
+  },
+  {
+   "company": "ABBV",
+   "family": "Patents",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Peer-reviewed publications",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 3,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Public dataset APIs",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Regulator records (FDA/EMA)",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 18,
+   "reviewed": 17,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "SEC filings (10-K/20-F/8-K/6-K)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 15,
+   "reviewed": 15,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "ABBV",
+   "family": "Trade press",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 11,
+   "reviewed": 5,
+   "metadata_only": 3,
+   "unavailable": 3
+  },
+  {
+   "company": "ABBV",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Annual / integrated reports",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 2,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Clinical trial registry",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 24,
+   "reviewed": 24,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Company press releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 15,
+   "reviewed": 13,
+   "metadata_only": 1,
+   "unavailable": 1
+  },
+  {
+   "company": "TAK",
+   "family": "Company web pages",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 9,
+   "reviewed": 5,
+   "metadata_only": 4,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Earnings releases",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Earnings transcripts",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Government data & records",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Independent reporting",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 1
+  },
+  {
+   "company": "TAK",
+   "family": "Industry / analyst reports",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 0,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Investor / R&D day decks",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 2,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Leadership interviews / transcripts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 2,
+   "reviewed": 2,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Lobbying / political disclosures",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Other",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 0,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Patents",
+   "status": "not_started",
+   "computed": true,
+   "discovered": 0,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Peer-reviewed publications",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 4,
+   "reviewed": 4,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Regulator records (FDA/EMA)",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 9,
+   "reviewed": 8,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "SEC filings (10-K/20-F/8-K/6-K)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 13,
+   "reviewed": 13,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "TAK",
+   "family": "Trade press",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 10,
+   "reviewed": 6,
+   "metadata_only": 2,
+   "unavailable": 2
+  },
+  {
+   "company": "TAK",
+   "family": "XBRL financial facts",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 1,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Company press releases",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 2,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Company web pages",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 4,
+   "reviewed": 3,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Government data & records",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 9,
+   "reviewed": 9,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Independent reporting",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 1,
+   "metadata_only": 2,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Lobbying / political disclosures",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 1
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Other",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 3,
+   "reviewed": 2,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Public dataset APIs",
+   "status": "discovered",
+   "computed": true,
+   "discovered": 1,
+   "reviewed": 0,
+   "metadata_only": 0,
+   "unavailable": 1
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Regulator records (FDA/EMA)",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 7,
+   "reviewed": 6,
+   "metadata_only": 1,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "SEC filings (10-K/20-F/8-K/6-K)",
+   "status": "reviewed",
+   "computed": true,
+   "discovered": 6,
+   "reviewed": 6,
+   "metadata_only": 0,
+   "unavailable": 0
+  },
+  {
+   "company": "INDUSTRY",
+   "family": "Trade press",
+   "status": "partially_reviewed",
+   "computed": true,
+   "discovered": 16,
+   "reviewed": 13,
+   "metadata_only": 2,
+   "unavailable": 1
+  }
+ ]
+}

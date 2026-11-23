@@ -1,0 +1,658 @@
+{
+"available": true,
+"path": "New_mediciine/industry_transformation/ai_data_robotics/maturity_matrix.md",
+"rows": [
+{
+"companies": [
+"LLY"
+],
+"initiative": "TuneLab platform",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-000280",
+"CLM-006008"
+],
+"outcome_evidence": "N",
+"note": "Live; no uptake or scientific outcome disclosed",
+"domains": [
+"competitive_advantage",
+"data_ai",
+"partnerships_ma"
+],
+"years": [
+2025,
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "TuneLab third-party distribution (Benchling, Revvity)",
+"maturity_raw": "pilot",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-006008"
+],
+"outcome_evidence": "N",
+"note": "Opt-in \"later this year\"",
+"domains": [
+"data_ai"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "LillyPod AI factory",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006003",
+"CLM-006004",
+"CLM-006007"
+],
+"outcome_evidence": "N",
+"note": "Infrastructure online; no results [CLM-006007]",
+"domains": [
+"data_ai"
+],
+"years": [
+2025,
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "NVIDIA co-innovation lab",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-000281"
+],
+"outcome_evidence": "N",
+"note": "Up to USD 1 bn over five years, announced 2026-01-12",
+"domains": [
+"data_ai",
+"partnerships_ma",
+"robotics_automation"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Manufacturing digital twins and plant robots",
+"maturity_raw": "pilot",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-006006"
+],
+"outcome_evidence": "N",
+"note": "Vendor statement only",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Isomorphic Labs collaboration",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-006012"
+],
+"outcome_evidence": "N",
+"note": "USD 45 m upfront; no candidate disclosed",
+"domains": [
+"partnerships_ma"
+],
+"years": [
+2024
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "OpenAI antimicrobial collaboration",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-006011"
+],
+"outcome_evidence": "N",
+"note": "No terms or results; date June 2024",
+"domains": [
+"data_ai"
+],
+"years": [
+2024
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "insitro ADMET models",
+"maturity_raw": "prototype",
+"maturity": "PROTOTYPE",
+"claim_ids": [
+"CLM-006009"
+],
+"outcome_evidence": "N",
+"note": "In build",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Chai Discovery custom antibody model",
+"maturity_raw": "prototype",
+"maturity": "PROTOTYPE",
+"claim_ids": [
+"CLM-006010"
+],
+"outcome_evidence": "N",
+"note": "Hit-rate claim is Chai's own",
+"domains": [
+"data_ai"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Life Sciences Studio / Strateos remote lab",
+"maturity_raw": "operational then divested",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006013",
+"CLM-006017"
+],
+"outcome_evidence": "N",
+"note": "Documented retreat; sold 2024",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2024
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Lebanon Advanced Therapies plant (robotic dosing)",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006002"
+],
+"outcome_evidence": "N",
+"note": "Opened 2026-05-06; no metrics",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"LLY"
+],
+"initiative": "Lilly Medicine Foundry",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-006000",
+"CLM-006001"
+],
+"outcome_evidence": "N",
+"note": "Opening late 2027",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2024,
+2026
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "Enterprise gen-AI portfolio (about 900 use cases reviewed)",
+"maturity_raw": "pilot to operational",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-006018",
+"CLM-006019"
+],
+"outcome_evidence": "N",
+"note": "Self-reported metrics only",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "AI trial-site recommendation",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006020"
+],
+"outcome_evidence": "N",
+"note": "\"Up to 2.6x\" enrolment, self-reported",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "Gen-AI quality-control tool",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006021"
+],
+"outcome_evidence": "N",
+"note": "Weeks to minutes, self-reported",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "AI image analytics in discovery (biosignature)",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006024"
+],
+"outcome_evidence": "N",
+"note": "Qualitative claim",
+"domains": [
+"scientific_rd"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "OTTAVA",
+"maturity_raw": "pilot",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006028",
+"CLM-006029"
+],
+"outcome_evidence": "Y (regulatory) / N (clinical-commercial)",
+"note": "De Novo verified; one installation",
+"domains": [
+"commercial_market_access",
+"pipeline",
+"policy_regulation",
+"robotics_automation"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "MONARCH (QUEST 3)",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006027"
+],
+"outcome_evidence": "Y (regulatory clearance only)",
+"note": "Installed base undisclosed",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "VELYS",
+"maturity_raw": "scaled (INTERPRETATION)",
+"maturity": "SCALED",
+"claim_ids": [
+"CLM-006026"
+],
+"outcome_evidence": "N",
+"note": "Pull-through noted in 10-K; no counts",
+"domains": [
+"robotics_automation"
+],
+"years": []
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "Polyphonic early access",
+"maturity_raw": "pilot",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-006030"
+],
+"outcome_evidence": "N",
+"note": "\"Select hospitals only\"",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"JNJ"
+],
+"initiative": "Polyphonic Abu Dhabi network",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-006031"
+],
+"outcome_evidence": "N",
+"note": "Deployment \"expected\"",
+"domains": [
+"data_ai"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"ABBV"
+],
+"initiative": "ARCH knowledge graph platform",
+"maturity_raw": "operational",
+"maturity": "OPERATIONAL",
+"claim_ids": [
+"CLM-006032",
+"CLM-006033",
+"CLM-006034"
+],
+"outcome_evidence": "N",
+"note": "Internal; one preprint cited, not opened",
+"domains": [
+"data_ai"
+],
+"years": [
+2023
+]
+},
+{
+"companies": [
+"ABBV"
+],
+"initiative": "BigHat Biosciences collaboration",
+"maturity_raw": "prototype",
+"maturity": "PROTOTYPE",
+"claim_ids": [
+"CLM-006035"
+],
+"outcome_evidence": "N",
+"note": "USD 30 m upfront",
+"domains": [
+"partnerships_ma"
+],
+"years": [
+2023
+]
+},
+{
+"companies": [
+"ABBV"
+],
+"initiative": "Valkai (clinical development AI)",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-000285",
+"CLM-006037"
+],
+"outcome_evidence": "N",
+"note": "No metrics",
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"ABBV",
+"JNJ",
+"TAK"
+],
+"initiative": "Federated OpenFold3 (AISB)",
+"maturity_raw": "pilot",
+"maturity": "PILOT",
+"claim_ids": [
+"CLM-006042",
+"CLM-006043"
+],
+"outcome_evidence": "N (vendor benchmark, not peer-reviewed)",
+"note": "Strongest quantified result in the set",
+"domains": [
+"data_ai"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"ABBV",
+"JNJ"
+],
+"initiative": "AISB Bind",
+"maturity_raw": "concept",
+"maturity": "CONCEPT",
+"claim_ids": [
+"CLM-006044"
+],
+"outcome_evidence": "N",
+"note": "In progress",
+"domains": [
+"data_ai"
+],
+"years": []
+},
+{
+"companies": [
+"TAK"
+],
+"initiative": "Nabla Bio collaborations",
+"maturity_raw": "prototype",
+"maturity": "PROTOTYPE",
+"claim_ids": [
+"CLM-006039",
+"CLM-006040"
+],
+"outcome_evidence": "N",
+"note": "First-in-human data expected in 1–2 years",
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"TAK"
+],
+"initiative": "Iambic collaboration",
+"maturity_raw": "prototype",
+"maturity": "PROTOTYPE",
+"claim_ids": [
+"CLM-006041"
+],
+"outcome_evidence": "N",
+"note": "Announced 2026-02-09",
+"domains": [
+"partnerships_ma"
+],
+"years": [
+2026
+]
+},
+{
+"companies": [
+"TAK"
+],
+"initiative": "Internal digital/AI programmes",
+"maturity_raw": "unknown",
+"maturity": "UNKNOWN",
+"claim_ids": [
+"CLM-000278",
+"CLM-006045"
+],
+"outcome_evidence": "N",
+"note": "No named deployment found",
+"domains": [
+"data_ai"
+],
+"years": []
+},
+{
+"companies": [
+"INDUSTRY"
+],
+"initiative": "Recursion platform programmes",
+"maturity_raw": "demonstrated_outcome (negative)",
+"maturity": "DEMONSTRATED_OUTCOME",
+"claim_ids": [
+"CLM-006047"
+],
+"outcome_evidence": "Y",
+"note": "Four of 11 programmes ended 2025",
+"domains": [
+"successes_failures"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"INDUSTRY"
+],
+"initiative": "Insilico rentosertib Phase IIa",
+"maturity_raw": "demonstrated_outcome (Phase IIa only)",
+"maturity": "DEMONSTRATED_OUTCOME",
+"claim_ids": [
+"CLM-006048",
+"CLM-006049"
+],
+"outcome_evidence": "Y (peer-reviewed; small)",
+"note": "Safety signals",
+"domains": [
+"successes_failures"
+],
+"years": [
+2025
+]
+},
+{
+"companies": [
+"INDUSTRY"
+],
+"initiative": "Zymergen biofoundry",
+"maturity_raw": "demonstrated_outcome (negative)",
+"maturity": "DEMONSTRATED_OUTCOME",
+"claim_ids": [
+"CLM-006051"
+],
+"outcome_evidence": "Y",
+"note": "Sold at one-tenth of IPO valuation",
+"domains": [
+"robotics_automation"
+],
+"years": [
+2022
+]
+},
+{
+"companies": [
+"INDUSTRY"
+],
+"initiative": "FDA draft AI guidance",
+"maturity_raw": "not_applicable",
+"maturity": "NOT_APPLICABLE",
+"claim_ids": [
+"CLM-006046"
+],
+"outcome_evidence": "Y (regulatory record)",
+"note": "Draft, non-binding",
+"domains": [
+"policy_regulation"
+],
+"years": [
+2025
+]
+}
+]
+}

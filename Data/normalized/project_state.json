@@ -1,0 +1,85 @@
+{
+"built_at": "2026-11-21T17:59:21+00:00",
+"phase": "All eight phases executed through session 2; project in **maintain/extend** mode. Open items are in `quality/final_validation.md` §4 and `CONTINUE.md`.",
+"sources": 524,
+"claims": 1401,
+"claims_by_status": {
+"SUPPORTED": 1188,
+"PARTIALLY_SUPPORTED": 166,
+"INCONCLUSIVE": 19,
+"NEEDS_MORE_RESEARCH": 27,
+"CONTRADICTED": 1
+},
+"claims_by_kind": {
+"FACT": 1262,
+"INTERPRETATION": 108,
+"HYPOTHESIS": 21,
+"RECOMMENDATION": 10
+},
+"claims_by_maturity": {
+"CONCEPT": 19,
+"OPERATIONAL": 43,
+"PILOT": 30,
+"PROTOTYPE": 10,
+"DEMONSTRATED_OUTCOME": 8
+},
+"claims_by_shard": {
+"canonical": 288,
+"A4_financial": 189,
+"A6_ai_robotics": 60,
+"A9_partnerships": 102,
+"A1_lilly": 70,
+"A3_abbvie": 91,
+"A5_takeda": 83,
+"A2_jnj": 76,
+"A12_pipeline": 153,
+"A8_policy": 55,
+"A7_commercial": 59,
+"A14_gapfill": 75,
+"A11_strategy": 100
+},
+"claims_contrary": 113,
+"claims_single_source": 309,
+"sources_by_tier": {
+"T1_primary_official": 294,
+"T2_company_published": 136,
+"T3_independent_reporting": 80,
+"T4_expert_opinion": 13,
+"T5_speculative": 1
+},
+"sources_by_company": {
+"ABBV": 103,
+"JNJ": 121,
+"LLY": 149,
+"TAK": 98,
+"INDUSTRY": 53
+},
+"datasets": {
+"timeline_events": 184,
+"mechanism_cards": 14,
+"moat_entries": 15,
+"deal_edges": 49,
+"deal_inventory_rows": 56,
+"approvals": 46,
+"setbacks": 20,
+"takeda_capabilities": 16,
+"takeda_backlog": 14,
+"conflicts": 110,
+"maturity_matrix_rows": 33,
+"reports": 198,
+"qa_passages": 3214
+},
+"strategy_files": {
+"strategy_bets": true,
+"assumptions": true,
+"portfolios": true,
+"stage_gates": true,
+"roadmap": true,
+"scenarios": true,
+"council_reviews": true,
+"counterarguments": true,
+"takeda_lessons": true
+},
+"lead_model": "Claude Fable 5.1",
+"harness": "Kiro Crew 0.13.1.1 / kiro-cli 3.5.0"
+}

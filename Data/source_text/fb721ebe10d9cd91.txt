@@ -1,0 +1,119 @@
+1. Lancet. 2022 Dec 17;400(10369):2210-2220. doi: 10.1016/S0140-6736(22)01990-0.
+
+Emraclidine, a novel positive allosteric modulator of cholinergic M4 receptors, 
+for the treatment of schizophrenia: a two-part, randomised, double-blind, 
+placebo-controlled, phase 1b trial.
+
+Krystal JH(1), Kane JM(2), Correll CU(3), Walling DP(4), Leoni M(5), Duvvuri 
+S(5), Patel S(5), Chang I(5), Iredale P(6), Frohlich L(5), Versavel S(5), Perry 
+P(5), Sanchez R(5), Renger J(5).
+
+Author information:
+(1)Yale Department of Psychiatry, Yale School of Medicine, New Haven, CT, USA.
+(2)Department of Psychiatry, Zucker Hillside Hospital, Glen Oaks, NY, USA; 
+Department of Psychiatry and Medicine, The Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Hempstead, NY, USA.
+(3)Department of Psychiatry, Zucker Hillside Hospital, Glen Oaks, NY, USA; 
+Department of Psychiatry and Medicine, The Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Hempstead, NY, USA; Department of Child and 
+Adolescent Psychiatry, Charité University Medicine, Berlin, Germany.
+(4)CNS Network, Garden Grove, CA, USA.
+(5)Cerevel Therapeutics, Cambridge, MA, USA.
+(6)Cerevel Therapeutics, Cambridge, MA, USA. Electronic address: 
+philip.iredale@cerevel.com.
+
+Comment in
+ Lancet. 2023 Dec 17;400(10369):2159-2161. doi: 
+10.1016/S0140-6736(22)02421-7.
+
+BACKGROUND: Emraclidine is a novel, brain-penetrant, highly selective M4 
+receptor positive allosteric modulator in development for the treatment of 
+schizophrenia. We aimed to evaluate the safety and tolerability of multiple 
+ascending doses of emraclidine in patients with schizophrenia.
+METHODS: We conducted a two-part, randomised, phase 1b trial in the USA. 
+Eligible participants were aged 18-50 years (part A) or 18-55 years (part B) 
+with a primary diagnosis of schizophrenia per the Diagnostic and Statistical 
+Manual of Mental Disorders 5th edition, as confirmed by the Mini International 
+Neuropsychiatric Interview, and extrapyramidal symptom assessments indicating 
+normal to mild symptoms at screening. Part A evaluated the safety and 
+tolerability of emraclidine in five cohorts of participants with stable 
+schizophrenia who received ascending oral doses of emraclidine 5-40 mg (40 mg 
+was administered as 20 mg twice daily) or placebo at a single US site. Part B 
+was a double-blind, randomised, placebo-controlled study that enrolled adults 
+with acute schizophrenia across five US sites; participants were randomly 
+assigned (1:1:1) to receive emraclidine 30 mg once daily, emraclidine 20 mg 
+twice daily, or placebo for 6 weeks (doses established in part A). The primary 
+endpoint was safety and tolerability, assessed in the safety population 
+(participants who received at least one dose of emraclidine or placebo). This 
+trial is now complete and is registered with ClinicalTrials.gov, NCT04136873.
+FINDINGS: Between Sept 23, 2019, and Sept 17, 2020, 118 patients were assessed 
+for eligibility and 49 were randomly assigned across five cohorts in part A. 44 
+participants completed the study, with 36 participants receiving emraclidine and 
+eight receiving placebo. The two highest doses tested were selected for part B. 
+Between Oct 12, 2020, and May 7, 2021, 148 patients were assessed for 
+eligibility and 81 were randomly assigned to emraclidine 30 mg once daily 
+(n=27), emraclidine 20 mg twice daily (n=27), or placebo (n=27) in part B. 
+Incidence of adverse events (14 [52%] of 27 participants in the emraclidine 30 
+mg once daily group, 15 [56%] of 27 in the emraclidine 20 mg twice daily group, 
+and 14 [52%] of 27 in the placebo group), clinical assessments, and weight 
+changes were similar across groups. The most common adverse event was headache 
+(15 [28%] of 54 participants in the emraclidine groups, seven [26%] of 27 in the 
+placebo group). Modest, transient increases in blood pressure and heart rate in 
+emraclidine groups observed at treatment initiation diminished over time and 
+were not considered clinically meaningful by week 6.
+INTERPRETATION: These data support further investigation of emraclidine as a 
+once-daily treatment for schizophrenia without need for titration and with a 
+potentially favourable side-effect profile.
+FUNDING: Cerevel Therapeutics.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(22)01990-0
+PMID: 36528376 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests JHK reports consulting 
+agreements with Aptinyx, Atai Life Sciences, AstraZeneca, Biogen Idec, 
+Biomedisyn Corporation, Bionomics, Boehringer Ingelheim International, Cadent 
+Therapeutics, Clexio Bioscience, COMPASS Pathways, Concert Pharmaceuticals, 
+Eisai, Epiodyne, EpiVario, Greenwich Biosciences, Heptares Therapeutics, Janssen 
+Research & Development, Jazz Pharmaceuticals, Lohocla Research Corporation, 
+Novartis, Otsuka America Pharmaceutical, Perception Neuroscience Holdings, 
+PsychoGenics, RBNC Therapeutics, Spring Care, Sunovion Pharmaceuticals, Taisho 
+Pharmaceutical Holdings, Takeda Industries, Tempero Bio, and Terran Biosciences; 
+serves on the scientific advisory boards of Biohaven Pharmaceuticals, BioXcel 
+Therapeutics (Clinical Advisory Board), Cadent Therapeutics (Clinical Advisory 
+Board), and Cerevel Therapeutics; holds consulting agreements with EpiVario, 
+Eisai, Jazz Pharmaceuticals, Lohocla Research Corporation, Novartis, 
+PsychoGenics, RBNC Therapeutics, Tempero Bio, and Terran Biosciences; serves on 
+the Board of Directors for Freedom Biosciences and holds stock or stock options 
+in Biohaven Pharmaceuticals, Sage Pharmaceuticals, Spring Care, Biohaven 
+Pharmaceuticals Medical Sciences, EpiVario, RBNC Therapeutics, Terran 
+Biosciences, and Tempero Bio; has received research support from AstraZeneca, 
+Novartis, and Cerevel Therapeutics; and serves as Editor of Biological 
+Psychiatry and is a named inventor on a number of patents and patent 
+applications—most recently, US Provisional Patent Application 63/125,181, filed 
+on Dec 14, 2020. JMK has been a consultant or adviser to or has received 
+honoraria from Acadia, Alkermes, Allergan, Cerevel Therapeutics, IntraCellular 
+Therapies, Janssen or Johnson & Johnson, Karuna, LB Pharma, Lundbeck, Lyndra, 
+Medscape, Merck, Neurocrine, Otsuka, Reviva, Roche, Sumitomo Dainippon, Saladex, 
+Sunovion, Takeda, and Teva; has received grant support from Janssen, Lundbeck, 
+Otsuka, and Sunovion; and is a shareholder of LB Pharma and a shareholder in 
+Vanguard Research Group. CUC has been a consultant or adviser to or has received 
+honoraria from AbbVie, Acadia, Alkermes, Allergan, Angelini, Aristo, Axsome 
+Therapeutics, Cerevel Therapeutics, Compass, Damitsa, Gedeon Richter, Hikma, 
+Holmusk, IntraCellular Therapies, Janssen or Johnson & Johnson, Karuna, LB 
+Pharma, Lundbeck, MedAvante-ProPhase, MedInCell, Medscape, Merck, Mindpax, 
+Mitsubishi Tanabe Pharma, Mylan, Neurocrine, Noven, Otsuka, Pfizer, Recordati, 
+Rovi, Segirus, Servier, SK Life Science, Sumitomo Dainippon, Sunovion, Supernus, 
+Takeda, Teva, and Viatris; has provided expert testimony for Janssen and Otsuka; 
+has served on a Data Safety Monitoring Board for Lundbeck, Rovi, Supernus, and 
+Teva; has received grant support from Janssen and Takeda; and has received 
+royalties from UpToDate and is also a stock option holder of Cardio Diagnostics, 
+Mindpax, and LB Pharma. DPW reports grants and research support from AbbVie, 
+Acadia, Alkermes, Allergan, Avanir, Biogen, Boehringer Ingelheim, Cerevel, 
+Indivior, IntraCellular, Janssen, Johnson & Johnson Research and Development, 
+Lundbeck, Lupin, Lyndra, Novartis, Noven, Otsuka, Pfizer, Roche, Sunovion, and 
+Takeda; has been a consultant for Biogen, Boehringer Ingelheim, Janssen, Lyndra, 
+and Otsuka; and served as principal investigator on this trial. ML, SD, SP, IC, 
+PI, LF, SV, PP, RS, and JR are employees of Cerevel Therapeutics and might hold 
+stock or stock options in the company.

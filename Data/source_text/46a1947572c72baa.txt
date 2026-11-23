@@ -1,0 +1,206 @@
+D.C. Circuit Rules on 340B Rebate Models and HRSA Approval 
+
+ Articles 
+
+ September 1, 2026
+
+ Manufacturers Cannot Adopt 340B Rebate Models Without HRSA Approval
+
+ Benjamin Youssef 
+
+ On July 21, 2026, the United States Court of Appeals for the District of Columbia Circuit sided with the government in a long-running dispute over how discounts under the 340B Drug Pricing Program are provided to covered entities. [1] Several drug manufacturers had been pushing to switch from the current system, where a pharmacy or hospital gets the discounted price right away at the time of purchase, to a rebate system, where the buyer would pay full price up front and then apply to receive the discount as a rebate. The court held that manufacturers cannot make that switch on their own. The Health Resources and Services Administration (HRSA) must approve any rebate approach first. HRSA is working on a rebate model of its own. The agency published a revised 340B Rebate Model Pilot Program notice in the Federal Register on August 3, 2026, but the pilot has not yet been implemented.
+
+ For covered entities and their pharmacy partners, the takeaway is narrow but significant: the manufacturers in this case cannot unilaterally convert to a rebate model, so covered entities will continue to receive the 340B price as an upfront discount at the time of purchase rather than paying full price and seeking a rebate afterward. For now, that preserves the existing purchasing process. It does not resolve the access problems covered entities, and contract pharmacies in particular, keep running into from other manufacturer restrictions, and it does not close the door on a rebate model that HRSA approves itself.
+
+ Background
+
+ The consolidated appeal grew out of related district court actions filed between late 2021 and late 2024, in which several manufacturers and the data platform Kalderos, Inc. challenged HRSA’s refusal to allow rebate-based alternatives to the current discount structure. [2] Under those proposals, a covered entity would pay the full, undiscounted price for a covered outpatient drug at the time of purchase and then apply separately to the manufacturer for reimbursement of the 340B discount, reversing the order in which covered entities currently obtain the discount.
+
+ The district court largely rejected the manufacturers’ position on summary judgment, and the manufacturers (along with several intervening hospital associations that argued the statute forecloses rebates altogether) appealed to the D.C. Circuit. The appeals were consolidated for a single decision.
+
+ The Court’s Reasoning
+
+ The court grounded its holding in the statutory language governing the pharmaceutical pricing agreements that manufacturers must sign to participate in Medicaid and Medicare Part B. That provision ties the ceiling price calculation to any rebate or discount as provided by the Secretary , which the court read as a precondition rather than a limitation. The court interpreted that phrase to mean HRSA must sign off before a rebate model can exist, not that manufacturers are free to use one unless HRSA specifically says “no.” Put another way, the ball is in HRSA’s court, not the manufacturers’.
+
+ The court did not go as far as the hospital groups urged, however. It stopped short of saying rebates are altogether illegal under 340B in every possible form. The court left room for HRSA to design and approve a rebate model of its own while rejecting manufacturers’ authority to make that determination unilaterally. HRSA has been working on exactly that. Its first pilot, announced in July 2025, was blocked by a federal court and subsequently withdrawn in February 2026. On August 3, 2026, the agency came back with a revised 340B Rebate Model Pilot Program notice in the Federal Register. The new pilot is optional for manufacturers that qualify, and it is limited to selected drugs subject to Medicare maximum fair prices for initial price applicability years 2026 and 2027. Manufacturers seeking to participate were required to submit their rebate plans by August 24, 2026. HRSA stated that approvals, if any, will be made by September 24, 2026, with approved plans taking effect January 1, 2027.
+
+ Finally, the court rejected the manufacturers’ argument that any restriction on rebate models needed to appear explicitly within the pharmaceutical pricing agreements themselves. The court found no textual basis for treating those agreements as the exclusive vehicle for authorizing or restricting pricing mechanisms and noted that Congress knew how to write that limitation into the statute had it wanted to. The bottom line is that manufacturers cannot point to the fact that their pricing agreements say nothing about rebates and treat that silence as permission to use them. HRSA’s approval authority comes from the 340B statute itself, so silence in the pricing agreements does not give manufacturers that authority, and it does not take it away from HRSA.
+
+ Practical Implications for Covered Entities and Specialty Pharmacies
+
+ This decision really changes how the 340B discount gets accessed. Covered entities should keep receiving 340B pricing up front on claims involving the manufacturers in this case, without having to front the full cost and pursue a refund later. This decision does not address the contract pharmacy limits, data submission demands, and other manufacturer restrictions that still get in the way of 340B access. That said, the decision does not foreclose rebate models permanently. The court was explicit that some rebate structures could be consistent with the statute if HRSA affirmatively authorizes them. Moreover, manufacturers that have been building claims-level data infrastructure in anticipation of a rebate future are unlikely to abandon that effort, especially now that HRSA’s revised pilot gives manufacturers that qualify a green light to use it. Covered entities should monitor which manufacturers HRSA approves under the revised pilot, whether any drugs they purchase are included in the pilot, and any expansion of the model beyond it. They should treat this ruling as a reprieve from manufacturers acting on their own rather than a permanent resolution.
+
+ How Frier Levitt Can Help
+
+ Frier Levitt regularly advises covered entities, contract pharmacies, and specialty pharmacy operators on 340B Program compliance, manufacturer policy changes, and the operational and contractual consequences that follow from developments like this one. If your organization has questions about how this ruling affects your current pricing arrangements or wants help preparing for a future in which HRSA authorizes a rebate alternative, please contact our office .
+
+ [1] Novartis Pharmaceuticals Corp. v. Kennedy, No. 25-5177 (D.C. Cir. July 21, 2026). 
+
+ [2] Johnson & Johnson Health Care Systems Inc. v. Becerra, No. 1:24 cv 03188 (D.D.C. filed Nov. 12, 2024); Eli Lilly and Co. v. Becerra, No. 1:24 cv 03220 (D.D.C. filed Nov. 14, 2024); Bristol Myers Squibb Co. v. Johnson, No. 1:24 cv 03337 (D.D.C. filed Nov. 26, 2024); Kalderos, Inc. v. United States, No. 1:21 cv 02608 (D.D.C. filed Oct. 6, 2021). 
+
+ Benjamin Youssef 
+
+ Associate
+
+ 973-618-1660 
+
+ byoussef@frierlevitt.com 
+
+ Related People 
+
+ Benjamin Youssef 
+
+ Related Services 
+
+ 340B Litigation & Regulatory Compliance 
+
+ Hospital Pharmacies/IDNs 
+
+ Pharmaceutical and Biotechnology Companies 
+
+ Pharmacy Providers 
+
+ Specialty Pharmacies 
+
+ Topics 
+
+ Pharmacy Law 
+ Pharmaceutical Manufacturers 
+ HRSA 
+ Rebates 
+ Covered Entities 
+
+ Share This
+
+ Pharmacy 
+
+ Related Insights 
+
+ Results
+
+ 11/20/2026
+
+ Frier Levitt Successfully Overturns More Than 99% of PBM Audit Findings for Dispensing Physician Practice 
+
+ Articles
+
+ 11/19/2026
+
+ Market Access in the Age of Transparency, Part 1: How PBM Formulary Exclusions and Private-Label Drugs Affect Manufacturers 
+
+ News
+
+ 11/16/2026
+
+ A.J. Barbarito Discusses Legal Challenges to State PBM Regulations in Modern Healthcare 
+
+ News
+
+ 11/09/2026
+
+ Matthew Modafferi Featured in Drug Store News: “Industry observers weigh in on Department of Labor PBM Transparency and Disclosure Rule” 
+
+ Articles
+
+ 11/06/2026
+
+ Pharmacy Alert: Oscar Health Suspends PrEP-Dispensing 340B Contract Pharmacies in South Florida, Including Those Unlinked to Alleged Fraud 
+
+ Articles
+
+ 11/06/2026
+
+ CVS Health Split: What Stays Together, and What It Means for Pharmacies and Providers 
+
+ Articles
+
+ 11/05/2026
+
+ DEA Enforcement and Pharmacy Compliance: What Independent and Specialty Pharmacies Need to Know 
+
+ News
+
+ 11/03/2026
+
+ Edgar J. Asebey Featured in Law360: “Peptide Sales Put State Pharmacy Enforcement In Focus” 
+
+ Articles
+
+ 11/03/2026
+
+ Delaware Enacts SB 271: New PBM Audit Limits, Expanded Pharmacy Appeal Rights, and Anti-Retaliation Protections 
+
+ Articles
+
+ 11/02/2026
+
+ Most-Favored-Nation Drug Pricing Framework: How Manufacturer Agreements Affect Medicaid Best Price, Contracts, and Compliance 
+
+ News
+
+ 11/02/2026
+
+ Edgar J. Asebey Featured in GQ: “Peptides Are About to Flood the Market. And Bro Science Is Coming for Us All” 
+
+ News
+
+ 10/30/2026
+
+ A.J. Barbarito Featured in The American Journal of Managed Care: “FAQ: PBM Reform, 340B, and Medicare Shifts Payers Face in 2027” 
+
+ Results
+
+ 10/29/2026
+
+ Frier Levitt Secures Re-Contracting for California Infusion Pharmacy, Reversing Pharmacy Network Termination 
+
+ Articles
+
+ 10/28/2026
+
+ HHS Announces Landmark Peptide Enforcement Discretion Policy: What Compounding Pharmacies and Peptide Suppliers Need to Know 
+
+ Articles
+
+ 10/27/2026
+
+ DEA Telemedicine Special Registration Final Rule Reaches White House Review 
+
+ News
+
+ 10/26/2026
+
+ Edgar Asebey Featured in Bloomberg Law: “Eli Lilly Toughens Legal Game Plan Over Next Weight Loss Drug” 
+
+ News
+
+ 10/22/2026
+
+ Harini Bupathi Discusses the Importance of Pharmacy-PBM Relationships Amid Ongoing Reform in Drug Topics 
+
+ Articles
+
+ 10/21/2026
+
+ PHARMACY ALERT: New York Medicaid Enrollment Moratorium: Implications for Pharmacies and Medicaid Managed Care 
+
+ News
+
+ 10/21/2026
+
+ A.J. Barbarito Discusses State PBM Reform with Drug Topics: Why Enforcement Remains a Challenge for Independent Pharmacies 
+
+ Articles
+
+ 10/20/2026
+
+ Express Scripts’ New Cost-Plus Reimbursement Model: Risks for 340B Covered Entity Pharmacies 
+
+ We’re here to help. Contact us 
+
+ Call Us Now 
+
+ We welcome your email, but please understand contacting the firm through the website does not create an attorney-client relationship. Accordingly, please do not include any confidential information until we verify that the firm is in a position to represent you and our engagement is confirmed in a letter. Thank you for your consideration.
+
+ Do Not Agree 
+ Agree

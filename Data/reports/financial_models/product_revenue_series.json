@@ -1,0 +1,31 @@
+{
+  "_about": "Curated product-level revenue series (USD millions; Takeda JPY billions) with the claim IDs that evidence each value. Built by hand from the FY2025 10-K/20-F product tables (RUN-0002). Years without a cited value are null, never estimated. Used by VIEW 4 (Pipeline & LOE) and VIEW 2.",
+  "series": [
+    {"company": "LLY", "product": "Mounjaro", "molecule": "tirzepatide", "role": "growth_engine", "unit": "USD_millions", "values": {"2023": 5163, "2024": 11540, "2025": 22965}, "claims": ["CLM-000240"], "loe_note": "US compound patent 2036 (CLM-000250)"},
+    {"company": "LLY", "product": "Zepbound", "molecule": "tirzepatide", "role": "growth_engine", "unit": "USD_millions", "values": {"2023": 176, "2024": 4926, "2025": 13542}, "claims": ["CLM-000241"], "loe_note": "US compound patent 2036 (CLM-000250)"},
+    {"company": "LLY", "product": "Trulicity", "molecule": "dulaglutide", "role": "declining_legacy", "unit": "USD_millions", "values": {"2023": 7132, "2024": 5254, "2025": 4276}, "claims": ["CLM-000243"], "loe_note": "US compound patent 2027 (CLM-000250); decline driven by internal shift to tirzepatide"},
+    {"company": "LLY", "product": "Verzenio", "molecule": "abemaciclib", "role": "growth", "unit": "USD_millions", "values": {"2023": 3863, "2024": 5307, "2025": 5723}, "claims": ["CLM-000244"], "loe_note": "US compound patent 2031 (CLM-000250)"},
+    {"company": "LLY", "product": "Taltz", "molecule": "ixekizumab", "role": "stable", "unit": "USD_millions", "values": {"2023": null, "2024": null, "2025": 3563}, "claims": ["CLM-000245"], "loe_note": null},
+    {"company": "JNJ", "product": "STELARA", "molecule": "ustekinumab", "role": "loe_decline", "unit": "USD_millions", "values": {"2024": 10361, "2025": 6078}, "claims": ["CLM-000254"], "loe_note": "US biosimilar entry 2025; -41.3% in 2025; 6.5% of 2025 revenue"},
+    {"company": "JNJ", "product": "DARZALEX", "molecule": "daratumumab", "role": "growth_engine", "unit": "USD_millions", "values": {"2024": 11670, "2025": 14351}, "claims": ["CLM-000255"], "loe_note": null},
+    {"company": "JNJ", "product": "TREMFYA", "molecule": "guselkumab", "role": "growth_engine", "unit": "USD_millions", "values": {"2024": 3670, "2025": 5155}, "claims": ["CLM-000256"], "loe_note": "Stelara successor within J&J immunology"},
+    {"company": "JNJ", "product": "CARVYKTI", "molecule": "ciltacabtagene autoleucel", "role": "growth", "unit": "USD_millions", "values": {"2024": 963, "2025": 1887}, "claims": ["CLM-000257"], "loe_note": null},
+    {"company": "JNJ", "product": "CAPLYTA", "molecule": "lumateperone", "role": "acquired_growth", "unit": "USD_millions", "values": {"2025": 700}, "claims": ["CLM-000258"], "loe_note": "Acquired with Intra-Cellular, April 2025; partial-year"},
+    {"company": "ABBV", "product": "Humira", "molecule": "adalimumab", "role": "loe_decline", "unit": "USD_millions", "values": {"2023": 14404, "2024": 8993, "2025": 4540}, "claims": ["CLM-000263"], "loe_note": "US biosimilar entry January 2023"},
+    {"company": "ABBV", "product": "Skyrizi", "molecule": "risankizumab", "role": "growth_engine", "unit": "USD_millions", "values": {"2023": 7763, "2024": 11718, "2025": 17562}, "claims": ["CLM-000264"], "loe_note": null},
+    {"company": "ABBV", "product": "Rinvoq", "molecule": "upadacitinib", "role": "growth_engine", "unit": "USD_millions", "values": {"2023": 3969, "2024": 5971, "2025": 8304}, "claims": ["CLM-000265"], "loe_note": null},
+    {"company": "TAK", "product": "ENTYVIO", "molecule": "vedolizumab", "role": "top_product_pre_loe", "unit": "JPY_billions", "values": {"FY2023": 800.9, "FY2024": 914.1, "FY2025": 958.0}, "claims": ["CLM-000274"], "loe_note": "Loss of regulatory exclusivity expected latter half of this decade (CLM-000276)"},
+    {"company": "TAK", "product": "VYVANSE/ELVANSE", "molecule": "lisdexamfetamine", "role": "loe_decline", "unit": "JPY_billions", "values": {"FY2023": 423.2, "FY2024": 350.6, "FY2025": 203.2}, "claims": ["CLM-000275"], "loe_note": "US patent + pediatric exclusivity expired August 2023"},
+    {"company": "TAK", "product": "TRINTELLIX", "molecule": "vortioxetine", "role": "pre_loe", "unit": "JPY_billions", "values": {"FY2025": 121.8}, "claims": ["CLM-000276"], "loe_note": "Generic competition expected after December 2026 patent expiry"}
+  ],
+  "loe_events": [
+    {"company": "ABBV", "product": "Humira", "event": "US biosimilar entry", "date": "2023-01", "status": "occurred", "claims": ["CLM-000263"]},
+    {"company": "TAK", "product": "VYVANSE", "event": "US patent + pediatric exclusivity expiry", "date": "2023-08", "status": "occurred", "claims": ["CLM-000275"]},
+    {"company": "JNJ", "product": "STELARA", "event": "Biosimilar competition + Medicare Part D redesign", "date": "2025", "status": "occurred", "claims": ["CLM-000254"]},
+    {"company": "TAK", "product": "TRINTELLIX", "event": "Patent expiry → expected generics", "date": "2026-12", "status": "expected", "claims": ["CLM-000276"]},
+    {"company": "LLY", "product": "Trulicity", "event": "US compound patent expiry", "date": "2027", "status": "expected", "claims": ["CLM-000250"]},
+    {"company": "TAK", "product": "ENTYVIO", "event": "Loss of regulatory exclusivity (company: latter half of decade)", "date": "2028-2030", "status": "expected", "claims": ["CLM-000276"]},
+    {"company": "LLY", "product": "Verzenio", "event": "US compound patent expiry", "date": "2031", "status": "expected", "claims": ["CLM-000250"]},
+    {"company": "LLY", "product": "Mounjaro/Zepbound", "event": "US compound patent expiry", "date": "2036", "status": "expected", "claims": ["CLM-000250"]}
+  ]
+}

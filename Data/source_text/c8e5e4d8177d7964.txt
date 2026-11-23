@@ -1,0 +1,84 @@
+1. N Engl J Med. 2026 Nov 5;395(18):1781-1793. doi: 10.1056/NEJMoa2604169. Epub 
+2026 Sep 29.
+
+Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.
+
+Jastreboff AM(1)(2)(3), Kaplan LM(4), Davies MJ(5)(6), Wilding JPH(7), Ahmad 
+NN(8), Murray M(8), Du Y(8), Makarova N(8), Giblin K(8), Schloot NC(8), Wang 
+Y(8); TRIUMPH-1 Investigators.
+
+Collaborators: Anderson A, Morbey C, Polasek T, Francis S, Hamilton A, Bird P, 
+Puri G, Alves BB, Augusto G, Franco D, O'Mahony J, Pliamm L, Dumas R, Sidhu M, 
+Zizzo S, Menard PA, Wharton S, Aggarwal N, Pauer J, Balsay M, Takacs R, Pall D, 
+Zilahi Z, Vass V, Wudi K, Petro G, Kesavadev J, Marwah T, Lodha S, Behera K, 
+Dange A, Srikanth K, Kaulgud DR, Goel R, Lotwala V, Goyal G, Kapoor N, Deshmukh 
+V, Gopalkrishnan U, Jabbar PK, García Reza R, Arechavaleta Granell M, Lopez 
+Maldonado F, Campos JS, Sauque Reyna L, Aguilar Espinoza L, Laviada Molina H, 
+Crespo M, Mancillas LG, Calvo Vargas C, Sanchez Mijangos JH, Choza Romero R, 
+Herrera Marmolejo M, Navarro Hermosillo L, Nevarez L, Poplawska-Kita A, 
+Matyjaszek-Matuszek B, Piwowar M, Bogdanski P, Bazela-Ostromecka A, Lukaszewicz 
+M, Gornikiewicz-Brzezicka B, Junik R, Szyprowska E, Madej A, 
+Szuflinska-Sidorowicz M, Witek R, Barbu R, Cosma D, Filimon A, Thury-Burileanu 
+A, Neacsu V, Reurean-Pintilei D, Nicolescu G, Geru P, Morosanu M, Constantin C, 
+Aliaga Verdugo A, Bellido Guerrero D, Soto Gonzalez A, Vazquez Salvi L, Ciudin 
+A, Ajaz S, Rayne S, Davies M, Wilding J, Clark R, Llano A, Collins H, Ryan J, 
+Bellary S, Norwood P, Jastreboff A, Brian S, Mayfield R, Kipp G, Davis C, 
+Wieskopf B, Potts J, Soufer J, Kutner M, Barranco-Santana E, Lawrence M, Nakhle 
+S, Kivitz A, Nunez L, Pau C, Schnitzer T, Taber L, Thrasher J, Lorch D, Bessesen 
+D, Hudson J, Brengle B, Smith T, Miroshnikova T, Marks S, Layle S, Lacey D, 
+Zacher J, DiBenedetto D, Srivastava G, Jones W, Barkhuizen A, Woolman M, Davis 
+M, Bhatia P, Vega D, White A, Widicus D, Lillestol M.
+
+Author information:
+(1)Department of Medicine (Endocrinology and Metabolism), Yale University School 
+of Medicine, New Haven, CT.
+(2)Department of Pediatrics (Pediatric Endocrinology), Yale University School of 
+Medicine, New Haven, CT.
+(3)Yale Obesity Research Center (Y-Weight), Yale University School of Medicine, 
+New Haven, CT.
+(4)Obesity and Metabolism Institute, Boston.
+(5)Diabetes Research Centre, University of Leicester, Leicester, United Kingdom.
+(6)NIHR Leicester Biomedical Research Centre, Leicester, United Kingdom.
+(7)Department of Cardiovascular and Metabolic Medicine, Institute of Life Course 
+and Medical Sciences, University of Liverpool, Liverpool, United Kingdom.
+(8)Eli Lilly, Indianapolis.
+
+BACKGROUND: Retatrutide is a triple-receptor agonist of glucose-dependent 
+insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptors.
+METHODS: In this phase 3, randomized, double-blind trial, we assigned adults 
+with obesity without diabetes to receive a once-weekly subcutaneous injection of 
+retatrutide (at a dose of 4 mg, 9 mg, or 12 mg) or placebo for 80 weeks. Primary 
+outcomes (evaluated in the 9-mg and 12-mg groups each vs. placebo) were the 
+percent change in body weight and the change in the WOMAC pain score (ranging 
+from 1 to 10, with higher scores indicating worse pain) in the subgroup of 574 
+participants with knee osteoarthritis and the change in the apnea-hypopnea index 
+in the 243 participants with obstructive sleep apnea. For weight-related end 
+points, intercurrent events were handled by a treatment-regimen estimand 
+(intention-to-treat [ITT]). For end points in participants with knee 
+osteoarthritis or obstructive sleep apnea, a hybrid-treatment estimand was 
+applied, with a hypothetical strategy for intercurrent events suggesting 
+treatment failure; ITT results are also reported.
+RESULTS: A total of 2339 participants underwent randomization. The mean percent 
+change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% 
+(9-mg dose), and -25.0% (12-mg dose) versus -3.9% in the placebo group 
+(differences, -19.8 and -21.0 percentage points, respectively; P<0.001 for both 
+comparisons). Among the participants with knee osteoarthritis, the corresponding 
+changes in the pain score in the retatrutide groups for the hybrid estimand were 
+-3.2, -3.5, and -3.6 versus -1.9 with placebo (differences, -1.6 and -1.8 
+points; both P<0.001); the corresponding changes for the ITT estimand were -3.4, 
+-3.9, and -4.1 versus -2.5 with placebo (differences, -1.4 and -1.6 points; both 
+P<0.001). Among the participants with obstructive sleep apnea, the corresponding 
+changes in events per hour in the retatrutide groups for the hybrid-treatment 
+estimand were -22.9, -34.3, and -31.7 versus -9.9 (differences, -24.4 and -21.9; 
+both P<0.001); the corresponding changes for the ITT estimand were -22.8, -34.3, 
+and -32.1 versus -9.6 (differences, -24.7 and -22.5; both P<0.001). The most 
+common adverse events were gastrointestinal.
+CONCLUSIONS: In adults with obesity, retatrutide resulted in significant weight 
+reduction, reduced pain in participants with knee osteoarthritis, and reduced 
+apnea-hypopnea events in participants with obstructive sleep apnea. (Funded by 
+Eli Lilly; TRIUMPH-1 ClinicalTrials.gov number, NCT05929066.).
+
+Copyright © 2026 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2604169
+PMID: 42814954 [Indexed for MEDLINE]

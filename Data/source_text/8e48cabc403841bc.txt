@@ -1,0 +1,89 @@
+1. J Clin Oncol. 2026 Oct 13:JCO2600992. doi: 10.1200/JCO-26-00992. Online ahead
+of print.
+
+VERIFY: A Phase III Trial of Rusfertide Versus Placebo in Phlebotomy-Dependent 
+Patients With Polycythemia Vera Receiving Standard-of-Care Therapy.
+
+Kuykendall AT(1), Bankar A(2), Pettit KM(3), Shatzel J(4), Lucchesi A(5), 
+García-Gutiérrez V(6), Mayer J(7), Yacoub A(8), Gill H(9), Sasca D(10), Scandura 
+JM(11), Kremyanskaya M(12), Ross DM(13), Palandri F(14), Fox ML(15), Vannucchi 
+AM(16), Haque T(17), Koschmieder S(18), Kiladjian JJ(19), Oyuela P(20), Dinh 
+P(20), Xiao J(20), Valone FH(20), Gupta S(20), Khanna S(20), Molina A(20), 
+Pemmaraju N(21); VERIFY Investigators.
+
+Collaborators: Perkins A, Ross DM, Tan P, Woelfler A, Schmitt C, Lechner-Radner 
+D, Buxhofer-Ausch V, Mazure D, Granacher N, Devos T, Bankar A, Chandia M, 
+Jonasova A, Hlusi A, Mayer J, Andreoli A, Barraco F, Boyer F, Kiladjian JJ, 
+Drebit Y, Schwarzer A, Sasca D, Illmer T, Le Coutre P, Koschmieder S, Wolff T, 
+Singh GH, Illes A, Tajti B, Abulafia AS, Kirgner I, Ellis MH, Zimran E, Isidori 
+A, Lucchesi A, Morotti A, Vannucchi AM, Rambaldi A, Rumi E, Palandri F, Benevolo 
+G, De Stefano V, Castellanos Velazco OE, Cesarman G, Westerweel P, Te Boekhorst 
+P, Mital A, Krzanowski J, Czyz J, Robak T, Rybka J, Rymko M, Alvarez A, Cirici 
+BX, Giraldo P, Garcia-Gutierrez V, Fox ML, Tenza PV, Diaz RA, Prendes SO, Sahin 
+F, Yilmaz M, Yagci M, Topcuoglu P, Rinaldi C, Glanville J, Kaczmarski R, Alimam 
+S, Bank B, Benton C, Cattoni J, Chanduri S, Choi M, Gabrail N, Goel S, Gotlib J, 
+Gray C, Halpern A, Haque T, Kremyanskaya M, Kuykendall AT, Leavitt A, Liles D, 
+Lucas J, Maguire C, McMahon B, Palaskas N, Pemmaraju N, Pettit K, Priego V, 
+Rakkar A, Rein L, Scandura J, Shammo J, Shatzel J, Tache J, Vaughn J, Wilde L, 
+Yacoub A.
+
+Author information:
+(1)Moffitt Cancer Center, Tampa, FL.
+(2)Princess Margaret Malignancy Centre, Toronto, ON, Canada.
+(3)University of Michigan, Ann Arbor, MI.
+(4)Oregon Health & Science University, Portland, OR.
+(5)IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST) "Dino Amadori", 
+Meldola, Italy.
+(6)Hospital Universitario Ramón y Cajal Instituto Ramón y Cajal de Investigación 
+Sanitaria, Universidad de Alcalá, Madrid, Spain.
+(7)University Hospital and Masaryk University, Brno, Czech Republic.
+(8)University of Kansas Malignancy Center, Westwood, KS.
+(9)Department of Medicine, School of Clinical Medicine, LKS Faculty of Medicine, 
+the University of Hong Kong, Hong Kong, Hong Kong.
+(10)Universitaetsmedizin der Johannes Gutenberg-Universitaet Mainz, Mainz, 
+Germany.
+(11)Silver MPN Center/Weill Cornell Medicine, New York, NY.
+(12)Mount Sinai Medical Center, New York, NY.
+(13)Royal Adelaide Hospital, Adelaide, Australia.
+(14)IRCCS Azienda Ospedaliero-Universitaria di Bologna-Institute of Hematology 
+"L. and A. Seràgnoli", Bologna, Italy.
+(15)Hospital Universitario Vall d'Hebron, Barcelona, Spain.
+(16)Azienda Ospedaliero-Universitaria Careggi, Firenze, Italy.
+(17)Memorial Sloan Kettering Cancer Center, New York, NY.
+(18)RWTH Aachen University, Faculty of Medicine, and Center for Integrated 
+Oncology (CIO-ABCD), Aachen, Germany.
+(19)Hôpital Saint-Louis, Université Paris Diderot, Paris, France.
+(20)Protagonist Therapeutics, Inc, Newark, CA.
+(21)MD Anderson Cancer Center, Houston, TX.
+
+PURPOSE: Polycythemia vera (PV) is a myeloproliferative neoplasm characterized 
+by erythrocytosis. Rusfertide is a subcutaneous, injectable, hepcidin mimetic 
+peptide that suppresses erythrocytosis. The phase III VERIFY trial evaluated the 
+efficacy and safety of rusfertide in phlebotomy-dependent patients with PV and 
+poorly controlled hematocrit.
+METHODS: In VERIFY Part 1a (32 weeks), patients requiring frequent phlebotomy 
+were randomly assigned (1:1, double-blind) to receive rusfertide or placebo with 
+or without cytoreductive therapy. The primary efficacy end point was clinical 
+response (absence of phlebotomy eligibility; weeks 20-32). Key secondary end 
+points (baseline to week 32) included mean number of phlebotomies, proportion of 
+patients who maintained hematocrit <45%, and mean change from baseline in 
+patient-reported outcomes (Patient-Reported Outcomes Measurement Information 
+System [PROMIS] Fatigue Short Form 8a [SF-8a] T score and Myelofibrosis Symptom 
+Assessment Form [MFSAF] Total Symptom Score-7 items [TSS7]).
+RESULTS: Patients (N = 293) were randomly assigned to rusfertide (n = 147) or 
+placebo (n = 146). Significantly more patients (n = 113, 77%) achieved a 
+clinical response with rusfertide versus placebo (n = 48; 33%; P < .0001). 
+Compared with placebo, rusfertide reduced mean ± standard deviation number of 
+phlebotomies (0.5 ± 1.2 v 1.8 ± 1.5; P < .0001) and was superior in maintaining 
+hematocrit <45% (n = 92 [63%] v n = 21 [14%]; P < .0001). Rusfertide led to a 
+significant improvement in the PROMIS Fatigue SF-8a T-score and MFSAF TSS7 
+versus placebo (P = .0252 and .0240, respectively). Injection site reactions, 
+anemia, and fatigue were the most common adverse events. No deaths were 
+reported.
+CONCLUSION: Rusfertide significantly improved hematocrit control, reduced the 
+need for phlebotomy, and improved patient-reported symptoms versus placebo in 
+phlebotomy-dependent patients with PV who were also receiving standard-of-care 
+therapy.
+
+DOI: 10.1200/JCO-26-00992
+PMID: 42868322

@@ -1,0 +1,2490 @@
+{
+"available": true,
+"reason": null,
+"cards": [
+{
+"id": "CARD-01",
+"kind": "mechanism_card",
+"title": "Lilly TuneLab (federated model-access platform)",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Capability",
+"text": "Lilly-trained ADMET/safety/preclinical prediction models offered to outside biotechs; partners return data via federated learning.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Small biotechs lack consistent assay data; Lilly wants more training data and ecosystem pull (Catalyze360).",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Lilly estimates the underlying data cost more than USD 1 billion to generate (company estimate, unaudited) [CLM-000280].",
+"claim_ids": [
+"CLM-000280"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Launched 2025-09-09 [CLM-000280]; insitro ADMET models for it announced the same day [CLM-006009]; Benchling distribution announced 2026-01-08, opt-in \"later this year\" [CLM-006008]; Revvity Signals channel indicated mid-2026 (metadata only, SRC-006035).",
+"claim_ids": [
+"CLM-000280",
+"CLM-006009",
+"CLM-006008"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Decades of proprietary preclinical data; NVIDIA FLARE federated infrastructure; hosting by a third party [CLM-000280]; distribution through Benchling (1,300+ customers) [CLM-006008]; NVIDIA compute [CLM-006004].",
+"claim_ids": [
+"CLM-000280",
+"CLM-006008",
+"CLM-006004"
+]
+},
+{
+"label": "Evidence of value",
+"text": "None independent. No uptake, retraining count or scientific result disclosed [CLM-006008].",
+"claim_ids": [
+"CLM-006008"
+]
+},
+{
+"label": "Maturity",
+"text": "operational (platform live) with distribution at pilot.",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Data moat is real if volume and consistency are as claimed; federated design means partner data improves Lilly-led models, strengthening lock-in (INTERPRETATION) [CLM-006055].",
+"claim_ids": [
+"CLM-006055"
+]
+},
+{
+"label": "Competitive response",
+"text": "Multi-pharma consortia (AISB) and open models (OpenFold3, Boltz, Chai) offer substitutes [CLM-006056, CLM-006042].",
+"claim_ids": [
+"CLM-006056",
+"CLM-006042"
+]
+},
+{
+"label": "Takeda relevance",
+"text": "Watch / partner-as-user. Takeda could be a TuneLab data-for-models participant; decide after independent results appear [CLM-006059].",
+"claim_ids": [
+"CLM-006059"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-000280, CLM-006008, CLM-006009, CLM-006055, CLM-006056; SRC-006010, SRC-006008",
+"claim_ids": [
+"CLM-000280",
+"CLM-006008",
+"CLM-006009",
+"CLM-006055",
+"CLM-006056"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Small biotechs lack consistent assay data; Lilly wants more training data and ecosystem pull (Catalyze360).",
+"claim_ids": []
+},
+"investment": {
+"text": "Lilly estimates the underlying data cost more than USD 1 billion to generate (company estimate, unaudited) [CLM-000280].",
+"claim_ids": [
+"CLM-000280"
+]
+},
+"capability": {
+"text": "Lilly-trained ADMET/safety/preclinical prediction models offered to outside biotechs; partners return data via federated learning.",
+"claim_ids": []
+},
+"execution": {
+"text": "Launched 2025-09-09 [CLM-000280]; insitro ADMET models for it announced the same day [CLM-006009]; Benchling distribution announced 2026-01-08, opt-in \"later this year\" [CLM-006008]; Revvity Signals channel indicated mid-2026 (metadata only, SRC-006035).",
+"claim_ids": [
+"CLM-000280",
+"CLM-006009",
+"CLM-006008"
+]
+},
+"outcome": {
+"text": "None independent. No uptake, retraining count or scientific result disclosed [CLM-006008].",
+"claim_ids": [
+"CLM-006008"
+]
+},
+"moat": {
+"text": "Data moat is real if volume and consistency are as claimed; federated design means partner data improves Lilly-led models, strengthening lock-in (INTERPRETATION) [CLM-006055].",
+"claim_ids": [
+"CLM-006055"
+]
+},
+"response": {
+"text": "Multi-pharma consortia (AISB) and open models (OpenFold3, Boltz, Chai) offer substitutes [CLM-006056, CLM-006042].",
+"claim_ids": [
+"CLM-006056",
+"CLM-006042"
+]
+},
+"takeda": {
+"text": "Watch / partner-as-user. Takeda could be a TuneLab data-for-models participant; decide after independent results appear [CLM-006059].",
+"claim_ids": [
+"CLM-006059"
+]
+},
+"maturity": {
+"text": "operational (platform live) with distribution at pilot.",
+"claim_ids": []
+},
+"assets": {
+"text": "Decades of proprietary preclinical data; NVIDIA FLARE federated infrastructure; hosting by a third party [CLM-000280]; distribution through Benchling (1,300+ customers) [CLM-006008]; NVIDIA compute [CLM-006004].",
+"claim_ids": [
+"CLM-000280",
+"CLM-006008",
+"CLM-006004"
+]
+}
+},
+"claim_ids": [
+"CLM-000280",
+"CLM-006009",
+"CLM-006008",
+"CLM-006004",
+"CLM-006055",
+"CLM-006056",
+"CLM-006042",
+"CLM-006059"
+],
+"source_ids": [
+"SRC-006010",
+"SRC-006008"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-02",
+"kind": "mechanism_card",
+"title": "LillyPod AI factory and NVIDIA co-innovation lab",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Capability",
+"text": "Owned 1,016-GPU NVIDIA DGX SuperPOD (B300) to train biomedical foundation models; a planned USD 1 billion NVIDIA-Lilly co-innovation lab linking agentic wet labs and dry labs.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Wet-lab throughput limits (Lilly cites about 2,000 molecular ideas per target per year) [CLM-006005].",
+"claim_ids": [
+"CLM-006005"
+]
+},
+{
+"label": "Starting investment",
+"text": "Cluster cost not disclosed. Co-innovation lab: up to USD 1 billion over five years, jointly with NVIDIA [CLM-000281].",
+"claim_ids": [
+"CLM-000281"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Announced October 2025 [CLM-006003]; inaugurated about February 2026, built in about four months [CLM-006004]; co-innovation lab announced 2026-01-12, work to begin early 2026 [CLM-000281].",
+"claim_ids": [
+"CLM-006003",
+"CLM-006004",
+"CLM-000281"
+]
+},
+{
+"label": "Enabling assets",
+"text": "NVIDIA hardware and BioNeMo/Omniverse/Isaac software; 700 TB genomics data [CLM-006004]; internal chief AI officer organisation.",
+"claim_ids": [
+"CLM-006004"
+]
+},
+{
+"label": "Evidence of value",
+"text": "None disclosed. No model release, discovery result, cycle-time or cost number attributable to LillyPod [CLM-006007].",
+"claim_ids": [
+"CLM-006007"
+]
+},
+{
+"label": "Maturity",
+"text": "LillyPod: operational (infrastructure online). Co-innovation lab: concept [CLM-000281].",
+"claim_ids": [
+"CLM-000281"
+]
+},
+{
+"label": "Durability",
+"text": "Compute is purchasable; differentiation must come from data and models (INTERPRETATION) [CLM-006055]. Cluster is a capex bet with energy and obsolescence exposure.",
+"claim_ids": [
+"CLM-006055"
+]
+},
+{
+"label": "Competitive response",
+"text": "BMS and Roche announced comparable pharma supercomputers (trade analysis only, not opened).",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Watch. Do not match; buy cloud compute and partner [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-000281, CLM-000282, CLM-006003–CLM-006007, CLM-006055; SRC-006001–006003",
+"claim_ids": [
+"CLM-000281",
+"CLM-000282",
+"CLM-006003",
+"CLM-006004",
+"CLM-006005",
+"CLM-006006",
+"CLM-006007",
+"CLM-006055"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Wet-lab throughput limits (Lilly cites about 2,000 molecular ideas per target per year) [CLM-006005].",
+"claim_ids": [
+"CLM-006005"
+]
+},
+"investment": {
+"text": "Cluster cost not disclosed. Co-innovation lab: up to USD 1 billion over five years, jointly with NVIDIA [CLM-000281].",
+"claim_ids": [
+"CLM-000281"
+]
+},
+"capability": {
+"text": "Owned 1,016-GPU NVIDIA DGX SuperPOD (B300) to train biomedical foundation models; a planned USD 1 billion NVIDIA-Lilly co-innovation lab linking agentic wet labs and dry labs.",
+"claim_ids": []
+},
+"execution": {
+"text": "Announced October 2025 [CLM-006003]; inaugurated about February 2026, built in about four months [CLM-006004]; co-innovation lab announced 2026-01-12, work to begin early 2026 [CLM-000281].",
+"claim_ids": [
+"CLM-006003",
+"CLM-006004",
+"CLM-000281"
+]
+},
+"outcome": {
+"text": "None disclosed. No model release, discovery result, cycle-time or cost number attributable to LillyPod [CLM-006007].",
+"claim_ids": [
+"CLM-006007"
+]
+},
+"moat": {
+"text": "Compute is purchasable; differentiation must come from data and models (INTERPRETATION) [CLM-006055]. Cluster is a capex bet with energy and obsolescence exposure.",
+"claim_ids": [
+"CLM-006055"
+]
+},
+"response": {
+"text": "BMS and Roche announced comparable pharma supercomputers (trade analysis only, not opened).",
+"claim_ids": []
+},
+"takeda": {
+"text": "Watch. Do not match; buy cloud compute and partner [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+"maturity": {
+"text": "LillyPod: operational (infrastructure online). Co-innovation lab: concept [CLM-000281].",
+"claim_ids": [
+"CLM-000281"
+]
+},
+"assets": {
+"text": "NVIDIA hardware and BioNeMo/Omniverse/Isaac software; 700 TB genomics data [CLM-006004]; internal chief AI officer organisation.",
+"claim_ids": [
+"CLM-006004"
+]
+}
+},
+"claim_ids": [
+"CLM-006005",
+"CLM-000281",
+"CLM-006003",
+"CLM-006004",
+"CLM-006007",
+"CLM-006055",
+"CLM-006058",
+"CLM-000282",
+"CLM-006006"
+],
+"source_ids": [
+"SRC-006001",
+"SRC-006002",
+"SRC-006003"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-03",
+"kind": "mechanism_card",
+"title": "Lilly external AI-model partner portfolio (Isomorphic, insitro, Chai, OpenAI)",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Capability",
+"text": "Parallel access to external model builders instead of a single in-house model.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Reach new small-molecule and antibody design capability faster than internal build.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Isomorphic: USD 45 million upfront, up to USD 1.7 billion milestones [CLM-006012]. insitro, Chai, OpenAI: no terms disclosed [CLM-006009, CLM-006010, CLM-006011].",
+"claim_ids": [
+"CLM-006012",
+"CLM-006009",
+"CLM-006010",
+"CLM-006011"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Isomorphic 2024-01-07; OpenAI 2024-06-25 (brief's Sept 2025 date is wrong); insitro 2025-09-09; Chai early 2026 [CLM-006012, CLM-006011, CLM-006009, CLM-006010].",
+"claim_ids": [
+"CLM-006012",
+"CLM-006011",
+"CLM-006009",
+"CLM-006010"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Lilly proprietary data (insitro, Chai models trained on it); partner models (AlphaFold lineage, generative antibody models).",
+"claim_ids": []
+},
+{
+"label": "Evidence of value",
+"text": "None disclosed; no candidate named in any opened source. Chai's double-digit hit rate is Chai's own claim [CLM-006010].",
+"claim_ids": [
+"CLM-006010"
+]
+},
+{
+"label": "Maturity",
+"text": "concept (Isomorphic, OpenAI), prototype (insitro, Chai).",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Low individually; portfolio breadth hedges model-vendor risk (INTERPRETATION).",
+"claim_ids": []
+},
+{
+"label": "Competitive response",
+"text": "Every large pharma signs similar deals (Takeda–Nabla/Iambic; AbbVie–BigHat) [CLM-006039, CLM-006041, CLM-006035].",
+"claim_ids": [
+"CLM-006039",
+"CLM-006041",
+"CLM-006035"
+]
+},
+{
+"label": "Takeda relevance",
+"text": "Partner (already doing so); apply milestone-gated structures [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006009–CLM-006012; SRC-006004, 006008, 006009, 006011",
+"claim_ids": [
+"CLM-006009",
+"CLM-006010",
+"CLM-006011",
+"CLM-006012"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Reach new small-molecule and antibody design capability faster than internal build.",
+"claim_ids": []
+},
+"investment": {
+"text": "Isomorphic: USD 45 million upfront, up to USD 1.7 billion milestones [CLM-006012]. insitro, Chai, OpenAI: no terms disclosed [CLM-006009, CLM-006010, CLM-006011].",
+"claim_ids": [
+"CLM-006012",
+"CLM-006009",
+"CLM-006010",
+"CLM-006011"
+]
+},
+"capability": {
+"text": "Parallel access to external model builders instead of a single in-house model.",
+"claim_ids": []
+},
+"execution": {
+"text": "Isomorphic 2024-01-07; OpenAI 2024-06-25 (brief's Sept 2025 date is wrong); insitro 2025-09-09; Chai early 2026 [CLM-006012, CLM-006011, CLM-006009, CLM-006010].",
+"claim_ids": [
+"CLM-006012",
+"CLM-006011",
+"CLM-006009",
+"CLM-006010"
+]
+},
+"outcome": {
+"text": "None disclosed; no candidate named in any opened source. Chai's double-digit hit rate is Chai's own claim [CLM-006010].",
+"claim_ids": [
+"CLM-006010"
+]
+},
+"moat": {
+"text": "Low individually; portfolio breadth hedges model-vendor risk (INTERPRETATION).",
+"claim_ids": []
+},
+"response": {
+"text": "Every large pharma signs similar deals (Takeda–Nabla/Iambic; AbbVie–BigHat) [CLM-006039, CLM-006041, CLM-006035].",
+"claim_ids": [
+"CLM-006039",
+"CLM-006041",
+"CLM-006035"
+]
+},
+"takeda": {
+"text": "Partner (already doing so); apply milestone-gated structures [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+"maturity": {
+"text": "concept (Isomorphic, OpenAI), prototype (insitro, Chai).",
+"claim_ids": []
+},
+"assets": {
+"text": "Lilly proprietary data (insitro, Chai models trained on it); partner models (AlphaFold lineage, generative antibody models).",
+"claim_ids": []
+}
+},
+"claim_ids": [
+"CLM-006012",
+"CLM-006009",
+"CLM-006010",
+"CLM-006011",
+"CLM-006039",
+"CLM-006041",
+"CLM-006035",
+"CLM-006058"
+],
+"source_ids": [
+"SRC-006004"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-04",
+"kind": "mechanism_card",
+"title": "Lilly Life Sciences Studio / Strateos remote robotic lab",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly (documented retreat)",
+"fields": [
+{
+"label": "Capability",
+"text": "Remote-controlled, cloud-operated robotic lab (San Diego) integrating synthesis, purification, analysis and testing.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Faster, more reproducible discovery cycles and access for outside scientists.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Reported USD 90 million, established 2017 per one trade source; conflicts with a ~2020 public launch in a Fierce snippet [CLM-006014].",
+"claim_ids": [
+"CLM-006014"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Public launch about 2020 (with Strateos); sold to CRO Arctoris and relocated to Oxford in 2024 [CLM-006013]. Strateos: one unopened aggregator snippet says acquired by Multiply Labs December 2023 [CLM-006015]; the brief's \"closed 2023\" is not confirmed.",
+"claim_ids": [
+"CLM-006013",
+"CLM-006015"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Strateos robotic cloud platform; Lilly demand.",
+"claim_ids": []
+},
+{
+"label": "Evidence of value",
+"text": "No disclosed discovery outcome from the lab in any source opened.",
+"claim_ids": []
+},
+{
+"label": "Maturity",
+"text": "Reached operational; ended as a divested asset [CLM-006017].",
+"claim_ids": [
+"CLM-006017"
+]
+},
+{
+"label": "Durability",
+"text": "Low as an owned open-access lab; the equipment survives in a CRO service model [CLM-006016].",
+"claim_ids": [
+"CLM-006016"
+]
+},
+{
+"label": "Competitive response",
+"text": "CROs (Arctoris) market automated data generation to AI-drug-discovery firms [CLM-006016].",
+"claim_ids": [
+"CLM-006016"
+]
+},
+{
+"label": "Takeda relevance",
+"text": "Reject building an owned cloud lab; buy/partner for automated data generation [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+{
+"label": "Contrary evidence",
+"text": "Reason for sale undisclosed; may be portfolio-driven. Lilly still plans \"agentic wet labs\" [CLM-000281].",
+"claim_ids": [
+"CLM-000281"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006013–CLM-006017, CLM-006052; SRC-006005, 006006, 006028 (metadata), 006029 (metadata)",
+"claim_ids": [
+"CLM-006013",
+"CLM-006014",
+"CLM-006015",
+"CLM-006016",
+"CLM-006017",
+"CLM-006052"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Faster, more reproducible discovery cycles and access for outside scientists.",
+"claim_ids": []
+},
+"investment": {
+"text": "Reported USD 90 million, established 2017 per one trade source; conflicts with a ~2020 public launch in a Fierce snippet [CLM-006014].",
+"claim_ids": [
+"CLM-006014"
+]
+},
+"capability": {
+"text": "Remote-controlled, cloud-operated robotic lab (San Diego) integrating synthesis, purification, analysis and testing.",
+"claim_ids": []
+},
+"execution": {
+"text": "Public launch about 2020 (with Strateos); sold to CRO Arctoris and relocated to Oxford in 2024 [CLM-006013]. Strateos: one unopened aggregator snippet says acquired by Multiply Labs December 2023 [CLM-006015]; the brief's \"closed 2023\" is not confirmed.",
+"claim_ids": [
+"CLM-006013",
+"CLM-006015"
+]
+},
+"outcome": {
+"text": "No disclosed discovery outcome from the lab in any source opened.",
+"claim_ids": []
+},
+"moat": {
+"text": "Low as an owned open-access lab; the equipment survives in a CRO service model [CLM-006016].",
+"claim_ids": [
+"CLM-006016"
+]
+},
+"response": {
+"text": "CROs (Arctoris) market automated data generation to AI-drug-discovery firms [CLM-006016].",
+"claim_ids": [
+"CLM-006016"
+]
+},
+"takeda": {
+"text": "Reject building an owned cloud lab; buy/partner for automated data generation [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+"maturity": {
+"text": "Reached operational; ended as a divested asset [CLM-006017].",
+"claim_ids": [
+"CLM-006017"
+]
+},
+"assets": {
+"text": "Strateos robotic cloud platform; Lilly demand.",
+"claim_ids": []
+}
+},
+"claim_ids": [
+"CLM-006014",
+"CLM-006013",
+"CLM-006015",
+"CLM-006017",
+"CLM-006016",
+"CLM-006058",
+"CLM-000281",
+"CLM-006052"
+],
+"source_ids": [
+"SRC-006005"
+],
+"contrary": [
+"Reason for sale undisclosed; may be portfolio-driven. Lilly still plans \"agentic wet labs\" [CLM-000281]."
+],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-05",
+"kind": "mechanism_card",
+"title": "Lilly manufacturing automation: Lebanon Advanced Therapies and Medicine Foundry",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Capability",
+"text": "New genetic-medicine plant with robotic dosing/sealing equipment; planned Foundry combining process R&D and clinical-supply manufacturing; robots/digital twins in plants per NVIDIA.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Capacity for obesity/diabetes and new modalities; speed from process development to clinic.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Foundry USD 4.5 billion (2024); further USD 4.5 billion on Lebanon (2026); Indiana commitments over USD 21 billion since 2020 [CLM-006000, CLM-006002]. Capex USD 7.8 billion in 2025 [CLM-000246].",
+"claim_ids": [
+"CLM-006000",
+"CLM-006002",
+"CLM-000246"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Foundry announced 2024-10-02, opening late 2027, still planned in May 2026 [CLM-006000, CLM-006001]; Advanced Therapies opened 2026-05-06 [CLM-006002].",
+"claim_ids": [
+"CLM-006000",
+"CLM-006001",
+"CLM-006002"
+]
+},
+{
+"label": "Enabling assets",
+"text": "State of Indiana infrastructure support; NVIDIA digital-twin tooling (stated) [CLM-006006].",
+"claim_ids": [
+"CLM-006006"
+]
+},
+{
+"label": "Evidence of value",
+"text": "Opening observed by a reporter on a guided tour; no yield, cost or cycle-time data [CLM-006002].",
+"claim_ids": [
+"CLM-006002"
+]
+},
+{
+"label": "Maturity",
+"text": "Advanced Therapies operational; Foundry concept; digital twins pilot (stated, unevidenced).",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Capital and permitting scale are a moat; automation content unquantified.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Watch; relevance for plasma and biologics fill-finish [CLM-000279].",
+"claim_ids": [
+"CLM-000279"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006000–CLM-006002, CLM-006006, CLM-000246; SRC-006000, 006012",
+"claim_ids": [
+"CLM-006000",
+"CLM-006001",
+"CLM-006002",
+"CLM-006006",
+"CLM-000246"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Capacity for obesity/diabetes and new modalities; speed from process development to clinic.",
+"claim_ids": []
+},
+"investment": {
+"text": "Foundry USD 4.5 billion (2024); further USD 4.5 billion on Lebanon (2026); Indiana commitments over USD 21 billion since 2020 [CLM-006000, CLM-006002]. Capex USD 7.8 billion in 2025 [CLM-000246].",
+"claim_ids": [
+"CLM-006000",
+"CLM-006002",
+"CLM-000246"
+]
+},
+"capability": {
+"text": "New genetic-medicine plant with robotic dosing/sealing equipment; planned Foundry combining process R&D and clinical-supply manufacturing; robots/digital twins in plants per NVIDIA.",
+"claim_ids": []
+},
+"execution": {
+"text": "Foundry announced 2024-10-02, opening late 2027, still planned in May 2026 [CLM-006000, CLM-006001]; Advanced Therapies opened 2026-05-06 [CLM-006002].",
+"claim_ids": [
+"CLM-006000",
+"CLM-006001",
+"CLM-006002"
+]
+},
+"outcome": {
+"text": "Opening observed by a reporter on a guided tour; no yield, cost or cycle-time data [CLM-006002].",
+"claim_ids": [
+"CLM-006002"
+]
+},
+"moat": {
+"text": "Capital and permitting scale are a moat; automation content unquantified.",
+"claim_ids": []
+},
+"takeda": {
+"text": "Watch; relevance for plasma and biologics fill-finish [CLM-000279].",
+"claim_ids": [
+"CLM-000279"
+]
+},
+"maturity": {
+"text": "Advanced Therapies operational; Foundry concept; digital twins pilot (stated, unevidenced).",
+"claim_ids": []
+},
+"assets": {
+"text": "State of Indiana infrastructure support; NVIDIA digital-twin tooling (stated) [CLM-006006].",
+"claim_ids": [
+"CLM-006006"
+]
+}
+},
+"claim_ids": [
+"CLM-006000",
+"CLM-006002",
+"CLM-000246",
+"CLM-006001",
+"CLM-006006",
+"CLM-000279"
+],
+"source_ids": [
+"SRC-006000"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-06",
+"kind": "mechanism_card",
+"title": "J&J enterprise generative-AI portfolio",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Capability",
+"text": "Three layers: enterprise productivity, end-to-end process AI (trial-site selection, quality, sales copilots), AI embedded in products [CLM-006018, CLM-006023].",
+"claim_ids": [
+"CLM-006018",
+"CLM-006023"
+]
+},
+{
+"label": "Initial problem",
+"text": "Productivity and trial speed across 130,000+ employees.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Not disclosed.",
+"claim_ids": []
+},
+{
+"label": "Execution timeline",
+"text": "Experimentation from about 2022 (the interview refers to the past two years); centrally governed review of nearly 900 use cases; refocus in 2025 on high-value cases [CLM-006018, CLM-006019].",
+"claim_ids": [
+"CLM-006018",
+"CLM-006019"
+]
+},
+{
+"label": "Enabling assets",
+"text": "AI Council and Data Management Council; training of 47,000 employees in a generative-AI course [CLM-006022]; secure enclaves for models.",
+"claim_ids": [
+"CLM-006022"
+]
+},
+{
+"label": "Evidence of value",
+"text": "Self-reported only: \"up to 2.6x\" enrolment at AI-recommended high-enrolling sites [CLM-006020]; weeks-to-minutes in a quality tool [CLM-006021]; 10–15% of use cases yield about 80% of value [CLM-006019]. No audited or independent result.",
+"claim_ids": [
+"CLM-006020",
+"CLM-006021",
+"CLM-006019"
+]
+},
+{
+"label": "Maturity",
+"text": "pilot to operational (mixed); no demonstrated_outcome.",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Low; productivity tools are commodity. Training and governance are slow to copy.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Watch / adopt practice: prune pilots early, measure per use case [CLM-006019].",
+"claim_ids": [
+"CLM-006019"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006018–CLM-006024; SRC-006013, 006014",
+"claim_ids": [
+"CLM-006018",
+"CLM-006019",
+"CLM-006020",
+"CLM-006021",
+"CLM-006022",
+"CLM-006023",
+"CLM-006024"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Productivity and trial speed across 130,000+ employees.",
+"claim_ids": []
+},
+"investment": {
+"text": "Not disclosed.",
+"claim_ids": []
+},
+"capability": {
+"text": "Three layers: enterprise productivity, end-to-end process AI (trial-site selection, quality, sales copilots), AI embedded in products [CLM-006018, CLM-006023].",
+"claim_ids": [
+"CLM-006018",
+"CLM-006023"
+]
+},
+"execution": {
+"text": "Experimentation from about 2022 (the interview refers to the past two years); centrally governed review of nearly 900 use cases; refocus in 2025 on high-value cases [CLM-006018, CLM-006019].",
+"claim_ids": [
+"CLM-006018",
+"CLM-006019"
+]
+},
+"outcome": {
+"text": "Self-reported only: \"up to 2.6x\" enrolment at AI-recommended high-enrolling sites [CLM-006020]; weeks-to-minutes in a quality tool [CLM-006021]; 10–15% of use cases yield about 80% of value [CLM-006019]. No audited or independent result.",
+"claim_ids": [
+"CLM-006020",
+"CLM-006021",
+"CLM-006019"
+]
+},
+"moat": {
+"text": "Low; productivity tools are commodity. Training and governance are slow to copy.",
+"claim_ids": []
+},
+"takeda": {
+"text": "Watch / adopt practice: prune pilots early, measure per use case [CLM-006019].",
+"claim_ids": [
+"CLM-006019"
+]
+},
+"maturity": {
+"text": "pilot to operational (mixed); no demonstrated_outcome.",
+"claim_ids": []
+},
+"assets": {
+"text": "AI Council and Data Management Council; training of 47,000 employees in a generative-AI course [CLM-006022]; secure enclaves for models.",
+"claim_ids": [
+"CLM-006022"
+]
+}
+},
+"claim_ids": [
+"CLM-006018",
+"CLM-006023",
+"CLM-006019",
+"CLM-006022",
+"CLM-006020",
+"CLM-006021",
+"CLM-006024"
+],
+"source_ids": [
+"SRC-006013"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-07",
+"kind": "mechanism_card",
+"title": "J&J OTTAVA robotic surgical system",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Capability",
+"text": "Table-integrated four-arm soft-tissue robot connected to Polyphonic, with automated arm set-up.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Footprint, set-up complexity and data locked in existing robotic platforms.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Not disclosed.",
+"claim_ids": []
+},
+{
+"label": "Execution timeline",
+"text": "FDA De Novo 2026-07-22 [CLM-000283]; first commercial installation 2026-11-19 [CLM-000284]; IDE trial in six ORs, 243–694 sq ft [CLM-006028].",
+"claim_ids": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006028"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Ethicon instruments, robotics/AI hires (head of robotics R&D joined in 2024), Polyphonic data layer [CLM-006028].",
+"claim_ids": [
+"CLM-006028"
+]
+},
+{
+"label": "Evidence of value",
+"text": "Regulator authorisation is verified; efficiency claims rest on a survey of 12 surgeons and 8 staff [CLM-006028]. No revenue or procedure data; FY2025 10-K has no OTTAVA text [CLM-006025].",
+"claim_ids": [
+"CLM-006028",
+"CLM-006025"
+]
+},
+{
+"label": "Maturity",
+"text": "pilot (launch phase, one installation) [CLM-006029].",
+"claim_ids": [
+"CLM-006029"
+]
+},
+{
+"label": "Durability",
+"text": "Architecture and instrument breadth are differentiators; incumbents hold installed base (not studied here).",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Reject (device); watch only as a read-across for data-linked robotics.",
+"claim_ids": []
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-000283, CLM-000284, CLM-006025, CLM-006028, CLM-006029; SRC-006016",
+"claim_ids": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006025",
+"CLM-006028",
+"CLM-006029"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Footprint, set-up complexity and data locked in existing robotic platforms.",
+"claim_ids": []
+},
+"investment": {
+"text": "Not disclosed.",
+"claim_ids": []
+},
+"capability": {
+"text": "Table-integrated four-arm soft-tissue robot connected to Polyphonic, with automated arm set-up.",
+"claim_ids": []
+},
+"execution": {
+"text": "FDA De Novo 2026-07-22 [CLM-000283]; first commercial installation 2026-11-19 [CLM-000284]; IDE trial in six ORs, 243–694 sq ft [CLM-006028].",
+"claim_ids": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006028"
+]
+},
+"outcome": {
+"text": "Regulator authorisation is verified; efficiency claims rest on a survey of 12 surgeons and 8 staff [CLM-006028]. No revenue or procedure data; FY2025 10-K has no OTTAVA text [CLM-006025].",
+"claim_ids": [
+"CLM-006028",
+"CLM-006025"
+]
+},
+"moat": {
+"text": "Architecture and instrument breadth are differentiators; incumbents hold installed base (not studied here).",
+"claim_ids": []
+},
+"takeda": {
+"text": "Reject (device); watch only as a read-across for data-linked robotics.",
+"claim_ids": []
+},
+"maturity": {
+"text": "pilot (launch phase, one installation) [CLM-006029].",
+"claim_ids": [
+"CLM-006029"
+]
+},
+"assets": {
+"text": "Ethicon instruments, robotics/AI hires (head of robotics R&D joined in 2024), Polyphonic data layer [CLM-006028].",
+"claim_ids": [
+"CLM-006028"
+]
+}
+},
+"claim_ids": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006028",
+"CLM-006025",
+"CLM-006029"
+],
+"source_ids": [
+"SRC-006016"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-08",
+"kind": "mechanism_card",
+"title": "J&J MONARCH robotic bronchoscopy",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Capability",
+"text": "First flexible robotic bronchoscopy platform; AI nodule segmentation and CT-to-body-divergence handling in QUEST 3 software.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Reaching peripheral lung nodules for early lung-cancer diagnosis.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Not disclosed (Auris acquisition not reviewed here).",
+"claim_ids": []
+},
+{
+"label": "Execution timeline",
+"text": "Cleared 510(k) K152819 (referenced in release); QUEST 3 clearance announced 2026-08-17, third launch in 18 months [CLM-006027].",
+"claim_ids": [
+"CLM-006027"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Installed base, software-updatable design, Polyphonic video library [CLM-006027].",
+"claim_ids": [
+"CLM-006027"
+]
+},
+{
+"label": "Evidence of value",
+"text": "Clearance (regulator action); support documents are internal technical reviews; installed base and procedure counts not disclosed; 10-K silent [CLM-006025].",
+"claim_ids": [
+"CLM-006025"
+]
+},
+{
+"label": "Maturity",
+"text": "operational.",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Moderate; incremental AI inside cleared device, competitors (not studied) exist.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Reject (device).",
+"claim_ids": []
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006025, CLM-006027; SRC-006015",
+"claim_ids": [
+"CLM-006025",
+"CLM-006027"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Reaching peripheral lung nodules for early lung-cancer diagnosis.",
+"claim_ids": []
+},
+"investment": {
+"text": "Not disclosed (Auris acquisition not reviewed here).",
+"claim_ids": []
+},
+"capability": {
+"text": "First flexible robotic bronchoscopy platform; AI nodule segmentation and CT-to-body-divergence handling in QUEST 3 software.",
+"claim_ids": []
+},
+"execution": {
+"text": "Cleared 510(k) K152819 (referenced in release); QUEST 3 clearance announced 2026-08-17, third launch in 18 months [CLM-006027].",
+"claim_ids": [
+"CLM-006027"
+]
+},
+"outcome": {
+"text": "Clearance (regulator action); support documents are internal technical reviews; installed base and procedure counts not disclosed; 10-K silent [CLM-006025].",
+"claim_ids": [
+"CLM-006025"
+]
+},
+"moat": {
+"text": "Moderate; incremental AI inside cleared device, competitors (not studied) exist.",
+"claim_ids": []
+},
+"takeda": {
+"text": "Reject (device).",
+"claim_ids": []
+},
+"maturity": {
+"text": "operational.",
+"claim_ids": []
+},
+"assets": {
+"text": "Installed base, software-updatable design, Polyphonic video library [CLM-006027].",
+"claim_ids": [
+"CLM-006027"
+]
+}
+},
+"claim_ids": [
+"CLM-006027",
+"CLM-006025"
+],
+"source_ids": [
+"SRC-006015"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-09",
+"kind": "mechanism_card",
+"title": "J&J VELYS robotic-assisted orthopaedics",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J (thin evidence)",
+"fields": [
+{
+"label": "Capability",
+"text": "CT-free robotic knee solution acting as pull-through for ATTUNE implants.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Robot-share race in knee arthroplasty.",
+"claim_ids": []
+},
+{
+"label": "Evidence of value",
+"text": "FY2025 10-K attributes Knees growth partly to VELYS pull-through but gives no unit or procedure counts [CLM-006026]. Adoption numbers were not located in a primary source.",
+"claim_ids": [
+"CLM-006026"
+]
+},
+{
+"label": "Maturity",
+"text": "scaled at the level of commercial presence (INTERPRETATION); installed base unknown.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Reject; included for completeness.",
+"claim_ids": []
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006026; SRC-000010",
+"claim_ids": [
+"CLM-006026"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Robot-share race in knee arthroplasty.",
+"claim_ids": []
+},
+"capability": {
+"text": "CT-free robotic knee solution acting as pull-through for ATTUNE implants.",
+"claim_ids": []
+},
+"outcome": {
+"text": "FY2025 10-K attributes Knees growth partly to VELYS pull-through but gives no unit or procedure counts [CLM-006026]. Adoption numbers were not located in a primary source.",
+"claim_ids": [
+"CLM-006026"
+]
+},
+"takeda": {
+"text": "Reject; included for completeness.",
+"claim_ids": []
+},
+"maturity": {
+"text": "scaled at the level of commercial presence (INTERPRETATION); installed base unknown.",
+"claim_ids": []
+}
+},
+"claim_ids": [
+"CLM-006026"
+],
+"source_ids": [
+"SRC-000010"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-10",
+"kind": "mechanism_card",
+"title": "J&J Polyphonic surgical data ecosystem",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Capability",
+"text": "Surgical video, device and AI-insight network; \"AI Fund for Surgery\"; Abu Dhabi node.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Surgical data is fragmented; AI needs governed multi-site datasets.",
+"claim_ids": []
+},
+{
+"label": "Execution timeline",
+"text": "Announced 2024-06-20 (page blocked; stated in search metadata only); AI Fund June 2025; first awardees 2025-10-27, \"early access to select hospitals only\" [CLM-006030]; Abu Dhabi programme 2026-05-21, deployment \"expected\" [CLM-006031].",
+"claim_ids": [
+"CLM-006030",
+"CLM-006031"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Hospital partnerships, AWS and NVIDIA collaboration [CLM-006030].",
+"claim_ids": [
+"CLM-006030"
+]
+},
+{
+"label": "Evidence of value",
+"text": "None; the programme is data-gathering stage.",
+"claim_ids": []
+},
+{
+"label": "Maturity",
+"text": "Polyphonic early access: pilot; Abu Dhabi network: concept.",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Potentially high if dataset ownership and hospital integration are exclusive (HYPOTHESIS).",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Watch (data-network model).",
+"claim_ids": []
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006030, CLM-006031; SRC-006017, 006018",
+"claim_ids": [
+"CLM-006030",
+"CLM-006031"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Surgical data is fragmented; AI needs governed multi-site datasets.",
+"claim_ids": []
+},
+"capability": {
+"text": "Surgical video, device and AI-insight network; \"AI Fund for Surgery\"; Abu Dhabi node.",
+"claim_ids": []
+},
+"execution": {
+"text": "Announced 2024-06-20 (page blocked; stated in search metadata only); AI Fund June 2025; first awardees 2025-10-27, \"early access to select hospitals only\" [CLM-006030]; Abu Dhabi programme 2026-05-21, deployment \"expected\" [CLM-006031].",
+"claim_ids": [
+"CLM-006030",
+"CLM-006031"
+]
+},
+"outcome": {
+"text": "None; the programme is data-gathering stage.",
+"claim_ids": []
+},
+"moat": {
+"text": "Potentially high if dataset ownership and hospital integration are exclusive (HYPOTHESIS).",
+"claim_ids": []
+},
+"takeda": {
+"text": "Watch (data-network model).",
+"claim_ids": []
+},
+"maturity": {
+"text": "Polyphonic early access: pilot; Abu Dhabi network: concept.",
+"claim_ids": []
+},
+"assets": {
+"text": "Hospital partnerships, AWS and NVIDIA collaboration [CLM-006030].",
+"claim_ids": [
+"CLM-006030"
+]
+}
+},
+"claim_ids": [
+"CLM-006030",
+"CLM-006031"
+],
+"source_ids": [
+"SRC-006017"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-11",
+"kind": "mechanism_card",
+"title": "AbbVie R&D Convergence Hub (ARCH)",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Capability",
+"text": "Knowledge graph and data lake unifying 200+ sources; search and dossier applications; machine-learning workspaces. Not described as generative AI in the source opened.",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Siloed R&D data; duplicate data acquisition.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "\"Significant investment\", price undisclosed; fewer than ten FTE plus many contractors [CLM-006032, CLM-006033].",
+"claim_ids": [
+"CLM-006032",
+"CLM-006033"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Conceived 2020; Bio-IT World award talk 2023-08-24 [CLM-006032].",
+"claim_ids": [
+"CLM-006032"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Partners (Modak, SciBite, Tellic, TXI), Cloudera ML, governance decision to open de-identified trial data to all R&D [CLM-006032, CLM-006034].",
+"claim_ids": [
+"CLM-006032",
+"CLM-006034"
+]
+},
+{
+"label": "Evidence of value",
+"text": "A Dec 2022 preprint on repurposing flags (not opened); no clinical or financial outcome [CLM-006033].",
+"claim_ids": [
+"CLM-006033"
+]
+},
+{
+"label": "Maturity",
+"text": "operational.",
+"claim_ids": []
+},
+{
+"label": "Durability",
+"text": "Moderate: graph and governance are slow to replicate; vendors replicable.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Build-lite / partner: governance-first data integration is transferable; Takeda reports its own data modernization [CLM-000278].",
+"claim_ids": [
+"CLM-000278"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006032–CLM-006034, CLM-006038; SRC-006019, 006031 (metadata)",
+"claim_ids": [
+"CLM-006032",
+"CLM-006033",
+"CLM-006034",
+"CLM-006038"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Siloed R&D data; duplicate data acquisition.",
+"claim_ids": []
+},
+"investment": {
+"text": "\"Significant investment\", price undisclosed; fewer than ten FTE plus many contractors [CLM-006032, CLM-006033].",
+"claim_ids": [
+"CLM-006032",
+"CLM-006033"
+]
+},
+"capability": {
+"text": "Knowledge graph and data lake unifying 200+ sources; search and dossier applications; machine-learning workspaces. Not described as generative AI in the source opened.",
+"claim_ids": []
+},
+"execution": {
+"text": "Conceived 2020; Bio-IT World award talk 2023-08-24 [CLM-006032].",
+"claim_ids": [
+"CLM-006032"
+]
+},
+"outcome": {
+"text": "A Dec 2022 preprint on repurposing flags (not opened); no clinical or financial outcome [CLM-006033].",
+"claim_ids": [
+"CLM-006033"
+]
+},
+"moat": {
+"text": "Moderate: graph and governance are slow to replicate; vendors replicable.",
+"claim_ids": []
+},
+"takeda": {
+"text": "Build-lite / partner: governance-first data integration is transferable; Takeda reports its own data modernization [CLM-000278].",
+"claim_ids": [
+"CLM-000278"
+]
+},
+"maturity": {
+"text": "operational.",
+"claim_ids": []
+},
+"assets": {
+"text": "Partners (Modak, SciBite, Tellic, TXI), Cloudera ML, governance decision to open de-identified trial data to all R&D [CLM-006032, CLM-006034].",
+"claim_ids": [
+"CLM-006032",
+"CLM-006034"
+]
+}
+},
+"claim_ids": [
+"CLM-006032",
+"CLM-006033",
+"CLM-006034",
+"CLM-000278",
+"CLM-006038"
+],
+"source_ids": [
+"SRC-006019"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-12",
+"kind": "mechanism_card",
+"title": "AbbVie external AI: BigHat Biosciences and Valkai",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Capability",
+"text": "ML-guided antibody design with a wet lab (BigHat Milliner); clinical-development AI (Valkai).",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "BigHat: USD 30 million upfront, up to about USD 325 million milestones [CLM-006035]. Valkai: undisclosed [CLM-000285].",
+"claim_ids": [
+"CLM-006035",
+"CLM-000285"
+]
+},
+{
+"label": "Execution timeline",
+"text": "BigHat 2023-12-05; Valkai 2026-09-29.",
+"claim_ids": []
+},
+{
+"label": "Evidence of value",
+"text": "None disclosed for either [CLM-006037].",
+"claim_ids": [
+"CLM-006037"
+]
+},
+{
+"label": "Maturity",
+"text": "BigHat prototype; Valkai concept.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Partner analogues exist (Nabla).",
+"claim_ids": []
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006035, CLM-006037, CLM-000285, CLM-006036; SRC-006020",
+"claim_ids": [
+"CLM-006035",
+"CLM-006037",
+"CLM-000285",
+"CLM-006036"
+]
+}
+],
+"stages": {
+"investment": {
+"text": "BigHat: USD 30 million upfront, up to about USD 325 million milestones [CLM-006035]. Valkai: undisclosed [CLM-000285].",
+"claim_ids": [
+"CLM-006035",
+"CLM-000285"
+]
+},
+"capability": {
+"text": "ML-guided antibody design with a wet lab (BigHat Milliner); clinical-development AI (Valkai).",
+"claim_ids": []
+},
+"execution": {
+"text": "BigHat 2023-12-05; Valkai 2026-09-29.",
+"claim_ids": []
+},
+"outcome": {
+"text": "None disclosed for either [CLM-006037].",
+"claim_ids": [
+"CLM-006037"
+]
+},
+"takeda": {
+"text": "Partner analogues exist (Nabla).",
+"claim_ids": []
+},
+"maturity": {
+"text": "BigHat prototype; Valkai concept.",
+"claim_ids": []
+}
+},
+"claim_ids": [
+"CLM-006035",
+"CLM-000285",
+"CLM-006037",
+"CLM-006036"
+],
+"source_ids": [
+"SRC-006020"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-13",
+"kind": "mechanism_card",
+"title": "Takeda external AI deals: Nabla Bio and Iambic",
+"companies": [
+"TAK"
+],
+"company_label": "Takeda",
+"fields": [
+{
+"label": "Capability",
+"text": "Generative antibody design (Nabla JAM) and small-molecule AI incl. NeuralPLexer (Iambic).",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Extend early pipeline after Takeda narrowed research focus (Reuters notes exit from cell-therapy research) [CLM-006039].",
+"claim_ids": [
+"CLM-006039"
+]
+},
+{
+"label": "Starting investment",
+"text": "Nabla: upfront and research payments in double-digit millions; Iambic: undisclosed upfront; success-based over USD 1 billion and over USD 1.7 billion respectively [CLM-006039, CLM-006041].",
+"claim_ids": [
+"CLM-006039",
+"CLM-006041"
+]
+},
+{
+"label": "Execution timeline",
+"text": "Nabla first collaboration 2022, second 2025-10-14; Iambic 2026-02-09.",
+"claim_ids": []
+},
+{
+"label": "Evidence of value",
+"text": "None; Nabla expects first-in-human data in one to two years [CLM-006039].",
+"claim_ids": [
+"CLM-006039"
+]
+},
+{
+"label": "Maturity",
+"text": "prototype (Nabla), prototype/concept (Iambic).",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Partner (in progress); set go/no-go gates [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006039–CLM-006041, CLM-006045; SRC-006021, 006022",
+"claim_ids": [
+"CLM-006039",
+"CLM-006040",
+"CLM-006041",
+"CLM-006045"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Extend early pipeline after Takeda narrowed research focus (Reuters notes exit from cell-therapy research) [CLM-006039].",
+"claim_ids": [
+"CLM-006039"
+]
+},
+"investment": {
+"text": "Nabla: upfront and research payments in double-digit millions; Iambic: undisclosed upfront; success-based over USD 1 billion and over USD 1.7 billion respectively [CLM-006039, CLM-006041].",
+"claim_ids": [
+"CLM-006039",
+"CLM-006041"
+]
+},
+"capability": {
+"text": "Generative antibody design (Nabla JAM) and small-molecule AI incl. NeuralPLexer (Iambic).",
+"claim_ids": []
+},
+"execution": {
+"text": "Nabla first collaboration 2022, second 2025-10-14; Iambic 2026-02-09.",
+"claim_ids": []
+},
+"outcome": {
+"text": "None; Nabla expects first-in-human data in one to two years [CLM-006039].",
+"claim_ids": [
+"CLM-006039"
+]
+},
+"takeda": {
+"text": "Partner (in progress); set go/no-go gates [CLM-006058].",
+"claim_ids": [
+"CLM-006058"
+]
+},
+"maturity": {
+"text": "prototype (Nabla), prototype/concept (Iambic).",
+"claim_ids": []
+}
+},
+"claim_ids": [
+"CLM-006039",
+"CLM-006041",
+"CLM-006058",
+"CLM-006040",
+"CLM-006045"
+],
+"source_ids": [
+"SRC-006021"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "CARD-14",
+"kind": "mechanism_card",
+"title": "Federated OpenFold3 / AI Structural Biology consortium",
+"companies": [
+"ABBV",
+"JNJ",
+"TAK"
+],
+"company_label": "AbbVie, J&J, Takeda (plus BMS, Astex)",
+"fields": [
+{
+"label": "Capability",
+"text": "Federated fine-tuning of OpenFold3 on proprietary protein-ligand structures; follow-on \"AISB Bind\".",
+"claim_ids": []
+},
+{
+"label": "Initial problem",
+"text": "Public structure data is too sparse for drug-like complexes.",
+"claim_ids": []
+},
+{
+"label": "Starting investment",
+"text": "Not disclosed.",
+"claim_ids": []
+},
+{
+"label": "Execution timeline",
+"text": "AbbVie and J&J first members (early 2025); BMS, Takeda, Astex joined 2025-10-01 [CLM-006042].",
+"claim_ids": [
+"CLM-006042"
+]
+},
+{
+"label": "Enabling assets",
+"text": "Apheris secure federated platform, Columbia AlQuraishi lab, 20,000+ private structures [CLM-006043].",
+"claim_ids": [
+"CLM-006043"
+]
+},
+{
+"label": "Evidence of value",
+"text": "Organiser reports +10 points pose accuracy and +11 points interface quality vs the strongest public model on 1,056 held-out structures; not peer-reviewed [CLM-006043].",
+"claim_ids": [
+"CLM-006043"
+]
+},
+{
+"label": "Maturity",
+"text": "pilot (first initiative complete); AISB Bind concept [CLM-006044].",
+"claim_ids": [
+"CLM-006044"
+]
+},
+{
+"label": "Durability",
+"text": "Network effects among members; open model weights limit exclusivity.",
+"claim_ids": []
+},
+{
+"label": "Takeda relevance",
+"text": "Partner (in progress); note absence from AISB Bind founding list [CLM-006044].",
+"claim_ids": [
+"CLM-006044"
+]
+},
+{
+"label": "Evidence IDs",
+"text": "CLM-006042–CLM-006044, CLM-006056; SRC-006023, 006024",
+"claim_ids": [
+"CLM-006042",
+"CLM-006043",
+"CLM-006044",
+"CLM-006056"
+]
+}
+],
+"stages": {
+"problem": {
+"text": "Public structure data is too sparse for drug-like complexes.",
+"claim_ids": []
+},
+"investment": {
+"text": "Not disclosed.",
+"claim_ids": []
+},
+"capability": {
+"text": "Federated fine-tuning of OpenFold3 on proprietary protein-ligand structures; follow-on \"AISB Bind\".",
+"claim_ids": []
+},
+"execution": {
+"text": "AbbVie and J&J first members (early 2025); BMS, Takeda, Astex joined 2025-10-01 [CLM-006042].",
+"claim_ids": [
+"CLM-006042"
+]
+},
+"outcome": {
+"text": "Organiser reports +10 points pose accuracy and +11 points interface quality vs the strongest public model on 1,056 held-out structures; not peer-reviewed [CLM-006043].",
+"claim_ids": [
+"CLM-006043"
+]
+},
+"moat": {
+"text": "Network effects among members; open model weights limit exclusivity.",
+"claim_ids": []
+},
+"takeda": {
+"text": "Partner (in progress); note absence from AISB Bind founding list [CLM-006044].",
+"claim_ids": [
+"CLM-006044"
+]
+},
+"maturity": {
+"text": "pilot (first initiative complete); AISB Bind concept [CLM-006044].",
+"claim_ids": [
+"CLM-006044"
+]
+},
+"assets": {
+"text": "Apheris secure federated platform, Columbia AlQuraishi lab, 20,000+ private structures [CLM-006043].",
+"claim_ids": [
+"CLM-006043"
+]
+}
+},
+"claim_ids": [
+"CLM-006042",
+"CLM-006043",
+"CLM-006044",
+"CLM-006056"
+],
+"source_ids": [
+"SRC-006023"
+],
+"contrary": [],
+"source_file": "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+},
+{
+"id": "MOAT-LLY-1",
+"kind": "moat",
+"title": "Incretin manufacturing scale",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Incretin manufacturing scale. Facts: [CLM-001038] [CLM-001039] [CLM-001041] [CLM-001023]. *(INTERPRETATION)* Mechanism: multi-year, multi-billion API and device capacity; rival replication needs 3-5 years and capital; announced capacity is not operating capacity (operating evidence only at Concord, Kinsale, Lebanon Advanced Therapies: [CLM-014014] [CLM-014011] [CLM-014015]).",
+"claim_ids": [
+"CLM-001038",
+"CLM-001039",
+"CLM-001041",
+"CLM-001023",
+"CLM-014014",
+"CLM-014011",
+"CLM-014015"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Incretin manufacturing scale. Facts: [CLM-001038] [CLM-001039] [CLM-001041] [CLM-001023]. *(INTERPRETATION)* Mechanism: multi-year, multi-billion API and device capacity; rival replication needs 3-5 years and capital; announced capacity is not operating capacity (operating evidence only at Concord, Kinsale, Lebanon Advanced Therapies: [CLM-014014] [CLM-014011] [CLM-014015]).",
+"claim_ids": [
+"CLM-001038",
+"CLM-001039",
+"CLM-001041",
+"CLM-001023",
+"CLM-014014",
+"CLM-014011",
+"CLM-014015"
+]
+}
+},
+"claim_ids": [
+"CLM-001038",
+"CLM-001039",
+"CLM-001041",
+"CLM-001023",
+"CLM-014014",
+"CLM-014011",
+"CLM-014015"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/eli_lilly/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-LLY-2",
+"kind": "moat",
+"title": "Oral GLP-1 timing",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Oral GLP-1 timing. Facts: [CLM-001030] [CLM-001058]. *(INTERPRETATION)* Small-molecule pill avoids peptide supply limits; ATTAIN-1 weight loss is below injectable tirzepatide; rivals have oral peptide products.",
+"claim_ids": [
+"CLM-001030",
+"CLM-001058"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Oral GLP-1 timing. Facts: [CLM-001030] [CLM-001058]. *(INTERPRETATION)* Small-molecule pill avoids peptide supply limits; ATTAIN-1 weight loss is below injectable tirzepatide; rivals have oral peptide products.",
+"claim_ids": [
+"CLM-001030",
+"CLM-001058"
+]
+}
+},
+"claim_ids": [
+"CLM-001030",
+"CLM-001058"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/eli_lilly/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-LLY-3",
+"kind": "moat",
+"title": "Proprietary preclinical data (TuneLab)",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Proprietary preclinical data (TuneLab) [CLM-000280]: operational platform, no outcome or revenue evidence (maturity: operational, unproven value); partner uptake unquantified [CLM-014056].",
+"claim_ids": [
+"CLM-000280",
+"CLM-014056"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Proprietary preclinical data (TuneLab) [CLM-000280]: operational platform, no outcome or revenue evidence (maturity: operational, unproven value); partner uptake unquantified [CLM-014056].",
+"claim_ids": [
+"CLM-000280",
+"CLM-014056"
+]
+}
+},
+"claim_ids": [
+"CLM-000280",
+"CLM-014056"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/eli_lilly/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-LLY-4",
+"kind": "moat",
+"title": "Compute partnership",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Compute partnership [CLM-000281] [CLM-000282]: concept stage.",
+"claim_ids": [
+"CLM-000281",
+"CLM-000282"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Compute partnership [CLM-000281] [CLM-000282]: concept stage.",
+"claim_ids": [
+"CLM-000281",
+"CLM-000282"
+]
+}
+},
+"claim_ids": [
+"CLM-000281",
+"CLM-000282"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/eli_lilly/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-LLY-5",
+"kind": "moat",
+"title": "Patent runway",
+"companies": [
+"LLY"
+],
+"company_label": "Lilly",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Patent runway: tirzepatide compound patent 2036 [CLM-000250].",
+"claim_ids": [
+"CLM-000250"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Patent runway: tirzepatide compound patent 2036 [CLM-000250].",
+"claim_ids": [
+"CLM-000250"
+]
+}
+},
+"claim_ids": [
+"CLM-000250"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/eli_lilly/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-JNJ-1",
+"kind": "moat",
+"title": "Myeloma franchise depth",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Myeloma franchise depth. Mechanism: CD38 antibody, BCMA CAR-T, two bispecifics in one commercial organisation; USD 17.4bn in 2025 [CLM-002072]. Replication: multi-year clinical programmes plus cell-therapy manufacturing; erosion risk from DARZALEX concentration [CLM-002073]. Confidence: medium.",
+"claim_ids": [
+"CLM-002072",
+"CLM-002073"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Myeloma franchise depth. Mechanism: CD38 antibody, BCMA CAR-T, two bispecifics in one commercial organisation; USD 17.4bn in 2025 [CLM-002072]. Replication: multi-year clinical programmes plus cell-therapy manufacturing; erosion risk from DARZALEX concentration [CLM-002073]. Confidence: medium.",
+"claim_ids": [
+"CLM-002072",
+"CLM-002073"
+]
+}
+},
+"claim_ids": [
+"CLM-002072",
+"CLM-002073"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-JNJ-2",
+"kind": "moat",
+"title": "Pharma + MedTech dual platform",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Pharma + MedTech dual platform. Mechanism claimed by J&J: cardiovascular leadership across Abiomed, Biosense Webster and Shockwave [CLM-002074]. No disclosed cross-segment revenue synergy; the margin gap and the Orthopaedics separation point the other way [CLM-002004] [CLM-002037]. Confidence: low (HYPOTHESIS).",
+"claim_ids": [
+"CLM-002074",
+"CLM-002004",
+"CLM-002037"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Pharma + MedTech dual platform. Mechanism claimed by J&J: cardiovascular leadership across Abiomed, Biosense Webster and Shockwave [CLM-002074]. No disclosed cross-segment revenue synergy; the margin gap and the Orthopaedics separation point the other way [CLM-002004] [CLM-002037]. Confidence: low (HYPOTHESIS).",
+"claim_ids": [
+"CLM-002074",
+"CLM-002004",
+"CLM-002037"
+]
+}
+},
+"claim_ids": [
+"CLM-002074",
+"CLM-002004",
+"CLM-002037"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-JNJ-3",
+"kind": "moat",
+"title": "Immunology scale and successor sequencing",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Immunology scale and successor sequencing. Mechanism: TREMFYA and ICOTYDE as IL-23 successors with Crohn's/UC trials [CLM-002055] [CLM-002053]. Replication: requires an IL-23 asset launched 3–5 years pre-LOE. Confidence: medium; Immunology still fell 11.8% [CLM-002026].",
+"claim_ids": [
+"CLM-002055",
+"CLM-002053",
+"CLM-002026"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Immunology scale and successor sequencing. Mechanism: TREMFYA and ICOTYDE as IL-23 successors with Crohn's/UC trials [CLM-002055] [CLM-002053]. Replication: requires an IL-23 asset launched 3–5 years pre-LOE. Confidence: medium; Immunology still fell 11.8% [CLM-002026].",
+"claim_ids": [
+"CLM-002055",
+"CLM-002053",
+"CLM-002026"
+]
+}
+},
+"claim_ids": [
+"CLM-002055",
+"CLM-002053",
+"CLM-002026"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-JNJ-4",
+"kind": "moat",
+"title": "M&A bridge capacity",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "M&A bridge capacity. USD 17.5bn in 2025 alone, funded by debt [CLM-002013] [CLM-002014]; replicable by any well-capitalised peer.",
+"claim_ids": [
+"CLM-002013",
+"CLM-002014"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "M&A bridge capacity. USD 17.5bn in 2025 alone, funded by debt [CLM-002013] [CLM-002014]; replicable by any well-capitalised peer.",
+"claim_ids": [
+"CLM-002013",
+"CLM-002014"
+]
+}
+},
+"claim_ids": [
+"CLM-002013",
+"CLM-002014"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-JNJ-5",
+"kind": "moat",
+"title": "JLABS/JJDC ecosystem",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "JLABS/JJDC ecosystem. Contracting rather than expanding: JLABS planned at six sites with capacity for 225 companies in 2016 [CLM-009051]; Toronto, Houston and Washington D.C. exited, 11 sites in August 2025 [CLM-014064]; New York closure is a snippet [CLM-014065]. J&J claims more than 150 partnerships [CLM-009050]; no JJDC portfolio count or fund size found [CLM-014066]. Not evidenced as a moat *(gap)*.",
+"claim_ids": [
+"CLM-009051",
+"CLM-014064",
+"CLM-014065",
+"CLM-009050",
+"CLM-014066"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "JLABS/JJDC ecosystem. Contracting rather than expanding: JLABS planned at six sites with capacity for 225 companies in 2016 [CLM-009051]; Toronto, Houston and Washington D.C. exited, 11 sites in August 2025 [CLM-014064]; New York closure is a snippet [CLM-014065]. J&J claims more than 150 partnerships [CLM-009050]; no JJDC portfolio count or fund size found [CLM-014066]. Not evidenced as a moat *(gap)*.",
+"claim_ids": [
+"CLM-009051",
+"CLM-014064",
+"CLM-014065",
+"CLM-009050",
+"CLM-014066"
+]
+}
+},
+"claim_ids": [
+"CLM-009051",
+"CLM-014064",
+"CLM-014065",
+"CLM-009050",
+"CLM-014066"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": true
+},
+{
+"id": "MOAT-JNJ-6",
+"kind": "moat",
+"title": "Surgical robotics option",
+"companies": [
+"JNJ"
+],
+"company_label": "J&J",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Surgical robotics option. FDA records exist for OTTAVA (De Novo), MONARCH and VELYS [CLM-014022] [CLM-014025] [CLM-014026], but no installed base or procedure volume; OTTAVA has one announced installation site [CLM-000284]. Confidence: low *(INTERPRETATION)*.",
+"claim_ids": [
+"CLM-014022",
+"CLM-014025",
+"CLM-014026",
+"CLM-000284"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Surgical robotics option. FDA records exist for OTTAVA (De Novo), MONARCH and VELYS [CLM-014022] [CLM-014025] [CLM-014026], but no installed base or procedure volume; OTTAVA has one announced installation site [CLM-000284]. Confidence: low *(INTERPRETATION)*.",
+"claim_ids": [
+"CLM-014022",
+"CLM-014025",
+"CLM-014026",
+"CLM-000284"
+]
+}
+},
+"claim_ids": [
+"CLM-014022",
+"CLM-014025",
+"CLM-014026",
+"CLM-000284"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/johnson_johnson/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-ABBV-1",
+"kind": "moat",
+"title": "Immunology commercial infrastructure and successor sequencing",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Immunology commercial infrastructure and successor sequencing: mechanism and replication in [CLM-003084].",
+"claim_ids": [
+"CLM-003084"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Immunology commercial infrastructure and successor sequencing: mechanism and replication in [CLM-003084].",
+"claim_ids": [
+"CLM-003084"
+]
+}
+},
+"claim_ids": [
+"CLM-003084"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/abbvie/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-ABBV-2",
+"kind": "moat",
+"title": "Contracting and lifecycle/IP strategy",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Contracting and lifecycle/IP strategy: [CLM-003085, CLM-003087, CLM-003021]; Humira settlement licence-start years (2023 U.S., 2018 Europe) are now sourced; terms remain undisclosed [CLM-014036].",
+"claim_ids": [
+"CLM-003085",
+"CLM-003087",
+"CLM-003021",
+"CLM-014036"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Contracting and lifecycle/IP strategy: [CLM-003085, CLM-003087, CLM-003021]; Humira settlement licence-start years (2023 U.S., 2018 Europe) are now sourced; terms remain undisclosed [CLM-014036].",
+"claim_ids": [
+"CLM-003085",
+"CLM-003087",
+"CLM-003021",
+"CLM-014036"
+]
+}
+},
+"claim_ids": [
+"CLM-003085",
+"CLM-003087",
+"CLM-003021",
+"CLM-014036"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/abbvie/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-ABBV-3",
+"kind": "moat",
+"title": "Aesthetics consumer franchise",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "Aesthetics consumer franchise: real but cyclical and channel-sensitive [CLM-003088].",
+"claim_ids": [
+"CLM-003088"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "Aesthetics consumer franchise: real but cyclical and channel-sensitive [CLM-003088].",
+"claim_ids": [
+"CLM-003088"
+]
+}
+},
+"claim_ids": [
+"CLM-003088"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/abbvie/competitive_advantage/moats.md",
+"gap": false
+},
+{
+"id": "MOAT-ABBV-4",
+"kind": "moat",
+"title": "BD&L",
+"companies": [
+"ABBV"
+],
+"company_label": "AbbVie",
+"fields": [
+{
+"label": "Moat analysis",
+"text": "BD&L: repeatable capability, uneven returns [CLM-003086]. Risks: Vraylar expiry 2029 [CLM-003029], Skyrizi biosimilars after 2033 (gap). External-innovation machinery is deal flow and options rather than an evidenced ecosystem; Ventures founding date unresolved [CLM-009074]. Single-interested-source note: moat 2 rests on trade-sourced contracting figures [CLM-003085].",
+"claim_ids": [
+"CLM-003086",
+"CLM-003029",
+"CLM-009074",
+"CLM-003085"
+]
+}
+],
+"stages": {
+"moat": {
+"text": "BD&L: repeatable capability, uneven returns [CLM-003086]. Risks: Vraylar expiry 2029 [CLM-003029], Skyrizi biosimilars after 2033 (gap). External-innovation machinery is deal flow and options rather than an evidenced ecosystem; Ventures founding date unresolved [CLM-009074]. Single-interested-source note: moat 2 rests on trade-sourced contracting figures [CLM-003085].",
+"claim_ids": [
+"CLM-003086",
+"CLM-003029",
+"CLM-009074",
+"CLM-003085"
+]
+}
+},
+"claim_ids": [
+"CLM-003086",
+"CLM-003029",
+"CLM-009074",
+"CLM-003085"
+],
+"source_ids": [],
+"contrary": [],
+"source_file": "New_mediciine/companies/abbvie/competitive_advantage/moats.md",
+"gap": true
+}
+]
+}

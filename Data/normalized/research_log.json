@@ -1,0 +1,175 @@
+{
+"experiments": [
+{
+"run_id": "RUN-0001-sec-ingest",
+"question": "Audited five-year financials for LLY/JNJ/ABBV/TAK",
+"hypothesis": "XBRL companyfacts gives FY2021-25 values with accession-level provenance",
+"search_strategy": "SEC companyfacts API + filing index",
+"sources_investigated": 28,
+"new_evidence": "238 FACT claims",
+"reused": "none",
+"contradictions": "J&J 52/53-week FY mislabel; J&J R&D tag",
+"evaluation": "coverage+traceability up",
+"status": "keep",
+"next": "full-text MD&A mining",
+"recorded": "2026-11-21T13:03:21+00:00"
+},
+{
+"run_id": "RUN-0002-annual-reports",
+"question": "Product concentration, LOE, M&A, capex from FY2025 filings",
+"hypothesis": "MD&A text yields dated, locatable facts",
+"search_strategy": "grep on extracted 10-K/20-F text",
+"sources_investigated": 4,
+"new_evidence": "41 claims",
+"reused": "RUN-0001 sources",
+"contradictions": "none",
+"evaluation": "coverage up",
+"status": "keep",
+"next": "FY2021-24 filings",
+"recorded": "2026-11-21T13:03:21+00:00"
+},
+{
+"run_id": "RUN-0003-tech-press",
+"question": "Status of flagship AI/robotics initiatives",
+"hypothesis": "press releases establish announcements only",
+"search_strategy": "company newsrooms + one independent outlet each",
+"sources_investigated": 7,
+"new_evidence": "7 maturity-tagged claims",
+"reused": "none",
+"contradictions": "none",
+"evaluation": "independence partial",
+"status": "keep",
+"next": "A6 horizontal",
+"recorded": "2026-11-21T13:03:21+00:00"
+},
+{
+"run_id": "RUN-0004-wave1-multiagent",
+"question": "Eight specialist briefs in parallel",
+"hypothesis": "shard-isolated agents reach >=30/70 each with 0 errors",
+"search_strategy": "on-disk filings first, then EDGAR/FDA/CT.gov/PubMed/newsrooms/T3",
+"sources_investigated": 396,
+"new_evidence": "879 claims across 8 shards",
+"reused": "20 filings + 286 claims",
+"contradictions": "8 recorded in RUN-0004.md",
+"evaluation": "coverage/traceability up; independence moderate; two runs lost to 100-call cap",
+"status": "keep",
+"next": "A10 audit, A14 gap-fill, A7 commercial",
+"recorded": "2026-11-21T13:03:21+00:00"
+},
+{
+"run_id": "RUN-0005-audit-synthesis-strategy",
+"question": "Does wave-1 evidence survive independent audit; can synthesis/strategy be built on accepted claims only; does a council change the strategy?",
+"hypothesis": "few numeric errors, several refused rankings, long-horizon spend cut",
+"search_strategy": "2 audit rounds (187 claims, 46 FDA dates, 43 CT.gov), fresh-context synthesis, 7-council challenge",
+"sources_investigated": 129,
+"new_evidence": "291 claims; 27 audit proposals; 119 council verdicts; 95 counterarguments",
+"reused": "all wave-1 shards",
+"contradictions": "8 recorded (dates, bases, counts)",
+"evaluation": "traceability high; independence structurally weak (field empty); contradiction handling now recorded",
+"status": "keep",
+"next": "Takeda re-audit; A7/A8 revise; corroboration back-fill; BET-18 review",
+"recorded": "2026-11-21T14:44:10+00:00"
+}
+],
+"backlog": [
+{
+"task_id": "T2.1",
+"parent": "Phase 2",
+"agent": "A1_lilly",
+"deps": [
+"T0.6"
+],
+"priority": 1,
+"inputs": [
+"New_mediciine/companies/eli_lilly/financials/edgar_annual_facts.md",
+"evidence_library/links_and_metadata/seed_urls_UNVERIFIED.csv"
+],
+"expected_output": "company reports + shard",
+"completion": ">=25 sources retrieved, >=50 claims, all sub-domain reports, evidence_gaps.md, timeline.md, validate=0 errors",
+"status": "todo",
+"retries": 0,
+"blocker": null
+},
+{
+"task_id": "T2.2",
+"parent": "Phase 2",
+"agent": "A2_jnj",
+"deps": [
+"T0.6"
+],
+"priority": 1,
+"inputs": [
+"companies/johnson_johnson/financials/edgar_annual_facts.md"
+],
+"expected_output": "company reports + shard",
+"completion": "same as T2.1",
+"status": "todo",
+"retries": 0,
+"blocker": null
+},
+{
+"task_id": "T2.3",
+"parent": "Phase 2",
+"agent": "A3_abbvie",
+"deps": [
+"T0.6"
+],
+"priority": 1,
+"inputs": [
+"companies/abbvie/financials/edgar_annual_facts.md"
+],
+"expected_output": "company reports + shard",
+"completion": "same as T2.1",
+"status": "todo",
+"retries": 0,
+"blocker": null
+},
+{
+"task_id": "T2.4",
+"parent": "Phase 2",
+"agent": "A6_ai_robotics",
+"deps": [
+"T0.6"
+],
+"priority": 2,
+"inputs": [],
+"expected_output": "industry_transformation/ai_data_robotics reports + shard with maturity staging",
+"completion": ">=20 sources, >=40 claims each with maturity",
+"status": "todo",
+"retries": 0,
+"blocker": null
+},
+{
+"task_id": "T2.5",
+"parent": "Phase 2",
+"agent": "A8_policy",
+"deps": [
+"T0.6"
+],
+"priority": 2,
+"inputs": [],
+"expected_output": "industry_transformation/policy reports + shard",
+"completion": ">=15 sources incl. public disclosures, neutral analysis",
+"status": "todo",
+"retries": 0,
+"blocker": "lda.senate.gov API denied; use alternatives"
+},
+{
+"task_id": "T2.6",
+"parent": "Phase 2",
+"agent": "A5_takeda",
+"deps": [
+"T0.6"
+],
+"priority": 1,
+"inputs": [
+"companies/takeda_public_baseline/financials/edgar_annual_facts.md"
+],
+"expected_output": "Takeda baseline + capability classification + internal-validation backlog",
+"completion": ">=20 sources, classification table",
+"status": "todo",
+"retries": 0,
+"blocker": null
+}
+]
+}

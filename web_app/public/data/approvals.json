@@ -1,0 +1,650 @@
+{
+"available": true,
+"path": "New_mediciine/industry_transformation/pipeline_regulatory/fda_approvals_2022_2026.md",
+"rows": [
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2022-05-13",
+"year": 2022,
+"product": "Mounjaro",
+"ingredient": "tirzepatide",
+"detail": "type 2 diabetes glycaemic control",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012000"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2023-01-27",
+"year": 2023,
+"product": "Jaypirca",
+"ingredient": "pirtobrutinib",
+"detail": "relapsed/refractory mantle cell lymphoma after prior BTK inhibitor",
+"sponsor": "LOXO ONCOL",
+"claim_ids": [
+"CLM-012001"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2023-10-26",
+"year": 2023,
+"product": "Omvoh",
+"ingredient": "mirikizumab-mrkz",
+"detail": "ulcerative colitis",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012002"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2024-07-02",
+"year": 2024,
+"product": "Kisunla",
+"ingredient": "donanemab-azbt",
+"detail": "Alzheimer's disease",
+"sponsor": "ELI LILLY CO",
+"claim_ids": [
+"CLM-012003"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2024-09-13",
+"year": 2024,
+"product": "Ebglyss",
+"ingredient": "lebrikizumab-lbkz",
+"detail": "moderate-to-severe atopic dermatitis",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012004"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2025-09-25",
+"year": 2025,
+"product": "Inluriyo",
+"ingredient": "imlunestrant",
+"detail": "ER+/HER2-/ESR1-mutated advanced breast cancer",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012005"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2026-04-01",
+"year": 2026,
+"product": "Foundayo",
+"ingredient": "orforglipron",
+"detail": "chronic weight management (obesity/overweight)",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012006"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "LLY",
+"date": "2026-09-23",
+"year": 2026,
+"product": "Onswik",
+"ingredient": "insulin efsitora alfa-gobe",
+"detail": "type 2 diabetes glycaemic control",
+"sponsor": "ELI LILLY AND CO",
+"claim_ids": [
+"CLM-012007"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "JNJ",
+"date": "2022-10-25",
+"year": 2022,
+"product": "Tecvayli",
+"ingredient": "teclistamab-cqyv",
+"detail": "relapsed/refractory multiple myeloma (>=4 prior lines)",
+"sponsor": "JANSSEN BIOTECH",
+"claim_ids": [
+"CLM-012008"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "JNJ",
+"date": "2023-08-09",
+"year": 2023,
+"product": "Talvey",
+"ingredient": "talquetamab-tgvs",
+"detail": "relapsed/refractory multiple myeloma (>=4 prior lines)",
+"sponsor": "JANSSEN BIOTECH",
+"claim_ids": [
+"CLM-012009"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "JNJ",
+"date": "2024-08-19",
+"year": 2024,
+"product": "Lazcluze",
+"ingredient": "lazertinib",
+"detail": "EGFR-mutated NSCLC (with amivantamab)",
+"sponsor": "JANSSEN BIOTECH",
+"claim_ids": [
+"CLM-012010"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "JNJ",
+"date": "2025-04-29",
+"year": 2025,
+"product": "Imaavy",
+"ingredient": "nipocalimab-aahu",
+"detail": "generalized myasthenia gravis",
+"sponsor": "JANSSEN BIOTECH",
+"claim_ids": [
+"CLM-012011"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "JNJ",
+"date": "2026-03-17",
+"year": 2026,
+"product": "Icotyde",
+"ingredient": "icotrokinra",
+"detail": "moderate-to-severe plaque psoriasis (12 y+, >=40 kg)",
+"sponsor": "JANSSEN BIOTECH",
+"claim_ids": [
+"CLM-012012"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "ABBV",
+"date": "2022-11-14",
+"year": 2022,
+"product": "Elahere",
+"ingredient": "mirvetuximab soravtansine-gynx",
+"detail": "platinum-resistant ovarian cancer (FR-alpha)",
+"sponsor": "IMMUNOGEN INC",
+"claim_ids": [
+"CLM-012013"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "ABBV",
+"date": "2023-05-19",
+"year": 2023,
+"product": "Epkinly",
+"ingredient": "epcoritamab-bysp",
+"detail": "relapsed/refractory DLBCL after >=2 lines",
+"sponsor": "GENMAB US, INC.",
+"claim_ids": [
+"CLM-012014"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "ABBV",
+"date": "2025-05-14",
+"year": 2025,
+"product": "Emrelis",
+"ingredient": "telisotuzumab vedotin-tllv",
+"detail": "c-Met-overexpressing non-squamous NSCLC",
+"sponsor": "ABBVIE INC",
+"claim_ids": [
+"CLM-012015"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "ABBV",
+"date": "2026-05-27",
+"year": 2026,
+"product": "Decnupaz",
+"ingredient": "pivekimab sunirine-pvzy",
+"detail": "blastic plasmacytoid dendritic cell neoplasm",
+"sponsor": "ABBVIE INC",
+"claim_ids": [
+"CLM-012016"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "ABBV",
+"date": "2026-09-25",
+"year": 2026,
+"product": "Juvmo",
+"ingredient": "tavapadon",
+"detail": "Parkinson's disease",
+"sponsor": "ABBVIE",
+"claim_ids": [
+"CLM-012017"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "TAK",
+"date": "2023-11-08",
+"year": 2023,
+"product": "Fruzaqla",
+"ingredient": "fruquintinib",
+"detail": "refractory metastatic colorectal cancer",
+"sponsor": "TAKEDA PHARMS USA",
+"claim_ids": [
+"CLM-012018"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "TAK",
+"date": "2026-08-05",
+"year": 2026,
+"product": "Orzeyful",
+"ingredient": "oveporexton",
+"detail": "narcolepsy type 1",
+"sponsor": "TAKEDA PHARMS USA",
+"claim_ids": [
+"CLM-012019"
+]
+},
+{
+"section": "A. CDER novel approvals (one FACT claim each)",
+"kind": "novel",
+"company": "TAK",
+"date": "2026-08-28",
+"year": 2026,
+"product": "Mimrylo",
+"ingredient": "rusfertide",
+"detail": "erythrocytosis in polycythemia vera",
+"sponsor": "TAKEDA PHARMS AM",
+"claim_ids": [
+"CLM-012020"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "JNJ",
+"date": "2023-08-11",
+"year": 2023,
+"product": "Akeega",
+"ingredient": "",
+"detail": "niraparib/abiraterone combination (new NDA; Drugs@FDA priority review)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012022"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "TAK",
+"date": "2023-09-27",
+"year": 2023,
+"product": "Entyvio subcutaneous",
+"ingredient": "",
+"detail": "vedolizumab subcutaneous formulation (new BLA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012029"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "LLY",
+"date": "2023-11-08",
+"year": 2023,
+"product": "Zepbound",
+"ingredient": "",
+"detail": "tirzepatide for chronic weight management (new NDA; not on CDER novel list because tirzepatide approved 2022-05)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012021"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "TAK",
+"date": "2024-02-09",
+"year": 2024,
+"product": "Eohilia",
+"ingredient": "",
+"detail": "budesonide oral suspension for eosinophilic esophagitis (new NDA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012028"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "TAK",
+"date": "2024-04-18",
+"year": 2024,
+"product": "Entyvio pen",
+"ingredient": "",
+"detail": "vedolizumab pen presentation (new BLA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012030"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "ABBV",
+"date": "2024-04-26",
+"year": 2024,
+"product": "Rinvoq LQ",
+"ingredient": "",
+"detail": "upadacitinib oral solution (new NDA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012025"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "ABBV",
+"date": "2024-10-16",
+"year": 2024,
+"product": "Vyalev",
+"ingredient": "",
+"detail": "foscarbidopa/foslevodopa subcutaneous infusion (ABBV-951; new NDA after two CRLs)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012026"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "ABBV",
+"date": "2025-02-07",
+"year": 2025,
+"product": "Emblaveo",
+"ingredient": "",
+"detail": "aztreonam-avibactam antibiotic combination (new NDA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012027"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "JNJ",
+"date": "2025-09-09",
+"year": 2025,
+"product": "Inlexzo",
+"ingredient": "",
+"detail": "gemcitabine intravesical system (TAR-200) for non-muscle-invasive bladder cancer (new NDA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012023"
+]
+},
+{
+"section": "B. Other new applications recorded in Drugs@FDA (not on the novel list)",
+"kind": "other_application",
+"company": "JNJ",
+"date": "2025-12-17",
+"year": 2025,
+"product": "Rybrevant Faspro",
+"ingredient": "",
+"detail": "subcutaneous amivantamab with hyaluronidase (new BLA)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012024"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "ABBV",
+"date": "2022-01-14",
+"year": 2022,
+"product": "Rinvoq",
+"ingredient": "",
+"detail": "SUPPL-4: refractory moderate-to-severe atopic dermatitis (adults and pediatric >=12 y)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012034"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "ABBV",
+"date": "2022-03-16",
+"year": 2022,
+"product": "Rinvoq",
+"ingredient": "",
+"detail": "SUPPL-7: ulcerative colitis after TNF-blocker inadequate response",
+"sponsor": "",
+"claim_ids": [
+"CLM-012035"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "ABBV",
+"date": "2022-06-16",
+"year": 2022,
+"product": "Skyrizi",
+"ingredient": "",
+"detail": "SUPPL-16: Crohn's disease (moderate-to-severe, adults)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012032"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "LLY",
+"date": "2023-12-01",
+"year": 2023,
+"product": "Jaypirca",
+"ingredient": "",
+"detail": "SUPPL-1: accelerated approval, CLL/SLL after BTK and BCL-2 inhibitors",
+"sponsor": "",
+"claim_ids": [
+"CLM-012042"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "JNJ",
+"date": "2024-03-01",
+"year": 2024,
+"product": "Rybrevant",
+"ingredient": "",
+"detail": "SUPPL-3: with carboplatin/pemetrexed, first-line EGFR exon 20 insertion NSCLC",
+"sponsor": "",
+"claim_ids": [
+"CLM-012041"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "ABBV",
+"date": "2024-06-18",
+"year": 2024,
+"product": "Skyrizi",
+"ingredient": "",
+"detail": "SUPPL-29: ulcerative colitis (moderate-to-severe, adults)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012033"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "JNJ",
+"date": "2024-07-30",
+"year": 2024,
+"product": "Darzalex Faspro",
+"ingredient": "",
+"detail": "SUPPL-25: D-VRd induction/consolidation in transplant-eligible newly diagnosed multiple myeloma",
+"sponsor": "",
+"claim_ids": [
+"CLM-012039"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "JNJ",
+"date": "2024-08-19",
+"year": 2024,
+"product": "Rybrevant",
+"ingredient": "",
+"detail": "SUPPL-5: with lazertinib, first-line EGFR exon 19del/L858R NSCLC",
+"sponsor": "",
+"claim_ids": [
+"CLM-012040"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "JNJ",
+"date": "2024-09-11",
+"year": 2024,
+"product": "Tremfya",
+"ingredient": "",
+"detail": "SUPPL-21: ulcerative colitis in adults (plus new vial, pen, syringe presentations)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012037"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "LLY",
+"date": "2024-12-20",
+"year": 2024,
+"product": "Zepbound",
+"ingredient": "",
+"detail": "SUPPL-13: new indication: moderate-to-severe obstructive sleep apnea in adults with obesity",
+"sponsor": "",
+"claim_ids": [
+"CLM-012031"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "JNJ",
+"date": "2025-03-20",
+"year": 2025,
+"product": "Tremfya",
+"ingredient": "",
+"detail": "SUPPL-24: Crohn's disease in adults",
+"sponsor": "",
+"claim_ids": [
+"CLM-012038"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "ABBV",
+"date": "2025-04-28",
+"year": 2025,
+"product": "Rinvoq",
+"ingredient": "",
+"detail": "SUPPL-25: giant cell arteritis in adults",
+"sponsor": "",
+"claim_ids": [
+"CLM-012036"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "LLY",
+"date": "2025-07-01",
+"year": 2025,
+"product": "Kisunla",
+"ingredient": "",
+"detail": "SUPPL-4: revised prescribing information with a new dose titration (Study 2)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012044"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "LLY",
+"date": "2025-12-02",
+"year": 2025,
+"product": "Jaypirca",
+"ingredient": "",
+"detail": "SUPPL-5: conversion from accelerated to traditional approval in CLL/SLL (postmarketing requirement fulfilled)",
+"sponsor": "",
+"claim_ids": [
+"CLM-012043"
+]
+},
+{
+"section": "C. Revenue-driving supplemental approvals (FDA approval letters)",
+"kind": "supplemental",
+"company": "LLY",
+"date": "2025-12-19",
+"year": 2025,
+"product": "Mounjaro",
+"ingredient": "",
+"detail": "SUPPL-39: label update from pediatric/adolescent type 2 diabetes trial I8F-MC-GPGV",
+"sponsor": "",
+"claim_ids": [
+"CLM-012045"
+]
+}
+]
+}

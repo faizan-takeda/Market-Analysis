@@ -1,0 +1,18 @@
+# A14 — Targeted gap-fill research (wave 2; second-pass queries from wave-1 evidence gaps)
+
+Shard: `A14_gapfill` (SRC/CLM-014000..014999). Output dir: `/Users/palrahma/Desktop/MEDICINE/New_mediciine/research_coverage/gapfill_wave2/`. You fill specific holes left by wave-1 agents; each item below names the owning report so the Director can integrate your findings. Write one Markdown section per item with claim IDs; the Director (not you) edits the dossiers.
+
+Read first: WAVE1_COMMON.md, agent_protocols.md, then the six `evidence_gaps.md` files (`New_mediciine/companies/{eli_lilly,johnson_johnson,abbvie,takeda_public_baseline}/evidence_gaps.md`, `New_mediciine/industry_transformation/{ai_data_robotics,partnerships_ecosystem}/evidence_gaps.md`).
+
+## Priority list (do in order; stop at ~85 tool calls; batch fetches)
+1. **Lilly Q4-2025 and Q3-2026 earnings 8-K exhibits** (EDGAR CIK 0000059478, Ex. 99.1): corroborate FY2025 product revenue, 2026 guidance USD 91–92bn, LillyDirect/self-pay statements, Zepbound OSA/HFpEF label dates. → Lilly dossier §2, §4.
+2. **Lilly manufacturing: announced vs operating.** For Lebanon IN, Concord NC, Kenosha WI, Alzey DE, Limerick IE, Houston TX, Goochland VA, Alabama, Pennsylvania: amount, announcement date, stated operational date, any evidence a site is producing (10-K text, releases). → Lilly §9.
+3. **J&J gaps**: Varipulse pause/resume facts (FDA/J&J 2025), aticaprant Phase 3 discontinuation (2025-03), DePuy Synthes separation announcement (2025-10), OTTAVA IDE/first-case facts from FDA or J&J primary, VELYS/MONARCH installed-base numbers if any, talc Red River rejection (court record 2025-03-31) and current status. → J&J dossier.
+4. **AbbVie gaps**: Capstan close + terms (8-K), Aliada (2024-10), Landos (2023), Celsius (2025), Nimble (2025) terms; Humira patent-settlement history (10-K Item 3 on disk); Juvmo (tavapadon) exact FDA approval date (Drugs@FDA). → AbbVie dossier.
+5. **Takeda gaps**: Annual Integrated Report (latest PDF at takeda.com/investors/annual-integrated-report/ — download, text-extract with pypdf if possible) for DD&T, R&D model, manufacturing; Takeda Ventures / Center for External Innovation (search takeda.com + news); R&D Day Dec-2024 6-K slides (peak-sales footnote); Entyvio exclusivity (FDA Purple Book); Amitiza post-trial status. → Takeda baseline.
+6. **AI/robotics gaps**: FDA device records for OTTAVA (De Novo DEN…), MONARCH QUEST 3 (510(k) K…), VELYS (K…); TuneLab uptake announcements (2026); NVIDIA–Lilly co-innovation lab operating status (2026); Strateos→Multiply Labs primary; Takeda DD&T deployments (newsroom). → A6 landscape.
+7. **Partnership gaps**: 8-K/6-K exhibits for deal terms — Lilly 2022–2024 licence deals (upfronts), Takeda Protagonist (2024-01), Keros (2025), HUTCHMED (fruquintinib 2023); venture-arm scale (Lilly Ventures fund size, JJDC portfolio count, AbbVie Ventures, Takeda Ventures); JLABS site count 2026 (primary). → A9 reports.
+8. **Leadership/interview sources** (metadata + one inspected transcript or long-form interview per company): Dave Ricks, Joaquin Duato, Rob Michael, Julie Kim/Christophe Weber — public interview or conference transcript 2024–2026 with 2–3 FACT claims about stated strategy. → leadership sections.
+
+## Rules
+Primary sources first (EDGAR, FDA, court dockets, company PDFs). Register sources/claims in your shard with exact locators; each Markdown section ends with "Integrate into: <path>". Record items you could not resolve in `evidence_gaps.md`. Deliverables: `gapfill_findings.md` (sections 1–8), `map.md`, `evidence_gaps.md`, validated shard files. Completion report per WAVE1_COMMON.md §6.

@@ -1,0 +1,65 @@
+Eli Lilly Launches Pharma’s Largest AI Supercomputer
+
+ | BiopharmaTrend 
+
+ BioPharmaTrend 
+ -->
+
+ Sign in 
+
+    News 
+
+ Eli Lilly has brought online LillyPod , described to be the industry’s biggest AI supercomputing system , designed to support drug discovery, genomics, and clinical development at scale. The infrastructure, built on NVIDIA’s DGX SuperPOD architecture with more than 1,000 Blackwell Ultra GPUs, is positioned as the largest AI system wholly owned and operated by a pharmaceutical company. 
+
+ Inside the Pod
+
+ LillyPod is delivering more than 9,000 petaflops (one quadrillion floating-point operations per second) of AI performance. It was assembled in approximately four months, having initially been announced in October 2025 as part of Lilly’s “AI-factory” effort , and inaugurated in Indianapolis. 
+
+ According to the company, the infrastructure supports high-bandwidth access to roughly 700 terabytes of genomics data and includes over 290 terabytes of GPU memory.
+
+ From an infrastructure perspective, LillyPod integrates accelerated computing hardware, Spectrum-X Ethernet networking, and NVIDIA’s software stack for workload orchestration and monitoring. The installation uses liquid cooling. Lilly reports a goal of operating the system on 100 percent renewable electricity by 2030.
+
+ Image credit: NVIDIA 
+
+ The company states the system will be used to train foundation models across proteins, small molecules, and genomics, and to expand internal and external AI capabilities through a federated learning platform. Beyond core modeling, LillyPod is intended to support internal development of chatbots, agentic research workflows, and other AI tools across research and development.
+
+ See also: AI-Unicorn Chai Discovery and Eli Lilly to Train Custom AI Models for Biologics Design 
+
+ These models are expected to support hypothesis generation across target discovery, lead optimization, and clinical development. The company also describes applications in manufacturing optimization and trial design .
+
+ Another milestone to look forward to is the planned launch of the $1 billion NVIDIA–Lilly AI co-innovation hub in South San Francisco , designed to link wet-lab experimentation with large-scale computational modeling and generate high-quality data for training next-generation biology and chemistry foundation models. 
+
+ External Access
+
+ A portion of LillyPod’s AI models will be accessible through TuneLab, the company’s federated AI platform for early-stage drug discovery , trained on over $1 billion worth of research data. Earlier this year, Eli Lilly offered access to TuneLab’s models to external partners via Benchling & Revvity  collaborations. 
+
+ TuneLab also plans to incorporate NVIDIA BioNeMo open foundation models and uses a federated learning framework built on NVIDIA FLARE , allowing participating companies to train models collaboratively while keeping underlying data isolated.
+
+ Industry Context
+
+ This signals continued vertical integration of AI infrastructure within large pharmaceutical companies, particularly as foundation models become more central to drug discovery and translational workflows.
+
+ See also: FDA Shifts Drug Approval Policy: What Does This Mean for AI-Enabled Therapies? 
+
+ For example, in January 2026, Thermo Fisher announced it will also incorporate the BioNeMo biological modeling platform into its laboratory technologies , as well as DGX Spark systems, and the NeMo generative AI framework.
+
+That same month, GSK and Noetik announced a licensing structure for Noetik’s OCTO-VC virtual cell foundation models alongside plans to generate bespoke spatial datasets, and Schrödinger added Lilly’s AI models into its LiveDesign platform , while Pfizer and Boltz described refining foundation models on Pfizer historical data to create exclusive models for structure prediction and design workflows, with Pfizer retaining ownership of outputs.
+
+ Cover image credit NVIDIA 
+
+ We track updates like these weekly in our techbio newsletter, WhereTechMeetsBio . 
+
+ Topic: 
+ Industry Movers 
+
+ Share:  
+
+ We use cookies to personalise content and to analyse our traffic. 
+ You consent to our cookies if you continue to use our website. Read more details in our 
+ cookies policy .
+
+ Agree 
+
+ Sign in or create an account
+
+ ^

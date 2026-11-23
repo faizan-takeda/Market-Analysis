@@ -1,0 +1,616 @@
+{
+ "ticker": "LLY",
+ "cik": "0000059478",
+ "entity_name": "ELI LILLY & Co",
+ "sic": "2834",
+ "sic_description": "Pharmaceutical Preparations",
+ "fiscal_year_end": "1231",
+ "source_url": "https://data.sec.gov/submissions/CIK0000059478.json",
+ "retrieved_at": "2026-11-21T11:34:50+00:00",
+ "sha256": "c4ec521bfbd0830ccaf2169b247f9492c59b3730482e12b57063ffc1209e3ea8",
+ "filings": [
+  {
+   "form": "10-Q",
+   "filing_date": "2026-10-29",
+   "report_period": "2026-09-30",
+   "accession_number": "0000059478-26-000108",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/lly-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-10-29",
+   "report_period": "2026-10-29",
+   "accession_number": "0000059478-26-000104",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/lly-20261029.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2026-08-05",
+   "report_period": "2026-06-30",
+   "accession_number": "0000059478-26-000081",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/lly-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-08-05",
+   "report_period": "2026-08-05",
+   "accession_number": "0000059478-26-000077",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000077/lly-20260805.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000077/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-05-20",
+   "report_period": "2026-05-20",
+   "accession_number": "0001193125-26-232707",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312526232707/d148580d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312526232707/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-05-07",
+   "report_period": "2026-05-04",
+   "accession_number": "0000059478-26-000048",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000048/lly-20260504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000048/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2026-04-30",
+   "report_period": "2026-03-31",
+   "accession_number": "0000059478-26-000045",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/lly-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-04-30",
+   "report_period": "2026-04-30",
+   "accession_number": "0000059478-26-000043",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000043/lly-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000043/",
+   "description": "8-K"
+  },
+  {
+   "form": "DEF 14A",
+   "filing_date": "2026-03-20",
+   "report_period": "2026-03-20",
+   "accession_number": "0000059478-26-000029",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/",
+   "description": "DEF 14A"
+  },
+  {
+   "form": "10-K",
+   "filing_date": "2026-02-12",
+   "report_period": "2025-12-31",
+   "accession_number": "0000059478-26-000013",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/",
+   "description": "10-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2026-02-04",
+   "report_period": "2026-02-04",
+   "accession_number": "0000059478-26-000008",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000008/lly-20260204.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000008/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-11-21",
+   "report_period": "2025-11-18",
+   "accession_number": "0000059478-25-000271",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000271/lly-20251118.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000271/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2025-10-30",
+   "report_period": "2025-09-30",
+   "accession_number": "0000059478-25-000254",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/lly-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-10-30",
+   "report_period": "2025-10-30",
+   "accession_number": "0000059478-25-000251",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000251/lly-20251030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000251/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-08-20",
+   "report_period": "2025-08-18",
+   "accession_number": "0001193125-25-184093",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312525184093/d929636d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312525184093/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2025-08-07",
+   "report_period": "2025-06-30",
+   "accession_number": "0000059478-25-000204",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/lly-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-08-07",
+   "report_period": "2025-08-07",
+   "accession_number": "0000059478-25-000202",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000202/lly-20250807.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000202/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-05-08",
+   "report_period": "2025-05-05",
+   "accession_number": "0000059478-25-000138",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000138/lly-20250505.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000138/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2025-05-01",
+   "report_period": "2025-03-31",
+   "accession_number": "0000059478-25-000132",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/lly-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-05-01",
+   "report_period": "2025-05-01",
+   "accession_number": "0000059478-25-000129",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000129/lly-20250501.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000129/",
+   "description": "8-K"
+  },
+  {
+   "form": "DEF 14A",
+   "filing_date": "2025-03-21",
+   "report_period": "2025-03-21",
+   "accession_number": "0000059478-25-000107",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000107/lly-20250321.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000107/",
+   "description": "DEF 14A"
+  },
+  {
+   "form": "10-K",
+   "filing_date": "2025-02-19",
+   "report_period": "2024-12-31",
+   "accession_number": "0000059478-25-000067",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/",
+   "description": "10-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-02-12",
+   "report_period": "2025-02-10",
+   "accession_number": "0001193125-25-025057",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312525025057/d868986d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312525025057/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-02-06",
+   "report_period": "2025-02-06",
+   "accession_number": "0000059478-25-000037",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000037/lly-20250206.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000037/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2025-01-14",
+   "report_period": "2025-01-14",
+   "accession_number": "0000059478-25-000005",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000005/lly-20250114.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000005/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-11-19",
+   "report_period": "2024-11-19",
+   "accession_number": "0000059478-24-000258",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000258/lly-20241119.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000258/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2024-10-30",
+   "report_period": "2024-09-30",
+   "accession_number": "0000059478-24-000245",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/lly-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-10-30",
+   "report_period": "2024-10-30",
+   "accession_number": "0000059478-24-000242",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000242/lly-20241030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000242/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-09-09",
+   "report_period": "2024-09-05",
+   "accession_number": "0000059478-24-000213",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000213/lly-20240905.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000213/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-08-16",
+   "report_period": "2024-08-13",
+   "accession_number": "0000059478-24-000196",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000196/lly-20240813.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000196/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-08-14",
+   "report_period": "2024-08-12",
+   "accession_number": "0001193125-24-200435",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312524200435/d876011d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312524200435/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2024-08-08",
+   "report_period": "2024-06-30",
+   "accession_number": "0000059478-24-000187",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/lly-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-08-08",
+   "report_period": "2024-08-08",
+   "accession_number": "0000059478-24-000185",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000185/lly-20240808.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000185/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-07-10",
+   "report_period": "2024-07-05",
+   "accession_number": "0000059478-24-000164",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000164/lly-20240705.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000164/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-06-05",
+   "report_period": "2024-06-02",
+   "accession_number": "0000059478-24-000146",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000146/lly-20240602.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000146/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-06",
+   "accession_number": "0000059478-24-000127",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000127/lly-20240506.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000127/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2024-04-30",
+   "report_period": "2024-03-31",
+   "accession_number": "0000059478-24-000118",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/lly-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000118/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-04-30",
+   "report_period": "2024-04-30",
+   "accession_number": "0000059478-24-000116",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000116/lly-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000116/",
+   "description": "8-K"
+  },
+  {
+   "form": "DEF 14A",
+   "filing_date": "2024-03-22",
+   "report_period": "2024-03-22",
+   "accession_number": "0000059478-24-000099",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000099/lly-20240322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000099/",
+   "description": "DEF 14A"
+  },
+  {
+   "form": "10-K",
+   "filing_date": "2024-02-21",
+   "report_period": "2023-12-31",
+   "accession_number": "0000059478-24-000065",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/",
+   "description": "10-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-02-09",
+   "report_period": "2024-02-07",
+   "accession_number": "0001193125-24-029551",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312524029551/d728700d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312524029551/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2024-02-06",
+   "report_period": "2024-02-06",
+   "accession_number": "0000059478-24-000032",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000032/lly-20240206.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000032/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2023-11-02",
+   "report_period": "2023-09-30",
+   "accession_number": "0000059478-23-000284",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/lly-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000284/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-11-02",
+   "report_period": "2023-11-02",
+   "accession_number": "0000059478-23-000282",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000282/lly-20231102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000282/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2023-08-08",
+   "report_period": "2023-06-30",
+   "accession_number": "0000059478-23-000221",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/lly-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000221/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-08-08",
+   "report_period": "2023-08-08",
+   "accession_number": "0000059478-23-000219",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000219/lly-20230808.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000219/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-05-04",
+   "report_period": "2023-05-01",
+   "accession_number": "0000059478-23-000165",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000165/lly-20230501.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000165/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2023-04-27",
+   "report_period": "2023-03-31",
+   "accession_number": "0000059478-23-000162",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/lly-20230331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000162/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-04-27",
+   "report_period": "2023-04-27",
+   "accession_number": "0000059478-23-000160",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000160/lly-20230427.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000160/",
+   "description": "8-K"
+  },
+  {
+   "form": "DEF 14A",
+   "filing_date": "2023-03-17",
+   "report_period": "",
+   "accession_number": "0000059478-23-000120",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000120/lly-20230317.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000120/",
+   "description": "DEF 14A"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-03-17",
+   "report_period": "2023-03-17",
+   "accession_number": "0000059478-23-000118",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000118/lly-20230317.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000118/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-02-24",
+   "report_period": "2023-02-23",
+   "accession_number": "0001193125-23-048910",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312523048910/d575646d8k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000119312523048910/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-K",
+   "filing_date": "2023-02-22",
+   "report_period": "2022-12-31",
+   "accession_number": "0000059478-23-000082",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/lly-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/",
+   "description": "10-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2023-02-02",
+   "report_period": "2023-02-02",
+   "accession_number": "0000059478-23-000025",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000025/lly-20230202.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000025/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-12-13",
+   "report_period": "2022-12-13",
+   "accession_number": "0000059478-22-000277",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000277/lly-20221213.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000277/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2022-11-01",
+   "report_period": "2022-09-30",
+   "accession_number": "0000059478-22-000250",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/lly-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000250/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-11-01",
+   "report_period": "2022-11-01",
+   "accession_number": "0000059478-22-000248",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000248/lly-20221101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000248/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-10-12",
+   "report_period": "2022-10-12",
+   "accession_number": "0000059478-22-000233",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000233/lly-20221012.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000233/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2022-08-04",
+   "report_period": "2022-06-30",
+   "accession_number": "0000059478-22-000196",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/lly-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000196/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-08-04",
+   "report_period": "2022-08-04",
+   "accession_number": "0000059478-22-000194",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000194/lly-20220804.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000194/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-05-06",
+   "report_period": "2022-05-02",
+   "accession_number": "0000059478-22-000143",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000143/lly-20220502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000143/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-05-04",
+   "report_period": "2022-05-02",
+   "accession_number": "0000059478-22-000138",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000138/lly-20220502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000138/",
+   "description": "8-K"
+  },
+  {
+   "form": "10-Q",
+   "filing_date": "2022-04-29",
+   "report_period": "2022-03-31",
+   "accession_number": "0000059478-22-000133",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/lly-20220331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000133/",
+   "description": "10-Q"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-04-28",
+   "report_period": "2022-04-28",
+   "accession_number": "0000059478-22-000130",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000130/lly-20220428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000130/",
+   "description": "8-K"
+  },
+  {
+   "form": "8-K",
+   "filing_date": "2022-04-14",
+   "report_period": "2022-04-14",
+   "accession_number": "0000059478-22-000117",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000117/lly-20220414.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000117/",
+   "description": "8-K"
+  },
+  {
+   "form": "DEF 14A",
+   "filing_date": "2022-03-18",
+   "report_period": "2022-03-18",
+   "accession_number": "0000059478-22-000099",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000099/llydef14a2022.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000099/",
+   "description": "DEF 14A"
+  },
+  {
+   "form": "10-K",
+   "filing_date": "2022-02-23",
+   "report_period": "2021-12-31",
+   "accession_number": "0000059478-22-000068",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/",
+   "description": "10-K"
+  }
+ ]
+}

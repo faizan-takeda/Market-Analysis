@@ -1,0 +1,3990 @@
+{
+ "generated": "2026-11-21T11:29:02+00:00",
+ "note": "Audited annual facts from SEC XBRL companyfacts API. FY = fiscal year of period end. Values as filed (USD; JPY for Takeda). 2026 excluded: not a full year.",
+ "companies": {
+  "eli_lilly": {
+   "entity": "ELI LILLY AND COMPANY",
+   "cik": "0000059478",
+   "form": "10-K",
+   "currency": "USD",
+   "years": {
+    "2019": {
+     "revenue": 22319500000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-20-000057",
+       "end": "2019-12-31",
+       "filed": "2020-02-19"
+      }
+     },
+     "cost_of_sales": 4721200000,
+     "rd_expense": 5595000000,
+     "pretax_income": 5265900000,
+     "sga_expense": 6213800000,
+     "net_income": 8318400000,
+     "operating_cash_flow": 4836600000,
+     "capex": 1033900000,
+     "acquisitions_cash": 6917700000,
+     "dividends_paid": 2409800000,
+     "buybacks": 4400000000,
+     "long_term_debt": 13817900000,
+     "total_assets": 39286100000,
+     "cash": 2337500000,
+     "goodwill": 3679400000,
+     "intangibles": 6618000000,
+     "shares_diluted": 935684000,
+     "eps_diluted": 8.89,
+     "income_tax": 628000000,
+     "rd_expense_pct_revenue": 25.07,
+     "sga_expense_pct_revenue": 27.84,
+     "net_income_pct_revenue": 37.27,
+     "operating_cash_flow_pct_revenue": 21.67,
+     "capex_pct_revenue": 4.63,
+     "gross_margin_pct": 78.85
+    },
+    "2020": {
+     "revenue": 24539800000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17",
+       "restated_later_to": 5976300000
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-21-000083",
+       "end": "2020-12-31",
+       "filed": "2021-02-17"
+      }
+     },
+     "cost_of_sales": 5483300000,
+     "rd_expense": 6085700000,
+     "pretax_income": 7229900000,
+     "sga_expense": 6121200000,
+     "net_income": 6193700000,
+     "operating_cash_flow": 6499600000,
+     "capex": 1387900000,
+     "acquisitions_cash": 849300000,
+     "dividends_paid": 2687100000,
+     "buybacks": 500000000,
+     "long_term_debt": 16586600000,
+     "total_assets": 46633100000,
+     "cash": 3657100000,
+     "goodwill": 3766500000,
+     "intangibles": 7450000000,
+     "shares_diluted": 912505000,
+     "eps_diluted": 6.79,
+     "income_tax": 1036200000,
+     "rd_expense_pct_revenue": 24.8,
+     "sga_expense_pct_revenue": 24.94,
+     "net_income_pct_revenue": 25.24,
+     "operating_cash_flow_pct_revenue": 26.49,
+     "capex_pct_revenue": 5.66,
+     "gross_margin_pct": 77.66
+    },
+    "2021": {
+     "revenue": 28318400000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000059478-24-000065",
+       "end": "2021-12-31",
+       "filed": "2024-02-21"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0000059478-24-000065",
+       "end": "2021-12-31",
+       "filed": "2024-02-21"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "iprd_payments_cash": {
+       "tag": "PaymentsToAcquireInProcessResearchAndDevelopment",
+       "accn": "0000059478-24-000065",
+       "end": "2021-12-31",
+       "filed": "2024-02-21"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23",
+       "restated_later_to": 7365900000
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-22-000068",
+       "end": "2021-12-31",
+       "filed": "2022-02-23"
+      }
+     },
+     "cost_of_sales": 7312800000,
+     "rd_expense": 6930700000,
+     "ipr_d_acquired": 970100000,
+     "pretax_income": 6155500000,
+     "iprd_payments_cash": 668600000,
+     "sga_expense": 6431600000,
+     "net_income": 5581700000,
+     "operating_cash_flow": 7260700000,
+     "capex": 1309800000,
+     "acquisitions_cash": 747400000,
+     "dividends_paid": 3086800000,
+     "buybacks": 1250000000,
+     "long_term_debt": 15346400000,
+     "total_assets": 48806000000,
+     "cash": 3818500000,
+     "goodwill": 3892000000,
+     "intangibles": 7691900000,
+     "shares_diluted": 911681000,
+     "eps_diluted": 6.12,
+     "income_tax": 573800000,
+     "rd_expense_pct_revenue": 24.47,
+     "sga_expense_pct_revenue": 22.71,
+     "net_income_pct_revenue": 19.71,
+     "operating_cash_flow_pct_revenue": 25.64,
+     "capex_pct_revenue": 4.63,
+     "gross_margin_pct": 74.18
+    },
+    "2022": {
+     "revenue": 28541400000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000059478-24-000065",
+       "end": "2022-12-31",
+       "filed": "2024-02-21"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0000059478-24-000065",
+       "end": "2022-12-31",
+       "filed": "2024-02-21"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "iprd_payments_cash": {
+       "tag": "PaymentsToAcquireInProcessResearchAndDevelopment",
+       "accn": "0000059478-24-000065",
+       "end": "2022-12-31",
+       "filed": "2024-02-21"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22",
+       "restated_later_to": 7585700000
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-23-000082",
+       "end": "2022-12-31",
+       "filed": "2023-02-22"
+      }
+     },
+     "cost_of_sales": 6629800000,
+     "rd_expense": 7190800000,
+     "ipr_d_acquired": 908500000,
+     "pretax_income": 6806400000,
+     "iprd_payments_cash": 1131000000,
+     "sga_expense": 6440400000,
+     "net_income": 6244800000,
+     "operating_cash_flow": 7084400000,
+     "capex": 1854300000,
+     "acquisitions_cash": 327200000,
+     "dividends_paid": 3535800000,
+     "buybacks": 1500000000,
+     "long_term_debt": 14737500000,
+     "total_assets": 49489800000,
+     "cash": 2067000000,
+     "goodwill": 4073000000,
+     "intangibles": 7206600000,
+     "shares_diluted": 904619000,
+     "eps_diluted": 6.9,
+     "income_tax": 561600000,
+     "rd_expense_pct_revenue": 25.19,
+     "sga_expense_pct_revenue": 22.57,
+     "net_income_pct_revenue": 21.88,
+     "operating_cash_flow_pct_revenue": 24.82,
+     "capex_pct_revenue": 6.5,
+     "gross_margin_pct": 76.77
+    },
+    "2023": {
+     "revenue": 34124100000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 34124000000
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 7082000000
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 9313000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 3800000000
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 6554000000
+      },
+      "iprd_payments_cash": {
+       "tag": "PaymentsToAcquireInProcessResearchAndDevelopment",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 3944000000
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 7404000000
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 5240000000
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 4240000000
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 3448000000
+      },
+      "acquisitions_cash": {
+       "tag": "OtherPaymentsToAcquireBusinesses",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 1044000000
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 4069000000
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 903300000
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-24-000065",
+       "end": "2023-12-31",
+       "filed": "2024-02-21",
+       "restated_later_to": 1314000000
+      }
+     },
+     "cost_of_sales": 7082200000,
+     "rd_expense": 9313400000,
+     "ipr_d_acquired": 3799800000,
+     "pretax_income": 6554600000,
+     "iprd_payments_cash": 3944500000,
+     "sga_expense": 7403100000,
+     "net_income": 5240400000,
+     "operating_cash_flow": 4240100000,
+     "capex": 3447600000,
+     "acquisitions_cash": 1044300000,
+     "dividends_paid": 4069300000,
+     "buybacks": 750000000,
+     "long_term_debt": 18320800000,
+     "total_assets": 64006300000,
+     "cash": 2818600000,
+     "goodwill": 4939700000,
+     "intangibles": 6906600000,
+     "shares_diluted": 903284000,
+     "eps_diluted": 5.8,
+     "income_tax": 1314200000,
+     "rd_expense_pct_revenue": 27.29,
+     "sga_expense_pct_revenue": 21.69,
+     "net_income_pct_revenue": 15.36,
+     "operating_cash_flow_pct_revenue": 12.43,
+     "capex_pct_revenue": 10.1,
+     "gross_margin_pct": 79.25
+    },
+    "2024": {
+     "revenue": 45042700000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 45043000000
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 8418000000
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 10991000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 3280000000
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 12680000000
+      },
+      "iprd_payments_cash": {
+       "tag": "PaymentsToAcquireInProcessResearchAndDevelopment",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 3346000000
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 8594000000
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 8818000000
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 5058000000
+      },
+      "acquisitions_cash": {
+       "tag": "OtherPaymentsToAcquireBusinesses",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 948000000
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 4680000000
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 28527000000
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 78715000000
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 3268000000
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 5770000000
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 6166000000
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 904100000
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-25-000067",
+       "end": "2024-12-31",
+       "filed": "2025-02-19",
+       "restated_later_to": 2090000000
+      }
+     },
+     "cost_of_sales": 8418300000,
+     "rd_expense": 10990600000,
+     "ipr_d_acquired": 3280400000,
+     "pretax_income": 12680400000,
+     "iprd_payments_cash": 3345800000,
+     "sga_expense": 8593800000,
+     "net_income": 10590000000,
+     "operating_cash_flow": 8817900000,
+     "capex": 5057800000,
+     "acquisitions_cash": 947700000,
+     "dividends_paid": 4680400000,
+     "buybacks": 2500000000,
+     "long_term_debt": 28527100000,
+     "total_assets": 78714900000,
+     "cash": 3268400000,
+     "goodwill": 5770300000,
+     "intangibles": 6166300000,
+     "shares_diluted": 904059000,
+     "eps_diluted": 11.71,
+     "income_tax": 2090400000,
+     "rd_expense_pct_revenue": 24.4,
+     "sga_expense_pct_revenue": 19.08,
+     "net_income_pct_revenue": 23.51,
+     "operating_cash_flow_pct_revenue": 19.58,
+     "capex_pct_revenue": 11.23,
+     "gross_margin_pct": 81.31
+    },
+    "2025": {
+     "revenue": 65179000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "iprd_payments_cash": {
+       "tag": "PaymentsToAcquireInProcessResearchAndDevelopment",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquireOtherPropertyPlantAndEquipment",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "acquisitions_cash": {
+       "tag": "OtherPaymentsToAcquireBusinesses",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000059478-26-000013",
+       "end": "2025-12-31",
+       "filed": "2026-02-12"
+      }
+     },
+     "cost_of_sales": 11052000000,
+     "rd_expense": 13337000000,
+     "ipr_d_acquired": 2910000000,
+     "pretax_income": 25731000000,
+     "iprd_payments_cash": 3008000000,
+     "sga_expense": 11094000000,
+     "net_income": 20640000000,
+     "operating_cash_flow": 16813000000,
+     "capex": 7841000000,
+     "acquisitions_cash": 661000000,
+     "dividends_paid": 5384000000,
+     "buybacks": 4108000000,
+     "long_term_debt": 40868000000,
+     "total_assets": 112476000000,
+     "cash": 7268000000,
+     "goodwill": 5898000000,
+     "intangibles": 6521000000,
+     "shares_diluted": 899300000,
+     "eps_diluted": 22.95,
+     "income_tax": 5091000000,
+     "rd_expense_pct_revenue": 20.46,
+     "sga_expense_pct_revenue": 17.02,
+     "net_income_pct_revenue": 31.67,
+     "operating_cash_flow_pct_revenue": 25.8,
+     "capex_pct_revenue": 12.03,
+     "gross_margin_pct": 83.04
+    }
+   }
+  },
+  "johnson_johnson": {
+   "entity": "Johnson & Johnson",
+   "cik": "0000200406",
+   "form": "10-K",
+   "currency": "USD",
+   "years": {
+    "2019": {
+     "revenue": 82059000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentInProcess",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-22-000022",
+       "end": "2019-12-29",
+       "filed": "2022-02-17"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-20-000010",
+       "end": "2019-12-29",
+       "filed": "2020-02-18"
+      }
+     },
+     "cost_of_sales": 27556000000,
+     "rd_expense": 11355000000,
+     "ipr_d_acquired": 890000000,
+     "pretax_income": 17328000000,
+     "sga_expense": 22178000000,
+     "net_income": 15119000000,
+     "operating_cash_flow": 23416000000,
+     "capex": 3498000000,
+     "acquisitions_cash": 5810000000,
+     "dividends_paid": 9917000000,
+     "buybacks": 6746000000,
+     "long_term_debt": 26494000000,
+     "total_assets": 157728000000,
+     "cash": 17305000000,
+     "goodwill": 33639000000,
+     "intangibles": 47643000000,
+     "shares_diluted": 2684300000,
+     "eps_diluted": 5.63,
+     "income_tax": 2209000000,
+     "rd_expense_pct_revenue": 13.84,
+     "sga_expense_pct_revenue": 27.03,
+     "net_income_pct_revenue": 18.42,
+     "operating_cash_flow_pct_revenue": 28.54,
+     "capex_pct_revenue": 4.26,
+     "gross_margin_pct": 66.42
+    },
+    "2020": {
+     "revenue": 82584000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentInProcess",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-22-000022",
+       "end": "2021-01-03",
+       "filed": "2022-02-17"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-21-000008",
+       "end": "2021-01-03",
+       "filed": "2021-02-22"
+      }
+     },
+     "cost_of_sales": 28427000000,
+     "rd_expense": 12159000000,
+     "ipr_d_acquired": 181000000,
+     "pretax_income": 16497000000,
+     "sga_expense": 22084000000,
+     "net_income": 14714000000,
+     "operating_cash_flow": 23536000000,
+     "capex": 3347000000,
+     "acquisitions_cash": 7323000000,
+     "dividends_paid": 10481000000,
+     "buybacks": 3221000000,
+     "long_term_debt": 32635000000,
+     "total_assets": 174894000000,
+     "cash": 13985000000,
+     "goodwill": 36393000000,
+     "intangibles": 53402000000,
+     "shares_diluted": 2670700000,
+     "eps_diluted": 5.51,
+     "income_tax": 1783000000,
+     "rd_expense_pct_revenue": 14.72,
+     "sga_expense_pct_revenue": 26.74,
+     "net_income_pct_revenue": 17.82,
+     "operating_cash_flow_pct_revenue": 28.5,
+     "capex_pct_revenue": 4.05,
+     "gross_margin_pct": 65.58
+    },
+    "2021": {
+     "revenue": 93775000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 78740000000
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 23402000000
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 14277000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentInProcess",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 19178000000
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 20118000000
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 25436000000
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-22-000022",
+       "end": "2022-01-02",
+       "filed": "2022-02-17",
+       "restated_later_to": 1377000000
+      }
+     },
+     "cost_of_sales": 29855000000,
+     "rd_expense": 14714000000,
+     "ipr_d_acquired": 900000000,
+     "pretax_income": 22776000000,
+     "sga_expense": 24659000000,
+     "net_income": 20878000000,
+     "operating_cash_flow": 23410000000,
+     "capex": 3652000000,
+     "acquisitions_cash": 60000000,
+     "dividends_paid": 11032000000,
+     "buybacks": 3456000000,
+     "long_term_debt": 29985000000,
+     "total_assets": 182018000000,
+     "cash": 14487000000,
+     "goodwill": 35246000000,
+     "intangibles": 46392000000,
+     "shares_diluted": 2674000000,
+     "eps_diluted": 7.81,
+     "income_tax": 1898000000,
+     "rd_expense_pct_revenue": 15.69,
+     "sga_expense_pct_revenue": 26.3,
+     "net_income_pct_revenue": 22.26,
+     "operating_cash_flow_pct_revenue": 24.96,
+     "capex_pct_revenue": 3.89,
+     "gross_margin_pct": 68.16
+    },
+    "2022": {
+     "revenue": 94943000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 79990000000
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 24596000000
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 14135000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentInProcess",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 19359000000
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 20246000000
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 26886000000
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 12889000000
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 36047000000
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 38489000000
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-23-000016",
+       "end": "2023-01-01",
+       "filed": "2023-02-16",
+       "restated_later_to": 2989000000
+      }
+     },
+     "cost_of_sales": 31089000000,
+     "rd_expense": 14603000000,
+     "ipr_d_acquired": 783000000,
+     "pretax_income": 21725000000,
+     "sga_expense": 24765000000,
+     "net_income": 17941000000,
+     "operating_cash_flow": 21194000000,
+     "capex": 4009000000,
+     "acquisitions_cash": 17652000000,
+     "dividends_paid": 11682000000,
+     "buybacks": 6035000000,
+     "long_term_debt": 26888000000,
+     "total_assets": 187378000000,
+     "cash": 14127000000,
+     "goodwill": 45231000000,
+     "intangibles": 48325000000,
+     "shares_diluted": 2663900000,
+     "eps_diluted": 6.73,
+     "income_tax": 3784000000,
+     "rd_expense_pct_revenue": 15.38,
+     "sga_expense_pct_revenue": 26.08,
+     "net_income_pct_revenue": 18.9,
+     "operating_cash_flow_pct_revenue": 22.32,
+     "capex_pct_revenue": 4.22,
+     "gross_margin_pct": 67.26
+    },
+    "2023": {
+     "revenue": 85159000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-24-000013",
+       "end": "2023-12-31",
+       "filed": "2024-02-16"
+      }
+     },
+     "cost_of_sales": 26553000000,
+     "rd_expense": 15085000000,
+     "pretax_income": 15062000000,
+     "sga_expense": 21512000000,
+     "net_income": 35153000000,
+     "operating_cash_flow": 22791000000,
+     "capex": 4543000000,
+     "acquisitions_cash": 0,
+     "dividends_paid": 11770000000,
+     "buybacks": 5054000000,
+     "long_term_debt": 25881000000,
+     "total_assets": 167558000000,
+     "cash": 21859000000,
+     "goodwill": 36558000000,
+     "intangibles": 34175000000,
+     "shares_diluted": 2560400000,
+     "eps_diluted": 13.72,
+     "income_tax": 1736000000,
+     "rd_expense_pct_revenue": 17.71,
+     "sga_expense_pct_revenue": 25.26,
+     "net_income_pct_revenue": 41.28,
+     "operating_cash_flow_pct_revenue": 26.76,
+     "capex_pct_revenue": 5.33,
+     "gross_margin_pct": 68.82
+    },
+    "2024": {
+     "revenue": 88821000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-25-000038",
+       "end": "2024-12-29",
+       "filed": "2025-02-13"
+      }
+     },
+     "cost_of_sales": 27471000000,
+     "rd_expense": 17232000000,
+     "pretax_income": 16687000000,
+     "sga_expense": 22869000000,
+     "net_income": 14066000000,
+     "operating_cash_flow": 24266000000,
+     "capex": 4424000000,
+     "acquisitions_cash": 15146000000,
+     "dividends_paid": 11823000000,
+     "buybacks": 2432000000,
+     "long_term_debt": 30651000000,
+     "total_assets": 180104000000,
+     "cash": 24105000000,
+     "goodwill": 44200000000,
+     "intangibles": 37618000000,
+     "shares_diluted": 2429400000,
+     "eps_diluted": 5.79,
+     "income_tax": 2621000000,
+     "rd_expense_pct_revenue": 19.4,
+     "sga_expense_pct_revenue": 25.75,
+     "net_income_pct_revenue": 15.84,
+     "operating_cash_flow_pct_revenue": 27.32,
+     "capex_pct_revenue": 4.98,
+     "gross_margin_pct": 69.07
+    },
+    "2025": {
+     "revenue": 94193000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfOrdinaryDividends",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebtNoncurrent",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0000200406-26-000016",
+       "end": "2025-12-28",
+       "filed": "2026-02-11"
+      }
+     },
+     "cost_of_sales": 30256000000,
+     "rd_expense": 14665000000,
+     "pretax_income": 32581000000,
+     "sga_expense": 23676000000,
+     "net_income": 26804000000,
+     "operating_cash_flow": 24530000000,
+     "capex": 4832000000,
+     "acquisitions_cash": 17541000000,
+     "dividends_paid": 12381000000,
+     "buybacks": 5953000000,
+     "long_term_debt": 39438000000,
+     "total_assets": 199210000000,
+     "cash": 19709000000,
+     "goodwill": 48772000000,
+     "intangibles": 50403000000,
+     "shares_diluted": 2429400000,
+     "eps_diluted": 11.03,
+     "income_tax": 5777000000,
+     "rd_expense_pct_revenue": 15.57,
+     "sga_expense_pct_revenue": 25.14,
+     "net_income_pct_revenue": 28.46,
+     "operating_cash_flow_pct_revenue": 26.04,
+     "capex_pct_revenue": 5.13,
+     "gross_margin_pct": 67.88
+    }
+   }
+  },
+  "abbvie": {
+   "entity": "AbbVie Inc.",
+   "cik": "0001551152",
+   "form": "10-K",
+   "currency": "USD",
+   "years": {
+    "2019": {
+     "revenue": 33266000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-21-000008",
+       "end": "2019-12-31",
+       "filed": "2021-02-19"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-20-000007",
+       "end": "2019-12-31",
+       "filed": "2020-02-21"
+      }
+     },
+     "cost_of_sales": 7439000000,
+     "rd_expense": 6407000000,
+     "ipr_d_acquired": 385000000,
+     "pretax_income": 8426000000,
+     "sga_expense": 6942000000,
+     "operating_income": 12983000000,
+     "net_income": 7882000000,
+     "operating_cash_flow": 13324000000,
+     "capex": 552000000,
+     "acquisitions_cash": 0,
+     "dividends_paid": 6366000000,
+     "buybacks": 629000000,
+     "long_term_debt": 67233000000,
+     "total_assets": 89115000000,
+     "cash": 39924000000,
+     "goodwill": 15604000000,
+     "intangibles": 18649000000,
+     "shares_diluted": 1484000000,
+     "eps_diluted": 5.28,
+     "income_tax": 544000000,
+     "rd_expense_pct_revenue": 19.26,
+     "sga_expense_pct_revenue": 20.87,
+     "operating_income_pct_revenue": 39.03,
+     "net_income_pct_revenue": 23.69,
+     "operating_cash_flow_pct_revenue": 40.05,
+     "capex_pct_revenue": 1.66,
+     "gross_margin_pct": 77.64
+    },
+    "2020": {
+     "revenue": 45804000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19",
+       "restated_later_to": 6379000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19",
+       "restated_later_to": 1376000000
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-21-000008",
+       "end": "2020-12-31",
+       "filed": "2021-02-19"
+      }
+     },
+     "cost_of_sales": 15387000000,
+     "rd_expense": 6557000000,
+     "ipr_d_acquired": 1198000000,
+     "pretax_income": 3398000000,
+     "sga_expense": 11299000000,
+     "operating_income": 11363000000,
+     "net_income": 4616000000,
+     "operating_cash_flow": 17588000000,
+     "capex": 798000000,
+     "acquisitions_cash": 38260000000,
+     "dividends_paid": 7716000000,
+     "buybacks": 978000000,
+     "long_term_debt": 84948000000,
+     "total_assets": 150565000000,
+     "cash": 8449000000,
+     "goodwill": 33124000000,
+     "intangibles": 82876000000,
+     "shares_diluted": 1673000000,
+     "eps_diluted": 2.72,
+     "income_tax": -1224000000,
+     "rd_expense_pct_revenue": 14.32,
+     "sga_expense_pct_revenue": 24.67,
+     "operating_income_pct_revenue": 24.81,
+     "net_income_pct_revenue": 10.08,
+     "operating_cash_flow_pct_revenue": 38.4,
+     "capex_pct_revenue": 1.74,
+     "gross_margin_pct": 66.41
+    },
+    "2021": {
+     "revenue": 56197000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18",
+       "restated_later_to": 6922000000
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18",
+       "restated_later_to": 1124000000
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-22-000007",
+       "end": "2021-12-31",
+       "filed": "2022-02-18"
+      }
+     },
+     "cost_of_sales": 17446000000,
+     "rd_expense": 7084000000,
+     "ipr_d_acquired": 962000000,
+     "pretax_income": 12989000000,
+     "sga_expense": 12349000000,
+     "operating_income": 17924000000,
+     "net_income": 11542000000,
+     "operating_cash_flow": 22777000000,
+     "capex": 787000000,
+     "acquisitions_cash": 525000000,
+     "dividends_paid": 9261000000,
+     "buybacks": 934000000,
+     "long_term_debt": 75962000000,
+     "total_assets": 146529000000,
+     "cash": 9746000000,
+     "goodwill": 32379000000,
+     "intangibles": 75951000000,
+     "shares_diluted": 1777000000,
+     "eps_diluted": 6.45,
+     "income_tax": 1440000000,
+     "rd_expense_pct_revenue": 12.61,
+     "sga_expense_pct_revenue": 21.97,
+     "operating_income_pct_revenue": 31.89,
+     "net_income_pct_revenue": 20.54,
+     "operating_cash_flow_pct_revenue": 40.53,
+     "capex_pct_revenue": 1.4,
+     "gross_margin_pct": 68.96
+    },
+    "2022": {
+     "revenue": 58054000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-23-000011",
+       "end": "2022-12-31",
+       "filed": "2023-02-17"
+      }
+     },
+     "cost_of_sales": 17414000000,
+     "rd_expense": 6510000000,
+     "ipr_d_acquired": 697000000,
+     "pretax_income": 13477000000,
+     "sga_expense": 15260000000,
+     "operating_income": 18117000000,
+     "net_income": 11836000000,
+     "operating_cash_flow": 24943000000,
+     "capex": 695000000,
+     "acquisitions_cash": 255000000,
+     "dividends_paid": 10043000000,
+     "buybacks": 1487000000,
+     "long_term_debt": 63128000000,
+     "total_assets": 138805000000,
+     "cash": 9201000000,
+     "goodwill": 32156000000,
+     "intangibles": 67439000000,
+     "shares_diluted": 1778000000,
+     "eps_diluted": 6.63,
+     "income_tax": 1632000000,
+     "rd_expense_pct_revenue": 11.21,
+     "sga_expense_pct_revenue": 26.29,
+     "operating_income_pct_revenue": 31.21,
+     "net_income_pct_revenue": 20.39,
+     "operating_cash_flow_pct_revenue": 42.97,
+     "capex_pct_revenue": 1.2,
+     "gross_margin_pct": 70.0
+    },
+    "2023": {
+     "revenue": 54318000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-24-000011",
+       "end": "2023-12-31",
+       "filed": "2024-02-20"
+      }
+     },
+     "cost_of_sales": 20415000000,
+     "rd_expense": 7675000000,
+     "ipr_d_acquired": 778000000,
+     "pretax_income": 6250000000,
+     "sga_expense": 12872000000,
+     "operating_income": 12757000000,
+     "net_income": 4863000000,
+     "operating_cash_flow": 22839000000,
+     "capex": 777000000,
+     "acquisitions_cash": 0,
+     "dividends_paid": 10539000000,
+     "buybacks": 1972000000,
+     "long_term_debt": 59245000000,
+     "total_assets": 134711000000,
+     "cash": 12814000000,
+     "goodwill": 32293000000,
+     "intangibles": 55610000000,
+     "shares_diluted": 1773000000,
+     "eps_diluted": 2.72,
+     "income_tax": 1377000000,
+     "rd_expense_pct_revenue": 14.13,
+     "sga_expense_pct_revenue": 23.7,
+     "operating_income_pct_revenue": 23.49,
+     "net_income_pct_revenue": 8.95,
+     "operating_cash_flow_pct_revenue": 42.05,
+     "capex_pct_revenue": 1.43,
+     "gross_margin_pct": 62.42
+    },
+    "2024": {
+     "revenue": 56334000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-25-000020",
+       "end": "2024-12-31",
+       "filed": "2025-02-14"
+      }
+     },
+     "cost_of_sales": 16904000000,
+     "rd_expense": 12791000000,
+     "ipr_d_acquired": 2757000000,
+     "pretax_income": 3716000000,
+     "sga_expense": 14752000000,
+     "operating_income": 9137000000,
+     "net_income": 4278000000,
+     "operating_cash_flow": 18806000000,
+     "capex": 974000000,
+     "acquisitions_cash": 17493000000,
+     "dividends_paid": 11025000000,
+     "buybacks": 1708000000,
+     "long_term_debt": 66841000000,
+     "total_assets": 135161000000,
+     "cash": 5524000000,
+     "goodwill": 34956000000,
+     "intangibles": 60068000000,
+     "shares_diluted": 1773000000,
+     "eps_diluted": 2.39,
+     "income_tax": -570000000,
+     "rd_expense_pct_revenue": 22.71,
+     "sga_expense_pct_revenue": 26.19,
+     "operating_income_pct_revenue": 16.22,
+     "net_income_pct_revenue": 7.59,
+     "operating_cash_flow_pct_revenue": 33.38,
+     "capex_pct_revenue": 1.73,
+     "gross_margin_pct": 69.99
+    },
+    "2025": {
+     "revenue": 61160000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenues",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfGoodsAndServicesSold",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "ipr_d_acquired": {
+       "tag": "ResearchAndDevelopmentAssetAcquiredOtherThanThroughBusinessCombinationWrittenOff",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "pretax_income": {
+       "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "sga_expense": {
+       "tag": "SellingGeneralAndAdministrativeExpense",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "operating_income": {
+       "tag": "OperatingIncomeLoss",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "net_income": {
+       "tag": "NetIncomeLoss",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "operating_cash_flow": {
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "capex": {
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "acquisitions_cash": {
+       "tag": "PaymentsToAcquireBusinessesNetOfCashAcquired",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "dividends_paid": {
+       "tag": "PaymentsOfDividends",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "buybacks": {
+       "tag": "PaymentsForRepurchaseOfCommonStock",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "long_term_debt": {
+       "tag": "LongTermDebt",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalentsAtCarryingValue",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsNetExcludingGoodwill",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "shares_diluted": {
+       "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "eps_diluted": {
+       "tag": "EarningsPerShareDiluted",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseBenefit",
+       "accn": "0001551152-26-000008",
+       "end": "2025-12-31",
+       "filed": "2026-02-20"
+      }
+     },
+     "cost_of_sales": 18204000000,
+     "rd_expense": 9096000000,
+     "ipr_d_acquired": 5016000000,
+     "pretax_income": 6597000000,
+     "sga_expense": 14010000000,
+     "operating_income": 15075000000,
+     "net_income": 4226000000,
+     "operating_cash_flow": 19030000000,
+     "capex": 1214000000,
+     "acquisitions_cash": 204000000,
+     "dividends_paid": 11657000000,
+     "buybacks": 980000000,
+     "long_term_debt": 64503000000,
+     "total_assets": 133960000000,
+     "cash": 5229000000,
+     "goodwill": 35640000000,
+     "intangibles": 52641000000,
+     "shares_diluted": 1773000000,
+     "eps_diluted": 2.36,
+     "income_tax": 2364000000,
+     "rd_expense_pct_revenue": 14.87,
+     "sga_expense_pct_revenue": 22.91,
+     "operating_income_pct_revenue": 24.65,
+     "net_income_pct_revenue": 6.91,
+     "operating_cash_flow_pct_revenue": 31.12,
+     "capex_pct_revenue": 1.98,
+     "gross_margin_pct": 70.24
+    }
+   }
+  },
+  "takeda": {
+   "entity": "Takeda Pharmaceutical Company Limited",
+   "cik": "0001395064",
+   "form": "20-F",
+   "currency": "JPY",
+   "years": {
+    "2019": {
+     "revenue": 3291188000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-20-000110",
+       "end": "2020-03-31",
+       "filed": "2020-06-24"
+      }
+     },
+     "cost_of_sales": 1089764000000,
+     "rd_expense": 492381000000,
+     "operating_income": 100408000000,
+     "net_income": 44290000000,
+     "operating_cash_flow": 669752000000,
+     "capex": 127082000000,
+     "dividends_paid": 282582000000,
+     "long_term_debt": 5093304000000,
+     "total_assets": 12821094000000,
+     "cash": 637614000000,
+     "goodwill": 4012528000000,
+     "intangibles": 4171361000000,
+     "eps_diluted": 28.25,
+     "income_tax": -105044000000,
+     "rd_expense_pct_revenue": 14.96,
+     "operating_income_pct_revenue": 3.05,
+     "net_income_pct_revenue": 1.35,
+     "operating_cash_flow_pct_revenue": 20.35,
+     "capex_pct_revenue": 3.86,
+     "gross_margin_pct": 66.89
+    },
+    "2020": {
+     "revenue": 3197812000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-21-000140",
+       "end": "2021-03-31",
+       "filed": "2021-06-29"
+      }
+     },
+     "cost_of_sales": 994308000000,
+     "rd_expense": 455833000000,
+     "operating_income": 509269000000,
+     "net_income": 376171000000,
+     "operating_cash_flow": 1010931000000,
+     "capex": 111206000000,
+     "dividends_paid": 283357000000,
+     "long_term_debt": 4635371000000,
+     "total_assets": 12912293000000,
+     "cash": 966222000000,
+     "goodwill": 4033917000000,
+     "intangibles": 3909106000000,
+     "eps_diluted": 238.96,
+     "income_tax": -9936000000,
+     "rd_expense_pct_revenue": 14.25,
+     "operating_income_pct_revenue": 15.93,
+     "net_income_pct_revenue": 11.76,
+     "operating_cash_flow_pct_revenue": 31.61,
+     "capex_pct_revenue": 3.48,
+     "gross_margin_pct": 68.91
+    },
+    "2021": {
+     "revenue": 3569006000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-22-000107",
+       "end": "2022-03-31",
+       "filed": "2022-06-29"
+      }
+     },
+     "cost_of_sales": 1106846000000,
+     "rd_expense": 526087000000,
+     "operating_income": 460844000000,
+     "net_income": 230166000000,
+     "operating_cash_flow": 1123105000000,
+     "capex": 123252000000,
+     "dividends_paid": 283665000000,
+     "long_term_debt": 4345410000000,
+     "total_assets": 13178018000000,
+     "cash": 849695000000,
+     "goodwill": 4407749000000,
+     "intangibles": 3818544000000,
+     "eps_diluted": 145.87,
+     "income_tax": 72405000000,
+     "rd_expense_pct_revenue": 14.74,
+     "operating_income_pct_revenue": 12.91,
+     "net_income_pct_revenue": 6.45,
+     "operating_cash_flow_pct_revenue": 31.47,
+     "capex_pct_revenue": 3.45,
+     "gross_margin_pct": 68.99
+    },
+    "2022": {
+     "revenue": 4027478000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-23-000072",
+       "end": "2023-03-31",
+       "filed": "2023-06-28"
+      }
+     },
+     "cost_of_sales": 1244072000000,
+     "rd_expense": 633325000000,
+     "operating_income": 490505000000,
+     "net_income": 317038000000,
+     "operating_cash_flow": 977156000000,
+     "capex": 140657000000,
+     "dividends_paid": 279416000000,
+     "long_term_debt": 4382341000000,
+     "total_assets": 13957750000000,
+     "cash": 533530000000,
+     "goodwill": 4790723000000,
+     "intangibles": 4269657000000,
+     "eps_diluted": 201.94,
+     "income_tax": 58052000000,
+     "rd_expense_pct_revenue": 15.73,
+     "operating_income_pct_revenue": 12.18,
+     "net_income_pct_revenue": 7.87,
+     "operating_cash_flow_pct_revenue": 24.26,
+     "capex_pct_revenue": 3.49,
+     "gross_margin_pct": 69.11
+    },
+    "2023": {
+     "revenue": 4263762000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-24-000086",
+       "end": "2024-03-31",
+       "filed": "2024-06-26"
+      }
+     },
+     "cost_of_sales": 1426678000000,
+     "rd_expense": 729924000000,
+     "operating_income": 214075000000,
+     "net_income": 144197000000,
+     "operating_cash_flow": 716344000000,
+     "capex": 175420000000,
+     "dividends_paid": 287188000000,
+     "long_term_debt": 4843752000000,
+     "total_assets": 15108792000000,
+     "cash": 457800000000,
+     "goodwill": 5410067000000,
+     "intangibles": 4274682000000,
+     "eps_diluted": 91.16,
+     "income_tax": -91406000000,
+     "rd_expense_pct_revenue": 17.12,
+     "operating_income_pct_revenue": 5.02,
+     "net_income_pct_revenue": 3.38,
+     "operating_cash_flow_pct_revenue": 16.8,
+     "capex_pct_revenue": 4.11,
+     "gross_margin_pct": 66.54
+    },
+    "2024": {
+     "revenue": 4581551000000,
+     "_provenance": {
+      "revenue": {
+       "tag": "Revenue",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "cost_of_sales": {
+       "tag": "CostOfSales",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "rd_expense": {
+       "tag": "ResearchAndDevelopmentExpense",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "operating_income": {
+       "tag": "ProfitLossFromOperatingActivities",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "net_income": {
+       "tag": "ProfitLoss",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "operating_cash_flow": {
+       "tag": "CashFlowsFromUsedInOperatingActivities",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "capex": {
+       "tag": "PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "dividends_paid": {
+       "tag": "DividendsPaidClassifiedAsFinancingActivities",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "long_term_debt": {
+       "tag": "Borrowings",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "total_assets": {
+       "tag": "Assets",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "cash": {
+       "tag": "CashAndCashEquivalents",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "goodwill": {
+       "tag": "Goodwill",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "intangibles": {
+       "tag": "IntangibleAssetsOtherThanGoodwill",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "eps_diluted": {
+       "tag": "DilutedEarningsLossPerShare",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      },
+      "income_tax": {
+       "tag": "IncomeTaxExpenseContinuingOperations",
+       "accn": "0001395064-25-000095",
+       "end": "2025-03-31",
+       "filed": "2025-06-25"
+      }
+     },
+     "cost_of_sales": 1580217000000,
+     "rd_expense": 730227000000,
+     "operating_income": 342586000000,
+     "net_income": 108143000000,
+     "operating_cash_flow": 1057182000000,
+     "capex": 200795000000,
+     "dividends_paid": 302498000000,
+     "long_term_debt": 4515265000000,
+     "total_assets": 14248344000000,
+     "cash": 385113000000,
+     "goodwill": 5324430000000,
+     "intangibles": 3631560000000,
+     "eps_diluted": 67.23,
+     "income_tax": 66941000000,
+     "rd_expense_pct_revenue": 15.94,
+     "operating_income_pct_revenue": 7.48,
+     "net_income_pct_revenue": 2.36,
+     "operating_cash_flow_pct_revenue": 23.07,
+     "capex_pct_revenue": 4.38,
+     "gross_margin_pct": 65.51
+    }
+   }
+  }
+ }
+}

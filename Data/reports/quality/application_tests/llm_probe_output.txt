@@ -1,0 +1,30 @@
+=== Q: What is Takeda's largest LOE exposure after Vyvanse and what is its stated replacement plan? 
+answerable: true 
+passages: 3 · 1.5s
+--- answer ---
+Part 1: ENTYVIO
+[CLM-005017]
+Part 2: Takeda's late-stage pipeline
+[CLM-005041]
+--- audit --- {"cited":["CLM-005017","CLM-005041"],"unknown":[]}
+=== Q: Which ecosystem and partnership investments appear most defensible, and why? 
+answerable: true 
+passages: 1 · 0.8s
+--- answer ---
+Part 1: Lilly-trained ADMET/safety/preclinical prediction models offered to outside biotechs
+Part 2: These models can help small biotechs improve their ADMET/safety/preclinical predictions, potentially leading to more successful drug development and partnerships.
+--- audit --- {"cited":[],"unknown":[]}
+PARTIAL: supported [ "What is Takeda's largest LOE exposure after Vyvanse?" ] | unsupported [{"part":"what was Lilly's TuneLab headcount?","reason":"No claim states a figure for “headcount” together with the other terms of the question."}]
+=== Q: What is Takeda's largest LOE exposure after Vyvanse and what was Lilly's TuneLab headcount? 
+answerable: true 
+passages: 3 · 1.3s
+--- answer ---
+Part 1: Takeda's largest LOE exposure after Vyvanse is Trintellix and Entyvio together, which are about 24% of FY2025 revenue [CLM-005011].
+Part 2: Not stated in the passages.
+--- audit --- {"cited":["CLM-005011"],"unknown":[]}
+=== Q: What revenue did Lilly's TuneLab generate in 2025? 
+answerable: true 
+passages: 3 · 0.6s
+--- answer ---
+Part 1 (What revenue did Lilly's TuneLab generate in 2025?): Not stated in the passages
+--- audit --- {"cited":[],"unknown":[]}

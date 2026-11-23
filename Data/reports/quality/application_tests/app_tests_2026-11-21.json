@@ -1,0 +1,553 @@
+{
+  "run_at": "2026-11-21T17:59:24.546Z",
+  "total": 109,
+  "passed": 109,
+  "failed": 0,
+  "results": [
+    {
+      "name": "dataset claims.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset sources.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset financials.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset products.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset knowledge_graph.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset research_graph.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset coverage.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset maturity.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset maturity_matrix.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset project_state.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset search_index.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset timelines.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset mechanism_cards.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset deals.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset approvals.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset setbacks.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset takeda_baseline.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset conflicts.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset strategy.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset reports.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset qa_index.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dataset research_log.json present and parses",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "claims non-empty",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim sources resolve",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claims have locators",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no SUPPORTED FACT on T4/T5 only",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "claims carry enrichment fields",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "merged claims carry merged_from_shard",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "financials have 3 competitors with revenue",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every financial cell carries a claim id",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in products exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in knowledge_graph exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in timelines exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in mechanism_cards exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in deals exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in approvals exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in setbacks exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in takeda_baseline exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in conflicts exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in strategy exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in maturity_matrix exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all claim IDs referenced in maturity exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mechanism-card source IDs exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "product series claim ids resolve",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "timelines present for all four companies",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every timeline event is dated and evidenced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mechanism cards parsed (cards and moats)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every mechanism entry cites claims",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deals: edges and inventory present",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deal edges evidenced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "takeda baseline present with classes and backlog",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "approvals/setbacks datasets declare availability",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "approval rows evidenced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "setback rows evidenced",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "project_state counts match dataset files",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "strategy.json lists every contract file",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "strategy availability flags match project_state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "absent strategy files carry no data",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "strategy assumption IDs defined",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "strategy bet references resolve",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap dependencies resolve",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every simulated portfolio value is labelled ASSUMPTION",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reports.json covers at least 95 Markdown files",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "reports.json covers every Markdown file in the research tree",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every report has title, pillar, section, markdown and word count",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every claim-id chip in a report resolves to a claim",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every pillar with a reports page has reports",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Q&A index has claim, report and source passages",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Q&A claim passages cover every claim",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "research log datasets parse",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no claim/source ID literals in UI source (IDs live in narrative.ts only)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no hardcoded revenue literals",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no comma-grouped or money/percent number literals",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no year literals in UI source",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no sample / lorem text",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "narrative.ts has claim IDs and all exist",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "narrative.ts prose contains no digits",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all 12 view routes, the research graph and every pillar route are wired",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every navigation entry has a route",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "eleven pillars are defined",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "strategy views show the explicit absent notice",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dist/index.html built",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html references an existing bundle with a root element",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 1 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 2 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 3 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 4 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 5 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 6 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 7 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 8 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 9 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 10 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 11 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "view 12 is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every route path is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Ask and reader code is in the built bundle",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle was built after the latest source edit",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "dist/data matches public/data (no stale build)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single-file export exists (run scripts/build_single_file.py)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single file contains the data blob and the app",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single file references no external script, stylesheet or font",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single file is under 15 MB",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single file data blob parses and holds every dataset",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "single file data equals public/data (not stale)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "public/data equals data/normalized",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "sqlite database exists",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search index resolves to claims/sources",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "search index covers entities, domains and source titles",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+1
+00:00:00,350 --> 00:00:02,353
+A single medicine can carry a company.
+
+2
+00:00:02,773 --> 00:00:09,221
+At Takeda, Entyvio is twenty-one percent of revenue, and its exclusivity ends in the second half of this decade.
+
+3
+00:00:09,640 --> 00:00:16,199
+But every medicine sits inside a wider system: science, data, manufacturing, evidence, partners, patients.
+
+4
+00:00:16,620 --> 00:00:20,397
+So the question for the next fifteen years is not which drug comes next.
+
+5
+00:00:20,817 --> 00:00:22,528
+It is what makes success repeatable.
+
+6
+00:00:26,583 --> 00:00:34,020
+Eli Lilly grew from twenty-eight to sixty-five billion dollars in four years; tirzepatide became fifty-six percent of its sales.
+
+7
+00:00:34,440 --> 00:00:46,332
+But concentration cuts both ways: by late twenty twenty-six, realized prices had fallen fifteen percent, and one pharmacy benefit manager kept Lilly's drug off its preferred list for fifteen months.
+
+8
+00:00:46,752 --> 00:00:50,677
+A single franchise creates exposure long before any patent expires.
+
+9
+00:00:52,250 --> 00:00:54,360
+AbbVie faced the cliff Takeda now faces.
+
+10
+00:00:54,780 --> 00:01:00,881
+Humira fell from twenty-one billion dollars to four and a half billion within three years of biosimilar entry.
+
+11
+00:01:01,301 --> 00:01:07,551
+Yet AbbVie recovered, because Skyrizi and Rinvoq were already on the market, across Humira's major indications.
+
+12
+00:01:07,971 --> 00:01:11,503
+Contracting held ninety-seven percent of volume for over a year.
+
+13
+00:01:11,922 --> 00:01:12,936
+It delayed the fall.
+
+14
+00:01:13,357 --> 00:01:14,533
+It did not prevent it.
+
+15
+00:01:16,083 --> 00:01:24,536
+Johnson and Johnson absorbed a forty-one percent fall in Stelara with a diversified base; its largest brand is only fifteen percent of sales.
+
+16
+00:01:24,956 --> 00:01:26,480
+And artificial intelligence?
+
+17
+00:01:26,900 --> 00:01:35,588
+Across all four companies, the research found no independent evidence that any AI programme has yet changed a cost, a timeline, or a revenue line.
+
+18
+00:01:36,008 --> 00:01:39,126
+Lilly built an open robotic laboratory, then sold it.
+
+19
+00:01:39,546 --> 00:01:41,016
+Announcements are not outcomes.
+
+20
+00:01:42,583 --> 00:01:43,234
+Takeda.
+
+21
+00:01:43,654 --> 00:01:46,367
+Entyvio brings in nine hundred fifty-eight billion yen.
+
+22
+00:01:46,787 --> 00:01:55,299
+Medicare price negotiation takes effect in January twenty twenty-eight, and two biosimilar applications are already under FDA review.
+
+23
+00:01:55,718 --> 00:01:58,645
+Vyvanse lost two hundred twenty billion yen in two years.
+
+24
+00:01:59,065 --> 00:02:07,555
+If Entyvio erodes the way Humira did, three hundred eighty to seven hundred seventy billion yen a year is at risk; a scenario, not a forecast.
+
+25
+00:02:07,975 --> 00:02:11,731
+But it defines the task: defend what is dated, and build what repeats.
+
+26
+00:02:13,283 --> 00:02:15,270
+Takeda is not starting from zero.
+
+27
+00:02:15,690 --> 00:02:20,447
+More than two hundred seventy plasma centres, with fractionation capacity expanding.
+
+28
+00:02:20,867 --> 00:02:26,314
+Its Shonan labs discovered oveporexton, approved in August twenty twenty-six for narcolepsy.
+
+29
+00:02:26,735 --> 00:02:30,233
+Rusfertide followed; zasocitinib is under priority review.
+
+30
+00:02:30,653 --> 00:02:33,397
+Three Phase three readouts came in positive, on plan.
+
+31
+00:02:33,817 --> 00:02:38,274
+And Takeda has shown it can stop: it exited cell therapy and took the write-down.
+
+32
+00:02:39,850 --> 00:02:41,401
+What should Takeda build first?
+
+33
+00:02:41,821 --> 00:02:43,091
+What rivals cannot buy.
+
+34
+00:02:43,512 --> 00:02:50,554
+Compute can be rented and models are converging; what stays proprietary is the data a company generates when it decides.
+
+35
+00:02:50,974 --> 00:02:55,687
+AbbVie connected two thousand trials into one research hub with fewer than ten staff.
+
+36
+00:02:56,107 --> 00:02:57,802
+It has published no outcome yet.
+
+37
+00:02:58,222 --> 00:03:06,100
+Takeda's version: a governed data and decision layer, where every experiment and every go or no-go is logged against a baseline.
+
+38
+00:03:07,650 --> 00:03:09,481
+Takeda already has the platform.
+
+39
+00:03:09,901 --> 00:03:13,168
+Sixty-three percent of the workforce uses generative AI.
+
+40
+00:03:13,587 --> 00:03:15,578
+But usage is adoption, not value.
+
+41
+00:03:15,998 --> 00:03:21,345
+At Lessines, one hundred seventy predictive-maintenance agents run; their savings are unpublished.
+
+42
+00:03:21,765 --> 00:03:23,273
+Baseline first, then claim.
+
+43
+00:03:23,693 --> 00:03:26,176
+And whoever measures should not own the savings target.
+
+44
+00:03:27,750 --> 00:03:29,937
+In the laboratory, the same rule applies.
+
+45
+00:03:30,357 --> 00:03:35,819
+Scripted automation, robots that dose, measure and screen, is mature and sold as a service.
+
+46
+00:03:36,239 --> 00:03:39,376
+Remote cloud labs work but have proved commercially fragile.
+
+47
+00:03:39,796 --> 00:03:47,102
+An AI that plans its own experiments is a prototype; first clinical data from such partnerships is still a year or two away.
+
+48
+00:03:47,522 --> 00:03:51,388
+A fully autonomous discovery loop has not been demonstrated anywhere.
+
+49
+00:03:51,808 --> 00:03:57,917
+So: rent automation, climb only when triggers fire, and gate the AI partners on first-in-human data.
+
+50
+00:03:59,483 --> 00:04:08,324
+Pharmacy benefit managers now decide biosimilar outcomes: when CVS moved its templates to Stelara biosimilars, most members paid nothing.
+
+51
+00:04:08,744 --> 00:04:12,027
+The Entyvio plan is honest: delay erosion, and measure it.
+
+52
+00:04:12,447 --> 00:04:17,911
+The subcutaneous pen drives uptake and the HYHUB device brings plasma therapy home.
+
+53
+00:04:18,331 --> 00:04:21,289
+But the pharmacy channel is also where biosimilars win.
+
+54
+00:04:21,709 --> 00:04:27,951
+No company studied publishes adherence outcomes; Takeda can be the first, starting with the oveporexton launch.
+
+55
+00:04:29,517 --> 00:04:37,150
+Takeda's instrument for partnerships is the mid-sized licence: Nimbus for four billion dollars upfront, Innovent for one point two.
+
+56
+00:04:37,570 --> 00:04:44,155
+AbbVie runs early options worth up to a billion a year, yet none signed in this period has produced an approved product.
+
+57
+00:04:44,576 --> 00:04:46,720
+AbbVie wrote off half of Cerevel within months.
+
+58
+00:04:47,140 --> 00:04:53,194
+At two point six times leverage, with Amitiza pending, a five billion dollar purchase fails the arithmetic.
+
+59
+00:04:53,614 --> 00:04:57,077
+Fund a licensing channel instead, released when leverage allows.
+
+60
+00:04:58,650 --> 00:04:59,843
+And the platform dream?
+
+61
+00:05:00,263 --> 00:05:02,812
+NVIDIA says CUDA made no money for ten years.
+
+62
+00:05:03,233 --> 00:05:06,629
+SpaceX built Falcon nine for a fraction of NASA's estimate.
+
+63
+00:05:07,049 --> 00:05:11,667
+Alphabet's other bets lost seven and a half billion dollars in twenty twenty-five alone.
+
+64
+00:05:12,087 --> 00:05:17,050
+Regeneron's discovery platform did not stop its lead product falling forty-two percent.
+
+65
+00:05:17,470 --> 00:05:20,771
+Platforms compound slowly and protect no single product.
+
+66
+00:05:21,191 --> 00:05:29,657
+So Takeda's long bets are capped options with stop rules, and the strengths it compounds are its own: plasma process data, and orexin biology.
+
+67
+00:05:31,217 --> 00:05:31,993
+The sequence.
+
+68
+00:05:32,413 --> 00:05:38,997
+Twenty twenty-seven: baselines, the data standard, rented automation and the Entyvio channel decision, together.
+
+69
+00:05:39,418 --> 00:05:47,176
+Twenty twenty-eight: the Medicare price lands, the biosimilar playbook goes live, the AI partnerships face a go or no-go on data.
+
+70
+00:05:47,596 --> 00:05:59,004
+The balanced envelope is about one point nine billion dollars over fourteen years, roughly three percent of today's R and D, plus a contingent pool for licences: planning assumptions, not a budget.
+
+71
+00:05:59,424 --> 00:06:05,422
+The council that challenged this plan found no funded bet robust to severe pricing pressure; hence the gates.
+
+72
+00:06:06,983 --> 00:06:09,250
+No single drug secures the next decade.
+
+73
+00:06:09,670 --> 00:06:10,669
+No acquisition.
+
+74
+00:06:11,089 --> 00:06:12,007
+No technology.
+
+75
+00:06:12,427 --> 00:06:20,844
+What endures is an organisation that discovers repeatedly, measures honestly, connects evidence to patients, and learns faster than the market moves.
+
+76
+00:06:21,264 --> 00:06:29,497
+Takeda has the raw material: a franchise to defend, launches in hand, plasma and orexin to compound, and the discipline to stop.
+
+77
+00:06:29,917 --> 00:06:31,232
+Build the system around them.
+
+78
+00:06:31,652 --> 00:06:33,152
+Start in twenty twenty-seven.
+
+79
+00:06:33,572 --> 00:06:34,732
+Measure from day one.
+
+80
+00:06:35,152 --> 00:06:36,440
+Decide at every gate.

@@ -1,0 +1,2425 @@
+[
+{
+"claim_id": "CLM-000278",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "Takeda's 20-F lists digital transformation and AI integration as initiatives and as risk factors ('Our digital transformation initiatives may be unsuccessful'), describing investments to modernize platforms and accelerate data services; no quantified AI outcome is disclosed in the filing.",
+"event_date": null,
+"entities": [
+"Takeda"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000280",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "On September 9, 2025 Eli Lilly launched Lilly TuneLab, an AI/ML platform giving selected biotech companies access to Lilly-trained drug-discovery models (drug disposition, safety and preclinical datasets covering hundreds of thousands of molecules); Lilly estimates the underlying proprietary data cost over USD 1 billion to generate. Access is federated (third-party hosted) and partners contribute training data in return.",
+"event_date": "2025-09-09",
+"entities": [
+"Eli Lilly",
+"TuneLab",
+"Catalyze360",
+"federated learning"
+],
+"domains": [
+"data_ai",
+"partnerships_ma",
+"competitive_advantage"
+],
+"sources": [
+"SRC-000029"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000281",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "On January 12, 2026 NVIDIA and Eli Lilly announced an AI co-innovation lab in the San Francisco Bay Area with up to USD 1 billion joint investment over five years in talent, infrastructure and compute, built on NVIDIA BioNeMo and the Vera Rubin architecture, initially targeting a 'continuous learning system' connecting Lilly's agentic wet labs with computational dry labs; work was expected to begin in South San Francisco in early 2026.",
+"event_date": "2026-01-12",
+"entities": [
+"Eli Lilly",
+"NVIDIA",
+"BioNeMo",
+"autonomous laboratory"
+],
+"domains": [
+"data_ai",
+"robotics_automation",
+"partnerships_ma"
+],
+"sources": [
+"SRC-000031"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000282",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "The NVIDIA–Lilly release states that Lilly's previously announced AI supercomputer ('AI factory', announced in autumn 2025) is intended to train large biomedical foundation models and to support manufacturing, medical imaging and scientific-agent applications, including digital twins of manufacturing lines using NVIDIA Omniverse.",
+"event_date": null,
+"entities": [
+"Eli Lilly",
+"NVIDIA",
+"AI factory",
+"digital twin"
+],
+"domains": [
+"data_ai",
+"robotics_automation"
+],
+"sources": [
+"SRC-000031"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000283",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "On July 22, 2026 the U.S. FDA granted De Novo authorization to Johnson & Johnson's OTTAVA table-integrated soft-tissue robotic surgical system for multiple upper-abdominal general-surgery procedures (including gastric bypass, cholecystectomy, gastrectomy, sleeve, appendectomy, hiatal hernia repair); J&J said it would launch with select U.S. customers and that an inguinal-hernia trial was ongoing.",
+"event_date": "2026-07-21",
+"entities": [
+"Johnson & Johnson",
+"OTTAVA",
+"FDA De Novo",
+"surgical robotics"
+],
+"domains": [
+"robotics_automation",
+"policy_regulation",
+"pipeline"
+],
+"sources": [
+"SRC-000032"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000284",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "On November 19, 2026 J&J announced the first commercial installation of OTTAVA at Memorial Hermann–Texas Medical Center (Houston), following the July 2026 De Novo authorization.",
+"event_date": "2026-11-19",
+"entities": [
+"Johnson & Johnson",
+"OTTAVA",
+"Memorial Hermann"
+],
+"domains": [
+"robotics_automation",
+"commercial_market_access"
+],
+"sources": [
+"SRC-000034"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000285",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "PILOT",
+"statement": "On September 29, 2026 AbbVie announced a partnership with Valkai (life-sciences AI platform) to deploy AI capabilities in targeted areas of clinical development, framed under its enterprise 'AI@AbbVie' approach; the release reports no deployed-system metrics, timelines or financial terms.",
+"event_date": "2026-09-29",
+"entities": [
+"AbbVie",
+"Valkai",
+"AI@AbbVie",
+"clinical development"
+],
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"sources": [
+"SRC-000035"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-000286",
+"company": "MULTI",
+"companies": [
+"MULTI"
+],
+"maturity": "OPERATIONAL",
+"statement": "Across the three competitors' most recent technology announcements, only OTTAVA has a regulator-verified milestone (FDA De Novo) and a commercial installation; Lilly's TuneLab is a live platform without disclosed scientific outcomes; the NVIDIA–Lilly lab and the AbbVie–Valkai partnership are announcements with no reported deployment metrics.",
+"event_date": null,
+"entities": [
+"Eli Lilly",
+"Johnson & Johnson",
+"AbbVie"
+],
+"domains": [
+"data_ai",
+"robotics_automation",
+"competitive_advantage"
+],
+"sources": [
+"SRC-000029",
+"SRC-000031",
+"SRC-000032",
+"SRC-000035"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": null
+},
+{
+"claim_id": "CLM-006000",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "On 2024-10-02 Lilly announced a USD 4.5 billion Lilly Medicine Foundry in Lebanon, Indiana, a facility combining process research and clinical-supply manufacturing, with opening stated as late 2027, about 400 planned jobs, and technologies developed there to be transferred to Lilly's other sites.",
+"event_date": "2024-10-02",
+"entities": [
+"State of Indiana",
+"advanced manufacturing",
+"process development"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006000"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006001",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "As of the 6 May 2026 opening of Lilly Lebanon Advanced Therapies, local press reported the Lilly Medicine Foundry and the Lilly Lebanon API site were still planned, with the API site due to open in 2027.",
+"event_date": "2026-05-06",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006012"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006002",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "On 2026-05-06 Lilly opened its Lilly Lebanon Advanced Therapies genetic-medicine plant and announced a further USD 4.5 billion for the Lebanon campus (more than USD 21 billion of Indiana commitments since 2020); a reporter on the guided tour saw staff monitoring robotic machines that dose, measure and seal medicines.",
+"event_date": "2026-05-06",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006012"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006003",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PROTOTYPE",
+"statement": "At NVIDIA GTC Washington, D.C. in October 2025, NVIDIA and Lilly announced a Lilly 'AI factory' built as an NVIDIA DGX SuperPOD with DGX B300 systems and 1,016 Blackwell Ultra GPUs, rated at over 9,000 petaflops of AI performance, to train biomedical foundation models.",
+"event_date": "2025-10",
+"entities": [
+"NVIDIA",
+"DGX SuperPOD B300",
+"BioNeMo",
+"Omniverse",
+"Isaac"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006001"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006004",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Lilly's AI supercomputer, branded LillyPod, was inaugurated at a ribbon-cutting in Indianapolis (reported late February 2026), assembled in about four months, with over 9,000 petaflops, 700 TB of genomics data and over 290 TB of GPU memory, and a stated target of 100% renewable electricity by 2030.",
+"event_date": "2026-02",
+"entities": [
+"NVIDIA",
+"DGX SuperPOD",
+"Spectrum-X"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006002",
+"SRC-006003"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006005",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Lilly's VP of R&D informatics said that productive teams typically analyse roughly 2,000 molecular ideas per target per year because each needs physical synthesis and testing, and that the supercomputer lets scientists evaluate billions of molecular hypotheses computationally before wet-lab work.",
+"event_date": "2026-02",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006002"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006006",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "NVIDIA's October 2025 blog states Lilly uses robots in its factories for quality inspection and transport of goods and plans digital twins of manufacturing lines on NVIDIA Omniverse; it gives no deployment counts, sites or results.",
+"event_date": "2025-10",
+"entities": [
+"digital twin",
+"NVIDIA Isaac",
+"Omniverse"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006001"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006007",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "No source opened for this review reports a scientific, cycle-time or financial outcome attributable to the Lilly AI factory or the planned NVIDIA co-innovation lab as of 2026-11-21.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006001",
+"SRC-006002",
+"SRC-006003"
+],
+"single_interested_source": true,
+"status": "INCONCLUSIVE",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006008",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "On 2026-01-08 Benchling announced it would distribute Lilly TuneLab antibody and small-molecule prediction models to its more than 1,300 biotech customers, with customers able to opt in 'later this year'; no uptake figures were given.",
+"event_date": "2026-01-08",
+"entities": [
+"Benchling",
+"NVIDIA FLARE",
+"federated learning"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006010"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006009",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PROTOTYPE",
+"statement": "On 2025-09-09 insitro announced a collaboration to build machine-learning models predicting small-molecule ADMET and in vivo behaviour from Lilly's proprietary preclinical data, with the models to be available through Lilly TuneLab; it expands a 2024 insitro-Lilly relationship on siRNA delivery and antibody discovery.",
+"event_date": "2025-09-09",
+"entities": [
+"insitro",
+"ADMET prediction",
+"federated learning"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006008"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006010",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PROTOTYPE",
+"statement": "BiopharmaTrend reported in early 2026 that Chai Discovery and Lilly agreed to build a custom antibody-design model on Lilly's proprietary data, with no financial terms disclosed; the reported double-digit zero-shot hit rate for Chai-2 is Chai's own claim.",
+"event_date": "2026-01",
+"entities": [
+"Chai Discovery"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006011"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006011",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "On 2024-06-25 Lilly announced a collaboration with OpenAI to use generative AI to invent novel antimicrobials against drug-resistant pathogens; the release states no financial terms, targets, timelines or results.",
+"event_date": "2024-06-25",
+"entities": [
+"OpenAI"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006009"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006012",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "On 2024-01-07 Isomorphic Labs announced a multi-target small-molecule collaboration with Lilly: USD 45 million upfront, up to USD 1.7 billion in performance-based milestones, and tiered royalties up to low double digits.",
+"event_date": "2024-01-07",
+"entities": [
+"Isomorphic Labs",
+"AlphaFold"
+],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-006004"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006013",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "In 2024 (reported September) Arctoris acquired Lilly's Life Sciences Studio automated laboratory, relocating the platform from San Diego to Oxford and adding five automated biochemistry modules, a high-throughput screening module, a BSL2 cell-biology module and storage for 4 million compounds.",
+"event_date": "2024-09",
+"entities": [
+"Arctoris",
+"Strateos",
+"cloud lab",
+"robotic automation"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006014",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "BiopharmaTrend states the Life Sciences Studio was established by Lilly in 2017 as part of a USD 90 million investment; a Fierce Biotech snippet describes the lab as launched four years before the 2024 sale, which conflicts with a 2017 start.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005",
+"SRC-006028"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006016",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "OPERATIONAL",
+"statement": "By March 2026 Arctoris described the ex-Lilly platform as part of a cloud-controlled robotic system running biochemistry, biophysics, cell-biology and structural-biology workflows, announced a ten-fold biophysics instrumentation expansion, and said it was selected for the UK ARIA AI Scientist programme targeting endometriosis.",
+"event_date": "2026-03",
+"entities": [
+"Arctoris",
+"ARIA"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006006"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006017",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "The Lilly-Strateos remote robotic laboratory (public launch about 2020) no longer operates under Lilly: its hardware was divested to a CRO in 2024. The reason is undisclosed, so the sources support a retreat from an owned open cloud lab but not a cause.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005",
+"SRC-006006",
+"SRC-006028"
+],
+"single_interested_source": true,
+"status": "NEEDS_MORE_RESEARCH",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006018",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "In a March 2025 interview J&J's CIO said J&J had reviewed nearly 900 generative-AI use cases for ethical, regulatory and compliance risk, that much of the prior two years' gen-AI work had been proofs of concept and pilots, and that the company was now deploying gen AI.",
+"event_date": "2025-03-13",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006014"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006019",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J's CIO said (as relayed by The Batch, citing Greylock and The Wall Street Journal) that 10-15% of use cases drove about 80% of the value, after which J&J moved responsibility for AI projects to departments to focus on high-value applications.",
+"event_date": "2025-04",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006013"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006020",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "J&J's CIO said AI models recommending clinical-trial sites produced 'up to a 2.6x increase in enrollment' at better-performing, higher-enrolling recommended sites; the baseline, method and trials are not disclosed.",
+"event_date": "2025-03-13",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006014"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006021",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J's CIO said a gen-AI tool launched in quality control lets service representatives answer product-identification and regulatory questions across hundreds of thousands of SKUs in minutes instead of weeks.",
+"event_date": "2025-03-13",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006014"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006023",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J's CIO named AI tools in use or deployed: a sales-rep assistant (AskJIA), an engagement tool (Engagement.AI) used for provider insights in over 14 countries, a supply-risk sensing platform, and an HR service agent; no usage or outcome data accompany them.",
+"event_date": "2025-03-13",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006014"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006024",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J's CIO said AI-powered image analytics on its biosignature platform helped J&J deliver novel molecular entities 'faster than we would have been able to before'; no counts, timelines or comparison are given.",
+"event_date": "2025-03-13",
+"entities": [],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-006014"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006026",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J's FY2025 10-K attributes growth in Knees to the ATTUNE portfolio and 'pull through related to the VELYS Robotic assisted solution' but reports no VELYS system or procedure counts.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-000010"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006027",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "On 2026-08-17 J&J announced 510(k) clearance for MONARCH QUEST 3 software adding AI-powered nodule segmentation, registration and navigation improvements, a 3D Compass overlay and broader CBCT compatibility, and said it followed three launches in 18 months; supporting design evidence cited is internal technical reviews.",
+"event_date": "2026-08-17",
+"entities": [
+"MONARCH QUEST 3",
+"nodule segmentation",
+"CBCT"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006015"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006028",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "J&J says OTTAVA has four arms integrated into the operating table and, in its IDE trial, fitted operating rooms as small as 243 sq ft (five of six trial ORs previously non-robotic); a user-experience survey behind its efficiency claims covered 12 surgeons and 8 staff after 1-5 gastric bypass cases each.",
+"event_date": "2026-10-08",
+"entities": [
+"OTTAVA"
+],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006016"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006029",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "As of 2026-11-19 OTTAVA has FDA De Novo authorization (2026-07-22, CLM-000283) and one announced commercial installation (CLM-000284), with J&J giving no revenue, unit-sale, order-book or procedure data.",
+"event_date": "2026-07-21",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-000032",
+"SRC-000034",
+"SRC-006016"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006030",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "J&J said on 2025-10-27 that its Polyphonic digital ecosystem 'is available in early access to select hospitals only', and that the first Polyphonic AI Fund QuickFire Challenge drew entries from 29 countries and awarded Mayo Clinic and QAS.AI.",
+"event_date": "2025-10-27",
+"entities": [
+"NVIDIA",
+"AWS",
+"Mayo Clinic",
+"Polyphonic"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006017"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006031",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "CONCEPT",
+"statement": "On 2026-05-21 J&J announced a programme with the Abu Dhabi Department of Health under which Cleveland Clinic Abu Dhabi, PureHealth, Mediclinic and NMC Healthcare are to deploy Polyphonic across operating rooms, creating a governed anonymised surgical-data source for AI development; the release says deployment is 'expected'.",
+"event_date": "2026-05-21",
+"entities": [
+"Abu Dhabi DOH",
+"AWS",
+"NVIDIA"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006018"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006032",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "OPERATIONAL",
+"statement": "At Bio-IT World in 2023 AbbVie's head of AI said the AbbVie R&D Convergence Hub (ARCH), conceived in 2020, was built by fewer than ten full-time AbbVie staff plus many contractors (Modak, SciBite, Tellic, TXI), harmonised a corpus over 124 TB, and exposes a graph of over 30 million nodes and nearly 2 billion relationships to all R&D employees.",
+"event_date": "2023-08-24",
+"entities": [
+"Modak",
+"SciBite",
+"Tellic",
+"TXI Digital",
+"Cloudera",
+"knowledge graph",
+"NLP"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006019"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006033",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "OPERATIONAL",
+"statement": "AbbVie's head of AI said ARCH's first version was done 'quick' but 'not cheap' and 'not right [or final]', declined to give a price but called it a 'significant investment' requiring sacrifices elsewhere, and cited a December 2022 bioRxiv preprint on drug-repurposing flags as evidence of patient impact.",
+"event_date": "2023-08-24",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006019"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006034",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "OPERATIONAL",
+"statement": "AbbVie's ARCH governance gave all R&D employees access to data from medical affairs, discovery, clinical and real-world sources; per its head of AI, risk-based analysis allowed all 2,000+ clinical trials' de-identified data to be reused internally, with prison and pediatric populations excepted.",
+"event_date": "2023-08-24",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006019"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006035",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "PROTOTYPE",
+"statement": "On 2023-12-05 AbbVie and BigHat Biosciences announced an AI/ML antibody collaboration in oncology and neuroscience using BigHat's Milliner platform, with USD 30 million upfront and up to about USD 325 million in R&D milestones plus royalties.",
+"event_date": "2023-12-05",
+"entities": [
+"BigHat Biosciences",
+"machine learning antibody design"
+],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-006020"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006037",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "CONCEPT",
+"statement": "AbbVie's September 2026 Valkai partnership (CLM-000285) is described as framed under 'AI@AbbVie'; neither that release nor any other source opened gives deployment metrics, so it is an announcement at concept maturity.",
+"event_date": "2026-09-29",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000035"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006038",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "OPERATIONAL",
+"statement": "AbbVie's own ARCH web page (not opened; HTTP 403) is indexed as describing ARCH connecting more than 200 internal and external sources and over 2 billion points of knowledge, consistent with the 2023 conference figures.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006031"
+],
+"single_interested_source": true,
+"status": "NEEDS_MORE_RESEARCH",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006039",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PROTOTYPE",
+"statement": "On 2025-10-14 Reuters reported that Nabla Bio and Takeda signed a second multi-year AI protein-design collaboration (first launched 2022) with upfront and research payments in double-digit millions of dollars and over USD 1 billion in success-based payments; Nabla expected first-in-human data within one to two years.",
+"event_date": "2025-10-14",
+"entities": [
+"Nabla Bio",
+"JAM generative antibody design"
+],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-006022"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006040",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PROTOTYPE",
+"statement": "Nabla's CEO told Reuters that Nabla's design-to-lab-test turnaround is three to four weeks, described as 'probably the fastest feedback loop in the industry'.",
+"event_date": "2025-10-14",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006022"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006041",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PROTOTYPE",
+"statement": "On 2026-02-09 Iambic announced a multi-year collaboration with Takeda on small-molecule programs in oncology and gastroenterology/inflammation, with Takeda gaining access to Iambic's NeuralPLexer model and Iambic eligible for success-based payments that could exceed USD 1.7 billion plus royalties.",
+"event_date": "2026-02-09",
+"entities": [
+"Iambic Therapeutics",
+"NeuralPLexer"
+],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-006021"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006042",
+"company": "ABBV",
+"companies": [
+"ABBV",
+"JNJ",
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "Takeda joined the AI Structural Biology consortium (with Bristol Myers Squibb and Astex, 1 Oct 2025) that already included AbbVie and J&J, to fine-tune OpenFold3 with proprietary protein-ligand structures using a federated approach.",
+"event_date": "2025-10-01",
+"entities": [
+"Apheris",
+"Columbia AlQuraishi Lab",
+"OpenFold3",
+"federated learning"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006024"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006043",
+"company": "ABBV",
+"companies": [
+"ABBV",
+"JNJ",
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "Apheris states that five companies (AbbVie, Astex, BMS, J&J, Takeda) jointly fine-tuned OpenFold3 in under ten weeks on over 20,000 private structures, outperforming every public model tested by about 10 points on pose accuracy and 11 points on interface quality on 1,056 held-out private structures; results are not peer-reviewed.",
+"event_date": null,
+"entities": [
+"Apheris",
+"OpenFold3",
+"AISB-1-Fed"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006023"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006044",
+"company": "ABBV",
+"companies": [
+"ABBV",
+"JNJ",
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "Apheris lists a follow-on 'AISB Bind' effort in which AbbVie, AstraZeneca, Bristol Myers Squibb and Johnson & Johnson will federate-train a small-molecule binding-prediction model, marked 'in progress'; Takeda is not listed among its founding partners.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006023"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006045",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "Takeda's 20-F lists digital transformation and AI integration as initiatives and risk factors with no quantified AI outcome (CLM-000278), and none of the Takeda sources opened in this review reports a named, internally deployed AI system with metrics.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024",
+"SRC-006022",
+"SRC-006021"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006048",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "A June 2025 Nature Medicine Phase IIa study (71 IPF patients, 12 weeks) of AI-discovered rentosertib showed +98.4 mL mean FVC at 60 mg versus -20.3 mL on placebo, with seven discontinuations for liver injury or dysfunction and 67% completion of the high-dose arm versus 88% on placebo, as reported by Drug Discovery Trends.",
+"event_date": "2025-06-03",
+"entities": [],
+"domains": [
+"successes_failures"
+],
+"sources": [
+"SRC-006027"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006050",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "PILOT",
+"statement": "Insilico announced the start of a Phase III trial of rentosertib on 2026-07-07 (search snippet seen; page and trial registry not opened).",
+"event_date": "2026-07-07",
+"entities": [],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-006030"
+],
+"single_interested_source": true,
+"status": "NEEDS_MORE_RESEARCH",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006052",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY",
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Across the cases reviewed, the owned or venture-funded 'cloud lab' and biofoundry models (Lilly Life Sciences Studio, Zymergen) ended in divestment or distressed sale, while the service-lab model continues at a CRO (Arctoris); no fully autonomous closed-loop lab with a published discovery outcome was found in any source opened.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005",
+"SRC-006006",
+"SRC-006007"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006054",
+"company": "ABBV",
+"companies": [
+"ABBV",
+"JNJ",
+"LLY",
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "Only J&J's MedTech devices have regulator-verified and commercial milestones (OTTAVA De Novo, MONARCH 510(k) iterations); no source opened shows a published discovery outcome, cost saving or revenue effect from any of the four companies' AI drug-discovery or data initiatives.",
+"event_date": null,
+"entities": [],
+"domains": [
+"competitive_advantage"
+],
+"sources": [
+"SRC-006015",
+"SRC-006016",
+"SRC-006002",
+"SRC-006014",
+"SRC-006019"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006055",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Lilly's most defensible asset is proprietary experimental data (company-estimated over USD 1 billion to generate, CLM-000280) paired with a federated platform that lets partners add data; compute and third-party models are purchasable by rivals.",
+"event_date": null,
+"entities": [],
+"domains": [
+"competitive_advantage"
+],
+"sources": [
+"SRC-006001",
+"SRC-006010",
+"SRC-006002"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-006056",
+"company": "ABBV",
+"companies": [
+"ABBV",
+"JNJ",
+"LLY",
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "Both Lilly TuneLab and the Apheris AISB consortium use federated learning so partners can improve shared models without pooling raw data; TuneLab is Lilly-led and AISB is multi-pharma, with Takeda, AbbVie and J&J in AISB.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006010",
+"SRC-006023",
+"SRC-006008"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A6_ai_robotics"
+},
+{
+"claim_id": "CLM-009026",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Lilly TuneLab gives biotechs access to AI/ML models trained on Lilly drug-disposition, safety and preclinical data (Lilly estimates over $1 billion data cost), hosted by a third party with federated learning; partners contribute training data in return.",
+"event_date": "2025-09",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-009001"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-009027",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "Benchling announced it would bring Lilly TuneLab models to its 1,300+ biotech customers, who could opt in later in 2026, with data shared back for federated learning.",
+"event_date": "2026-01",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-009009"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-009028",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "A vendor blog reported that as of October 2026 TuneLab models incorporated more than 2 million Lilly preclinical data points and more than 675,000 partner-contributed data points.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-009022"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-009029",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "On 2026-01-12 Lilly and NVIDIA announced an AI co-innovation lab in the San Francisco Bay Area with up to $1 billion of joint investment over five years in talent, infrastructure and compute, built on NVIDIA BioNeMo.",
+"event_date": "2026-01-12",
+"entities": [
+"NVIDIA"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-009002"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-009058",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "CONCEPT",
+"statement": "AbbVie acquired Capstan Therapeutics (in vivo CAR-T via tLNP, CPTX2309) in August 2025 for $2.1 billion ($1.9 billion net of cash) as an asset acquisition, plus $187 million post-closing incentive expense.",
+"event_date": "2025-08",
+"entities": [],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-000003"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-009101",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "PILOT",
+"statement": "Evidenced ecosystem arms are Lilly's Catalyze360/TuneLab/NVIDIA, J&J's JLABS/JJDC, Takeda's Center for External Innovation (BaseLaunch) and AbbVie Ventures; only Lilly's TuneLab and NVIDIA involve data or compute exchange rather than capital or incubation.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-009001",
+"SRC-009002",
+"SRC-009011",
+"SRC-009010"
+],
+"single_interested_source": false,
+"status": "INCONCLUSIVE",
+"shard": "A9_partnerships"
+},
+{
+"claim_id": "CLM-001056",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "In the 72-week SURMOUNT-1 phase 3 trial (NCT04184622) tirzepatide reduced mean body weight by 15.0% (5 mg), 19.5% (10 mg) and 20.9% (15 mg) versus 3.1% with placebo in adults with obesity without diabetes (treatment-regimen estimand).",
+"event_date": "2022-07-21",
+"entities": [
+"tirzepatide"
+],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-001024",
+"SRC-001023"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A1_lilly"
+},
+{
+"claim_id": "CLM-001057",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "In the 76-week TRAILBLAZER-ALZ 2 phase 3 trial (1,736 participants, NCT04437511) donanemab slowed CDR-SB worsening by 0.67 points versus placebo in the low/medium tau population (P<.001); ARIA-E occurred in 24.0% (52 symptomatic) of donanemab patients versus 2.1% on placebo, and three treatment-related deaths occurred on donanemab versus one on placebo.",
+"event_date": "2023-08-08",
+"entities": [
+"donanemab"
+],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-001025",
+"SRC-001022"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A1_lilly"
+},
+{
+"claim_id": "CLM-001058",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "In the 72-week ATTAIN-1 phase 3 trial (3,127 adults with obesity without diabetes, NCT05869903) once-daily oral orforglipron reduced mean body weight by 7.5% (6 mg), 8.4% (12 mg) and 11.2% (36 mg) versus 2.1% with placebo, with 5.3-10.3% treatment discontinuation due to adverse events versus 2.7% on placebo.",
+"event_date": "2025-11-06",
+"entities": [
+"orforglipron"
+],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-001026",
+"SRC-001011"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A1_lilly"
+},
+{
+"claim_id": "CLM-001059",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "In the 40-week ACHIEVE-1 phase 3 trial in early type 2 diabetes (559 participants) orforglipron lowered HbA1c by 1.24 to 1.48 percentage points across the 3 mg, 12 mg and 36 mg doses versus 0.41 with placebo.",
+"event_date": "2025-09-18",
+"entities": [
+"orforglipron"
+],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-001027"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A1_lilly"
+},
+{
+"claim_id": "CLM-001060",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "In the 80-week TRIUMPH-1 phase 3 trial (2,339 randomised adults with obesity without diabetes, NCT05929066) once-weekly retatrutide reduced mean body weight by 17.6% (4 mg), 23.7% (9 mg) and 25.0% (12 mg) versus 3.9% with placebo, published in NEJM on 5 November 2026.",
+"event_date": "2026-11-05",
+"entities": [
+"retatrutide"
+],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-001028",
+"SRC-001014"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A1_lilly"
+},
+{
+"claim_id": "CLM-003083",
+"company": "ABBV",
+"companies": [
+"ABBV"
+],
+"maturity": "PILOT",
+"statement": "AbbVie announced a Valkai life-sciences AI partnership for clinical development on September 29, 2026 (canonical CLM-000285); no outcome metrics were found in this shard's sources.",
+"event_date": "2026-09-29",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000003"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A3_abbvie"
+},
+{
+"claim_id": "CLM-005049",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PROTOTYPE",
+"statement": "The FY2025 20-F lists research collaborations including Iambic Therapeutics (computational discovery engine), Nabla Bio (AI protein design), BridGene (chemoproteomics), Charles River Laboratories and the MIT-Takeda Program with MIT's J-Clinic for AI in drug development.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005053",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "Takeda's FY2025 20-F states it seeks a foundational shift embedding AI into every stage of drug discovery with automated, data-driven, predictive processes, and targets productivity through digitalization, automation and AI across the enterprise; this is a statement of aspiration and no quantified outcome is given.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005054",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "The 20-F states Takeda plans to continue significant digital transformation investments (modernising platforms, accelerating data services) as a key part of improving operating margins, and warns that AI models may contain flaws, be trained on inadequate data or create legal liability.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005055",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "Takeda reports incremental investments in Data, Digital and Technology (DD&T) within SG&A, largely offset by efficiency gains, and describes its May 2024 efficiency program as including investment in digital, data and technology to enhance productivity (restructuring expense JPY 128.1bn in FY2024 and JPY 70.8bn in FY2025).",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005057",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "In a September 2024 BCG interview Ricci said 80% of Takeda's digital workforce was external when the transformation was designed, leading to large-scale insourcing through internal 'digital factories'; he also said the supply chain is 'completely AI driven', drones count warehouse inventory, and Takeda has a digital trust officer.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-005016"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005058",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "A Databricks-hosted session summary states Takeda built a unified AI foundation on Databricks enabling 10,000-plus employees to develop, deploy and operate agents under enterprise governance, listing 'Agent AI for FDA Regulatory Submissions' as a production use case and reducing AI infrastructure provisioning from 60-70 tickets to a one-click approval taking about 20 minutes.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-005017"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005059",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "CONCEPT",
+"statement": "Takeda's 25 March 2026 transformation program targets annualised gross savings above JPY 200bn by FY2028 'through streamlining of corporate functions, bringing leadership and teams closer to patients and customers and process simplification made possible by advanced technologies', with about JPY 150bn restructuring expense in FY2026.",
+"event_date": "2026-03-25",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-005008"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005060",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "In FY2025 Takeda rolled out personalised donation nomogram programs (Fresenius Kabi adaptive nomogram and Haemonetics Persona Nomogram) across its network of more than 270 U.S. and EU plasma donation centers, which it says drove efficiencies and improved productivity; no figures are given.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-005061",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "Takeda states its cybersecurity framework follows the NIST framework, is run by a Cybersecurity & Risk team within DD&T reporting to the CISO, with annual Board updates.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000024"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A5_takeda"
+},
+{
+"claim_id": "CLM-002045",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "FDA classified the Varipulse correction as the most serious recall type: 4 of 132 patients (about 3%) in the first U.S. procedures after the November 2024 approval had stroke/TIA versus an expected 1% or less; Biosense Webster attributed this to use outside instructions (more advanced AF, more/repeated energy deliveries) and issued updated use instructions on 2025-02-14, with a planned post-approval study.",
+"event_date": "2025-02-14",
+"entities": [],
+"domains": [
+"successes_failures"
+],
+"sources": [
+"SRC-002008"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-002048",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "On 2024-11-12 J&J MedTech announced FDA approval of the investigational device exemption for the OTTAVA robotic surgical system (four robotic arms integrated in the operating table, Ethicon instruments, planned Polyphonic digital link), stating the system was not authorised for marketing.",
+"event_date": "2024-11-12",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-002012"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-002049",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "On 2026-01-07 J&J said it submitted OTTAVA to FDA for De Novo classification covering upper-abdominal general surgery, that the first IDE cases were done in early 2025 at Memorial Hermann-TMC, and that a second IDE (inguinal hernia) was approved in late 2025.",
+"event_date": "2026-01-07",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-002013"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-002066",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "On 2024-08-02 J&J MedTech/DePuy Synthes announced that the VELYS Spine active robotic-assisted and navigation system, developed with eCential Robotics, had received FDA 510(k) clearance for planning and instrumenting cervical, thoracolumbar and sacroiliac fusion, with commercial availability expected in the first half of 2025.",
+"event_date": "2024-08-02",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-002032"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-002067",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J MedTech reported that the company-sponsored, single-arm TARGET study of the MONARCH bronchoscopy platform (679 patients, 21 sites; published in CHEST 2025-04-26) reached the lesion in 98.7% of cases with a diagnostic yield of 83.2% and a safety profile it describes as comparable to non-robotic bronchoscopy.",
+"event_date": "2025-05-28",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-002035"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-002068",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "At completion of the Shockwave acquisition (2024-05-31) J&J described Shockwave as offering the first and only commercially available intravascular lithotripsy platform for coronary and peripheral artery disease, expected it to become MedTech's thirteenth USD 1bn+ priority platform, and guided to about USD 0.10 (2024) and USD 0.17 (2025) adjusted-EPS dilution.",
+"event_date": "2024-05-31",
+"entities": [],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-002036"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A2_jnj"
+},
+{
+"claim_id": "CLM-014022",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "FDA granted De Novo DEN250068 for the OTTAVA Robotic Surgical System on 2026-07-21 (request received 2025-12-18), classifying it Class II under 21 CFR 878.4966 as an 'integrated operating table-electromechanical surgical system' for upper abdominal general laparoscopic procedures in adults.",
+"event_date": "2026-07-21",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014014"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014023",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "J&J said first OTTAVA IDE cases were completed in early 2025 at Memorial Hermann-Texas Medical Center, that the De Novo request was filed on IDE data from Roux-en-Y gastric bypass procedures, and that an IDE for an inguinal hernia trial was approved in late 2025.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014015"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014024",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "On 2026-11-19 J&J announced Memorial Hermann-Texas Medical Center in Houston as the first U.S. hospital to install OTTAVA under an early-access commercial programme, following the July 2026 De Novo authorization.",
+"event_date": "2026-11-19",
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014016"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014025",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "J&J announced 510(k) clearance for MONARCH QUEST 3 on 2026-08-17, describing AI-powered nodule segmentation, a 3D compass overlay, registration improvements and broader CBCT compatibility, and noting three prior MONARCH launches in 18 months; openFDA lists 510(k) K260382 (MONARCH Platform MON-000008, Auris Health, decided 2026-07-25, Substantially Equivalent).",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014017",
+"SRC-014018"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014026",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "OPERATIONAL",
+"statement": "openFDA lists five 510(k) clearances for VELYS software/hardware: K202769 (2021-01-14), K233227 (2023-12-14), K240211 (2024-06-05), K253551 VELYS Hip Navigation (2026-03-06) and K260480 (2026-06-25), all with applicant DePuy Ireland UC.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014019"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014041",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "Takeda's 2026 Annual Integrated Report states that at its Lessines (Belgium) site it has deployed more than 170 AI-enabled predictive-maintenance agents, with expansion to additional global sites planned by 2027.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014028"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014042",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "The report states Takeda's One Day Batch Release programme completed pilots at six sites in 2025, targets a 60% reduction in release lead time by 2028 and global rollout to all sites by 2029; an AI demand-forecasting and inventory tool at the Hikari plant is described as having significantly lowered inventory costs (no figure given).",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-014028"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014044",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "The report describes 'Takami', a multi-year programme to standardize end-to-end processes across manufacturing, supply chain, finance, commercial and plasma-derived therapy operations and to build the data foundation for AI at scale; benefits are stated qualitatively with no spend or savings figure.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014028"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014045",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "Takeda states its R&D AI ecosystem includes partnerships with Nabla Bio, TetraScience and APHERIS for early-stage portfolio work, and that in clinical development it uses AI/ML for study design, protocol simplification and operational efficiency.",
+"event_date": null,
+"entities": [
+"Nabla Bio",
+"TetraScience",
+"APHERIS"
+],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014028"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014046",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "OPERATIONAL",
+"statement": "The 2026 Annual Integrated Report states FY2025 on-time in-full order release of 99.6% and that, in FY2025, Takeda rolled out personalized plasma-donation nomogram technology in U.S. BioLife centers and an AI-powered Smart Donor Care programme.",
+"event_date": null,
+"entities": [],
+"domains": [
+"business"
+],
+"sources": [
+"SRC-014028"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014053",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "CONCEPT",
+"statement": "NVIDIA and Lilly announced on 2026-01-12 an AI co-innovation lab in the San Francisco Bay Area with up to USD 1 billion of joint investment over five years in talent, infrastructure and compute; the release said the lab's work was expected to begin in South San Francisco 'early this year' and that it would link Lilly's agentic wet labs with computational dry labs.",
+"event_date": "2026-01-12",
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014035"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014054",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "OPERATIONAL",
+"statement": "An NVIDIA blog describes LillyPod, a DGX SuperPOD with 1,016 Blackwell Ultra GPUs delivering more than 9,000 petaflops, inaugurated at a ribbon-cutting in Indianapolis, assembled in four months, and intended to train protein-diffusion, small-molecule GNN and genomics foundation models.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014036"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014055",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "The same blog says select Lilly models will be made available through TuneLab, which uses NVIDIA FLARE federated learning and is built on Lilly proprietary data 'generated at a cost of over $1 billion' (company-stated).",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014036"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014056",
+"company": "LLY",
+"companies": [
+"LLY"
+],
+"maturity": "PILOT",
+"statement": "By September 2026 at least four organisations had announced TuneLab collaborations in releases or news: Charles River (nonclinical testing, 2026-06-18), Axcelead DDP (CRO, 2026-06-18, snippet only), Twist Bioscience (antibody characterization data, 2026-09-16) and Korean companies AriBio, First BioTherapeutics and Pharos iBio (Edaily snippet); TuneLab is described as part of Lilly Catalyze360 with Lilly Ventures, Gateway Labs and ExploR&D.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014038",
+"SRC-014037",
+"SRC-014039",
+"SRC-014040"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014071",
+"company": "JNJ",
+"companies": [
+"JNJ"
+],
+"maturity": "PILOT",
+"statement": "Duato said J&J uses AI in molecular design (shortening hit-to-lead; some oral medicines reaching humans faster) and in clinical operations (protocol design, patient selection, site selection), declining to name programmes because targets are confidential.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-014046"
+],
+"single_interested_source": true,
+"status": "SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-014073",
+"company": "TAK",
+"companies": [
+"TAK"
+],
+"maturity": "PILOT",
+"statement": "Takeda's then-CEO Christophe Weber said in a January 2026 interview that Takeda's goal is to double research productivity with AI, that using big data and AI cut narcolepsy clinical-trial development time by about 30%, and that the U.S. is now 52% of revenue versus 15% when he joined.",
+"event_date": "2026-01-30",
+"entities": [],
+"domains": [
+"leadership"
+],
+"sources": [
+"SRC-014048"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A14_gapfill"
+},
+{
+"claim_id": "CLM-011012",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "The Royal Swedish Academy of Sciences stated in October 2024 that Google DeepMind's Demis Hassabis and John Jumper developed AlphaFold2, which predicted the structure of virtually all 200 million known proteins and has been used by more than two million people from 190 countries.",
+"event_date": "2024-10-09",
+"entities": [],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-011007"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011014",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "CONCEPT",
+"statement": "Isomorphic Labs, spun out of Google DeepMind, was reported to have raised a USD 600 million Series A in March 2025 (snippet only), and Lilly signed a collaboration with it in January 2024 with USD 45 million upfront and up to USD 1.7 billion in milestones.",
+"event_date": null,
+"entities": [],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-011010",
+"SRC-006004"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011016",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "OPERATIONAL",
+"statement": "Regeneron's 10-K states that its Regeneron Genetics Center has sequenced over 3 million samples, using laboratory automation and cloud computing, to find genetic factors for target discovery and validation.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-011011"
+],
+"single_interested_source": false,
+"status": "SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011023",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "DEMONSTRATED_OUTCOME",
+"statement": "Flatiron's marketing page states that clinico-genomic real-world data from Flatiron and Foundation Medicine was used to support the approval of trastuzumab in Japan for HER2-positive colorectal cancer.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-011016"
+],
+"single_interested_source": true,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011052",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "OPERATIONAL",
+"statement": "INTERPRETATION: Among Lilly, J&J and AbbVie the deployed data assets are Lilly TuneLab (operational, launched 2025-09-09), AbbVie ARCH (operational, built by fewer than ten staff plus contractors), J&J Polyphonic (early access, select hospitals only) and the five-company federated OpenFold3 effort (pilot); none has independent outcome evidence.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-000029",
+"SRC-006019",
+"SRC-006017",
+"SRC-006023",
+"SRC-006001",
+"SRC-006002",
+"SRC-006003",
+"SRC-006015"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011057",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "PROTOTYPE",
+"statement": "INTERPRETATION: In AI-enabled discovery every competitor deal found is at concept or prototype stage (Isomorphic, Chai, Nabla, Iambic, BigHat); the only demonstrated outcomes are negative or small: Recursion ended four of 11 programmes in 2025 and Insilico's rentosertib Phase IIa (71 patients) showed an FVC signal with liver-related discontinuations.",
+"event_date": null,
+"entities": [],
+"domains": [
+"scientific_rd"
+],
+"sources": [
+"SRC-006004",
+"SRC-006011",
+"SRC-006022",
+"SRC-006021",
+"SRC-006020",
+"SRC-006026",
+"SRC-006027"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011059",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "CONCEPT",
+"statement": "INTERPRETATION: Competitors are entering new modalities by acquisition or option rather than internal build: AbbVie bought Capstan (in vivo CAR-T, USD 2.1 billion) and took an siRNA option with ADARx (USD 335 million upfront); Lilly bought Verve (gene editing) and POINT (radioligands); J&J bought Ambrx (ADC) and Halda.",
+"event_date": null,
+"entities": [],
+"domains": [
+"partnerships_ma"
+],
+"sources": [
+"SRC-000003",
+"SRC-000017",
+"SRC-000019",
+"SRC-000010"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011062",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "PROTOTYPE",
+"statement": "INTERPRETATION: On the staged ladder, stages 1-2 (assisted and automated high-throughput work) are operational and commodity; stage 3 (integrated smart lab linking AI planning to owned wet labs) is prototype to pilot with vendor claims only (Nabla 3-4 week design-to-test, BigHat, the concept-stage Lilly-NVIDIA lab); stage 4 (bounded autonomous experimentation) and stage 5 (scaled automation) have no independent demonstration in any source opened.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005",
+"SRC-006006",
+"SRC-006022",
+"SRC-006020",
+"SRC-000031",
+"SRC-006007"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011063",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "OPERATIONAL",
+"statement": "INTERPRETATION: Owned or venture-funded automation ventures have ended in divestment or distressed sale: Lilly's Life Sciences Studio went to the CRO Arctoris in 2024 (reason undisclosed; the 2020 start and Strateos link are unsupported per audit) and Zymergen sold to Ginkgo for about USD 300 million, one-tenth of its IPO valuation; the CRO service model continues.",
+"event_date": null,
+"entities": [],
+"domains": [
+"robotics_automation"
+],
+"sources": [
+"SRC-006005",
+"SRC-006028",
+"SRC-006006",
+"SRC-006007"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011067",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "OPERATIONAL",
+"statement": "INTERPRETATION: Competitor care-delivery moves are access or convenience moves with company-reported counts and no outcome data: LillyDirect (over 1 million patients in 2025, company-reported), Zepbound vials and KwikPen, J&J withMe, AbbVie Allē (over 6 million members) and Takeda Help at Hand (over 100,000 patients cumulative); no adherence, persistence or time-to-therapy result was found for any.",
+"event_date": null,
+"entities": [],
+"domains": [
+"patient_care"
+],
+"sources": [
+"SRC-007005",
+"SRC-007007",
+"SRC-007016",
+"SRC-007017",
+"SRC-007019"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+},
+{
+"claim_id": "CLM-011078",
+"company": "INDUSTRY",
+"companies": [
+"INDUSTRY"
+],
+"maturity": "PILOT",
+"statement": "INTERPRETATION: People and operating-model evidence is thin: J&J reports 47,000 employees completed a required generative-AI course (a training metric, not a deployment) and a 10-15% share of use cases driving about 80% of value; AbbVie built ARCH with fewer than ten staff plus contractors; Takeda reports an 80% external digital workforce at design time and large-scale insourcing.",
+"event_date": null,
+"entities": [],
+"domains": [
+"data_ai"
+],
+"sources": [
+"SRC-006014",
+"SRC-006013",
+"SRC-006019",
+"SRC-005016"
+],
+"single_interested_source": false,
+"status": "PARTIALLY_SUPPORTED",
+"shard": "A11_strategy"
+}
+]

@@ -1,0 +1,4656 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "total_duration": 402.166666,
+ "total_frames": 12065,
+ "built_from": {
+  "scenes": "screenplay/scenes.json",
+  "narration": "audio/narration/final",
+  "asr": "audio/alignment/final_asr.json"
+ },
+ "scenes": [
+  {
+   "id": "S01",
+   "title": "The defining question",
+   "start": 0.0,
+   "end": 26.233333,
+   "duration": 26.233333333333334,
+   "frames": 787,
+   "start_frame": 0,
+   "audio": "audio/narration/final/S01.wav",
+   "audio_duration": 23.127,
+   "voice": "af_heart",
+   "transcript": "A single medicine can carry a company. At Takeda, Entyvio is twenty-one percent of revenue, and its exclusivity ends in the second half of this decade. But every medicine sits inside a wider system: science, data, manufacturing, evidence, partners, patients. So the question for the next fifteen years is not which drug comes next. It is what makes success repeatable.",
+   "asr_heard": "A single medicine can carry a company. At Takeda, Entivio is 21 percent of revenue, and its exclusivity ends in the second half of this decade. But every medicine sits inside a wider system\u2014science, data, manufacturing, evidence, partners, patients. So the question for the next 15 years is not which drug comes next. It is what makes success repeatable.",
+   "asr_wer": 0.019,
+   "cues": {
+    "medicine": 0.48,
+    "takeda": 2.94,
+    "exclusivity": 6.62,
+    "system": 11.26,
+    "question": 16.88,
+    "repeatable": 21.84
+   },
+   "captions": [
+    {
+     "text": "A single medicine can carry a company.",
+     "start": 0.35,
+     "end": 2.353
+    },
+    {
+     "text": "At Takeda, Entyvio is twenty-one percent of revenue, and its exclusivity ends in the second half of this decade.",
+     "start": 2.773,
+     "end": 9.221
+    },
+    {
+     "text": "But every medicine sits inside a wider system: science, data, manufacturing, evidence, partners, patients.",
+     "start": 9.64,
+     "end": 16.199
+    },
+    {
+     "text": "So the question for the next fifteen years is not which drug comes next.",
+     "start": 16.62,
+     "end": 20.397
+    },
+    {
+     "text": "It is what makes success repeatable.",
+     "start": 20.817,
+     "end": 22.528
+    }
+   ],
+   "words": [
+    {
+     "w": "A",
+     "t": 0.0
+    },
+    {
+     "w": "single",
+     "t": 0.48
+    },
+    {
+     "w": "medicine",
+     "t": 0.76
+    },
+    {
+     "w": "can",
+     "t": 1.18
+    },
+    {
+     "w": "carry",
+     "t": 1.46
+    },
+    {
+     "w": "a",
+     "t": 1.74
+    },
+    {
+     "w": "company.",
+     "t": 1.9
+    },
+    {
+     "w": "At",
+     "t": 2.84
+    },
+    {
+     "w": "Takeda,",
+     "t": 2.94
+    },
+    {
+     "w": "Entivio",
+     "t": 3.8
+    },
+    {
+     "w": "is",
+     "t": 4.28
+    },
+    {
+     "w": "21",
+     "t": 4.5
+    },
+    {
+     "w": "percent",
+     "t": 5.04
+    },
+    {
+     "w": "of",
+     "t": 5.38
+    },
+    {
+     "w": "revenue,",
+     "t": 5.54
+    },
+    {
+     "w": "and",
+     "t": 6.28
+    },
+    {
+     "w": "its",
+     "t": 6.5
+    },
+    {
+     "w": "exclusivity",
+     "t": 6.62
+    },
+    {
+     "w": "ends",
+     "t": 7.28
+    },
+    {
+     "w": "in",
+     "t": 7.58
+    },
+    {
+     "w": "the",
+     "t": 7.82
+    },
+    {
+     "w": "second",
+     "t": 7.92
+    },
+    {
+     "w": "half",
+     "t": 8.14
+    },
+    {
+     "w": "of",
+     "t": 8.4
+    },
+    {
+     "w": "this",
+     "t": 8.58
+    },
+    {
+     "w": "decade.",
+     "t": 8.7
+    },
+    {
+     "w": "But",
+     "t": 9.66
+    },
+    {
+     "w": "every",
+     "t": 9.78
+    },
+    {
+     "w": "medicine",
+     "t": 10.04
+    },
+    {
+     "w": "sits",
+     "t": 10.44
+    },
+    {
+     "w": "inside",
+     "t": 10.68
+    },
+    {
+     "w": "a",
+     "t": 11.08
+    },
+    {
+     "w": "wider",
+     "t": 11.26
+    },
+    {
+     "w": "system\u2014science,",
+     "t": 11.44
+    },
+    {
+     "w": "data,",
+     "t": 13.16
+    },
+    {
+     "w": "manufacturing,",
+     "t": 13.64
+    },
+    {
+     "w": "evidence,",
+     "t": 14.58
+    },
+    {
+     "w": "partners,",
+     "t": 15.16
+    },
+    {
+     "w": "patients.",
+     "t": 15.64
+    },
+    {
+     "w": "So",
+     "t": 16.6
+    },
+    {
+     "w": "the",
+     "t": 16.78
+    },
+    {
+     "w": "question",
+     "t": 16.88
+    },
+    {
+     "w": "for",
+     "t": 17.22
+    },
+    {
+     "w": "the",
+     "t": 17.44
+    },
+    {
+     "w": "next",
+     "t": 17.54
+    },
+    {
+     "w": "15",
+     "t": 17.76
+    },
+    {
+     "w": "years",
+     "t": 18.14
+    },
+    {
+     "w": "is",
+     "t": 18.46
+    },
+    {
+     "w": "not",
+     "t": 18.94
+    },
+    {
+     "w": "which",
+     "t": 19.16
+    },
+    {
+     "w": "drug",
+     "t": 19.38
+    },
+    {
+     "w": "comes",
+     "t": 19.62
+    },
+    {
+     "w": "next.",
+     "t": 19.86
+    },
+    {
+     "w": "It",
+     "t": 20.8
+    },
+    {
+     "w": "is",
+     "t": 20.96
+    },
+    {
+     "w": "what",
+     "t": 21.06
+    },
+    {
+     "w": "makes",
+     "t": 21.24
+    },
+    {
+     "w": "success",
+     "t": 21.44
+    },
+    {
+     "w": "repeatable.",
+     "t": 21.84
+    }
+   ],
+   "evidence": [
+    "CLM-005009",
+    "CLM-005017"
+   ],
+   "tail": 2.5
+  },
+  {
+   "id": "S02",
+   "title": "Lesson one: concentration cuts both ways (Lilly)",
+   "start": 26.233333,
+   "end": 51.9,
+   "duration": 25.666666666666668,
+   "frames": 770,
+   "start_frame": 787,
+   "audio": "audio/narration/final/S02.wav",
+   "audio_duration": 25.044,
+   "voice": "af_heart",
+   "transcript": "Eli Lilly grew from twenty-eight to sixty-five billion dollars in four years; tirzepatide became fifty-six percent of its sales. But concentration cuts both ways: by late twenty twenty-six, realized prices had fallen fifteen percent, and one pharmacy benefit manager kept Lilly's drug off its preferred list for fifteen months. A single franchise creates exposure long before any patent expires.",
+   "asr_heard": "Eli Lilly grew from $28 to $65 billion in four years. Terzepatide became 56% of its sales. But concentration cuts both ways. By late 2026, realized prices had fallen 15%, and one pharmacy benefit manager kept Lilly's drug off its preferred list for 15 months. A single franchise creates exposure long before any patent expires.",
+   "asr_wer": 0.077,
+   "cues": {
+    "lilly": 0.68,
+    "growth": 0.88,
+    "share": 5.76,
+    "but": 8.86,
+    "price": 12.34,
+    "formulary": 15.4,
+    "lesson": 20.88
+   },
+   "captions": [
+    {
+     "text": "Eli Lilly grew from twenty-eight to sixty-five billion dollars in four years; tirzepatide became fifty-six percent of its sales.",
+     "start": 0.35,
+     "end": 7.787
+    },
+    {
+     "text": "But concentration cuts both ways: by late twenty twenty-six, realized prices had fallen fifteen percent, and one pharmacy benefit manager kept Lilly's drug off its preferred list for fifteen months.",
+     "start": 8.207,
+     "end": 20.099
+    },
+    {
+     "text": "A single franchise creates exposure long before any patent expires.",
+     "start": 20.519,
+     "end": 24.444
+    }
+   ],
+   "words": [
+    {
+     "w": "Eli",
+     "t": 0.0
+    },
+    {
+     "w": "Lilly",
+     "t": 0.68
+    },
+    {
+     "w": "grew",
+     "t": 0.88
+    },
+    {
+     "w": "from",
+     "t": 1.22
+    },
+    {
+     "w": "$28",
+     "t": 1.48
+    },
+    {
+     "w": "to",
+     "t": 2.08
+    },
+    {
+     "w": "$65",
+     "t": 2.4
+    },
+    {
+     "w": "billion",
+     "t": 3.02
+    },
+    {
+     "w": "in",
+     "t": 3.44
+    },
+    {
+     "w": "four",
+     "t": 4.02
+    },
+    {
+     "w": "years.",
+     "t": 4.28
+    },
+    {
+     "w": "Terzepatide",
+     "t": 5.24
+    },
+    {
+     "w": "became",
+     "t": 5.76
+    },
+    {
+     "w": "56",
+     "t": 6.08
+    },
+    {
+     "w": "%",
+     "t": 6.62
+    },
+    {
+     "w": "of",
+     "t": 7.0
+    },
+    {
+     "w": "its",
+     "t": 7.16
+    },
+    {
+     "w": "sales.",
+     "t": 7.28
+    },
+    {
+     "w": "But",
+     "t": 8.26
+    },
+    {
+     "w": "concentration",
+     "t": 8.36
+    },
+    {
+     "w": "cuts",
+     "t": 8.86
+    },
+    {
+     "w": "both",
+     "t": 9.34
+    },
+    {
+     "w": "ways.",
+     "t": 9.62
+    },
+    {
+     "w": "By",
+     "t": 10.62
+    },
+    {
+     "w": "late",
+     "t": 10.72
+    },
+    {
+     "w": "2026,",
+     "t": 10.94
+    },
+    {
+     "w": "realized",
+     "t": 12.34
+    },
+    {
+     "w": "prices",
+     "t": 12.62
+    },
+    {
+     "w": "had",
+     "t": 13.12
+    },
+    {
+     "w": "fallen",
+     "t": 13.38
+    },
+    {
+     "w": "15%,",
+     "t": 13.62
+    },
+    {
+     "w": "and",
+     "t": 14.54
+    },
+    {
+     "w": "one",
+     "t": 15.14
+    },
+    {
+     "w": "pharmacy",
+     "t": 15.4
+    },
+    {
+     "w": "benefit",
+     "t": 15.84
+    },
+    {
+     "w": "manager",
+     "t": 16.22
+    },
+    {
+     "w": "kept",
+     "t": 16.72
+    },
+    {
+     "w": "Lilly's",
+     "t": 17.08
+    },
+    {
+     "w": "drug",
+     "t": 17.52
+    },
+    {
+     "w": "off",
+     "t": 17.78
+    },
+    {
+     "w": "its",
+     "t": 18.12
+    },
+    {
+     "w": "preferred",
+     "t": 18.3
+    },
+    {
+     "w": "list",
+     "t": 18.6
+    },
+    {
+     "w": "for",
+     "t": 18.96
+    },
+    {
+     "w": "15",
+     "t": 19.18
+    },
+    {
+     "w": "months.",
+     "t": 19.56
+    },
+    {
+     "w": "A",
+     "t": 20.54
+    },
+    {
+     "w": "single",
+     "t": 20.68
+    },
+    {
+     "w": "franchise",
+     "t": 20.88
+    },
+    {
+     "w": "creates",
+     "t": 21.4
+    },
+    {
+     "w": "exposure",
+     "t": 22.02
+    },
+    {
+     "w": "long",
+     "t": 22.52
+    },
+    {
+     "w": "before",
+     "t": 22.9
+    },
+    {
+     "w": "any",
+     "t": 23.26
+    },
+    {
+     "w": "patent",
+     "t": 23.5
+    },
+    {
+     "w": "expires.",
+     "t": 23.78
+    }
+   ],
+   "evidence": [
+    "CLM-000133",
+    "CLM-000137",
+    "CLM-001003",
+    "CLM-014003",
+    "CLM-007011",
+    "CLM-007013"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S03",
+   "title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "start": 51.9,
+   "end": 75.733333,
+   "duration": 23.833333333333332,
+   "frames": 715,
+   "start_frame": 1557,
+   "audio": "audio/narration/final/S03.wav",
+   "audio_duration": 23.232,
+   "voice": "af_heart",
+   "transcript": "AbbVie faced the cliff Takeda now faces. Humira fell from twenty-one billion dollars to four and a half billion within three years of biosimilar entry. Yet AbbVie recovered, because Skyrizi and Rinvoq were already on the market, across Humira's major indications. Contracting held ninety-seven percent of volume for over a year. It delayed the fall. It did not prevent it.",
+   "asr_heard": "AbbVie faced the cliff Takeda now faces. Humira fell from $21 billion to $4.5 billion within three years of biosimilar entry. Yet AbbVie recovered because Skyrizzy and Rynvoke were already on the market across Humira's major indications. Contracting held 97% of volume for over a year. It delayed the fall. It did not prevent it.",
+   "asr_wer": 0.059,
+   "cues": {
+    "abbvie": 0.7,
+    "humira_fall": 3.32,
+    "recovery": 10.0,
+    "successors": 12.34,
+    "contracting": 16.4,
+    "delayed": 20.18,
+    "prevent": 21.94
+   },
+   "captions": [
+    {
+     "text": "AbbVie faced the cliff Takeda now faces.",
+     "start": 0.35,
+     "end": 2.46
+    },
+    {
+     "text": "Humira fell from twenty-one billion dollars to four and a half billion within three years of biosimilar entry.",
+     "start": 2.88,
+     "end": 8.981
+    },
+    {
+     "text": "Yet AbbVie recovered, because Skyrizi and Rinvoq were already on the market, across Humira's major indications.",
+     "start": 9.401,
+     "end": 15.651
+    },
+    {
+     "text": "Contracting held ninety-seven percent of volume for over a year.",
+     "start": 16.071,
+     "end": 19.603
+    },
+    {
+     "text": "It delayed the fall.",
+     "start": 20.022,
+     "end": 21.036
+    },
+    {
+     "text": "It did not prevent it.",
+     "start": 21.457,
+     "end": 22.633
+    }
+   ],
+   "words": [
+    {
+     "w": "AbbVie",
+     "t": 0.0
+    },
+    {
+     "w": "faced",
+     "t": 0.7
+    },
+    {
+     "w": "the",
+     "t": 0.9
+    },
+    {
+     "w": "cliff",
+     "t": 1.08
+    },
+    {
+     "w": "Takeda",
+     "t": 1.26
+    },
+    {
+     "w": "now",
+     "t": 1.74
+    },
+    {
+     "w": "faces.",
+     "t": 1.88
+    },
+    {
+     "w": "Humira",
+     "t": 3.04
+    },
+    {
+     "w": "fell",
+     "t": 3.32
+    },
+    {
+     "w": "from",
+     "t": 3.56
+    },
+    {
+     "w": "$21",
+     "t": 3.84
+    },
+    {
+     "w": "billion",
+     "t": 4.38
+    },
+    {
+     "w": "to",
+     "t": 4.82
+    },
+    {
+     "w": "$4",
+     "t": 5.68
+    },
+    {
+     "w": ".5",
+     "t": 5.94
+    },
+    {
+     "w": "billion",
+     "t": 6.3
+    },
+    {
+     "w": "within",
+     "t": 6.62
+    },
+    {
+     "w": "three",
+     "t": 7.08
+    },
+    {
+     "w": "years",
+     "t": 7.42
+    },
+    {
+     "w": "of",
+     "t": 7.66
+    },
+    {
+     "w": "biosimilar",
+     "t": 7.9
+    },
+    {
+     "w": "entry.",
+     "t": 8.44
+    },
+    {
+     "w": "Yet",
+     "t": 9.48
+    },
+    {
+     "w": "AbbVie",
+     "t": 9.6
+    },
+    {
+     "w": "recovered",
+     "t": 10.0
+    },
+    {
+     "w": "because",
+     "t": 10.44
+    },
+    {
+     "w": "Skyrizzy",
+     "t": 11.1
+    },
+    {
+     "w": "and",
+     "t": 11.6
+    },
+    {
+     "w": "Rynvoke",
+     "t": 11.8
+    },
+    {
+     "w": "were",
+     "t": 12.18
+    },
+    {
+     "w": "already",
+     "t": 12.34
+    },
+    {
+     "w": "on",
+     "t": 12.68
+    },
+    {
+     "w": "the",
+     "t": 12.84
+    },
+    {
+     "w": "market",
+     "t": 12.94
+    },
+    {
+     "w": "across",
+     "t": 13.32
+    },
+    {
+     "w": "Humira's",
+     "t": 13.98
+    },
+    {
+     "w": "major",
+     "t": 14.6
+    },
+    {
+     "w": "indications.",
+     "t": 14.82
+    },
+    {
+     "w": "Contracting",
+     "t": 16.4
+    },
+    {
+     "w": "held",
+     "t": 16.72
+    },
+    {
+     "w": "97",
+     "t": 16.92
+    },
+    {
+     "w": "%",
+     "t": 17.6
+    },
+    {
+     "w": "of",
+     "t": 17.96
+    },
+    {
+     "w": "volume",
+     "t": 18.2
+    },
+    {
+     "w": "for",
+     "t": 18.56
+    },
+    {
+     "w": "over",
+     "t": 18.98
+    },
+    {
+     "w": "a",
+     "t": 19.18
+    },
+    {
+     "w": "year.",
+     "t": 19.32
+    },
+    {
+     "w": "It",
+     "t": 19.96
+    },
+    {
+     "w": "delayed",
+     "t": 20.18
+    },
+    {
+     "w": "the",
+     "t": 20.46
+    },
+    {
+     "w": "fall.",
+     "t": 20.64
+    },
+    {
+     "w": "It",
+     "t": 21.42
+    },
+    {
+     "w": "did",
+     "t": 21.6
+    },
+    {
+     "w": "not",
+     "t": 21.72
+    },
+    {
+     "w": "prevent",
+     "t": 21.94
+    },
+    {
+     "w": "it.",
+     "t": 22.24
+    }
+   ],
+   "evidence": [
+    "CLM-003002",
+    "CLM-003015",
+    "CLM-003014",
+    "CLM-003084",
+    "CLM-003007"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S04",
+   "title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "start": 75.733333,
+   "end": 102.233333,
+   "duration": 26.5,
+   "frames": 795,
+   "start_frame": 2272,
+   "audio": "audio/narration/final/S04.wav",
+   "audio_duration": 25.883,
+   "voice": "af_heart",
+   "transcript": "Johnson and Johnson absorbed a forty-one percent fall in Stelara with a diversified base; its largest brand is only fifteen percent of sales. And artificial intelligence? Across all four companies, the research found no independent evidence that any AI programme has yet changed a cost, a timeline, or a revenue line. Lilly built an open robotic laboratory, then sold it. Announcements are not outcomes.",
+   "asr_heard": "Johnson & Johnson absorbed a 41% fall in Stellara with a diversified base. Its largest brand is only 15% of sales. And artificial intelligence. Across all four companies, the research found no independent evidence that any AI program has yet changed a cost, a timeline, or a revenue line. Lilly built an open robotic laboratory, then sold it. Announcements are not outcomes.",
+   "asr_wer": 0.037,
+   "cues": {
+    "jnj": 0.0,
+    "largest": 6.16,
+    "ai": 9.4,
+    "no_evidence": 14.02,
+    "lab": 21.26,
+    "sold": 22.8,
+    "announcements": 24.08
+   },
+   "captions": [
+    {
+     "text": "Johnson and Johnson absorbed a forty-one percent fall in Stelara with a diversified base; its largest brand is only fifteen percent of sales.",
+     "start": 0.35,
+     "end": 8.803
+    },
+    {
+     "text": "And artificial intelligence?",
+     "start": 9.223,
+     "end": 10.747
+    },
+    {
+     "text": "Across all four companies, the research found no independent evidence that any AI programme has yet changed a cost, a timeline, or a revenue line.",
+     "start": 11.167,
+     "end": 19.855
+    },
+    {
+     "text": "Lilly built an open robotic laboratory, then sold it.",
+     "start": 20.275,
+     "end": 23.393
+    },
+    {
+     "text": "Announcements are not outcomes.",
+     "start": 23.813,
+     "end": 25.283
+    }
+   ],
+   "words": [
+    {
+     "w": "Johnson",
+     "t": 0.0
+    },
+    {
+     "w": "&",
+     "t": 0.74
+    },
+    {
+     "w": "Johnson",
+     "t": 1.0
+    },
+    {
+     "w": "absorbed",
+     "t": 1.36
+    },
+    {
+     "w": "a",
+     "t": 1.92
+    },
+    {
+     "w": "41",
+     "t": 2.16
+    },
+    {
+     "w": "%",
+     "t": 2.6
+    },
+    {
+     "w": "fall",
+     "t": 2.96
+    },
+    {
+     "w": "in",
+     "t": 3.24
+    },
+    {
+     "w": "Stellara",
+     "t": 3.42
+    },
+    {
+     "w": "with",
+     "t": 3.86
+    },
+    {
+     "w": "a",
+     "t": 4.3
+    },
+    {
+     "w": "diversified",
+     "t": 4.42
+    },
+    {
+     "w": "base.",
+     "t": 5.14
+    },
+    {
+     "w": "Its",
+     "t": 6.02
+    },
+    {
+     "w": "largest",
+     "t": 6.16
+    },
+    {
+     "w": "brand",
+     "t": 6.48
+    },
+    {
+     "w": "is",
+     "t": 6.84
+    },
+    {
+     "w": "only",
+     "t": 7.04
+    },
+    {
+     "w": "15",
+     "t": 7.34
+    },
+    {
+     "w": "%",
+     "t": 7.82
+    },
+    {
+     "w": "of",
+     "t": 8.14
+    },
+    {
+     "w": "sales.",
+     "t": 8.3
+    },
+    {
+     "w": "And",
+     "t": 9.34
+    },
+    {
+     "w": "artificial",
+     "t": 9.4
+    },
+    {
+     "w": "intelligence.",
+     "t": 9.86
+    },
+    {
+     "w": "Across",
+     "t": 11.22
+    },
+    {
+     "w": "all",
+     "t": 11.44
+    },
+    {
+     "w": "four",
+     "t": 11.82
+    },
+    {
+     "w": "companies,",
+     "t": 12.08
+    },
+    {
+     "w": "the",
+     "t": 12.98
+    },
+    {
+     "w": "research",
+     "t": 13.08
+    },
+    {
+     "w": "found",
+     "t": 13.42
+    },
+    {
+     "w": "no",
+     "t": 13.72
+    },
+    {
+     "w": "independent",
+     "t": 14.02
+    },
+    {
+     "w": "evidence",
+     "t": 14.5
+    },
+    {
+     "w": "that",
+     "t": 14.96
+    },
+    {
+     "w": "any",
+     "t": 15.26
+    },
+    {
+     "w": "AI",
+     "t": 15.52
+    },
+    {
+     "w": "program",
+     "t": 15.9
+    },
+    {
+     "w": "has",
+     "t": 16.22
+    },
+    {
+     "w": "yet",
+     "t": 16.56
+    },
+    {
+     "w": "changed",
+     "t": 16.74
+    },
+    {
+     "w": "a",
+     "t": 17.08
+    },
+    {
+     "w": "cost,",
+     "t": 17.22
+    },
+    {
+     "w": "a",
+     "t": 17.9
+    },
+    {
+     "w": "timeline,",
+     "t": 18.04
+    },
+    {
+     "w": "or",
+     "t": 18.86
+    },
+    {
+     "w": "a",
+     "t": 19.02
+    },
+    {
+     "w": "revenue",
+     "t": 19.14
+    },
+    {
+     "w": "line.",
+     "t": 19.38
+    },
+    {
+     "w": "Lilly",
+     "t": 20.48
+    },
+    {
+     "w": "built",
+     "t": 20.5
+    },
+    {
+     "w": "an",
+     "t": 20.76
+    },
+    {
+     "w": "open",
+     "t": 20.94
+    },
+    {
+     "w": "robotic",
+     "t": 21.26
+    },
+    {
+     "w": "laboratory,",
+     "t": 21.72
+    },
+    {
+     "w": "then",
+     "t": 22.56
+    },
+    {
+     "w": "sold",
+     "t": 22.8
+    },
+    {
+     "w": "it.",
+     "t": 23.06
+    },
+    {
+     "w": "Announcements",
+     "t": 24.08
+    },
+    {
+     "w": "are",
+     "t": 24.34
+    },
+    {
+     "w": "not",
+     "t": 24.46
+    },
+    {
+     "w": "outcomes.",
+     "t": 24.6
+    }
+   ],
+   "evidence": [
+    "CLM-000254",
+    "CLM-002073",
+    "CLM-011052",
+    "CLM-006054",
+    "CLM-006013",
+    "CLM-006016"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S05",
+   "title": "The central challenge",
+   "start": 102.233333,
+   "end": 132.933333,
+   "duration": 30.7,
+   "frames": 921,
+   "start_frame": 3067,
+   "audio": "audio/narration/final/S05.wav",
+   "audio_duration": 30.099,
+   "voice": "af_heart",
+   "transcript": "Takeda. Entyvio brings in nine hundred fifty-eight billion yen. Medicare price negotiation takes effect in January twenty twenty-eight, and two biosimilar applications are already under FDA review. Vyvanse lost two hundred twenty billion yen in two years. If Entyvio erodes the way Humira did, three hundred eighty to seven hundred seventy billion yen a year is at risk; a scenario, not a forecast. But it defines the task: defend what is dated, and build what repeats.",
+   "asr_heard": "Takeda, Entaivio brings in 958 billion yen, Medicare price negotiation takes effect in January 2028, and two biosimilar applications are already under FDA review. Five ants lost 220 billion yen in two years. If Entaivio erodes the way Humira did, 380 to 770 billion yen a year is at risk. A scenario, not a forecast. But it defines the task, defend what is dated, and build what repeats.",
+   "asr_wer": 0.107,
+   "cues": {
+    "takeda": 0.0,
+    "entyvio": 1.98,
+    "medicare": 4.58,
+    "biosimilar": 9.48,
+    "vyvanse": 13.88,
+    "scenario": 17.6,
+    "not_forecast": 24.68,
+    "task": 27.3
+   },
+   "captions": [
+    {
+     "text": "Takeda.",
+     "start": 0.35,
+     "end": 1.001
+    },
+    {
+     "text": "Entyvio brings in nine hundred fifty-eight billion yen.",
+     "start": 1.421,
+     "end": 4.134
+    },
+    {
+     "text": "Medicare price negotiation takes effect in January twenty twenty-eight, and two biosimilar applications are already under FDA review.",
+     "start": 4.554,
+     "end": 13.066
+    },
+    {
+     "text": "Vyvanse lost two hundred twenty billion yen in two years.",
+     "start": 13.485,
+     "end": 16.412
+    },
+    {
+     "text": "If Entyvio erodes the way Humira did, three hundred eighty to seven hundred seventy billion yen a year is at risk; a scenario, not a forecast.",
+     "start": 16.832,
+     "end": 25.322
+    },
+    {
+     "text": "But it defines the task: defend what is dated, and build what repeats.",
+     "start": 25.742,
+     "end": 29.498
+    }
+   ],
+   "words": [
+    {
+     "w": "Takeda,",
+     "t": 0.0
+    },
+    {
+     "w": "Entaivio",
+     "t": 1.6
+    },
+    {
+     "w": "brings",
+     "t": 1.98
+    },
+    {
+     "w": "in",
+     "t": 2.26
+    },
+    {
+     "w": "958",
+     "t": 2.52
+    },
+    {
+     "w": "billion",
+     "t": 3.44
+    },
+    {
+     "w": "yen,",
+     "t": 3.7
+    },
+    {
+     "w": "Medicare",
+     "t": 4.58
+    },
+    {
+     "w": "price",
+     "t": 4.92
+    },
+    {
+     "w": "negotiation",
+     "t": 5.28
+    },
+    {
+     "w": "takes",
+     "t": 5.92
+    },
+    {
+     "w": "effect",
+     "t": 6.52
+    },
+    {
+     "w": "in",
+     "t": 6.9
+    },
+    {
+     "w": "January",
+     "t": 7.24
+    },
+    {
+     "w": "2028,",
+     "t": 7.74
+    },
+    {
+     "w": "and",
+     "t": 9.04
+    },
+    {
+     "w": "two",
+     "t": 9.24
+    },
+    {
+     "w": "biosimilar",
+     "t": 9.48
+    },
+    {
+     "w": "applications",
+     "t": 10.14
+    },
+    {
+     "w": "are",
+     "t": 10.88
+    },
+    {
+     "w": "already",
+     "t": 11.38
+    },
+    {
+     "w": "under",
+     "t": 11.76
+    },
+    {
+     "w": "FDA",
+     "t": 12.04
+    },
+    {
+     "w": "review.",
+     "t": 12.46
+    },
+    {
+     "w": "Five",
+     "t": 13.46
+    },
+    {
+     "w": "ants",
+     "t": 13.74
+    },
+    {
+     "w": "lost",
+     "t": 13.88
+    },
+    {
+     "w": "220",
+     "t": 14.16
+    },
+    {
+     "w": "billion",
+     "t": 14.86
+    },
+    {
+     "w": "yen",
+     "t": 15.26
+    },
+    {
+     "w": "in",
+     "t": 15.54
+    },
+    {
+     "w": "two",
+     "t": 15.76
+    },
+    {
+     "w": "years.",
+     "t": 15.96
+    },
+    {
+     "w": "If",
+     "t": 16.84
+    },
+    {
+     "w": "Entaivio",
+     "t": 17.0
+    },
+    {
+     "w": "erodes",
+     "t": 17.6
+    },
+    {
+     "w": "the",
+     "t": 18.0
+    },
+    {
+     "w": "way",
+     "t": 18.18
+    },
+    {
+     "w": "Humira",
+     "t": 18.34
+    },
+    {
+     "w": "did,",
+     "t": 18.72
+    },
+    {
+     "w": "380",
+     "t": 20.04
+    },
+    {
+     "w": "to",
+     "t": 20.04
+    },
+    {
+     "w": "770",
+     "t": 20.38
+    },
+    {
+     "w": "billion",
+     "t": 21.02
+    },
+    {
+     "w": "yen",
+     "t": 21.64
+    },
+    {
+     "w": "a",
+     "t": 21.98
+    },
+    {
+     "w": "year",
+     "t": 22.16
+    },
+    {
+     "w": "is",
+     "t": 22.36
+    },
+    {
+     "w": "at",
+     "t": 22.58
+    },
+    {
+     "w": "risk.",
+     "t": 22.7
+    },
+    {
+     "w": "A",
+     "t": 23.54
+    },
+    {
+     "w": "scenario,",
+     "t": 23.68
+    },
+    {
+     "w": "not",
+     "t": 24.44
+    },
+    {
+     "w": "a",
+     "t": 24.56
+    },
+    {
+     "w": "forecast.",
+     "t": 24.68
+    },
+    {
+     "w": "But",
+     "t": 25.04
+    },
+    {
+     "w": "it",
+     "t": 25.86
+    },
+    {
+     "w": "defines",
+     "t": 25.94
+    },
+    {
+     "w": "the",
+     "t": 26.28
+    },
+    {
+     "w": "task,",
+     "t": 26.5
+    },
+    {
+     "w": "defend",
+     "t": 27.3
+    },
+    {
+     "w": "what",
+     "t": 27.52
+    },
+    {
+     "w": "is",
+     "t": 27.76
+    },
+    {
+     "w": "dated,",
+     "t": 27.88
+    },
+    {
+     "w": "and",
+     "t": 28.46
+    },
+    {
+     "w": "build",
+     "t": 28.58
+    },
+    {
+     "w": "what",
+     "t": 28.72
+    },
+    {
+     "w": "repeats.",
+     "t": 28.94
+    }
+   ],
+   "evidence": [
+    "CLM-005009",
+    "CLM-007026",
+    "CLM-014051",
+    "CLM-005015",
+    "CLM-005001",
+    "CLM-005002"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S06",
+   "title": "What Takeda already has",
+   "start": 132.933333,
+   "end": 159.5,
+   "duration": 26.566666666666666,
+   "frames": 797,
+   "start_frame": 3988,
+   "audio": "audio/narration/final/S06.wav",
+   "audio_duration": 25.941,
+   "voice": "af_heart",
+   "transcript": "Takeda is not starting from zero. More than two hundred seventy plasma centres, with fractionation capacity expanding. Its Shonan labs discovered oveporexton, approved in August twenty twenty-six for narcolepsy. Rusfertide followed; zasocitinib is under priority review. Three Phase three readouts came in positive, on plan. And Takeda has shown it can stop: it exited cell therapy and took the write-down.",
+   "asr_heard": "Takeda is not starting from zero. More than 270 plasma centers, with fractionation capacity expanding. It's shown on labs discovered ovaporextone, approved in August 2026 for narcolepsy. Rusfertide followed, zasocytinib is under priority review. Three phase three readouts came in positive, on plan. And Takeda has shown it can stop. It exited cell therapy and took the right down.",
+   "asr_wer": 0.145,
+   "cues": {
+    "zero": 1.9,
+    "plasma": 3.92,
+    "orexin": 8.54,
+    "approved": 10.66,
+    "rusfertide": 14.4,
+    "readouts": 17.72,
+    "stop": 22.24,
+    "capacity": 5.46
+   },
+   "captions": [
+    {
+     "text": "Takeda is not starting from zero.",
+     "start": 0.35,
+     "end": 2.337
+    },
+    {
+     "text": "More than two hundred seventy plasma centres, with fractionation capacity expanding.",
+     "start": 2.757,
+     "end": 7.514
+    },
+    {
+     "text": "Its Shonan labs discovered oveporexton, approved in August twenty twenty-six for narcolepsy.",
+     "start": 7.934,
+     "end": 13.381
+    },
+    {
+     "text": "Rusfertide followed; zasocitinib is under priority review.",
+     "start": 13.802,
+     "end": 17.3
+    },
+    {
+     "text": "Three Phase three readouts came in positive, on plan.",
+     "start": 17.72,
+     "end": 20.464
+    },
+    {
+     "text": "And Takeda has shown it can stop: it exited cell therapy and took the write-down.",
+     "start": 20.884,
+     "end": 25.341
+    }
+   ],
+   "words": [
+    {
+     "w": "Takeda",
+     "t": 0.0
+    },
+    {
+     "w": "is",
+     "t": 0.88
+    },
+    {
+     "w": "not",
+     "t": 1.1
+    },
+    {
+     "w": "starting",
+     "t": 1.28
+    },
+    {
+     "w": "from",
+     "t": 1.66
+    },
+    {
+     "w": "zero.",
+     "t": 1.9
+    },
+    {
+     "w": "More",
+     "t": 2.78
+    },
+    {
+     "w": "than",
+     "t": 2.96
+    },
+    {
+     "w": "270",
+     "t": 3.16
+    },
+    {
+     "w": "plasma",
+     "t": 3.92
+    },
+    {
+     "w": "centers,",
+     "t": 4.4
+    },
+    {
+     "w": "with",
+     "t": 5.26
+    },
+    {
+     "w": "fractionation",
+     "t": 5.46
+    },
+    {
+     "w": "capacity",
+     "t": 6.1
+    },
+    {
+     "w": "expanding.",
+     "t": 6.68
+    },
+    {
+     "w": "It's",
+     "t": 7.96
+    },
+    {
+     "w": "shown",
+     "t": 8.2
+    },
+    {
+     "w": "on",
+     "t": 8.36
+    },
+    {
+     "w": "labs",
+     "t": 8.54
+    },
+    {
+     "w": "discovered",
+     "t": 8.86
+    },
+    {
+     "w": "ovaporextone,",
+     "t": 9.42
+    },
+    {
+     "w": "approved",
+     "t": 10.66
+    },
+    {
+     "w": "in",
+     "t": 11.04
+    },
+    {
+     "w": "August",
+     "t": 11.26
+    },
+    {
+     "w": "2026",
+     "t": 11.48
+    },
+    {
+     "w": "for",
+     "t": 12.4
+    },
+    {
+     "w": "narcolepsy.",
+     "t": 12.64
+    },
+    {
+     "w": "Rusfertide",
+     "t": 13.92
+    },
+    {
+     "w": "followed,",
+     "t": 14.4
+    },
+    {
+     "w": "zasocytinib",
+     "t": 15.28
+    },
+    {
+     "w": "is",
+     "t": 15.94
+    },
+    {
+     "w": "under",
+     "t": 16.12
+    },
+    {
+     "w": "priority",
+     "t": 16.32
+    },
+    {
+     "w": "review.",
+     "t": 16.78
+    },
+    {
+     "w": "Three",
+     "t": 17.72
+    },
+    {
+     "w": "phase",
+     "t": 17.96
+    },
+    {
+     "w": "three",
+     "t": 18.16
+    },
+    {
+     "w": "readouts",
+     "t": 18.48
+    },
+    {
+     "w": "came",
+     "t": 18.84
+    },
+    {
+     "w": "in",
+     "t": 19.1
+    },
+    {
+     "w": "positive,",
+     "t": 19.24
+    },
+    {
+     "w": "on",
+     "t": 19.9
+    },
+    {
+     "w": "plan.",
+     "t": 20.02
+    },
+    {
+     "w": "And",
+     "t": 20.82
+    },
+    {
+     "w": "Takeda",
+     "t": 21.04
+    },
+    {
+     "w": "has",
+     "t": 21.52
+    },
+    {
+     "w": "shown",
+     "t": 21.66
+    },
+    {
+     "w": "it",
+     "t": 21.94
+    },
+    {
+     "w": "can",
+     "t": 22.08
+    },
+    {
+     "w": "stop.",
+     "t": 22.24
+    },
+    {
+     "w": "It",
+     "t": 22.54
+    },
+    {
+     "w": "exited",
+     "t": 23.14
+    },
+    {
+     "w": "cell",
+     "t": 23.54
+    },
+    {
+     "w": "therapy",
+     "t": 23.82
+    },
+    {
+     "w": "and",
+     "t": 24.18
+    },
+    {
+     "w": "took",
+     "t": 24.5
+    },
+    {
+     "w": "the",
+     "t": 24.66
+    },
+    {
+     "w": "right",
+     "t": 24.82
+    },
+    {
+     "w": "down.",
+     "t": 24.96
+    }
+   ],
+   "evidence": [
+    "CLM-005063",
+    "CLM-005060",
+    "CLM-005065",
+    "CLM-005048",
+    "CLM-005029",
+    "CLM-005032",
+    "CLM-005035",
+    "CLM-005042",
+    "CLM-009084",
+    "CLM-005024"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S07",
+   "title": "From products to repeatable scientific advantage",
+   "start": 159.5,
+   "end": 187.3,
+   "duration": 27.8,
+   "frames": 834,
+   "start_frame": 4785,
+   "audio": "audio/narration/final/S07.wav",
+   "audio_duration": 27.2,
+   "voice": "af_heart",
+   "transcript": "What should Takeda build first? What rivals cannot buy. Compute can be rented and models are converging; what stays proprietary is the data a company generates when it decides. AbbVie connected two thousand trials into one research hub with fewer than ten staff. It has published no outcome yet. Takeda's version: a governed data and decision layer, where every experiment and every go or no-go is logged against a baseline.",
+   "asr_heard": "What should Takeda build first? What rivals cannot buy? Compute can be rented and models are converging. What stays proprietary is the data a company generates when it decides. ABI connected 2,000 trials into one research hub with fewer than 10 staff. It has published no outcome yet. Takeda's version, a governed data and decision layer, where every experiment and every go or no go is logged against a baseline.",
+   "asr_wer": 0.048,
+   "cues": {
+    "build": 1.14,
+    "rivals": 2.48,
+    "compute": 4.16,
+    "proprietary": 7.52,
+    "abbvie": 11.72,
+    "neither": 16.88,
+    "layer": 20.36
+   },
+   "captions": [
+    {
+     "text": "What should Takeda build first?",
+     "start": 0.35,
+     "end": 1.901
+    },
+    {
+     "text": "What rivals cannot buy.",
+     "start": 2.321,
+     "end": 3.591
+    },
+    {
+     "text": "Compute can be rented and models are converging; what stays proprietary is the data a company generates when it decides.",
+     "start": 4.012,
+     "end": 11.054
+    },
+    {
+     "text": "AbbVie connected two thousand trials into one research hub with fewer than ten staff.",
+     "start": 11.474,
+     "end": 16.187
+    },
+    {
+     "text": "It has published no outcome yet.",
+     "start": 16.607,
+     "end": 18.302
+    },
+    {
+     "text": "Takeda's version: a governed data and decision layer, where every experiment and every go or no-go is logged against a baseline.",
+     "start": 18.722,
+     "end": 26.6
+    }
+   ],
+   "words": [
+    {
+     "w": "What",
+     "t": 0.0
+    },
+    {
+     "w": "should",
+     "t": 0.5
+    },
+    {
+     "w": "Takeda",
+     "t": 0.68
+    },
+    {
+     "w": "build",
+     "t": 1.14
+    },
+    {
+     "w": "first?",
+     "t": 1.32
+    },
+    {
+     "w": "What",
+     "t": 2.34
+    },
+    {
+     "w": "rivals",
+     "t": 2.48
+    },
+    {
+     "w": "cannot",
+     "t": 2.78
+    },
+    {
+     "w": "buy?",
+     "t": 3.1
+    },
+    {
+     "w": "Compute",
+     "t": 4.16
+    },
+    {
+     "w": "can",
+     "t": 4.48
+    },
+    {
+     "w": "be",
+     "t": 4.64
+    },
+    {
+     "w": "rented",
+     "t": 4.76
+    },
+    {
+     "w": "and",
+     "t": 5.02
+    },
+    {
+     "w": "models",
+     "t": 5.52
+    },
+    {
+     "w": "are",
+     "t": 5.82
+    },
+    {
+     "w": "converging.",
+     "t": 6.04
+    },
+    {
+     "w": "What",
+     "t": 7.04
+    },
+    {
+     "w": "stays",
+     "t": 7.2
+    },
+    {
+     "w": "proprietary",
+     "t": 7.52
+    },
+    {
+     "w": "is",
+     "t": 8.2
+    },
+    {
+     "w": "the",
+     "t": 8.62
+    },
+    {
+     "w": "data",
+     "t": 8.78
+    },
+    {
+     "w": "a",
+     "t": 9.04
+    },
+    {
+     "w": "company",
+     "t": 9.38
+    },
+    {
+     "w": "generates",
+     "t": 9.62
+    },
+    {
+     "w": "when",
+     "t": 10.12
+    },
+    {
+     "w": "it",
+     "t": 10.34
+    },
+    {
+     "w": "decides.",
+     "t": 10.44
+    },
+    {
+     "w": "ABI",
+     "t": 11.66
+    },
+    {
+     "w": "connected",
+     "t": 11.72
+    },
+    {
+     "w": "2",
+     "t": 12.22
+    },
+    {
+     "w": ",000",
+     "t": 12.56
+    },
+    {
+     "w": "trials",
+     "t": 12.96
+    },
+    {
+     "w": "into",
+     "t": 13.32
+    },
+    {
+     "w": "one",
+     "t": 13.6
+    },
+    {
+     "w": "research",
+     "t": 13.88
+    },
+    {
+     "w": "hub",
+     "t": 14.24
+    },
+    {
+     "w": "with",
+     "t": 14.52
+    },
+    {
+     "w": "fewer",
+     "t": 14.94
+    },
+    {
+     "w": "than",
+     "t": 15.22
+    },
+    {
+     "w": "10",
+     "t": 15.46
+    },
+    {
+     "w": "staff.",
+     "t": 15.66
+    },
+    {
+     "w": "It",
+     "t": 16.58
+    },
+    {
+     "w": "has",
+     "t": 16.74
+    },
+    {
+     "w": "published",
+     "t": 16.88
+    },
+    {
+     "w": "no",
+     "t": 17.22
+    },
+    {
+     "w": "outcome",
+     "t": 17.54
+    },
+    {
+     "w": "yet.",
+     "t": 17.86
+    },
+    {
+     "w": "Takeda's",
+     "t": 18.9
+    },
+    {
+     "w": "version,",
+     "t": 19.34
+    },
+    {
+     "w": "a",
+     "t": 20.22
+    },
+    {
+     "w": "governed",
+     "t": 20.36
+    },
+    {
+     "w": "data",
+     "t": 20.64
+    },
+    {
+     "w": "and",
+     "t": 21.08
+    },
+    {
+     "w": "decision",
+     "t": 21.26
+    },
+    {
+     "w": "layer,",
+     "t": 21.58
+    },
+    {
+     "w": "where",
+     "t": 22.16
+    },
+    {
+     "w": "every",
+     "t": 22.52
+    },
+    {
+     "w": "experiment",
+     "t": 22.84
+    },
+    {
+     "w": "and",
+     "t": 23.32
+    },
+    {
+     "w": "every",
+     "t": 23.72
+    },
+    {
+     "w": "go",
+     "t": 24.04
+    },
+    {
+     "w": "or",
+     "t": 24.3
+    },
+    {
+     "w": "no",
+     "t": 24.52
+    },
+    {
+     "w": "go",
+     "t": 24.7
+    },
+    {
+     "w": "is",
+     "t": 24.88
+    },
+    {
+     "w": "logged",
+     "t": 25.16
+    },
+    {
+     "w": "against",
+     "t": 25.52
+    },
+    {
+     "w": "a",
+     "t": 25.86
+    },
+    {
+     "w": "baseline.",
+     "t": 26.06
+    }
+   ],
+   "evidence": [
+    "CLM-006055",
+    "CLM-006056",
+    "CLM-006032",
+    "CLM-006034",
+    "CLM-000280",
+    "CLM-011052"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S08",
+   "title": "Data as a strategic asset: baseline first, then claim",
+   "start": 187.3,
+   "end": 207.4,
+   "duration": 20.1,
+   "frames": 603,
+   "start_frame": 5619,
+   "audio": "audio/narration/final/S08.wav",
+   "audio_duration": 19.477,
+   "voice": "af_heart",
+   "transcript": "Takeda already has the platform. Sixty-three percent of the workforce uses generative AI. But usage is adoption, not value. At Lessines, one hundred seventy predictive-maintenance agents run; their savings are unpublished. Baseline first, then claim. And whoever measures should not own the savings target.",
+   "asr_heard": "Takeda already has the platform. 63% of the workforce uses generative AI. But usage is adoption, not value. At Lesin, 170 predictive maintenance agents run. Their savings are unpublished. Baseline first, then claim. And whoever measures should not own the savings target.",
+   "asr_wer": 0.026,
+   "cues": {
+    "platform": 1.6,
+    "usage": 3.74,
+    "adoption": 6.92,
+    "lessines": 10.34,
+    "published": 13.28,
+    "baseline": 14.56,
+    "measurer": 16.56
+   },
+   "captions": [
+    {
+     "text": "Takeda already has the platform.",
+     "start": 0.35,
+     "end": 2.181
+    },
+    {
+     "text": "Sixty-three percent of the workforce uses generative AI.",
+     "start": 2.601,
+     "end": 5.868
+    },
+    {
+     "text": "But usage is adoption, not value.",
+     "start": 6.287,
+     "end": 8.278
+    },
+    {
+     "text": "At Lessines, one hundred seventy predictive-maintenance agents run; their savings are unpublished.",
+     "start": 8.698,
+     "end": 14.045
+    },
+    {
+     "text": "Baseline first, then claim.",
+     "start": 14.465,
+     "end": 15.973
+    },
+    {
+     "text": "And whoever measures should not own the savings target.",
+     "start": 16.393,
+     "end": 18.876
+    }
+   ],
+   "words": [
+    {
+     "w": "Takeda",
+     "t": 0.0
+    },
+    {
+     "w": "already",
+     "t": 0.88
+    },
+    {
+     "w": "has",
+     "t": 1.12
+    },
+    {
+     "w": "the",
+     "t": 1.44
+    },
+    {
+     "w": "platform.",
+     "t": 1.6
+    },
+    {
+     "w": "63",
+     "t": 2.78
+    },
+    {
+     "w": "%",
+     "t": 3.06
+    },
+    {
+     "w": "of",
+     "t": 3.48
+    },
+    {
+     "w": "the",
+     "t": 3.62
+    },
+    {
+     "w": "workforce",
+     "t": 3.74
+    },
+    {
+     "w": "uses",
+     "t": 4.1
+    },
+    {
+     "w": "generative",
+     "t": 4.8
+    },
+    {
+     "w": "AI.",
+     "t": 5.34
+    },
+    {
+     "w": "But",
+     "t": 6.26
+    },
+    {
+     "w": "usage",
+     "t": 6.44
+    },
+    {
+     "w": "is",
+     "t": 6.66
+    },
+    {
+     "w": "adoption,",
+     "t": 6.92
+    },
+    {
+     "w": "not",
+     "t": 7.64
+    },
+    {
+     "w": "value.",
+     "t": 7.78
+    },
+    {
+     "w": "At",
+     "t": 8.78
+    },
+    {
+     "w": "Lesin,",
+     "t": 8.88
+    },
+    {
+     "w": "170",
+     "t": 9.6
+    },
+    {
+     "w": "predictive",
+     "t": 10.34
+    },
+    {
+     "w": "maintenance",
+     "t": 10.82
+    },
+    {
+     "w": "agents",
+     "t": 11.28
+    },
+    {
+     "w": "run.",
+     "t": 11.68
+    },
+    {
+     "w": "Their",
+     "t": 12.48
+    },
+    {
+     "w": "savings",
+     "t": 12.6
+    },
+    {
+     "w": "are",
+     "t": 13.0
+    },
+    {
+     "w": "unpublished.",
+     "t": 13.28
+    },
+    {
+     "w": "Baseline",
+     "t": 14.56
+    },
+    {
+     "w": "first,",
+     "t": 14.86
+    },
+    {
+     "w": "then",
+     "t": 15.38
+    },
+    {
+     "w": "claim.",
+     "t": 15.5
+    },
+    {
+     "w": "And",
+     "t": 16.44
+    },
+    {
+     "w": "whoever",
+     "t": 16.56
+    },
+    {
+     "w": "measures",
+     "t": 16.74
+    },
+    {
+     "w": "should",
+     "t": 17.22
+    },
+    {
+     "w": "not",
+     "t": 17.54
+    },
+    {
+     "w": "own",
+     "t": 17.74
+    },
+    {
+     "w": "the",
+     "t": 17.92
+    },
+    {
+     "w": "savings",
+     "t": 18.06
+    },
+    {
+     "w": "target.",
+     "t": 18.38
+    }
+   ],
+   "evidence": [
+    "CLM-005058",
+    "CLM-014043",
+    "CLM-014041",
+    "CLM-005059"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S09",
+   "title": "The intelligent laboratory",
+   "start": 207.4,
+   "end": 239.133333,
+   "duration": 31.733333333333334,
+   "frames": 952,
+   "start_frame": 6222,
+   "audio": "audio/narration/final/S09.wav",
+   "audio_duration": 31.117,
+   "voice": "af_heart",
+   "transcript": "In the laboratory, the same rule applies. Scripted automation, robots that dose, measure and screen, is mature and sold as a service. Remote cloud labs work but have proved commercially fragile. An AI that plans its own experiments is a prototype; first clinical data from such partnerships is still a year or two away. A fully autonomous discovery loop has not been demonstrated anywhere. So: rent automation, climb only when triggers fire, and gate the AI partners on first-in-human data.",
+   "asr_heard": "In the laboratory, the same rule applies. Scripted automation, robots that dose, measure and screen, is mature and sold as a service. Remote cloud labs work, but have proved commercially fragile. An AI that plans its own experiments is a prototype. First clinical data from such partnerships is still a year or two away. A fully autonomous discovery loop has not been demonstrated anywhere. So, rent automation, climb only when triggers fire, and gate the AI partners on first in human data.",
+   "asr_wer": 0.0,
+   "cues": {
+    "lab": 0.56,
+    "scripted": 3.18,
+    "remote": 9.14,
+    "aiplans": 13.14,
+    "autonomous": 20.3,
+    "rent": 24.98,
+    "gate": 28.02
+   },
+   "captions": [
+    {
+     "text": "In the laboratory, the same rule applies.",
+     "start": 0.35,
+     "end": 2.537
+    },
+    {
+     "text": "Scripted automation, robots that dose, measure and screen, is mature and sold as a service.",
+     "start": 2.957,
+     "end": 8.419
+    },
+    {
+     "text": "Remote cloud labs work but have proved commercially fragile.",
+     "start": 8.839,
+     "end": 11.976
+    },
+    {
+     "text": "An AI that plans its own experiments is a prototype; first clinical data from such partnerships is still a year or two away.",
+     "start": 12.396,
+     "end": 19.702
+    },
+    {
+     "text": "A fully autonomous discovery loop has not been demonstrated anywhere.",
+     "start": 20.122,
+     "end": 23.988
+    },
+    {
+     "text": "So: rent automation, climb only when triggers fire, and gate the AI partners on first-in-human data.",
+     "start": 24.408,
+     "end": 30.517
+    }
+   ],
+   "words": [
+    {
+     "w": "In",
+     "t": 0.0
+    },
+    {
+     "w": "the",
+     "t": 0.46
+    },
+    {
+     "w": "laboratory,",
+     "t": 0.56
+    },
+    {
+     "w": "the",
+     "t": 1.4
+    },
+    {
+     "w": "same",
+     "t": 1.44
+    },
+    {
+     "w": "rule",
+     "t": 1.7
+    },
+    {
+     "w": "applies.",
+     "t": 1.9
+    },
+    {
+     "w": "Scripted",
+     "t": 3.18
+    },
+    {
+     "w": "automation,",
+     "t": 3.4
+    },
+    {
+     "w": "robots",
+     "t": 4.62
+    },
+    {
+     "w": "that",
+     "t": 4.62
+    },
+    {
+     "w": "dose,",
+     "t": 4.88
+    },
+    {
+     "w": "measure",
+     "t": 5.52
+    },
+    {
+     "w": "and",
+     "t": 5.68
+    },
+    {
+     "w": "screen,",
+     "t": 5.92
+    },
+    {
+     "w": "is",
+     "t": 6.54
+    },
+    {
+     "w": "mature",
+     "t": 6.66
+    },
+    {
+     "w": "and",
+     "t": 7.04
+    },
+    {
+     "w": "sold",
+     "t": 7.32
+    },
+    {
+     "w": "as",
+     "t": 7.6
+    },
+    {
+     "w": "a",
+     "t": 7.82
+    },
+    {
+     "w": "service.",
+     "t": 7.92
+    },
+    {
+     "w": "Remote",
+     "t": 9.14
+    },
+    {
+     "w": "cloud",
+     "t": 9.16
+    },
+    {
+     "w": "labs",
+     "t": 9.4
+    },
+    {
+     "w": "work,",
+     "t": 9.7
+    },
+    {
+     "w": "but",
+     "t": 10.26
+    },
+    {
+     "w": "have",
+     "t": 10.36
+    },
+    {
+     "w": "proved",
+     "t": 10.54
+    },
+    {
+     "w": "commercially",
+     "t": 10.84
+    },
+    {
+     "w": "fragile.",
+     "t": 11.38
+    },
+    {
+     "w": "An",
+     "t": 12.4
+    },
+    {
+     "w": "AI",
+     "t": 12.56
+    },
+    {
+     "w": "that",
+     "t": 12.88
+    },
+    {
+     "w": "plans",
+     "t": 13.14
+    },
+    {
+     "w": "its",
+     "t": 13.4
+    },
+    {
+     "w": "own",
+     "t": 13.6
+    },
+    {
+     "w": "experiments",
+     "t": 13.82
+    },
+    {
+     "w": "is",
+     "t": 14.38
+    },
+    {
+     "w": "a",
+     "t": 14.72
+    },
+    {
+     "w": "prototype.",
+     "t": 14.86
+    },
+    {
+     "w": "First",
+     "t": 15.92
+    },
+    {
+     "w": "clinical",
+     "t": 16.1
+    },
+    {
+     "w": "data",
+     "t": 16.44
+    },
+    {
+     "w": "from",
+     "t": 16.82
+    },
+    {
+     "w": "such",
+     "t": 17.08
+    },
+    {
+     "w": "partnerships",
+     "t": 17.3
+    },
+    {
+     "w": "is",
+     "t": 17.8
+    },
+    {
+     "w": "still",
+     "t": 18.28
+    },
+    {
+     "w": "a",
+     "t": 18.56
+    },
+    {
+     "w": "year",
+     "t": 18.76
+    },
+    {
+     "w": "or",
+     "t": 18.96
+    },
+    {
+     "w": "two",
+     "t": 19.08
+    },
+    {
+     "w": "away.",
+     "t": 19.24
+    },
+    {
+     "w": "A",
+     "t": 20.08
+    },
+    {
+     "w": "fully",
+     "t": 20.3
+    },
+    {
+     "w": "autonomous",
+     "t": 20.54
+    },
+    {
+     "w": "discovery",
+     "t": 21.12
+    },
+    {
+     "w": "loop",
+     "t": 21.56
+    },
+    {
+     "w": "has",
+     "t": 21.94
+    },
+    {
+     "w": "not",
+     "t": 22.36
+    },
+    {
+     "w": "been",
+     "t": 22.56
+    },
+    {
+     "w": "demonstrated",
+     "t": 22.74
+    },
+    {
+     "w": "anywhere.",
+     "t": 23.28
+    },
+    {
+     "w": "So,",
+     "t": 24.4
+    },
+    {
+     "w": "rent",
+     "t": 24.98
+    },
+    {
+     "w": "automation,",
+     "t": 25.12
+    },
+    {
+     "w": "climb",
+     "t": 26.04
+    },
+    {
+     "w": "only",
+     "t": 26.26
+    },
+    {
+     "w": "when",
+     "t": 26.62
+    },
+    {
+     "w": "triggers",
+     "t": 26.8
+    },
+    {
+     "w": "fire,",
+     "t": 27.08
+    },
+    {
+     "w": "and",
+     "t": 27.48
+    },
+    {
+     "w": "gate",
+     "t": 28.02
+    },
+    {
+     "w": "the",
+     "t": 28.2
+    },
+    {
+     "w": "AI",
+     "t": 28.34
+    },
+    {
+     "w": "partners",
+     "t": 28.66
+    },
+    {
+     "w": "on",
+     "t": 29.12
+    },
+    {
+     "w": "first",
+     "t": 29.4
+    },
+    {
+     "w": "in",
+     "t": 29.66
+    },
+    {
+     "w": "human",
+     "t": 29.84
+    },
+    {
+     "w": "data.",
+     "t": 30.04
+    }
+   ],
+   "evidence": [
+    "CLM-006013",
+    "CLM-006016",
+    "CLM-006002",
+    "CLM-006051",
+    "CLM-000281",
+    "CLM-006039",
+    "CLM-006041",
+    "CLM-006007"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S10",
+   "title": "Commercial execution and care: the whole value chain",
+   "start": 239.133333,
+   "end": 269.166666,
+   "duration": 30.033333333333335,
+   "frames": 901,
+   "start_frame": 7174,
+   "audio": "audio/narration/final/S10.wav",
+   "audio_duration": 29.418,
+   "voice": "af_heart",
+   "transcript": "Pharmacy benefit managers now decide biosimilar outcomes: when CVS moved its templates to Stelara biosimilars, most members paid nothing. The Entyvio plan is honest: delay erosion, and measure it. The subcutaneous pen drives uptake and the HYHUB device brings plasma therapy home. But the pharmacy channel is also where biosimilars win. No company studied publishes adherence outcomes; Takeda can be the first, starting with the oveporexton launch.",
+   "asr_heard": "Pharmacy benefit managers now decide biosimilar outcomes. When CVS moved its templates to Stelara biosimilars, most members paid nothing. The Intivio plan is honest, delay erosion and measure it. The subcutaneous pen drives uptake, and the HYHUB device brings plasma therapy home. But the pharmacy channel is also whereby similars win. No company studied publishes adherence outcomes. Takeda can be the first, starting with the ovaporext on launch.",
+   "asr_wer": 0.085,
+   "cues": {
+    "pbm": 0.0,
+    "cvs": 4.4,
+    "plan": 10.66,
+    "pen": 13.48,
+    "hyhub": 15.96,
+    "conflict": 19.78,
+    "adherence": 24.02,
+    "first": 26.4
+   },
+   "captions": [
+    {
+     "text": "Pharmacy benefit managers now decide biosimilar outcomes: when CVS moved its templates to Stelara biosimilars, most members paid nothing.",
+     "start": 0.35,
+     "end": 9.191
+    },
+    {
+     "text": "The Entyvio plan is honest: delay erosion, and measure it.",
+     "start": 9.611,
+     "end": 12.894
+    },
+    {
+     "text": "The subcutaneous pen drives uptake and the HYHUB device brings plasma therapy home.",
+     "start": 13.314,
+     "end": 18.778
+    },
+    {
+     "text": "But the pharmacy channel is also where biosimilars win.",
+     "start": 19.198,
+     "end": 22.156
+    },
+    {
+     "text": "No company studied publishes adherence outcomes; Takeda can be the first, starting with the oveporexton launch.",
+     "start": 22.576,
+     "end": 28.818
+    }
+   ],
+   "words": [
+    {
+     "w": "Pharmacy",
+     "t": 0.0
+    },
+    {
+     "w": "benefit",
+     "t": 0.82
+    },
+    {
+     "w": "managers",
+     "t": 1.16
+    },
+    {
+     "w": "now",
+     "t": 1.7
+    },
+    {
+     "w": "decide",
+     "t": 2.04
+    },
+    {
+     "w": "biosimilar",
+     "t": 2.48
+    },
+    {
+     "w": "outcomes.",
+     "t": 3.1
+    },
+    {
+     "w": "When",
+     "t": 4.26
+    },
+    {
+     "w": "CVS",
+     "t": 4.4
+    },
+    {
+     "w": "moved",
+     "t": 5.0
+    },
+    {
+     "w": "its",
+     "t": 5.46
+    },
+    {
+     "w": "templates",
+     "t": 5.66
+    },
+    {
+     "w": "to",
+     "t": 6.02
+    },
+    {
+     "w": "Stelara",
+     "t": 6.32
+    },
+    {
+     "w": "biosimilars,",
+     "t": 6.74
+    },
+    {
+     "w": "most",
+     "t": 7.76
+    },
+    {
+     "w": "members",
+     "t": 8.08
+    },
+    {
+     "w": "paid",
+     "t": 8.4
+    },
+    {
+     "w": "nothing.",
+     "t": 8.68
+    },
+    {
+     "w": "The",
+     "t": 9.66
+    },
+    {
+     "w": "Intivio",
+     "t": 9.78
+    },
+    {
+     "w": "plan",
+     "t": 10.26
+    },
+    {
+     "w": "is",
+     "t": 10.46
+    },
+    {
+     "w": "honest,",
+     "t": 10.66
+    },
+    {
+     "w": "delay",
+     "t": 11.46
+    },
+    {
+     "w": "erosion",
+     "t": 11.72
+    },
+    {
+     "w": "and",
+     "t": 12.14
+    },
+    {
+     "w": "measure",
+     "t": 12.44
+    },
+    {
+     "w": "it.",
+     "t": 12.68
+    },
+    {
+     "w": "The",
+     "t": 13.36
+    },
+    {
+     "w": "subcutaneous",
+     "t": 13.48
+    },
+    {
+     "w": "pen",
+     "t": 14.2
+    },
+    {
+     "w": "drives",
+     "t": 14.48
+    },
+    {
+     "w": "uptake,",
+     "t": 14.86
+    },
+    {
+     "w": "and",
+     "t": 15.66
+    },
+    {
+     "w": "the",
+     "t": 15.82
+    },
+    {
+     "w": "HYHUB",
+     "t": 15.96
+    },
+    {
+     "w": "device",
+     "t": 16.62
+    },
+    {
+     "w": "brings",
+     "t": 17.1
+    },
+    {
+     "w": "plasma",
+     "t": 17.54
+    },
+    {
+     "w": "therapy",
+     "t": 17.94
+    },
+    {
+     "w": "home.",
+     "t": 18.32
+    },
+    {
+     "w": "But",
+     "t": 19.16
+    },
+    {
+     "w": "the",
+     "t": 19.34
+    },
+    {
+     "w": "pharmacy",
+     "t": 19.46
+    },
+    {
+     "w": "channel",
+     "t": 19.78
+    },
+    {
+     "w": "is",
+     "t": 20.16
+    },
+    {
+     "w": "also",
+     "t": 20.64
+    },
+    {
+     "w": "whereby",
+     "t": 20.92
+    },
+    {
+     "w": "similars",
+     "t": 21.2
+    },
+    {
+     "w": "win.",
+     "t": 21.74
+    },
+    {
+     "w": "No",
+     "t": 22.58
+    },
+    {
+     "w": "company",
+     "t": 22.82
+    },
+    {
+     "w": "studied",
+     "t": 23.1
+    },
+    {
+     "w": "publishes",
+     "t": 23.48
+    },
+    {
+     "w": "adherence",
+     "t": 24.02
+    },
+    {
+     "w": "outcomes.",
+     "t": 24.52
+    },
+    {
+     "w": "Takeda",
+     "t": 25.7
+    },
+    {
+     "w": "can",
+     "t": 26.04
+    },
+    {
+     "w": "be",
+     "t": 26.16
+    },
+    {
+     "w": "the",
+     "t": 26.28
+    },
+    {
+     "w": "first,",
+     "t": 26.4
+    },
+    {
+     "w": "starting",
+     "t": 27.02
+    },
+    {
+     "w": "with",
+     "t": 27.34
+    },
+    {
+     "w": "the",
+     "t": 27.56
+    },
+    {
+     "w": "ovaporext",
+     "t": 27.68
+    },
+    {
+     "w": "on",
+     "t": 28.18
+    },
+    {
+     "w": "launch.",
+     "t": 28.38
+    }
+   ],
+   "evidence": [
+    "CLM-007015",
+    "CLM-007026",
+    "CLM-007041",
+    "CLM-007042",
+    "CLM-007053",
+    "CLM-007039",
+    "CLM-003007",
+    "CLM-003002"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S11",
+   "title": "Partnerships, acquisitions and the leverage test",
+   "start": 269.166666,
+   "end": 298.299999,
+   "duration": 29.133333333333333,
+   "frames": 874,
+   "start_frame": 8075,
+   "audio": "audio/narration/final/S11.wav",
+   "audio_duration": 28.51,
+   "voice": "af_heart",
+   "transcript": "Takeda's instrument for partnerships is the mid-sized licence: Nimbus for four billion dollars upfront, Innovent for one point two. AbbVie runs early options worth up to a billion a year, yet none signed in this period has produced an approved product. AbbVie wrote off half of Cerevel within months. At two point six times leverage, with Amitiza pending, a five billion dollar purchase fails the arithmetic. Fund a licensing channel instead, released when leverage allows.",
+   "asr_heard": "Takeda's instrument for partnerships is the mid-sized license, Nimbus for $4 billion up front, Innovent for $1.2. AbbVie runs early options worth up to a billion a year, yet none signed in this period has produced an approved product. AbbVie wrote off half of Sarival within months. At 2.6 times leverage, with Amateza pending, a $5 billion purchase fails the arithmetic. Fund a licensing channel instead, released when leverage allows.",
+   "asr_wer": 0.141,
+   "cues": {
+    "partnerships": 0.92,
+    "nimbus": 4.16,
+    "innovent": 6.7,
+    "options": 9.42,
+    "nooption": 11.88,
+    "cerevel": 15.74,
+    "leverage": 19.14,
+    "fails": 22.7,
+    "channel": 24.5
+   },
+   "captions": [
+    {
+     "text": "Takeda's instrument for partnerships is the mid-sized licence: Nimbus for four billion dollars upfront, Innovent for one point two.",
+     "start": 0.35,
+     "end": 7.983
+    },
+    {
+     "text": "AbbVie runs early options worth up to a billion a year, yet none signed in this period has produced an approved product.",
+     "start": 8.403,
+     "end": 14.988
+    },
+    {
+     "text": "AbbVie wrote off half of Cerevel within months.",
+     "start": 15.409,
+     "end": 17.553
+    },
+    {
+     "text": "At two point six times leverage, with Amitiza pending, a five billion dollar purchase fails the arithmetic.",
+     "start": 17.973,
+     "end": 24.027
+    },
+    {
+     "text": "Fund a licensing channel instead, released when leverage allows.",
+     "start": 24.447,
+     "end": 27.91
+    }
+   ],
+   "words": [
+    {
+     "w": "Takeda's",
+     "t": 0.0
+    },
+    {
+     "w": "instrument",
+     "t": 0.92
+    },
+    {
+     "w": "for",
+     "t": 1.24
+    },
+    {
+     "w": "partnerships",
+     "t": 1.52
+    },
+    {
+     "w": "is",
+     "t": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2.3
+    },
+    {
+     "w": "mid",
+     "t": 2.48
+    },
+    {
+     "w": "-sized",
+     "t": 2.66
+    },
+    {
+     "w": "license,",
+     "t": 3.04
+    },
+    {
+     "w": "Nimbus",
+     "t": 4.16
+    },
+    {
+     "w": "for",
+     "t": 4.38
+    },
+    {
+     "w": "$4",
+     "t": 4.6
+    },
+    {
+     "w": "billion",
+     "t": 4.98
+    },
+    {
+     "w": "up",
+     "t": 5.34
+    },
+    {
+     "w": "front,",
+     "t": 5.9
+    },
+    {
+     "w": "Innovent",
+     "t": 6.7
+    },
+    {
+     "w": "for",
+     "t": 6.94
+    },
+    {
+     "w": "$1",
+     "t": 7.12
+    },
+    {
+     "w": ".2.",
+     "t": 7.38
+    },
+    {
+     "w": "AbbVie",
+     "t": 8.48
+    },
+    {
+     "w": "runs",
+     "t": 8.78
+    },
+    {
+     "w": "early",
+     "t": 9.02
+    },
+    {
+     "w": "options",
+     "t": 9.42
+    },
+    {
+     "w": "worth",
+     "t": 9.88
+    },
+    {
+     "w": "up",
+     "t": 10.16
+    },
+    {
+     "w": "to",
+     "t": 10.36
+    },
+    {
+     "w": "a",
+     "t": 10.54
+    },
+    {
+     "w": "billion",
+     "t": 10.64
+    },
+    {
+     "w": "a",
+     "t": 10.9
+    },
+    {
+     "w": "year,",
+     "t": 11.08
+    },
+    {
+     "w": "yet",
+     "t": 11.68
+    },
+    {
+     "w": "none",
+     "t": 11.88
+    },
+    {
+     "w": "signed",
+     "t": 12.1
+    },
+    {
+     "w": "in",
+     "t": 12.42
+    },
+    {
+     "w": "this",
+     "t": 12.58
+    },
+    {
+     "w": "period",
+     "t": 12.72
+    },
+    {
+     "w": "has",
+     "t": 13.08
+    },
+    {
+     "w": "produced",
+     "t": 13.44
+    },
+    {
+     "w": "an",
+     "t": 13.82
+    },
+    {
+     "w": "approved",
+     "t": 14.02
+    },
+    {
+     "w": "product.",
+     "t": 14.32
+    },
+    {
+     "w": "AbbVie",
+     "t": 15.56
+    },
+    {
+     "w": "wrote",
+     "t": 15.74
+    },
+    {
+     "w": "off",
+     "t": 15.9
+    },
+    {
+     "w": "half",
+     "t": 16.12
+    },
+    {
+     "w": "of",
+     "t": 16.3
+    },
+    {
+     "w": "Sarival",
+     "t": 16.48
+    },
+    {
+     "w": "within",
+     "t": 16.78
+    },
+    {
+     "w": "months.",
+     "t": 17.08
+    },
+    {
+     "w": "At",
+     "t": 17.96
+    },
+    {
+     "w": "2",
+     "t": 18.14
+    },
+    {
+     "w": ".6",
+     "t": 18.36
+    },
+    {
+     "w": "times",
+     "t": 18.84
+    },
+    {
+     "w": "leverage,",
+     "t": 19.14
+    },
+    {
+     "w": "with",
+     "t": 19.74
+    },
+    {
+     "w": "Amateza",
+     "t": 19.86
+    },
+    {
+     "w": "pending,",
+     "t": 20.3
+    },
+    {
+     "w": "a",
+     "t": 21.12
+    },
+    {
+     "w": "$5",
+     "t": 21.26
+    },
+    {
+     "w": "billion",
+     "t": 21.64
+    },
+    {
+     "w": "purchase",
+     "t": 22.08
+    },
+    {
+     "w": "fails",
+     "t": 22.7
+    },
+    {
+     "w": "the",
+     "t": 23.18
+    },
+    {
+     "w": "arithmetic.",
+     "t": 23.4
+    },
+    {
+     "w": "Fund",
+     "t": 24.5
+    },
+    {
+     "w": "a",
+     "t": 24.6
+    },
+    {
+     "w": "licensing",
+     "t": 24.74
+    },
+    {
+     "w": "channel",
+     "t": 25.06
+    },
+    {
+     "w": "instead,",
+     "t": 25.6
+    },
+    {
+     "w": "released",
+     "t": 26.4
+    },
+    {
+     "w": "when",
+     "t": 26.74
+    },
+    {
+     "w": "leverage",
+     "t": 27.02
+    },
+    {
+     "w": "allows.",
+     "t": 27.3
+    }
+   ],
+   "evidence": [
+    "CLM-009076",
+    "CLM-009078",
+    "CLM-009097",
+    "CLM-009053",
+    "CLM-009054",
+    "CLM-005005",
+    "CLM-005014"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S12",
+   "title": "Long-term compounding: what the platform analogies really say",
+   "start": 298.299999,
+   "end": 330.866666,
+   "duration": 32.56666666666667,
+   "frames": 977,
+   "start_frame": 8949,
+   "audio": "audio/narration/final/S12.wav",
+   "audio_duration": 31.957,
+   "voice": "af_heart",
+   "transcript": "And the platform dream? NVIDIA says CUDA made no money for ten years. SpaceX built Falcon nine for a fraction of NASA's estimate. Alphabet's other bets lost seven and a half billion dollars in twenty twenty-five alone. Regeneron's discovery platform did not stop its lead product falling forty-two percent. Platforms compound slowly and protect no single product. So Takeda's long bets are capped options with stop rules, and the strengths it compounds are its own: plasma process data, and orexin biology.",
+   "asr_heard": "And the platform dream. NVIDIA says CUDA made no money for 10 years. SpaceX built Falcon 9 for a fraction of NASA's estimate. Alphabet's other bets lost $7.5 billion in 2025 alone. Regeneron's discovery platform did not stop its lead product falling 42%. Platforms compound slowly and protect no single product. So Takeda's long bets are capped options with stop rules, and the strengths it compounds are its own. Plasma process data and Erexin biology.",
+   "asr_wer": 0.043,
+   "cues": {
+    "platform": 0.6,
+    "cuda": 2.04,
+    "spacex": 5.14,
+    "alphabet": 8.88,
+    "regeneron": 13.94,
+    "compound": 20.0,
+    "capped": 24.4,
+    "own": 28.18
+   },
+   "captions": [
+    {
+     "text": "And the platform dream?",
+     "start": 0.35,
+     "end": 1.543
+    },
+    {
+     "text": "NVIDIA says CUDA made no money for ten years.",
+     "start": 1.963,
+     "end": 4.512
+    },
+    {
+     "text": "SpaceX built Falcon nine for a fraction of NASA's estimate.",
+     "start": 4.933,
+     "end": 8.329
+    },
+    {
+     "text": "Alphabet's other bets lost seven and a half billion dollars in twenty twenty-five alone.",
+     "start": 8.749,
+     "end": 13.367
+    },
+    {
+     "text": "Regeneron's discovery platform did not stop its lead product falling forty-two percent.",
+     "start": 13.787,
+     "end": 18.75
+    },
+    {
+     "text": "Platforms compound slowly and protect no single product.",
+     "start": 19.17,
+     "end": 22.471
+    },
+    {
+     "text": "So Takeda's long bets are capped options with stop rules, and the strengths it compounds are its own: plasma process data, and orexin biology.",
+     "start": 22.891,
+     "end": 31.357
+    }
+   ],
+   "words": [
+    {
+     "w": "And",
+     "t": 0.0
+    },
+    {
+     "w": "the",
+     "t": 0.5
+    },
+    {
+     "w": "platform",
+     "t": 0.6
+    },
+    {
+     "w": "dream.",
+     "t": 1.02
+    },
+    {
+     "w": "NVIDIA",
+     "t": 2.04
+    },
+    {
+     "w": "says",
+     "t": 2.32
+    },
+    {
+     "w": "CUDA",
+     "t": 2.66
+    },
+    {
+     "w": "made",
+     "t": 3.0
+    },
+    {
+     "w": "no",
+     "t": 3.24
+    },
+    {
+     "w": "money",
+     "t": 3.44
+    },
+    {
+     "w": "for",
+     "t": 3.62
+    },
+    {
+     "w": "10",
+     "t": 3.84
+    },
+    {
+     "w": "years.",
+     "t": 4.02
+    },
+    {
+     "w": "SpaceX",
+     "t": 5.14
+    },
+    {
+     "w": "built",
+     "t": 5.38
+    },
+    {
+     "w": "Falcon",
+     "t": 5.74
+    },
+    {
+     "w": "9",
+     "t": 6.12
+    },
+    {
+     "w": "for",
+     "t": 6.38
+    },
+    {
+     "w": "a",
+     "t": 6.86
+    },
+    {
+     "w": "fraction",
+     "t": 6.98
+    },
+    {
+     "w": "of",
+     "t": 7.26
+    },
+    {
+     "w": "NASA's",
+     "t": 7.48
+    },
+    {
+     "w": "estimate.",
+     "t": 7.88
+    },
+    {
+     "w": "Alphabet's",
+     "t": 8.88
+    },
+    {
+     "w": "other",
+     "t": 9.26
+    },
+    {
+     "w": "bets",
+     "t": 9.46
+    },
+    {
+     "w": "lost",
+     "t": 9.66
+    },
+    {
+     "w": "$7",
+     "t": 10.06
+    },
+    {
+     "w": ".5",
+     "t": 10.48
+    },
+    {
+     "w": "billion",
+     "t": 10.88
+    },
+    {
+     "w": "in",
+     "t": 11.14
+    },
+    {
+     "w": "2025",
+     "t": 12.08
+    },
+    {
+     "w": "alone.",
+     "t": 12.76
+    },
+    {
+     "w": "Regeneron's",
+     "t": 13.94
+    },
+    {
+     "w": "discovery",
+     "t": 14.54
+    },
+    {
+     "w": "platform",
+     "t": 14.92
+    },
+    {
+     "w": "did",
+     "t": 15.52
+    },
+    {
+     "w": "not",
+     "t": 16.04
+    },
+    {
+     "w": "stop",
+     "t": 16.24
+    },
+    {
+     "w": "its",
+     "t": 16.48
+    },
+    {
+     "w": "lead",
+     "t": 16.64
+    },
+    {
+     "w": "product",
+     "t": 16.8
+    },
+    {
+     "w": "falling",
+     "t": 17.28
+    },
+    {
+     "w": "42%.",
+     "t": 17.64
+    },
+    {
+     "w": "Platforms",
+     "t": 18.94
+    },
+    {
+     "w": "compound",
+     "t": 19.76
+    },
+    {
+     "w": "slowly",
+     "t": 20.0
+    },
+    {
+     "w": "and",
+     "t": 20.5
+    },
+    {
+     "w": "protect",
+     "t": 20.92
+    },
+    {
+     "w": "no",
+     "t": 21.24
+    },
+    {
+     "w": "single",
+     "t": 21.56
+    },
+    {
+     "w": "product.",
+     "t": 21.86
+    },
+    {
+     "w": "So",
+     "t": 22.92
+    },
+    {
+     "w": "Takeda's",
+     "t": 23.14
+    },
+    {
+     "w": "long",
+     "t": 23.74
+    },
+    {
+     "w": "bets",
+     "t": 23.98
+    },
+    {
+     "w": "are",
+     "t": 24.24
+    },
+    {
+     "w": "capped",
+     "t": 24.4
+    },
+    {
+     "w": "options",
+     "t": 24.62
+    },
+    {
+     "w": "with",
+     "t": 25.08
+    },
+    {
+     "w": "stop",
+     "t": 25.36
+    },
+    {
+     "w": "rules,",
+     "t": 25.6
+    },
+    {
+     "w": "and",
+     "t": 26.26
+    },
+    {
+     "w": "the",
+     "t": 26.52
+    },
+    {
+     "w": "strengths",
+     "t": 26.64
+    },
+    {
+     "w": "it",
+     "t": 26.9
+    },
+    {
+     "w": "compounds",
+     "t": 27.08
+    },
+    {
+     "w": "are",
+     "t": 27.44
+    },
+    {
+     "w": "its",
+     "t": 27.76
+    },
+    {
+     "w": "own.",
+     "t": 27.9
+    },
+    {
+     "w": "Plasma",
+     "t": 28.18
+    },
+    {
+     "w": "process",
+     "t": 29.08
+    },
+    {
+     "w": "data",
+     "t": 29.4
+    },
+    {
+     "w": "and",
+     "t": 29.84
+    },
+    {
+     "w": "Erexin",
+     "t": 30.26
+    },
+    {
+     "w": "biology.",
+     "t": 30.74
+    }
+   ],
+   "evidence": [
+    "CLM-011003",
+    "CLM-011004",
+    "CLM-011006",
+    "CLM-011009",
+    "CLM-011017"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S13",
+   "title": "Execution: the sequence, the gates, the envelope",
+   "start": 330.866666,
+   "end": 366.633333,
+   "duration": 35.766666666666666,
+   "frames": 1073,
+   "start_frame": 9926,
+   "audio": "audio/narration/final/S13.wav",
+   "audio_duration": 35.154,
+   "voice": "af_heart",
+   "transcript": "The sequence. Twenty twenty-seven: baselines, the data standard, rented automation and the Entyvio channel decision, together. Twenty twenty-eight: the Medicare price lands, the biosimilar playbook goes live, the AI partnerships face a go or no-go on data. The balanced envelope is about one point nine billion dollars over fourteen years, roughly three percent of today's R and D, plus a contingent pool for licences: planning assumptions, not a budget. The council that challenged this plan found no funded bet robust to severe pricing pressure; hence the gates.",
+   "asr_heard": "The sequence, 2027, baselines, the data standard, rented automation, and the Intivio channel decision together. 2028, the Medicare price lands, the biosimilar playbook goes live, the AI partnerships face a go or no go on data. The balanced envelope is about $1.9 billion over 14 years, roughly 3% of today's R and D, plus a contingent pool for licenses. Planning assumptions, not a budget. The council that challenged this plan found no funded bet robust to severe pricing pressure, hence the gates.",
+   "asr_wer": 0.088,
+   "cues": {
+    "sequence": 0.5,
+    "y2027": 3.0,
+    "y2028": 9.88,
+    "envelope": 16.86,
+    "assumptions": 26.34,
+    "council": 28.66,
+    "gated": 33.68
+   },
+   "captions": [
+    {
+     "text": "The sequence.",
+     "start": 0.35,
+     "end": 1.126
+    },
+    {
+     "text": "Twenty twenty-seven: baselines, the data standard, rented automation and the Entyvio channel decision, together.",
+     "start": 1.546,
+     "end": 8.13
+    },
+    {
+     "text": "Twenty twenty-eight: the Medicare price lands, the biosimilar playbook goes live, the AI partnerships face a go or no-go on data.",
+     "start": 8.551,
+     "end": 16.309
+    },
+    {
+     "text": "The balanced envelope is about one point nine billion dollars over fourteen years, roughly three percent of today's R and D, plus a contingent pool for licences: planning assumptions, not a budget.",
+     "start": 16.729,
+     "end": 28.137
+    },
+    {
+     "text": "The council that challenged this plan found no funded bet robust to severe pricing pressure; hence the gates.",
+     "start": 28.557,
+     "end": 34.555
+    }
+   ],
+   "words": [
+    {
+     "w": "The",
+     "t": 0.0
+    },
+    {
+     "w": "sequence,",
+     "t": 0.5
+    },
+    {
+     "w": "2027,",
+     "t": 1.56
+    },
+    {
+     "w": "baselines,",
+     "t": 3.0
+    },
+    {
+     "w": "the",
+     "t": 3.76
+    },
+    {
+     "w": "data",
+     "t": 3.8
+    },
+    {
+     "w": "standard,",
+     "t": 4.04
+    },
+    {
+     "w": "rented",
+     "t": 4.94
+    },
+    {
+     "w": "automation,",
+     "t": 5.14
+    },
+    {
+     "w": "and",
+     "t": 6.02
+    },
+    {
+     "w": "the",
+     "t": 6.06
+    },
+    {
+     "w": "Intivio",
+     "t": 6.16
+    },
+    {
+     "w": "channel",
+     "t": 6.76
+    },
+    {
+     "w": "decision",
+     "t": 6.98
+    },
+    {
+     "w": "together.",
+     "t": 7.5
+    },
+    {
+     "w": "2028,",
+     "t": 8.76
+    },
+    {
+     "w": "the",
+     "t": 9.72
+    },
+    {
+     "w": "Medicare",
+     "t": 9.88
+    },
+    {
+     "w": "price",
+     "t": 10.24
+    },
+    {
+     "w": "lands,",
+     "t": 10.56
+    },
+    {
+     "w": "the",
+     "t": 11.34
+    },
+    {
+     "w": "biosimilar",
+     "t": 11.42
+    },
+    {
+     "w": "playbook",
+     "t": 11.96
+    },
+    {
+     "w": "goes",
+     "t": 12.3
+    },
+    {
+     "w": "live,",
+     "t": 12.68
+    },
+    {
+     "w": "the",
+     "t": 13.4
+    },
+    {
+     "w": "AI",
+     "t": 13.56
+    },
+    {
+     "w": "partnerships",
+     "t": 13.92
+    },
+    {
+     "w": "face",
+     "t": 14.34
+    },
+    {
+     "w": "a",
+     "t": 14.66
+    },
+    {
+     "w": "go",
+     "t": 14.84
+    },
+    {
+     "w": "or",
+     "t": 15.08
+    },
+    {
+     "w": "no",
+     "t": 15.34
+    },
+    {
+     "w": "go",
+     "t": 15.54
+    },
+    {
+     "w": "on",
+     "t": 15.68
+    },
+    {
+     "w": "data.",
+     "t": 15.9
+    },
+    {
+     "w": "The",
+     "t": 16.66
+    },
+    {
+     "w": "balanced",
+     "t": 16.86
+    },
+    {
+     "w": "envelope",
+     "t": 17.22
+    },
+    {
+     "w": "is",
+     "t": 17.66
+    },
+    {
+     "w": "about",
+     "t": 17.92
+    },
+    {
+     "w": "$1",
+     "t": 18.14
+    },
+    {
+     "w": ".9",
+     "t": 18.54
+    },
+    {
+     "w": "billion",
+     "t": 19.2
+    },
+    {
+     "w": "over",
+     "t": 19.44
+    },
+    {
+     "w": "14",
+     "t": 20.16
+    },
+    {
+     "w": "years,",
+     "t": 20.6
+    },
+    {
+     "w": "roughly",
+     "t": 21.42
+    },
+    {
+     "w": "3",
+     "t": 21.6
+    },
+    {
+     "w": "%",
+     "t": 21.92
+    },
+    {
+     "w": "of",
+     "t": 22.22
+    },
+    {
+     "w": "today's",
+     "t": 22.38
+    },
+    {
+     "w": "R",
+     "t": 22.82
+    },
+    {
+     "w": "and",
+     "t": 23.06
+    },
+    {
+     "w": "D,",
+     "t": 23.24
+    },
+    {
+     "w": "plus",
+     "t": 23.72
+    },
+    {
+     "w": "a",
+     "t": 24.02
+    },
+    {
+     "w": "contingent",
+     "t": 24.18
+    },
+    {
+     "w": "pool",
+     "t": 24.5
+    },
+    {
+     "w": "for",
+     "t": 24.84
+    },
+    {
+     "w": "licenses.",
+     "t": 25.08
+    },
+    {
+     "w": "Planning",
+     "t": 26.34
+    },
+    {
+     "w": "assumptions,",
+     "t": 26.5
+    },
+    {
+     "w": "not",
+     "t": 27.48
+    },
+    {
+     "w": "a",
+     "t": 27.68
+    },
+    {
+     "w": "budget.",
+     "t": 27.82
+    },
+    {
+     "w": "The",
+     "t": 28.32
+    },
+    {
+     "w": "council",
+     "t": 28.66
+    },
+    {
+     "w": "that",
+     "t": 28.9
+    },
+    {
+     "w": "challenged",
+     "t": 29.26
+    },
+    {
+     "w": "this",
+     "t": 29.6
+    },
+    {
+     "w": "plan",
+     "t": 29.88
+    },
+    {
+     "w": "found",
+     "t": 30.22
+    },
+    {
+     "w": "no",
+     "t": 30.68
+    },
+    {
+     "w": "funded",
+     "t": 30.94
+    },
+    {
+     "w": "bet",
+     "t": 31.28
+    },
+    {
+     "w": "robust",
+     "t": 31.52
+    },
+    {
+     "w": "to",
+     "t": 31.88
+    },
+    {
+     "w": "severe",
+     "t": 32.16
+    },
+    {
+     "w": "pricing",
+     "t": 32.46
+    },
+    {
+     "w": "pressure,",
+     "t": 32.88
+    },
+    {
+     "w": "hence",
+     "t": 33.68
+    },
+    {
+     "w": "the",
+     "t": 33.92
+    },
+    {
+     "w": "gates.",
+     "t": 34.12
+    }
+   ],
+   "evidence": [
+    "CLM-007026",
+    "CLM-005004",
+    "CLM-006039"
+   ],
+   "tail": 0.0
+  },
+  {
+   "id": "S14",
+   "title": "Closing: build the system around the medicines",
+   "start": 366.633333,
+   "end": 402.166666,
+   "duration": 35.53333333333333,
+   "frames": 1066,
+   "start_frame": 10999,
+   "audio": "audio/narration/final/S14.wav",
+   "audio_duration": 30.408,
+   "voice": "af_heart",
+   "transcript": "No single drug secures the next decade. No acquisition. No technology. What endures is an organisation that discovers repeatedly, measures honestly, connects evidence to patients, and learns faster than the market moves. Takeda has the raw material: a franchise to defend, launches in hand, plasma and orexin to compound, and the discipline to stop. Build the system around them. Start in twenty twenty-seven. Measure from day one. Decide at every gate.",
+   "asr_heard": "No single drug secures the next decade, no acquisition, no technology. What endures is an organization that discovers repeatedly, measures honestly, connects evidence to patients, and learns faster than the market moves. Takeda has the raw material, a franchise to defend, launches in hand, plasma and orexin to compound, and the discipline to stop. Build the system around them. Start in 2027. Measure from day one. Decide at every gate.",
+   "asr_wer": 0.033,
+   "cues": {
+    "nodrug": 0.56,
+    "endures": 5.96,
+    "rawmaterial": 15.5,
+    "build": 23.34,
+    "start": 25.04,
+    "measure": 27.06,
+    "decide": 28.02
+   },
+   "captions": [
+    {
+     "text": "No single drug secures the next decade.",
+     "start": 0.35,
+     "end": 2.617
+    },
+    {
+     "text": "No acquisition.",
+     "start": 3.037,
+     "end": 4.036
+    },
+    {
+     "text": "No technology.",
+     "start": 4.456,
+     "end": 5.374
+    },
+    {
+     "text": "What endures is an organisation that discovers repeatedly, measures honestly, connects evidence to patients, and learns faster than the market moves.",
+     "start": 5.794,
+     "end": 14.211
+    },
+    {
+     "text": "Takeda has the raw material: a franchise to defend, launches in hand, plasma and orexin to compound, and the discipline to stop.",
+     "start": 14.631,
+     "end": 22.864
+    },
+    {
+     "text": "Build the system around them.",
+     "start": 23.284,
+     "end": 24.599
+    },
+    {
+     "text": "Start in twenty twenty-seven.",
+     "start": 25.019,
+     "end": 26.519
+    },
+    {
+     "text": "Measure from day one.",
+     "start": 26.939,
+     "end": 28.099
+    },
+    {
+     "text": "Decide at every gate.",
+     "start": 28.519,
+     "end": 29.807
+    }
+   ],
+   "words": [
+    {
+     "w": "No",
+     "t": 0.0
+    },
+    {
+     "w": "single",
+     "t": 0.56
+    },
+    {
+     "w": "drug",
+     "t": 0.88
+    },
+    {
+     "w": "secures",
+     "t": 1.28
+    },
+    {
+     "w": "the",
+     "t": 1.72
+    },
+    {
+     "w": "next",
+     "t": 1.9
+    },
+    {
+     "w": "decade,",
+     "t": 2.08
+    },
+    {
+     "w": "no",
+     "t": 3.0
+    },
+    {
+     "w": "acquisition,",
+     "t": 3.28
+    },
+    {
+     "w": "no",
+     "t": 4.42
+    },
+    {
+     "w": "technology.",
+     "t": 4.66
+    },
+    {
+     "w": "What",
+     "t": 5.82
+    },
+    {
+     "w": "endures",
+     "t": 5.96
+    },
+    {
+     "w": "is",
+     "t": 6.4
+    },
+    {
+     "w": "an",
+     "t": 6.66
+    },
+    {
+     "w": "organization",
+     "t": 6.78
+    },
+    {
+     "w": "that",
+     "t": 7.28
+    },
+    {
+     "w": "discovers",
+     "t": 7.66
+    },
+    {
+     "w": "repeatedly,",
+     "t": 8.08
+    },
+    {
+     "w": "measures",
+     "t": 9.1
+    },
+    {
+     "w": "honestly,",
+     "t": 9.58
+    },
+    {
+     "w": "connects",
+     "t": 10.6
+    },
+    {
+     "w": "evidence",
+     "t": 10.88
+    },
+    {
+     "w": "to",
+     "t": 11.28
+    },
+    {
+     "w": "patients,",
+     "t": 11.54
+    },
+    {
+     "w": "and",
+     "t": 12.3
+    },
+    {
+     "w": "learns",
+     "t": 12.48
+    },
+    {
+     "w": "faster",
+     "t": 12.72
+    },
+    {
+     "w": "than",
+     "t": 13.12
+    },
+    {
+     "w": "the",
+     "t": 13.4
+    },
+    {
+     "w": "market",
+     "t": 13.5
+    },
+    {
+     "w": "moves.",
+     "t": 13.7
+    },
+    {
+     "w": "Takeda",
+     "t": 15.0
+    },
+    {
+     "w": "has",
+     "t": 15.16
+    },
+    {
+     "w": "the",
+     "t": 15.34
+    },
+    {
+     "w": "raw",
+     "t": 15.5
+    },
+    {
+     "w": "material,",
+     "t": 15.66
+    },
+    {
+     "w": "a",
+     "t": 16.62
+    },
+    {
+     "w": "franchise",
+     "t": 16.82
+    },
+    {
+     "w": "to",
+     "t": 17.16
+    },
+    {
+     "w": "defend,",
+     "t": 17.5
+    },
+    {
+     "w": "launches",
+     "t": 18.24
+    },
+    {
+     "w": "in",
+     "t": 18.56
+    },
+    {
+     "w": "hand,",
+     "t": 18.86
+    },
+    {
+     "w": "plasma",
+     "t": 19.94
+    },
+    {
+     "w": "and",
+     "t": 19.94
+    },
+    {
+     "w": "orexin",
+     "t": 20.18
+    },
+    {
+     "w": "to",
+     "t": 20.64
+    },
+    {
+     "w": "compound,",
+     "t": 20.82
+    },
+    {
+     "w": "and",
+     "t": 21.52
+    },
+    {
+     "w": "the",
+     "t": 21.76
+    },
+    {
+     "w": "discipline",
+     "t": 21.86
+    },
+    {
+     "w": "to",
+     "t": 22.16
+    },
+    {
+     "w": "stop.",
+     "t": 22.4
+    },
+    {
+     "w": "Build",
+     "t": 23.34
+    },
+    {
+     "w": "the",
+     "t": 23.48
+    },
+    {
+     "w": "system",
+     "t": 23.66
+    },
+    {
+     "w": "around",
+     "t": 23.94
+    },
+    {
+     "w": "them.",
+     "t": 24.24
+    },
+    {
+     "w": "Start",
+     "t": 25.04
+    },
+    {
+     "w": "in",
+     "t": 25.34
+    },
+    {
+     "w": "2027.",
+     "t": 25.5
+    },
+    {
+     "w": "Measure",
+     "t": 27.06
+    },
+    {
+     "w": "from",
+     "t": 27.2
+    },
+    {
+     "w": "day",
+     "t": 27.48
+    },
+    {
+     "w": "one.",
+     "t": 27.68
+    },
+    {
+     "w": "Decide",
+     "t": 28.02
+    },
+    {
+     "w": "at",
+     "t": 28.98
+    },
+    {
+     "w": "every",
+     "t": 29.08
+    },
+    {
+     "w": "gate.",
+     "t": 29.36
+    }
+   ],
+   "evidence": [
+    "CLM-005009",
+    "CLM-005029",
+    "CLM-005032",
+    "CLM-005035",
+    "CLM-005063",
+    "CLM-005048",
+    "CLM-009084"
+   ],
+   "tail": 4.5
+  }
+ ]
+}

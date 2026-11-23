@@ -1,0 +1,179 @@
+MAYOR AND CITY COUNCIL OF BALTIMORE v. ABBVIE INC (2022) | FindLaw 
+
+ MAYOR AND CITY COUNCIL OF BALTIMORE v. ABBVIE INC (2022)
+
+ United States Court of Appeals, Seventh Circuit.
+
+ MAYOR AND CITY COUNCIL OF BALTIMORE, et al., Plaintiffs-Appellants, v. ABBVIE INC., et al., Defendants-Appellees.
+
+ No. 20-2402
+
+ Decided: August 01, 2022
+
+ Before Easterbrook, Wood, and Kirsch, Circuit Judges.
+
+ Gregory S. Asciolla, Matthew Perez, Esq., Attorneys, Labaton Sucharow LLP, New York, NY, Lauren G. Barnes, Tom Sobol, Attorneys, Hagens Berman Sobol Shapiro, LLP, Boston, MA, Karin E. Garvey, Attorney, DiCello Levitt Gutzler, New York, NY, Dena C. Sharp, Attorney, Girard Sharp LLP, San Francisco, CA, for Plaintiffs-Appellants. James F. Hurst, Diana M. Watral, Attorneys, Kirkland & Ellis LLP, Chicago, IL, for Defendants-Appellees AbbVie Inc., AbbVie Biotechnology Ltd Steven J. Horowitz, Bruce Roger Braun, I, Esq., Attorneys, Sidley Austin LLP, Chicago, IL, for Defendant-Appellee Amgen Inc. John H. Chung, Robert A. Milne, Kathryn Swisher, Martin M. Toto, Attorneys, White & Case, New York, NY, Brian P. Quinn, Ian T. Simmons, Attorneys, O'Melveny & Myers LLP, Washington, DC, Carolyn P. Gurland, Attorney, White & Case, Chicago, IL, Sondra Hemeryck, Thomas Bernard Quinn, Attorneys, Riley Safer Holmes & Cancila LLP, Chicago, IL, for Defendant-Appellee Samsung Bioepis Co. Ltd. William Connor Lavery, Michael J. Perry, Stephen Weissman, Attorneys, Baker Botts LLP, Washington, DC, Christopher J. Letkewicz, Attorney, Benesch Friedlander Coplan & Aronoff LLP, Chicago, IL, for Defendant-Appellee Sandoz, Inc. Michael Carrier, Attorney, Rutgers School of Law, Camden, NJ, for Amicus Curiae 66 Law, Economics, Business, and Medical Professors. Scott E. Perwin, Attorney, Kenny Nachwalter, P.A., Miami, FL, for Amicus Curiae National Association of Chain Drug Stores, Incorporated. James B. Zouras, Attorney, Stephan Zouras, LLP, Chicago, IL, for Amicus Curiae Consumer Action and U.S. Public Interest Research Group. Bradley Grossman, Attorney, Federal Trade Commission, Office of the General Counsel, Washington, DC, for Amicus Curiae Federal Trade Commission. Nathaniel Hopkin, Attorney, Office of the Attorney General, Seattle, WA, for Amici Curiae States of Washington, California, Colorado, Connecticut, Delaware, Idaho, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Mexico, New York, North Carolina, Oregon, Rhode Island, Virginia, and Wisconsin. Adam J. Levitt, Attorney, DiCello Levitt Gutzler LLC, Chicago, IL, for Amicus Curiae Open Markets Institute. John Mercer Masslon, II, Attorney, Washington Legal Foundation, Washington, DC, for Amicus Curiae Washington Legal Foundation. Mark W. Mosier, Attorney, Covington & Burling LLP, Washington, DC, for Amicus Curiae Pharmaceutical Research and Manufacturers of America. Patrick M. Kuhlmann, Attorney, Department of Justice, Washington, DC, for Amicus Curiae United States of America. Jeffrey W. Brennan, Attorney, McDermott, Will & Emery, Washington, DC, for Amici Curiae Donald J. Boudreaux, Law and Economics Professors.
+
+ Humira (the domestic brand name for adalimumab), a monoclonal antibody, is one of the world's best-selling and most profitable drugs. On the World Health Organization's list of essential medicines, Humira is approved to treat rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, ulcerative colitis, plaque psoriasis, hidradenitis suppurativa, uveitis, and juvenile idiopathic arthritis. The basic U.S. patent for Humira, No. 6,090,382, expired at the end of 2016, but AbbVie, its owner, obtained 132 additional patents related to the medicine, for details such as manufacturing or administering the drug. The last of these expires in 2034.
+ Plaintiffs, welfare-benefit plans that pay for Humira on behalf of covered beneficiaries, contend that these additional patents, and the settlement of litigation about them, violate sections 1 and 2 of the Sherman Antitrust Act, 15 U.S.C. §§ 1 & 2. The district court dismissed the complaint. 465 F. Supp. 3d 811 (N.D. Ill. 2020).
+ AbbVie might have defended the suit on the ground that the plaintiffs, as indirect purchasers, are blocked by the doctrine of Illinois Brick Co. v. Illinois, 431 U.S. 720, 97 S.Ct. 2061, 52 L.Ed.2d 707 (1977). But AbbVie has not done so, and as the Illinois Brick doctrine is not jurisdictional we do not mention it again. For their part, plain-tiffs do not rely on Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp., 382 U.S. 172, 86 S.Ct. 347, 15 L.Ed.2d 247 (1965), which holds that fraud on the Patent Office can violate the antitrust laws. Nor do plaintiffs deny that valid patents authorize their owners to exclude competition and charge monopoly prices. See United States v. Line Material Co., 333 U.S. 287, 68 S.Ct. 550, 92 L.Ed. 701 (1948). Instead they contend that 132 patents are just too many for anyone to hold, especially when they are weak and subject to challenge, and that by establishing what plaintiffs call a “patent thicket” AbbVie violated § 2 of the Sherman Act.
+ Before we address that argument, a few words are in order about how competitors could enter despite AbbVie's patents. Specialists may be familiar with the Hatch-Waxman Act, 21 U.S.C. § 355, which regulates copycat entry in much of the drug market. Someone who wants to offer a generic equivalent to a brand-name drug notifies its seller, which can respond by identifying patents said to block competition. Doing this requires the brand-name firm to commence patent-infringement litigation. If this happens the Food and Drug Administration forbids sales of the generic until the litigation ends, or 30 months have elapsed, whichever is first. If entry occurs, the first applicant gets an exclusive right to sell the generic drug for 180 days, and much of the profit from the entry occurs during that window. The Supreme Court's opinion in FTC v. Actavis, Inc., 570 U.S. 136, 142–44, 133 S.Ct. 2223, 186 L.Ed.2d 343 (2013), describes the process. See also Xechem, Inc. v. Bristol-Myers Squibb Co., 372 F.3d 899 (7th Cir. 2004).
+ Humira is not covered by the Hatch-Waxman Act. As a drug based on a biologic rather than a synthetic substance, it comes within the Biologics Price Competition and Innovation Act, 42 U.S.C. § 262. Someone who wants to compete with an approved biologic drug asks the FDA for permission to sell a “biosimilar” drug; the applicant must show the absence of “clinically meaningful differences” between the drug already on the market and the biosimilar. The producer of a proposed biosimilar drug cannot seek approval until four years after the original was put on the market, and the FDA cannot approve it until 12 years after that drug's first sale. (These windows do not depend on patents.) Once the FDA has approved the biosimilar, however, the competitor can offer it to the public immediately. If the original seller believes that a patent blocks competition, it must initiate litigation. 42 U.S.C. § 262(l)(6). (There are some other steps, which need not be described.) Invoking a patent and filing suit does not itself block the biosimilar; the competitor is free to sell at risk of an adverse outcome in the patent litigation, while a proposed entrant under Hatch-Waxman is not. As it happened, none of AbbVie's potential competitors chose to launch at risk, even after the FDA's approval. This sets up the payors' contention that the sheer number of arguably applicable patents scared off the competitors and enabled AbbVie to collect monopoly profits not authorized by the expired ‘382 patent.
+ But what's wrong with having lots of patents? If AbbVie made 132 inventions, why can't it hold 132 patents? The patent laws do not set a cap on the number of patents any one person can hold—in general, or pertaining to a single subject. See In re Brand Name Prescription Drugs Antitrust Litigation, 186 F.3d 781 (7th Cir. 1999). Tech companies such as Cisco, Qualcomm, Intel, Microsoft, and Apple have much larger portfolios of patents. Thomas Edison alone held 1,093 U.S. patents. When the FTC challenged Qualcomm's patent practices, it objected to licensing terms rather than the sheer size of the port-folio—and the FTC lost in the end. FTC v. Qualcomm Inc., 969 F.3d 974 (9th Cir. 2020).
+ Of course invalid patents cannot be used to create or protect a monopoly. But our plaintiffs have not offered to prove that all 132 patents are invalid or inapplicable to all potential biosimilar competitors, and it is far from clear that payors would have standing to make such an argument. The validity of the patents is a subject for dispute between AbbVie and the potential competitors, with review in the Federal Circuit. The fact that the 132 patents can be traced to continuation applications from 20 root patents seems to us neither here nor there. It may be easier to attack 20 clusters of patents than 132 independent patents, but the fact remains that every patent comes with a presumption of validity. 35 U.S.C. § 282(a).
+ The payors insist that AbbVie's patents are weak—too weak to monopolize the sales of such an important drug. This argument leaves us cold. Weak patents are valid; to say they are weak is to say that their scope is limited, not that they are illegitimate. Payors or competitors might argue to the Patent Office that the advances claimed by AbbVie are too marginal to justify legal protection, and such arguments were made in requests for inter partes reopenings. (On that procedure see United States v. Arthrex, Inc., ––– U.S. ––––, 141 S. Ct. 1970, 210 L.Ed.2d 268 (2021).) The Director of the Patent and Trademark Office set five of AbbVie's patents for reexamination under this procedure, and the PTO's adjudicative arm (the Patent Trial and Appeal Board) found three of the five invalid. (AbbVie withdrew the other two.) But the Director also concluded that 13 more of AbbVie's patents were solid enough not to need review, while on still others AbbVie prevailed before the Board. And no one asked the Director to review the many other patents in AbbVie's Humira-related portfolio.
+ Instead of attacking all 132 patents, the payors maintain that AbbVie violated § 2 of the Sherman Act by obtaining them, then invoking them against the biosimilars. Yet the payors have abjured any reliance on the Walker Process doctrine, which makes it hard to see how AbbVie can be penalized for its successful petitions to the Patent Office. (The district court observed that AbbVie had a “batting average” of .534, 465 F. Supp. 3d at 822, which is stellar in patent practice and unheard-of in baseball.) Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc., 508 U.S. 49, 113 S.Ct. 1920, 123 L.Ed.2d 611 (1993), holds that objectively baseless petitions to the government can violate the antitrust laws, if they smother competition, but AbbVie's patent applications cannot be called baseless. After all, the 132 patents issued.
+ Trying to conjure liability out of successful petitions for governmental aid in blocking competition runs into the Noerr-Pennington doctrine. Eastern Railroad Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S. 127, 81 S.Ct. 523, 5 L.Ed.2d 464 (1961); Mine Workers v. Pennington, 381 U.S. 657, 85 S.Ct. 1585, 14 L.Ed.2d 626 (1965). This doctrine, rooted in the First Amendment, deems petitioning a protected activity.
+ Unsuccessful petitioning can be a source of liability when the petitioner runs up rivals' costs and so stifles competition independent of a petition's success. An example would be filing a frivolous suit, as many a suit is more costly to defend than to prosecute. The Justices held in BE&K Construction Co. v. NLRB, 536 U.S. 516, 122 S.Ct. 2390, 153 L.Ed.2d 499 (2002), that no one has a constitutional right to pursue baseless litigation. Professional Real Estate says that petitioning exceeds the scope of the Noerr-Pennington doctrine when the petitioner tries “to interfere directly with the business relationships of a competitor, through the use of the governmental process—as opposed to the outcome of that process—as an anticompetitive weapon.” 508 U.S. at 60–61, 113 S.Ct. 1920 (cleaned up; emphasis in original). But the payors express concern about the successful outcome of AbbVie's petitioning, not about costs imposed by the process of petitioning. Patent applications, successful or not, do not impose costs on rivals; only issued patents do so.
+ Doubtless it is possible to use properly issued patents in a way that Noerr-Pennington does not protect. For example, if AbbVie were to assert irrelevant patents against producers of biosimilar drugs, that might come within the scope of BE&K Construction. The payors contend that AbbVie listed some irrelevant patents in the litigation it commenced against would-be entrants, but they do not contend that AbbVie listed only irrelevant patents in those suits. What's more, the sifting of wheat from chaff is a job for the judges hearing those patent cases. The would-be entrants, such as Amgen, Samsung Bioepis, Sandoz, and Fresenius Kabi, were free to make arguments along these lines; a separate antitrust suit by strangers to the patent litigation does not justify an effort to adjudicate by proxy what might have happened in the patent litigation, but didn't.
+ What did happen in the patent litigation is settlement. We move on to the § 1 claim, which is that the terms of the settlements established a cartel among AbbVie and the potential entrants.
+ All of AbbVie's patent suits were settled on terms that permit the biosimilar drugs to enter the U.S. market during 2023 (the dates for different entrants range from January through December). The settlements were compromises: many of the 132 patents last beyond 2023, but AbbVie threw in the towel on the extended terms in exchange for promises not to enter before 2023. If this is a cartel (AbbVie and its potential competitors carving up the market, 100% in AbbVie's favor, from 2017 through 2022), then all settlements of patent cases violate the Sherman Act, yet the Supreme Court has said repeatedly that normal settlements of patent litigation are lawful.
+ Actavis adds that one kind of settlement, in which the patent holder pays the potential entrant to defer entry, could be unlawful when the payment exceeds any reasonable estimate of the costs of litigation and is best understood as a portion of the spoils from a market-division agreement. The Justices mused that the Hatch-Waxman Act, and particularly the 180-day period of exclusivity, might lie behind reverse-payment settlements, which can be struck with just a single rival yet allow it to postpone the entry of multiple rivals. 570 U.S. at 155–56, 133 S.Ct. 2223. In biologics, though, there's no period of exclusivity.
+ The payors do not contend that there is anything fishy or anticompetitive about the settlements allowing entry in 2023 without any payment from AbbVie to the potential entrants—if those settlements are viewed by themselves. But the payors contend that they should not be viewed in isolation. They observe that AbbVie and affiliated firms have patents for Humira throughout the European Union. Those patents, and potential competition from biosimilar drugs, led to litigation that was settled with an October 2018 entry date. According to the payors, AbbVie gifted the biosimilar makers with 4+ years of profits in Europe, in exchange for their agreement not to enter the U.S. market until 2023. That makes the global settlement (treating the U.S. and the E.U. as the globe) look like a reverse-payment deal that comes within the scope of Actavis.
+ The district court was not persuaded. In the United States AbbVie struck a normal settlement without any payment to the entrants, a settlement of the kind that Actavis says is not problematic. 570 U.S. at 152, 158–59, 133 S.Ct. 2223. In Europe AbbVie and the potential entrants struck the same kind of deal, which is proper for the same reason. In each AbbVie agreed to entry before the last patents expired and didn't pay anyone to delay entry. As the district judge saw things, 0 + 0 = 0. We see this the same way.
+ As far as we are aware, none of the other reverse-payment cases entails a claim of the sort our payors advance. The U.S. and E.U. settlements are a poor candidate for a pathfinder decision, for two reasons. First, three of the potential U.S. entrants, Mylan, Boehringer Ingelheim, and Coherus Biosciences, apparently do not plan to sell in Europe yet agreed to 2023 dates for entry in the United States. This makes it hard to see 2023 as a delay that AbbVie “bought” by concessions made in Europe. Second, the European settlement is not as simple as we described it. Each member state in the E.U. has its own patent law, and AbbVie held patents that were stronger in some nations than in others or had different expiration dates. Moreover, some entry in 2018 was inevitable because AbbVie has not claimed post-2018 patent protection in Europe on all nine of the uses (“indications”) listed in the first paragraph of this opinion.
+ As of October 2018, AbbVie's European rights, on its own understanding, were limited to three of the nine conditions that Humira has been authorized to treat. So entry of biosimilar drugs was inevitable, and AbbVie had to negotiate for terms. The terms of the settlement require the entrants to pay royalties on the three indications that remain under patent. That makes the E.U. settlement one of the traditional kinds squarely protected by Actavis—and if, as the payors contend, AbbVie has dropped out of the E.U. market, the licensing of a patented product in exchange for royalties is common and lawful. (We recognize that the operative complaint in this case does not mention the licensing of three uses in Europe, but the initial complaint filed by UFCW Local 1500 Welfare Fund did so, and the amended, consolidated complaint does not take back or otherwise deny that admission.)
+ Suppose that what we've said in the preceding two paragraphs were to be disregarded on the ground that these matters are best characterized as defenses rather than reasons why the complaint is deficient. Still, the payors' claim boils down to a contention that, by leaving money on the table in Europe, AbbVie effectively paid the potential entrants for delay in the United States. This is a use of the economic concept of opportunity cost, which treats a forgone earning opportunity (fewer years of monopoly profit in Europe) as equivalent to a payment out of pocket.
+ Plaintiffs' problem is that Actavis itself considered, and rejected, the argument that an opportunity cost is the same as a reverse-payment settlement. Here is the passage:
+ [W]hen Company A sues Company B for patent infringement and demands, say, $100 million in damages, it is not uncommon for B (the defendant) to pay A (the plaintiff) some amount less than the full demand as part of the settlement—$40 million, for example. See Schildkraut, Patent-Splitting Settlement and the Reverse Payment Fallacy, 71 Antitrust L.J. 1033, 1046 (2003) (suggesting that this hypothetical settlement includes “an implicit net payment” from A to B of $60 million—i.e., the amount of the settlement discount). The cited authorities also indicate that if B has a counterclaim for damages against A, the original infringement plaintiff, A might end up paying B to settle B's counterclaim. Cf. Metro-Goldwyn Mayer, Inc. v. 007 Safety Products, Inc., 183 F.3d 10, 13 (C.A.1 1999) (describing trademark dispute and settlement). Insofar as the dissent urges that settlements taking these commonplace forms have not been thought for that reason alone subject to antitrust liability, we agree, and do not intend to alter that understanding. But the dissent appears also to suggest that reverse payment settlements—e.g., in which A, the plaintiff, pays money to defendant B purely so B will give up the patent fight—should be viewed for antitrust purposes in the same light as these familiar settlement forms. See post, at 168–169 [133 S.Ct. 2223]. We cannot agree. In the traditional examples cited above, a party with a claim (or counterclaim) for damages receives a sum equal to or less than the value of its claim. In reverse payment settlements, in contrast, a party with no claim for damages ․ walks away with money simply so it will stay away from the patentee's market. That, we think, is something quite different.
+ 570 U.S. at 151–52, 133 S.Ct. 2223 (cleaned up).
+ The example discussed in this passage—a suit seeking $100 million and settled for $40 million—illustrates an opportunity cost. The patent holder leaves $60 million on the table. That could be characterized as a $60 million payment to the would-be entrant. Yet the Court rejected the possibility of treating an “implicit net payment” as equivalent to an actual payment, characterizing the reverse-payment problem as “something quite different” from an opportunity cost. If that is true of the example in Actavis, it is equally true of money that AbbVie is said to have left on the table in Europe.
+ In neither the United States nor Europe did any of the potential biosimilar producers start out lacking a plausible monetary claim against AbbVie yet end up with money paid to delay entry. Instead we have different legal systems, with different patent expiration dates, but fundamentally similar structures of settlement. On each continent AbbVie surrendered its monopoly before all of its patents expired, and the rivals were not paid for delay. It would be much too speculative to treat the different entry dates as some kind of “reverse payment” rather than a normal response to a different distribution of legal rights under different patent systems.
+ Both the U.S. settlement and the E.U. settlement are traditional resolutions of patent litigation. AbbVie did not pay the would-be entrants on either continent. Neither individually nor collectively do these settlements state a claim under § 1 of the Sherman Act. We need not address any of the other issues debated by the parties.
+ AFFIRMED
+
+ Easterbrook, Circuit Judge.
+
+ Was this helpful? 
+
+ Yes 
+
+ No 
+
+ Why was this helpful? 
+
+ Easy to understand 
+
+ Solved my problem 
+
+ Other 
+
+ Why was this not helpful? 
+
+ Missing the information I need 
+
+ Too complicated / too many steps 
+
+ Out of date 
+
+ Other 
+
+ Submit 
+
+ Cancel 
+
+ Thank you for your feedback!
+
+ Trusted by Consumers. Recognized by AI.
+
+ As the largest network of trusted legal brands, we help firms build authority across the platforms consumers and AI systems rely on most. Our network helps attorneys strengthen visibility, credibility, and preference where legal decisions begin.
+
+ Explore the Network 
+
+ MAYOR AND CITY COUNCIL OF BALTIMORE v. ABBVIE INC (2022)
+
+ Docket No: No. 20-2402
+
+ Decided: August 01, 2022
+
+ Court: United States Court of Appeals, Seventh Circuit.
+
+ Need to Find an Attorney?
+
+ Search our directory by legal issue
+
+ Enter information in one or both fields (Required)
+
+ Legal Issue
+
+ More Options 
+
+ Name Search
+
+ Browse Legal Issues
+
+ Browse Law Firms
+
+ Support
+
+ City, ZIP Code or County
+
+ Enter either your legal issue or location to continue
+
+ Find a Lawyer 
+
+ For Legal Professionals
+
+ Practice Management 
+
+ Legal Technology 
+
+ Law Students 
+
+ Get a profile on the #1 online legal directory
+
+ Harness the power of our directory with your own profile. Select the button below to sign up.
+
+ Sign Up 
+
+ Get updates from FindLaw Legal Professionals
+
+ Enter your email address to subscribe:
+
+ Email (Required) 
+
+ Thank you for subscribing!
+
+ The email address cannot be subscribed. Please try again
+
+ Learn more about FindLaw’s newsletters , including our terms of use and privacy policy.
+
+ Did FindLaw Help You Understand This Legal Issue?
+
+ Make It a Preferred Google Search Source
+
+ Add to Google 
+
+ Learn About the Law
+
+ Get help with your legal needs
+
+ FindLaw’s Learn About the Law features thousands of informational articles to help you understand your options. And if you’re ready to hire an attorney, find one in your area who can help.
+
+ Go to Learn About The Law 
+
+ Need to Find an Attorney?
+
+ Search our directory by legal issue
+
+ Enter information in one or both fields (Required)
+
+ Legal Issue
+
+ More Options 
+
+ Name Search
+
+ Browse Legal Issues
+
+ Browse Law Firms
+
+ Support
+
+ City, ZIP Code or County
+
+ Enter either your legal issue or location to continue
+
+ Find a lawyer 
+
+ Copied to clipboard

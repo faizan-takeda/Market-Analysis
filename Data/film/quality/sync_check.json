@@ -1,0 +1,1625 @@
+{
+ "_about": "Synchronisation test run on the muxed deliverable (audio demuxed from the MP4, frames decoded from the MP4).",
+ "mp4": "deliverables/TAKEDA_2040_FINAL.mp4",
+ "asr_model": "small.en",
+ "audio_duration_s": 402.176,
+ "asr_words": 930,
+ "audio_placement_xcorr": {
+  "max_abs_error_ms": 5.3,
+  "per_scene": [
+   {
+    "id": "S01",
+    "expected_start_s": 0.0,
+    "found_start_s": 0.005,
+    "error_ms": 5.0
+   },
+   {
+    "id": "S02",
+    "expected_start_s": 26.2333,
+    "found_start_s": 26.238,
+    "error_ms": 4.7
+   },
+   {
+    "id": "S03",
+    "expected_start_s": 51.9,
+    "found_start_s": 51.905,
+    "error_ms": 5.0
+   },
+   {
+    "id": "S04",
+    "expected_start_s": 75.7333,
+    "found_start_s": 75.738,
+    "error_ms": 4.7
+   },
+   {
+    "id": "S05",
+    "expected_start_s": 102.2333,
+    "found_start_s": 102.238,
+    "error_ms": 4.7
+   },
+   {
+    "id": "S06",
+    "expected_start_s": 132.9333,
+    "found_start_s": 132.938,
+    "error_ms": 4.7
+   },
+   {
+    "id": "S07",
+    "expected_start_s": 159.5,
+    "found_start_s": 159.5049,
+    "error_ms": 4.9
+   },
+   {
+    "id": "S08",
+    "expected_start_s": 187.3,
+    "found_start_s": 187.305,
+    "error_ms": 5.0
+   },
+   {
+    "id": "S09",
+    "expected_start_s": 207.4,
+    "found_start_s": 207.4049,
+    "error_ms": 4.9
+   },
+   {
+    "id": "S10",
+    "expected_start_s": 239.1333,
+    "found_start_s": 239.1379,
+    "error_ms": 4.6
+   },
+   {
+    "id": "S11",
+    "expected_start_s": 269.1667,
+    "found_start_s": 269.1719,
+    "error_ms": 5.3
+   },
+   {
+    "id": "S12",
+    "expected_start_s": 298.3,
+    "found_start_s": 298.3049,
+    "error_ms": 4.9
+   },
+   {
+    "id": "S13",
+    "expected_start_s": 330.8667,
+    "found_start_s": 330.8719,
+    "error_ms": 5.3
+   },
+   {
+    "id": "S14",
+    "expected_start_s": 366.6333,
+    "found_start_s": 366.6379,
+    "error_ms": 4.6
+   }
+  ],
+  "note": "Each scene WAV (first 6 s) cross-correlated against the demuxed track near its timeline start; this is the authoritative placement test. ASR deltas below include Whisper word-boundary jitter (\u22480.1\u20130.6 s after pauses) and are a secondary, content-level check."
+ },
+ "captions": {
+  "total": 80,
+  "matched": 78,
+  "n": 78,
+  "mean_s": 0.083,
+  "median_s": 0.069,
+  "abs_max_s": 0.636,
+  "p95_abs_s": 0.569
+ },
+ "cues": {
+  "total": 103,
+  "matched": 101,
+  "n": 101,
+  "mean_s": 0.022,
+  "median_s": 0.007,
+  "abs_max_s": 0.9,
+  "p95_abs_s": 0.26
+ },
+ "luminance_8bit": [
+  {
+   "id": "S01",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 17.9,
+   "mid_scene_half": 18.3,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S02",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 19.1,
+   "mid_scene_half": 23.0,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S03",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 21.3,
+   "mid_scene_half": 20.1,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S04",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 25.1,
+   "mid_scene_half": 19.2,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S05",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 18.7,
+   "mid_scene_half": 25.3,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S06",
+   "after_start_0.05s": 74.8,
+   "mid_scene_1.5s": 248.6,
+   "mid_scene_half": 246.7,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S07",
+   "after_start_0.05s": 74.9,
+   "mid_scene_1.5s": 248.3,
+   "mid_scene_half": 237.7,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S08",
+   "after_start_0.05s": 74.9,
+   "mid_scene_1.5s": 248.7,
+   "mid_scene_half": 243.7,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S09",
+   "after_start_0.05s": 104.8,
+   "mid_scene_1.5s": 247.6,
+   "mid_scene_half": 245.7,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S10",
+   "after_start_0.05s": 74.9,
+   "mid_scene_1.5s": 248.4,
+   "mid_scene_half": 245.8,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S11",
+   "after_start_0.05s": 74.9,
+   "mid_scene_1.5s": 247.4,
+   "mid_scene_half": 242.5,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S12",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 18.1,
+   "mid_scene_half": 28.0,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S13",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 17.8,
+   "mid_scene_half": 21.5,
+   "before_end_0.05s": 0.0
+  },
+  {
+   "id": "S14",
+   "after_start_0.05s": 5.1,
+   "mid_scene_1.5s": 17.8,
+   "mid_scene_half": 18.9,
+   "before_end_0.05s": 0.0
+  }
+ ],
+ "black_intervals": [
+  {
+   "start": 25.966667,
+   "end": 26.333333,
+   "duration": 0.366667,
+   "nearest_boundary": 26.233333,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 51.666667,
+   "end": 52.0,
+   "duration": 0.333333,
+   "nearest_boundary": 51.9,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 75.566667,
+   "end": 75.833333,
+   "duration": 0.266667,
+   "nearest_boundary": 75.733333,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 102.1,
+   "end": 102.333333,
+   "duration": 0.233333,
+   "nearest_boundary": 102.233333,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 269.033333,
+   "end": 269.2,
+   "duration": 0.166667,
+   "nearest_boundary": 269.166666,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 298.2,
+   "end": 298.4,
+   "duration": 0.2,
+   "nearest_boundary": 298.299999,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 330.7,
+   "end": 330.966667,
+   "duration": 0.266667,
+   "nearest_boundary": 330.866666,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 366.5,
+   "end": 366.733333,
+   "duration": 0.233333,
+   "nearest_boundary": 366.633333,
+   "at_scene_boundary": true
+  },
+  {
+   "start": 401.866667,
+   "end": 402.133333,
+   "duration": 0.266667,
+   "nearest_boundary": 402.166666,
+   "at_scene_boundary": true
+  }
+ ],
+ "stray_black_intervals": [],
+ "cue_frame_sheets": [
+  "quality/sync_frames/S01_cues.png",
+  "quality/sync_frames/S02_cues.png",
+  "quality/sync_frames/S03_cues.png",
+  "quality/sync_frames/S04_cues.png",
+  "quality/sync_frames/S05_cues.png",
+  "quality/sync_frames/S06_cues.png",
+  "quality/sync_frames/S07_cues.png",
+  "quality/sync_frames/S08_cues.png",
+  "quality/sync_frames/S09_cues.png",
+  "quality/sync_frames/S10_cues.png",
+  "quality/sync_frames/S11_cues.png",
+  "quality/sync_frames/S12_cues.png",
+  "quality/sync_frames/S13_cues.png",
+  "quality/sync_frames/S14_cues.png"
+ ],
+ "per_scene": [
+  {
+   "id": "S01",
+   "start": 0.0,
+   "captions": [
+    {
+     "caption": "A single medicine can carry a company.",
+     "expected_start": 0.35,
+     "asr_start": 0.48,
+     "delta_s": 0.13
+    },
+    {
+     "caption": "At Takeda, Entyvio is twenty-one percent of revenue, and its exclusivi",
+     "expected_start": 2.773,
+     "asr_start": 2.84,
+     "delta_s": 0.067
+    },
+    {
+     "caption": "But every medicine sits inside a wider system: science, data, manufact",
+     "expected_start": 9.64,
+     "asr_start": 9.68,
+     "delta_s": 0.04
+    },
+    {
+     "caption": "So the question for the next fifteen years is not which drug comes nex",
+     "expected_start": 16.62,
+     "asr_start": 16.6,
+     "delta_s": -0.02
+    },
+    {
+     "caption": "It is what makes success repeatable.",
+     "expected_start": 20.817,
+     "asr_start": 20.76,
+     "delta_s": -0.057
+    }
+   ],
+   "cues": [
+    {
+     "cue": "medicine",
+     "word": "single",
+     "animation_time": 0.48,
+     "asr_onset": 0.48,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "takeda",
+     "word": "Takeda",
+     "animation_time": 2.94,
+     "asr_onset": 2.94,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "exclusivity",
+     "word": "exclusivity",
+     "animation_time": 6.62,
+     "asr_onset": 6.62,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "system",
+     "word": "wider",
+     "animation_time": 11.26,
+     "asr_onset": 11.26,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "question",
+     "word": "question",
+     "animation_time": 16.88,
+     "asr_onset": 16.9,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "repeatable",
+     "word": "repeatable",
+     "animation_time": 21.84,
+     "asr_onset": 21.86,
+     "delta_s": 0.02
+    }
+   ]
+  },
+  {
+   "id": "S02",
+   "start": 26.233333,
+   "captions": [
+    {
+     "caption": "Eli Lilly grew from twenty-eight to sixty-five billion dollars in four",
+     "expected_start": 26.583,
+     "asr_start": 26.14,
+     "delta_s": -0.443
+    },
+    {
+     "caption": "But concentration cuts both ways: by late twenty twenty-six, realized ",
+     "expected_start": 34.44,
+     "asr_start": 34.42,
+     "delta_s": -0.02
+    },
+    {
+     "caption": "A single franchise creates exposure long before any patent expires.",
+     "expected_start": 46.752,
+     "asr_start": 46.9,
+     "delta_s": 0.148
+    }
+   ],
+   "cues": [
+    {
+     "cue": "lilly",
+     "word": "Lilly",
+     "animation_time": 26.913,
+     "asr_onset": 26.86,
+     "delta_s": -0.053
+    },
+    {
+     "cue": "growth",
+     "word": "grew",
+     "animation_time": 27.113,
+     "asr_onset": 27.12,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "share",
+     "word": "became",
+     "animation_time": 31.993,
+     "asr_onset": 32.0,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "but",
+     "word": "cuts",
+     "animation_time": 35.093,
+     "asr_onset": 35.06,
+     "delta_s": -0.033
+    },
+    {
+     "cue": "price",
+     "word": "realized",
+     "animation_time": 38.573,
+     "asr_onset": 38.58,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "formulary",
+     "word": "pharmacy",
+     "animation_time": 41.633,
+     "asr_onset": 41.62,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "lesson",
+     "word": "franchise",
+     "animation_time": 47.113,
+     "asr_onset": 47.12,
+     "delta_s": 0.007
+    }
+   ]
+  },
+  {
+   "id": "S03",
+   "start": 51.9,
+   "captions": [
+    {
+     "caption": "AbbVie faced the cliff Takeda now faces.",
+     "expected_start": 52.25,
+     "asr_start": 51.94,
+     "delta_s": -0.31
+    },
+    {
+     "caption": "Humira fell from twenty-one billion dollars to four and a half billion",
+     "expected_start": 54.78,
+     "asr_start": 54.96,
+     "delta_s": 0.18
+    },
+    {
+     "caption": "Yet AbbVie recovered, because Skyrizi and Rinvoq were already on the m",
+     "expected_start": 61.301,
+     "asr_start": 61.38,
+     "delta_s": 0.079
+    },
+    {
+     "caption": "Contracting held ninety-seven percent of volume for over a year.",
+     "expected_start": 67.971,
+     "asr_start": 68.3,
+     "delta_s": 0.329
+    },
+    {
+     "caption": "It delayed the fall.",
+     "expected_start": 71.922,
+     "asr_start": 71.86,
+     "delta_s": -0.062
+    },
+    {
+     "caption": "It did not prevent it.",
+     "expected_start": 73.357,
+     "asr_start": 73.32,
+     "delta_s": -0.037
+    }
+   ],
+   "cues": [
+    {
+     "cue": "abbvie",
+     "word": "faced",
+     "animation_time": 52.6,
+     "asr_onset": 52.62,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "humira_fall",
+     "word": "fell",
+     "animation_time": 55.22,
+     "asr_onset": 55.22,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "recovery",
+     "word": "recovered",
+     "animation_time": 61.9,
+     "asr_onset": 61.9,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "successors",
+     "word": "already",
+     "animation_time": 64.24,
+     "asr_onset": 64.26,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "contracting",
+     "word": "Contracting",
+     "animation_time": 68.3,
+     "asr_onset": 68.3,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "delayed",
+     "word": "delayed",
+     "animation_time": 72.08,
+     "asr_onset": 72.1,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "prevent",
+     "word": "prevent",
+     "animation_time": 73.84,
+     "asr_onset": 73.86,
+     "delta_s": 0.02
+    }
+   ]
+  },
+  {
+   "id": "S04",
+   "start": 75.733333,
+   "captions": [
+    {
+     "caption": "Johnson and Johnson absorbed a forty-one percent fall in Stelara with ",
+     "expected_start": 76.083,
+     "asr_start": 75.72,
+     "delta_s": -0.363
+    },
+    {
+     "caption": "And artificial intelligence?",
+     "expected_start": 84.956,
+     "asr_start": 85.14,
+     "delta_s": 0.184
+    },
+    {
+     "caption": "Across all four companies, the research found no independent evidence ",
+     "expected_start": 86.9,
+     "asr_start": 86.96,
+     "delta_s": 0.06
+    },
+    {
+     "caption": "Lilly built an open robotic laboratory, then sold it.",
+     "expected_start": 96.008,
+     "asr_start": 96.18,
+     "delta_s": 0.172
+    },
+    {
+     "caption": "Announcements are not outcomes.",
+     "expected_start": 99.546,
+     "asr_start": 99.82,
+     "delta_s": 0.274
+    }
+   ],
+   "cues": [
+    {
+     "cue": "jnj",
+     "word": "Johnson",
+     "animation_time": 75.733,
+     "asr_onset": 75.72,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "largest",
+     "word": "largest",
+     "animation_time": 81.893,
+     "asr_onset": 81.88,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "ai",
+     "word": "artificial",
+     "animation_time": 85.133,
+     "asr_onset": 85.14,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "no_evidence",
+     "word": "independent",
+     "animation_time": 89.753,
+     "asr_onset": 89.76,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "lab",
+     "word": "robotic",
+     "animation_time": 96.993,
+     "asr_onset": 97.02,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "sold",
+     "word": "sold",
+     "animation_time": 98.533,
+     "asr_onset": 98.54,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "announcements",
+     "word": "Announcements",
+     "animation_time": 99.813,
+     "asr_onset": 99.82,
+     "delta_s": 0.007
+    }
+   ]
+  },
+  {
+   "id": "S05",
+   "start": 102.233333,
+   "captions": [
+    {
+     "caption": "Takeda.",
+     "expected_start": 102.583,
+     "asr_start": 102.78,
+     "delta_s": 0.197
+    },
+    {
+     "caption": "Entyvio brings in nine hundred fifty-eight billion yen.",
+     "expected_start": 103.654,
+     "asr_start": 104.22,
+     "delta_s": 0.566
+    },
+    {
+     "caption": "Medicare price negotiation takes effect in January twenty twenty-eight",
+     "expected_start": 106.787,
+     "asr_start": 106.78,
+     "delta_s": -0.007
+    },
+    {
+     "caption": "Vyvanse lost two hundred twenty billion yen in two years.",
+     "expected_start": 115.718,
+     "asr_start": 116.14,
+     "delta_s": 0.422
+    },
+    {
+     "caption": "If Entyvio erodes the way Humira did, three hundred eighty to seven hu",
+     "expected_start": 119.065,
+     "asr_start": 119.06,
+     "delta_s": -0.005
+    },
+    {
+     "caption": "But it defines the task: defend what is dated, and build what repeats.",
+     "expected_start": 127.975,
+     "asr_start": 127.76,
+     "delta_s": -0.215
+    }
+   ],
+   "cues": [
+    {
+     "cue": "takeda",
+     "word": "Takeda",
+     "animation_time": 102.233,
+     "asr_onset": 102.78,
+     "delta_s": 0.547
+    },
+    {
+     "cue": "entyvio",
+     "word": "brings",
+     "animation_time": 104.213,
+     "asr_onset": 104.22,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "medicare",
+     "word": "Medicare",
+     "animation_time": 106.813,
+     "asr_onset": 106.78,
+     "delta_s": -0.033
+    },
+    {
+     "cue": "biosimilar",
+     "word": "biosimilar",
+     "animation_time": 111.713,
+     "asr_onset": 111.72,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "vyvanse",
+     "word": "lost",
+     "animation_time": 116.113,
+     "asr_onset": 116.14,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "scenario",
+     "word": "erodes",
+     "animation_time": 119.833,
+     "asr_onset": 119.84,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "not_forecast",
+     "word": "forecast",
+     "animation_time": 126.913,
+     "asr_onset": 126.92,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "task",
+     "word": "defend",
+     "animation_time": 129.533,
+     "asr_onset": 129.58,
+     "delta_s": 0.047
+    }
+   ]
+  },
+  {
+   "id": "S06",
+   "start": 132.933333,
+   "captions": [
+    {
+     "caption": "Takeda is not starting from zero.",
+     "expected_start": 133.283,
+     "asr_start": 133.44,
+     "delta_s": 0.157
+    },
+    {
+     "caption": "More than two hundred seventy plasma centres, with fractionation capac",
+     "expected_start": 135.69,
+     "asr_start": 135.76,
+     "delta_s": 0.07
+    },
+    {
+     "caption": "Its Shonan labs discovered oveporexton, approved in August twenty twen",
+     "expected_start": 140.867,
+     "asr_start": 141.5,
+     "delta_s": 0.633
+    },
+    {
+     "caption": "Rusfertide followed; zasocitinib is under priority review.",
+     "expected_start": 146.735,
+     "asr_start": 147.32,
+     "delta_s": 0.585
+    },
+    {
+     "caption": "Three Phase three readouts came in positive, on plan.",
+     "expected_start": 150.653,
+     "asr_start": 150.62,
+     "delta_s": -0.033
+    },
+    {
+     "caption": "And Takeda has shown it can stop: it exited cell therapy and took the ",
+     "expected_start": 153.817,
+     "asr_start": 153.98,
+     "delta_s": 0.163
+    }
+   ],
+   "cues": [
+    {
+     "cue": "zero",
+     "word": "zero",
+     "animation_time": 134.833,
+     "asr_onset": 134.84,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "plasma",
+     "word": "plasma",
+     "animation_time": 136.853,
+     "asr_onset": 136.88,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "orexin",
+     "word": "labs",
+     "animation_time": 141.473,
+     "asr_onset": 141.5,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "approved",
+     "word": "approved",
+     "animation_time": 143.593,
+     "asr_onset": 143.64,
+     "delta_s": 0.047
+    },
+    {
+     "cue": "rusfertide",
+     "word": "followed",
+     "animation_time": 147.333,
+     "asr_onset": 147.32,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "readouts",
+     "word": "Three",
+     "animation_time": 150.653,
+     "asr_onset": 150.62,
+     "delta_s": -0.033
+    },
+    {
+     "cue": "stop",
+     "word": "stop",
+     "animation_time": 155.173,
+     "asr_onset": 155.16,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "capacity",
+     "word": "fractionation",
+     "animation_time": 138.393,
+     "asr_onset": 138.4,
+     "delta_s": 0.007
+    }
+   ]
+  },
+  {
+   "id": "S07",
+   "start": 159.5,
+   "captions": [
+    {
+     "caption": "What should Takeda build first?",
+     "expected_start": 159.85,
+     "asr_start": 160.0,
+     "delta_s": 0.15
+    },
+    {
+     "caption": "What rivals cannot buy.",
+     "expected_start": 161.821,
+     "asr_start": 161.9,
+     "delta_s": 0.079
+    },
+    {
+     "caption": "Compute can be rented and models are converging; what stays proprietar",
+     "expected_start": 163.512,
+     "asr_start": 163.66,
+     "delta_s": 0.148
+    },
+    {
+     "caption": "AbbVie connected two thousand trials into one research hub with fewer ",
+     "expected_start": 170.974,
+     "asr_start": 171.24,
+     "delta_s": 0.266
+    },
+    {
+     "caption": "It has published no outcome yet.",
+     "expected_start": 176.107,
+     "asr_start": 176.12,
+     "delta_s": 0.013
+    },
+    {
+     "caption": "Takeda's version: a governed data and decision layer, where every expe",
+     "expected_start": 178.222,
+     "asr_start": 178.38,
+     "delta_s": 0.158
+    }
+   ],
+   "cues": [
+    {
+     "cue": "build",
+     "word": "build",
+     "animation_time": 160.64,
+     "asr_onset": 160.64,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "rivals",
+     "word": "rivals",
+     "animation_time": 161.98,
+     "asr_onset": 161.96,
+     "delta_s": -0.02
+    },
+    {
+     "cue": "compute",
+     "word": "Compute",
+     "animation_time": 163.66,
+     "asr_onset": 163.66,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "proprietary",
+     "word": "proprietary",
+     "animation_time": 167.02,
+     "asr_onset": 167.04,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "abbvie",
+     "word": "connected",
+     "animation_time": 171.22,
+     "asr_onset": 171.24,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "neither",
+     "word": "published",
+     "animation_time": 176.38,
+     "asr_onset": 176.38,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "layer",
+     "word": "governed",
+     "animation_time": 179.86,
+     "asr_onset": 179.86,
+     "delta_s": 0.0
+    }
+   ]
+  },
+  {
+   "id": "S08",
+   "start": 187.3,
+   "captions": [
+    {
+     "caption": "Takeda already has the platform.",
+     "expected_start": 187.65,
+     "asr_start": 187.82,
+     "delta_s": 0.17
+    },
+    {
+     "caption": "Sixty-three percent of the workforce uses generative AI.",
+     "expected_start": 189.901,
+     "asr_start": 190.08,
+     "delta_s": 0.179
+    },
+    {
+     "caption": "But usage is adoption, not value.",
+     "expected_start": 193.587,
+     "asr_start": 193.56,
+     "delta_s": -0.027
+    },
+    {
+     "caption": "At Lessines, one hundred seventy predictive-maintenance agents run; th",
+     "expected_start": 195.998,
+     "asr_start": 196.04,
+     "delta_s": 0.042
+    },
+    {
+     "caption": "Baseline first, then claim.",
+     "expected_start": 201.765,
+     "asr_start": 201.84,
+     "delta_s": 0.075
+    },
+    {
+     "caption": "And whoever measures should not own the savings target.",
+     "expected_start": 203.693,
+     "asr_start": 203.86,
+     "delta_s": 0.167
+    }
+   ],
+   "cues": [
+    {
+     "cue": "platform",
+     "word": "platform",
+     "animation_time": 188.9,
+     "asr_onset": 188.9,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "usage",
+     "word": "workforce",
+     "animation_time": 191.04,
+     "asr_onset": 191.04,
+     "delta_s": -0.0
+    },
+    {
+     "cue": "adoption",
+     "word": "adoption",
+     "animation_time": 194.22,
+     "asr_onset": 194.24,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "lessines",
+     "word": "predictive",
+     "animation_time": 197.64,
+     "asr_onset": 197.66,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "published",
+     "word": "unpublished",
+     "animation_time": 200.58,
+     "asr_onset": 200.6,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "baseline",
+     "word": "Baseline",
+     "animation_time": 201.86,
+     "asr_onset": 201.84,
+     "delta_s": -0.02
+    },
+    {
+     "cue": "measurer",
+     "word": "whoever",
+     "animation_time": 203.86,
+     "asr_onset": 203.86,
+     "delta_s": 0.0
+    }
+   ]
+  },
+  {
+   "id": "S09",
+   "start": 207.4,
+   "captions": [
+    {
+     "caption": "In the laboratory, the same rule applies.",
+     "expected_start": 207.75,
+     "asr_start": 207.44,
+     "delta_s": -0.31
+    },
+    {
+     "caption": "Scripted automation, robots that dose, measure and screen, is mature a",
+     "expected_start": 210.357,
+     "asr_start": 210.32,
+     "delta_s": -0.037
+    },
+    {
+     "caption": "Remote cloud labs work but have proved commercially fragile.",
+     "expected_start": 216.239,
+     "asr_start": 216.3,
+     "delta_s": 0.061
+    },
+    {
+     "caption": "An AI that plans its own experiments is a prototype; first clinical da",
+     "expected_start": 219.796,
+     "asr_start": 219.84,
+     "delta_s": 0.044
+    },
+    {
+     "caption": "A fully autonomous discovery loop has not been demonstrated anywhere.",
+     "expected_start": 227.522,
+     "asr_start": 227.68,
+     "delta_s": 0.158
+    },
+    {
+     "caption": "So: rent automation, climb only when triggers fire, and gate the AI pa",
+     "expected_start": 231.808,
+     "asr_start": 231.8,
+     "delta_s": -0.008
+    }
+   ],
+   "cues": [
+    {
+     "cue": "lab",
+     "word": "laboratory",
+     "animation_time": 207.96,
+     "asr_onset": 208.0,
+     "delta_s": 0.04
+    },
+    {
+     "cue": "scripted",
+     "word": "Scripted",
+     "animation_time": 210.58,
+     "asr_onset": 210.32,
+     "delta_s": -0.26
+    },
+    {
+     "cue": "remote",
+     "word": "Remote",
+     "animation_time": 216.54,
+     "asr_onset": 216.3,
+     "delta_s": -0.24
+    },
+    {
+     "cue": "aiplans",
+     "word": "plans",
+     "animation_time": 220.54,
+     "asr_onset": 220.56,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "autonomous",
+     "word": "fully",
+     "animation_time": 227.7,
+     "asr_onset": 227.68,
+     "delta_s": -0.02
+    },
+    {
+     "cue": "rent",
+     "word": "rent",
+     "animation_time": 232.38,
+     "asr_onset": 232.36,
+     "delta_s": -0.02
+    },
+    {
+     "cue": "gate",
+     "word": "gate",
+     "animation_time": 235.42,
+     "asr_onset": 235.44,
+     "delta_s": 0.02
+    }
+   ]
+  },
+  {
+   "id": "S10",
+   "start": 239.133333,
+   "captions": [
+    {
+     "caption": "Pharmacy benefit managers now decide biosimilar outcomes: when CVS mov",
+     "expected_start": 239.483,
+     "asr_start": 239.2,
+     "delta_s": -0.283
+    },
+    {
+     "caption": "The Entyvio plan is honest: delay erosion, and measure it.",
+     "expected_start": 248.744,
+     "asr_start": 249.38,
+     "delta_s": 0.636
+    },
+    {
+     "caption": "The subcutaneous pen drives uptake and the HYHUB device brings plasma ",
+     "expected_start": 252.447,
+     "asr_start": 252.6,
+     "delta_s": 0.153
+    },
+    {
+     "caption": "But the pharmacy channel is also where biosimilars win.",
+     "expected_start": 258.331,
+     "asr_start": 258.3,
+     "delta_s": -0.031
+    },
+    {
+     "caption": "No company studied publishes adherence outcomes; Takeda can be the fir",
+     "expected_start": 261.709,
+     "asr_start": 261.72,
+     "delta_s": 0.011
+    }
+   ],
+   "cues": [
+    {
+     "cue": "pbm",
+     "word": "Pharmacy",
+     "animation_time": 239.133,
+     "asr_onset": 239.2,
+     "delta_s": 0.067
+    },
+    {
+     "cue": "cvs",
+     "word": "CVS",
+     "animation_time": 243.533,
+     "asr_onset": 243.56,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "plan",
+     "word": "honest",
+     "animation_time": 249.793,
+     "asr_onset": 249.8,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "pen",
+     "word": "subcutaneous",
+     "animation_time": 252.613,
+     "asr_onset": 252.6,
+     "delta_s": -0.013
+    },
+    {
+     "cue": "hyhub",
+     "word": "HYHUB",
+     "animation_time": 255.093,
+     "asr_onset": 255.1,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "conflict",
+     "word": "channel",
+     "animation_time": 258.913,
+     "asr_onset": 258.92,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "adherence",
+     "word": "adherence",
+     "animation_time": 263.153,
+     "asr_onset": 263.16,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "first",
+     "word": "first",
+     "animation_time": 265.533,
+     "asr_onset": 265.54,
+     "delta_s": 0.007
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "start": 269.166666,
+   "captions": [
+    {
+     "caption": "Takeda's instrument for partnerships is the mid-sized licence: Nimbus ",
+     "expected_start": 269.517,
+     "asr_start": 269.48,
+     "delta_s": -0.037
+    },
+    {
+     "caption": "AbbVie runs early options worth up to a billion a year, yet none signe",
+     "expected_start": 277.57,
+     "asr_start": 277.94,
+     "delta_s": 0.37
+    },
+    {
+     "caption": "AbbVie wrote off half of Cerevel within months.",
+     "expected_start": 284.576,
+     "asr_start": 284.92,
+     "delta_s": 0.344
+    },
+    {
+     "caption": "At two point six times leverage, with Amitiza pending, a five billion ",
+     "expected_start": 287.14,
+     "asr_start": 287.1,
+     "delta_s": -0.04
+    },
+    {
+     "caption": "Fund a licensing channel instead, released when leverage allows.",
+     "expected_start": 293.614,
+     "asr_start": 293.4,
+     "delta_s": -0.214
+    }
+   ],
+   "cues": [
+    {
+     "cue": "partnerships",
+     "word": "instrument",
+     "animation_time": 270.087,
+     "asr_onset": 270.08,
+     "delta_s": -0.007
+    },
+    {
+     "cue": "nimbus",
+     "word": "Nimbus",
+     "animation_time": 273.327,
+     "asr_onset": 273.38,
+     "delta_s": 0.053
+    },
+    {
+     "cue": "innovent",
+     "word": "Innovent",
+     "animation_time": 275.867,
+     "asr_onset": 275.82,
+     "delta_s": -0.047
+    },
+    {
+     "cue": "options",
+     "word": "options",
+     "animation_time": 278.587,
+     "asr_onset": 278.6,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "nooption",
+     "word": "none",
+     "animation_time": 281.047,
+     "asr_onset": 281.06,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "cerevel",
+     "word": "wrote",
+     "animation_time": 284.907,
+     "asr_onset": 284.92,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "leverage",
+     "word": "leverage",
+     "animation_time": 288.307,
+     "asr_onset": 288.3,
+     "delta_s": -0.007
+    },
+    {
+     "cue": "fails",
+     "word": "fails",
+     "animation_time": 291.867,
+     "asr_onset": 291.9,
+     "delta_s": 0.033
+    },
+    {
+     "cue": "channel",
+     "word": "Fund",
+     "animation_time": 293.667,
+     "asr_onset": 293.4,
+     "delta_s": -0.267
+    }
+   ]
+  },
+  {
+   "id": "S12",
+   "start": 298.299999,
+   "captions": [
+    {
+     "caption": "And the platform dream?",
+     "expected_start": 298.65,
+     "asr_start": 298.92,
+     "delta_s": 0.27
+    },
+    {
+     "caption": "NVIDIA says CUDA made no money for ten years.",
+     "expected_start": 300.263,
+     "asr_start": 300.32,
+     "delta_s": 0.057
+    },
+    {
+     "caption": "SpaceX built Falcon nine for a fraction of NASA's estimate.",
+     "expected_start": 303.233,
+     "asr_start": 303.72,
+     "delta_s": 0.487
+    },
+    {
+     "caption": "Alphabet's other bets lost seven and a half billion dollars in twenty ",
+     "expected_start": 307.049,
+     "asr_start": 307.14,
+     "delta_s": 0.091
+    },
+    {
+     "caption": "Regeneron's discovery platform did not stop its lead product falling f",
+     "expected_start": 312.087,
+     "asr_start": 312.24,
+     "delta_s": 0.153
+    },
+    {
+     "caption": "Platforms compound slowly and protect no single product.",
+     "expected_start": 317.47,
+     "asr_start": 317.22,
+     "delta_s": -0.25
+    },
+    {
+     "caption": "So Takeda's long bets are capped options with stop rules, and the stre",
+     "expected_start": 321.191,
+     "asr_start": 320.6,
+     "delta_s": -0.591
+    }
+   ],
+   "cues": [
+    {
+     "cue": "platform",
+     "word": "platform",
+     "animation_time": 298.9,
+     "asr_onset": 298.92,
+     "delta_s": 0.02
+    },
+    {
+     "cue": "cuda",
+     "word": "NVIDIA",
+     "animation_time": 300.34,
+     "asr_onset": 300.32,
+     "delta_s": -0.02
+    },
+    {
+     "cue": "spacex",
+     "word": "SpaceX",
+     "animation_time": 303.44,
+     "asr_onset": 303.72,
+     "delta_s": 0.28
+    },
+    {
+     "cue": "alphabet",
+     "word": "Alphabet",
+     "animation_time": 307.18,
+     "asr_onset": null,
+     "delta_s": null
+    },
+    {
+     "cue": "regeneron",
+     "word": "Regeneron",
+     "animation_time": 312.24,
+     "asr_onset": null,
+     "delta_s": null
+    },
+    {
+     "cue": "compound",
+     "word": "slowly",
+     "animation_time": 318.3,
+     "asr_onset": 318.3,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "capped",
+     "word": "capped",
+     "animation_time": 322.7,
+     "asr_onset": 322.7,
+     "delta_s": 0.0
+    },
+    {
+     "cue": "own",
+     "word": "plasma",
+     "animation_time": 326.48,
+     "asr_onset": 327.38,
+     "delta_s": 0.9
+    }
+   ]
+  },
+  {
+   "id": "S13",
+   "start": 330.866666,
+   "captions": [
+    {
+     "caption": "The sequence.",
+     "expected_start": 331.217,
+     "asr_start": 331.38,
+     "delta_s": 0.163
+    },
+    {
+     "caption": "Twenty twenty-seven: baselines, the data standard, rented automation a",
+     "expected_start": 332.413,
+     "asr_start": null,
+     "delta_s": null
+    },
+    {
+     "caption": "Twenty twenty-eight: the Medicare price lands, the biosimilar playbook",
+     "expected_start": 339.418,
+     "asr_start": null,
+     "delta_s": null
+    },
+    {
+     "caption": "The balanced envelope is about one point nine billion dollars over fou",
+     "expected_start": 347.596,
+     "asr_start": 347.72,
+     "delta_s": 0.124
+    },
+    {
+     "caption": "The council that challenged this plan found no funded bet robust to se",
+     "expected_start": 359.424,
+     "asr_start": 359.6,
+     "delta_s": 0.176
+    }
+   ],
+   "cues": [
+    {
+     "cue": "sequence",
+     "word": "sequence",
+     "animation_time": 331.367,
+     "asr_onset": 331.38,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "y2027",
+     "word": "baselines",
+     "animation_time": 333.867,
+     "asr_onset": 333.88,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "y2028",
+     "word": "Medicare",
+     "animation_time": 340.747,
+     "asr_onset": 340.76,
+     "delta_s": 0.013
+    },
+    {
+     "cue": "envelope",
+     "word": "balanced",
+     "animation_time": 347.727,
+     "asr_onset": 347.72,
+     "delta_s": -0.007
+    },
+    {
+     "cue": "assumptions",
+     "word": "planning",
+     "animation_time": 357.207,
+     "asr_onset": 357.18,
+     "delta_s": -0.027
+    },
+    {
+     "cue": "council",
+     "word": "council",
+     "animation_time": 359.527,
+     "asr_onset": 359.6,
+     "delta_s": 0.073
+    },
+    {
+     "cue": "gated",
+     "word": "hence",
+     "animation_time": 364.547,
+     "asr_onset": 364.58,
+     "delta_s": 0.033
+    }
+   ]
+  },
+  {
+   "id": "S14",
+   "start": 366.633333,
+   "captions": [
+    {
+     "caption": "No single drug secures the next decade.",
+     "expected_start": 366.983,
+     "asr_start": 366.96,
+     "delta_s": -0.023
+    },
+    {
+     "caption": "No acquisition.",
+     "expected_start": 369.67,
+     "asr_start": 369.66,
+     "delta_s": -0.01
+    },
+    {
+     "caption": "No technology.",
+     "expected_start": 371.089,
+     "asr_start": 371.12,
+     "delta_s": 0.031
+    },
+    {
+     "caption": "What endures is an organisation that discovers repeatedly, measures ho",
+     "expected_start": 372.427,
+     "asr_start": 372.42,
+     "delta_s": -0.007
+    },
+    {
+     "caption": "Takeda has the raw material: a franchise to defend, launches in hand, ",
+     "expected_start": 381.264,
+     "asr_start": 381.62,
+     "delta_s": 0.356
+    },
+    {
+     "caption": "Build the system around them.",
+     "expected_start": 389.917,
+     "asr_start": 389.98,
+     "delta_s": 0.063
+    },
+    {
+     "caption": "Start in twenty twenty-seven.",
+     "expected_start": 391.652,
+     "asr_start": 391.7,
+     "delta_s": 0.048
+    },
+    {
+     "caption": "Measure from day one.",
+     "expected_start": 393.572,
+     "asr_start": 393.7,
+     "delta_s": 0.128
+    },
+    {
+     "caption": "Decide at every gate.",
+     "expected_start": 395.152,
+     "asr_start": 395.22,
+     "delta_s": 0.068
+    }
+   ],
+   "cues": [
+    {
+     "cue": "nodrug",
+     "word": "single",
+     "animation_time": 367.193,
+     "asr_onset": 367.2,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "endures",
+     "word": "endures",
+     "animation_time": 372.593,
+     "asr_onset": 372.6,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "rawmaterial",
+     "word": "raw",
+     "animation_time": 382.133,
+     "asr_onset": 382.14,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "build",
+     "word": "Build",
+     "animation_time": 389.973,
+     "asr_onset": 389.98,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "start",
+     "word": "Start",
+     "animation_time": 391.673,
+     "asr_onset": 391.7,
+     "delta_s": 0.027
+    },
+    {
+     "cue": "measure",
+     "word": "Measure",
+     "animation_time": 393.693,
+     "asr_onset": 393.7,
+     "delta_s": 0.007
+    },
+    {
+     "cue": "decide",
+     "word": "Decide",
+     "animation_time": 394.653,
+     "asr_onset": 395.22,
+     "delta_s": 0.567
+    }
+   ]
+  }
+ ],
+ "pass": {
+  "audio_placed_within_1_frame_all_scenes": true,
+  "captions_matched_ratio_ge_0.9": true,
+  "caption_onset_median_le_0.15s": true,
+  "cue_onset_median_le_0.05s": true,
+  "cue_onset_p95_le_0.35s": true,
+  "every_scene_has_visible_content": true,
+  "every_scene_fades_to_black": true,
+  "no_stray_black_intervals": true,
+  "film_opens_on_black": true,
+  "film_ends_on_black": true
+ },
+ "pass_all": true
+}

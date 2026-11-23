@@ -1,0 +1,3716 @@
+{
+ "_about": "Evidence ledger for the TAKEDA 2040 film. Every on-screen claim traces to a claim id in New_mediciine/evidence_library/claims_registry.jsonl and to the source ids below. Built by research/build_evidence_ledger.py from existing project registries; no new research was conducted for the film.",
+ "film": "TAKEDA 2040",
+ "fps": 30,
+ "total_duration_s": 402.166666,
+ "counts": {
+  "scenes": 14,
+  "claim_references": 83,
+  "distinct_claims": 67,
+  "distinct_sources": 67,
+  "strategy_references": 26,
+  "unresolved_ids": 0
+ },
+ "kinds_in_film": {
+  "FACT": 72,
+  "INTERPRETATION": 11
+ },
+ "registry_status": {
+  "SUPPORTED": 71,
+  "PARTIALLY_SUPPORTED": 10,
+  "INCONCLUSIVE": 2
+ },
+ "claims": [
+  {
+   "scene_id": "S01",
+   "scene_title": "The defining question",
+   "scene_start_s": 0.0,
+   "scene_start": "00:00.00",
+   "claim_id": "CLM-005009",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "FY2025 revenue by product: ENTYVIO JPY 958.0bn (21% of revenue), immunoglobulin brands JPY 790.6bn (18%), TAKHZYRO JPY 223.9bn (5%), VYVANSE/ELVANSE JPY 203.2bn, GATTEX/REVESTIVE JPY 145.7bn, ALBUMIN JPY 140.3bn (3%), TRINTELLIX JPY 121.8bn, FRUZAQLA JPY 55.1bn, LIVTENCITY JPY 46.9bn, QDENGA JPY 40.8bn, ADZYNMA JPY 12.0bn, EOHILIA JPY 8.8bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1711, 1824-1864 (product revenue table)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S01",
+   "scene_title": "The defining question",
+   "scene_start_s": 0.0,
+   "scene_start": "00:00.00",
+   "claim_id": "CLM-005017",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda states that ENTYVIO, its top-selling product, will lose regulatory exclusivity in the latter half of this decade; certain Entyvio patents (formulation, dosing, manufacturing process) are expected to expire in 2032 and the exact timing of biosimilar entry is uncertain.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "Takeda notes biosimilars launching before 2032 must address infringement and validity of the process/formulation patents (company view of protection)."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 417, 1196 (patent table footnote *6)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-000133",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Eli Lilly and Company reported total revenue of 28,318.4 million USD for fiscal year 2021 (2021-01-01 to 2021-12-31), as tagged us-gaap:Revenues in Form 10-K accession 0000059478-22-000068 filed 2022-02-23.",
+   "value": 28318.4,
+   "unit": "USD_millions",
+   "reporting_period": "FY2021",
+   "event_date": "2021-12-31",
+   "basis": "US GAAP as filed (XBRL)",
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000015",
+     "title": "SEC XBRL company facts — Eli Lilly and Company (CIK 0000059478)",
+     "publisher": "SEC EDGAR",
+     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000059478.json",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "facts.us-gaap.Revenues.units.USD; end=2021-12-31; accn=0000059478-22-000068; frame=None",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_companyfacts.json"
+    },
+    {
+     "source_id": "SRC-000021",
+     "title": "Eli Lilly and Company Form 10-K for period ending 2021-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "Item 8 — Consolidated financial statements (value as tagged in the filing's XBRL)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_10-K_2021-12-31_0000059478-22-000068.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/eli_lilly/financials/xbrl_annual_facts.md"
+   ]
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-000137",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Eli Lilly and Company reported total revenue of 65,179.0 million USD for fiscal year 2025 (2025-01-01 to 2025-12-31), as tagged us-gaap:Revenues in Form 10-K accession 0000059478-26-000013 filed 2026-02-12.",
+   "value": 65179.0,
+   "unit": "USD_millions",
+   "reporting_period": "FY2025",
+   "event_date": "2025-12-31",
+   "basis": "US GAAP as filed (XBRL)",
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000015",
+     "title": "SEC XBRL company facts — Eli Lilly and Company (CIK 0000059478)",
+     "publisher": "SEC EDGAR",
+     "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000059478.json",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "facts.us-gaap.Revenues.units.USD; end=2025-12-31; accn=0000059478-26-000013; frame=CY2025",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_companyfacts.json"
+    },
+    {
+     "source_id": "SRC-000017",
+     "title": "Eli Lilly and Company Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "Item 8 — Consolidated financial statements (value as tagged in the filing's XBRL)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_10-K_2025-12-31_0000059478-26-000013.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/eli_lilly/financials/xbrl_annual_facts.md"
+   ]
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-001003",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Tirzepatide (Mounjaro + Zepbound) was 15.6% of Lilly revenue in FY2023 (USD 5,338.9m of 34,124.1m), 36.6% in FY2024 (USD 16,465.8m of 45,042.7m) and 56.0% in FY2025 (USD 36,507m of 65,179m); shares computed by the research team from 10-K disaggregated revenue tables.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2023-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000019",
+     "title": "Eli Lilly and Company Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "10-K FY2023 line 1023; FY2024 lines 962, 1424; FY2025 lines 904, 1302 (ratios computed)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_10-K_2023-12-31_0000059478-24-000065.htm"
+    },
+    {
+     "source_id": "SRC-000018",
+     "title": "Eli Lilly and Company Form 10-K for period ending 2024-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "10-K FY2023 line 1023; FY2024 lines 962, 1424; FY2025 lines 904, 1302 (ratios computed)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_10-K_2024-12-31_0000059478-25-000067.htm"
+    },
+    {
+     "source_id": "SRC-000017",
+     "title": "Eli Lilly and Company Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:52+00:00",
+     "locator": "10-K FY2023 line 1023; FY2024 lines 962, 1424; FY2025 lines 904, 1302 (ratios computed)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/LLY_10-K_2025-12-31_0000059478-26-000013.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/eli_lilly/business/business_model.md"
+   ]
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-014003",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Lilly's Q3 2026 revenue included about USD 900 million of benefits, primarily USD 410 million of Jardiance milestones and favourable rebate and discount estimate adjustments; realized prices fell 15% year on year while volume rose 53%.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "Q3 2026",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-014001",
+     "title": "Eli Lilly Q3 2026 earnings release (8-K Ex. 99.1)",
+     "publisher": "Eli Lilly and Company via SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/q326lillysalesandearningsp.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "Headline bullets; 'Third-Quarter Reported Results' paragraph",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-007011",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "CVS Health stated that on 1 July 2025 its Caremark PBM would prefer Wegovy and remove Zepbound on its commercial template formularies; CNBC reported that Lilly's stock closed more than 11% lower on the day of the announcement (1 May 2025) and that a CVS spokesperson said Caremark had negotiated a lower net price for Wegovy over Zepbound.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-05-01",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007009",
+     "title": "Improving access and affordability to high-cost weight management drugs (CVS Health / Caremark member notice)",
+     "publisher": "CVS Health",
+     "url": "https://www.cvshealth.com/news/pbm/improving-access-and-affordability-to-high-cost-weight-management-drugs",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "CVS notice para 3; CNBC paragraphs 1-4",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007010",
+     "title": "CVS to boost access to Novo Nordisk's weight loss treatment Wegovy for patients on its drug plans (CNBC, 1 May 2025)",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2025/05/01/cvs-wegovy-caremark-patients.html",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "CVS notice para 3; CNBC paragraphs 1-4",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S02",
+   "scene_title": "Lesson one: concentration cuts both ways (Lilly)",
+   "scene_start_s": 26.233,
+   "scene_start": "00:26.23",
+   "claim_id": "CLM-007013",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 28 May 2026 CVS Caremark announced it would add Zepbound back as an additional preferred option on commercial formularies effective 1 October 2026 and remove the new-to-market block on Foundayo (orforglipron) from 1 June 2026, while keeping Wegovy preferred, after working with Lilly on a lower cost.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-05-28",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "Effect of the October 2026 change on Zepbound volume not yet observable in public sources."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007011",
+     "title": "CVS Caremark to put Zepbound back on formulary and add Foundayo (Managed Healthcare Executive, 28 May 2026)",
+     "publisher": "Managed Healthcare Executive",
+     "url": "https://www.managedhealthcareexecutive.com/view/cvs-caremark-to-put-zepbound-back-on-formulary-and-add-foundayo",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "opening paragraphs",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S03",
+   "scene_title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "scene_start_s": 51.9,
+   "scene_start": "00:51.90",
+   "claim_id": "CLM-003002",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Global Humira net revenues were USD 20,694m (2021), 21,237m (2022), 14,404m (2023), 8,993m (2024) and 4,540m (2025); the 2025 figure is 21% of the 2022 peak.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2021-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 and FY2025 10-K net revenues tables; ratio computed (4,540/21,237 = 21.4%)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    },
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 and FY2025 10-K net revenues tables; ratio computed (4,540/21,237 = 21.4%)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/business/business_model.md"
+   ]
+  },
+  {
+   "scene_id": "S03",
+   "scene_title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "scene_start_s": 51.9,
+   "scene_start": "00:51.90",
+   "claim_id": "CLM-003015",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "AbbVie total net revenues were USD 58,054m in 2022 (+3.3%), 54,318m in 2023 (-6.4%), 56,334m in 2024 (+3.7%) and 61,160m in 2025 (+8.6%); U.S. revenue fell 8.4% in 2023.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2022-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 10-K net revenues table (US 45,713 -> 41,883); FY2025 table",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    },
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 10-K net revenues table (US 45,713 -> 41,883); FY2025 table",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/business/business_model.md"
+   ]
+  },
+  {
+   "scene_id": "S03",
+   "scene_title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "scene_start_s": 51.9,
+   "scene_start": "00:51.90",
+   "claim_id": "CLM-003014",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (arithmetic on 10-K figures)",
+   "status": "SUPPORTED",
+   "statement": "Skyrizi plus Rinvoq revenue rose from USD 7,687m in 2022 to 25,866m in 2025 (+18,179m) while Humira fell from 21,237m to 4,540m (-16,697m), so the two successors more than replaced the lost Humira revenue by 2025.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2022-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Arithmetic on FY2023 and FY2025 10-K revenue tables (CLM-000263..266 give the components)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    },
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Arithmetic on FY2023 and FY2025 10-K revenue tables (CLM-000263..266 give the components)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/master_report.md"
+   ]
+  },
+  {
+   "scene_id": "S03",
+   "scene_title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "scene_start_s": 51.9,
+   "scene_start": "00:51.90",
+   "claim_id": "CLM-003084",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION",
+   "status": "SUPPORTED",
+   "statement": "INTERPRETATION: AbbVie's Humira replacement worked because the successor assets were already launched, were expanded to Humira's major indications before U.S. exclusivity ended, and carried head-to-head evidence, so prescriber and payer switching stayed in-house.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "2019-2026",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "Skyrizi/Rinvoq each faced their own risks: JAK boxed warning for Rinvoq (FDA 2021) and second-generation IL-23 competition (not researched)."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000006",
+     "title": "AbbVie Inc. Form 10-K for period ending 2022-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/abbv-20221231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Synthesis of indication dates (FY2022-FY2025 10-Ks), revenue tables, SELECT-SWITCH bullet",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2022-12-31_0001551152-23-000011.htm"
+    },
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Synthesis of indication dates (FY2022-FY2025 10-Ks), revenue tables, SELECT-SWITCH bullet",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    },
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Synthesis of indication dates (FY2022-FY2025 10-Ks), revenue tables, SELECT-SWITCH bullet",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/competitive_advantage/moats.md",
+    "New_mediciine/companies/abbvie/master_report.md"
+   ]
+  },
+  {
+   "scene_id": "S03",
+   "scene_title": "Lesson two: the successor must exist before the cliff (AbbVie)",
+   "scene_start_s": 51.9,
+   "scene_start": "00:51.90",
+   "claim_id": "CLM-003007",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (PARTIALLY_SUPPORTED; IQVIA via trade press)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "IQVIA claims data show Humira kept at least 97% of total U.S. adalimumab volume through March 2024, 14 months after biosimilar entry, because rebate-for-access contracting left payers little incentive to switch.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "2023-01 to 2024-03",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "A Forbes/Endpoints snippet (blocked, not opened) cites 96% Humira share in March 2024; Fierce (blocked) cites 82% in April 2024 after the CVS change."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-003016",
+     "title": "Biosimilar and Innovator Co-Promotions: The Changing Tide of Biosimilar Strategy",
+     "publisher": "IQVIA",
+     "url": "https://www.iqvia.com/es-ar/locations/united-states/blogs/2024/09/biosimilar-and-innovator-co-promotions",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "IQVIA blog, 'A new business model' section; Center for Biosimilars (uptake 'remains low at the 1-year mark')",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-003014",
+     "title": "Happy Birthday Adalimumab Biosimilars: Reflecting on the First Year of US Competition",
+     "publisher": "The Center for Biosimilars",
+     "url": "https://www.centerforbiosimilars.com/view/happy-birthday-adalimumab-biosimilars-reflecting-on-the-first-year-of-us-competition",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "IQVIA blog, 'A new business model' section; Center for Biosimilars (uptake 'remains low at the 1-year mark')",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/commercial_market_access/commercial.md"
+   ]
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-000254",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "STELARA sales fell 41.3% to USD 6,078 million in 2025 from USD 10,361 million in 2024, which J&J attributes to biosimilar competition and the Medicare Part D redesign; STELARA was 6.5% of total 2025 revenue and J&J expects continued biosimilar launches globally.",
+   "value": 6078,
+   "unit": "USD_millions",
+   "reporting_period": "FY2025",
+   "event_date": "2025-12-28",
+   "basis": "US GAAP as filed",
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000010",
+     "title": "Johnson & Johnson Form 10-K for period ending 2025-12-28",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:54+00:00",
+     "locator": "Item 7 MD&A Innovative Medicine product table (line 712); Item 1A (line 297); immunology commentary (line 747); extracted_text/sec/JNJ_10-K_2025-12-28_0000200406-26-000016.txt line 712",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/JNJ_10-K_2025-12-28_0000200406-26-000016.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-002073",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (arithmetic on 10-K)",
+   "status": "SUPPORTED",
+   "statement": "DARZALEX alone was about 15.2% of J&J's FY2025 sales (USD 14,351m of USD 94,193m), and DARZALEX plus TREMFYA, ERLEADA and IMBRUVICA accounted for about USD 25.9bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-12-28",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000010",
+     "title": "Johnson & Johnson Form 10-K for period ending 2025-12-28",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:54+00:00",
+     "locator": "10-K product sales table; arithmetic from CLM-000255, CLM-000256, CLM-002024",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/JNJ_10-K_2025-12-28_0000200406-26-000016.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-011052",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (PARTIALLY_SUPPORTED)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "INTERPRETATION: Among Lilly, J&J and AbbVie the deployed data assets are Lilly TuneLab (operational, launched 2025-09-09), AbbVie ARCH (operational, built by fewer than ten staff plus contractors), J&J Polyphonic (early access, select hospitals only) and the five-company federated OpenFold3 effort (pilot); none has independent outcome evidence.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000029",
+     "title": "Lilly launches TuneLab platform to give biotechnology companies access to AI-enabled drug discovery models built through over $1 billion in research investment",
+     "publisher": "Eli Lilly and Company (PR Newswire)",
+     "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-tunelab-platform-give-biotechnology-companies",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21T12:10:00+00:00",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006019",
+     "title": "AbbVie's R&D Convergence Hub",
+     "publisher": "Bio-IT World (Allison Proffitt)",
+     "url": "https://www.bio-itworld.com/news/2023/08/24/abbvie-s-r-d-convergence-hub",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006017",
+     "title": "Johnson & Johnson Advances Polyphonic AI Fund for Surgery for Data-Driven Healthcare",
+     "publisher": "Johnson & Johnson",
+     "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-polyphonic-ai-fund-for-surgery-for-data-driven-healthcare",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006023",
+     "title": "AI Structural Biology (AISB) network - Federated OpenFold3 Initiative results",
+     "publisher": "Apheris",
+     "url": "https://www.apheris.com/networks/aisb",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006001",
+     "title": "Lilly Deploys World's Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-nvidia-blackwell-dgx-superpod/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006002",
+     "title": "Now Live: The World's Most Powerful AI Factory for Pharmaceutical Discovery and Development (LillyPod)",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/?p=90297",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006003",
+     "title": "Eli Lilly Launches Pharma's Largest AI Supercomputer",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/eli-lilly-launches-pharmas-largest-ai-supercomputer-1512/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006015",
+     "title": "Johnson & Johnson Announces MONARCH QUEST 3, Advancing the Latest in Robotically-Assisted Bronchoscopy",
+     "publisher": "Johnson & Johnson",
+     "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-monarch-quest-3-advancing-the-latest-in-robotically-assisted-bronchoscopy",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/future_of_pharma/map.md"
+   ]
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-006054",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (PARTIALLY_SUPPORTED; audit: wording stronger than sources — the film uses the narrower 'no independent evidence found')",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "Only J&J's MedTech devices have regulator-verified and commercial milestones (OTTAVA De Novo, MONARCH 510(k) iterations); no source opened shows a published discovery outcome, cost saving or revenue effect from any of the four companies' AI drug-discovery or data initiatives.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006015",
+     "title": "Johnson & Johnson Announces MONARCH QUEST 3, Advancing the Latest in Robotically-Assisted Bronchoscopy",
+     "publisher": "Johnson & Johnson",
+     "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-monarch-quest-3-advancing-the-latest-in-robotically-assisted-bronchoscopy",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006016",
+     "title": "Inside J&J's OTTAVA Robotic Surgical System development",
+     "publisher": "Johnson & Johnson (jnj.com Innovation)",
+     "url": "https://www.jnj.com/innovation/inside-ottava-robotic-surgical-system-development",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006002",
+     "title": "Now Live: The World's Most Powerful AI Factory for Pharmaceutical Discovery and Development (LillyPod)",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/?p=90297",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006014",
+     "title": "Gen AI Present and Future: A Conversation with Jim Swanson, CIO at Johnson & Johnson",
+     "publisher": "Greylock (Asheem Chandna interview)",
+     "url": "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-jim-swanson-cio-at-johnson-johnson/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006019",
+     "title": "AbbVie's R&D Convergence Hub",
+     "publisher": "Bio-IT World (Allison Proffitt)",
+     "url": "https://www.bio-itworld.com/news/2023/08/24/abbvie-s-r-d-convergence-hub",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md"
+   ]
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-006013",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "In 2024 (reported September) Arctoris acquired Lilly's Life Sciences Studio automated laboratory, relocating the platform from San Diego to Oxford and adding five automated biochemistry modules, a high-throughput screening module, a BSL2 cell-biology module and storage for 4 million compounds.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2024-09",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "Fierce snippet says Lilly sold 'a majority', not all, of the lab; unresolved."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006005",
+     "title": "Eli Lilly Sells Automated Lab to Arctoris, Platform Relocates to Oxford",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/eli-lilly-sells-automated-lab-to-arctoris-platform-relocates-to-oxford-949/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1-3",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/autonomous_lab_reality_check.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S04",
+   "scene_title": "Lesson three: diversification works; AI has no outcome yet (J&J and all four)",
+   "scene_start_s": 75.733,
+   "scene_start": "01:15.73",
+   "claim_id": "CLM-006016",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "By March 2026 Arctoris described the ex-Lilly platform as part of a cloud-controlled robotic system running biochemistry, biophysics, cell-biology and structural-biology workflows, announced a ten-fold biophysics instrumentation expansion, and said it was selected for the UK ARIA AI Scientist programme targeting endometriosis.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-03",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006006",
+     "title": "Arctoris Opens Biophysics Centre To Target Data Bottleneck in AI Drug Design",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/arctoris-opens-biophysics-centre-to-target-data-bottleneck-in-ai-drug-design-1530/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "'Context' and opening paragraphs",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/autonomous_lab_reality_check.md"
+   ]
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-005009",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "FY2025 revenue by product: ENTYVIO JPY 958.0bn (21% of revenue), immunoglobulin brands JPY 790.6bn (18%), TAKHZYRO JPY 223.9bn (5%), VYVANSE/ELVANSE JPY 203.2bn, GATTEX/REVESTIVE JPY 145.7bn, ALBUMIN JPY 140.3bn (3%), TRINTELLIX JPY 121.8bn, FRUZAQLA JPY 55.1bn, LIVTENCITY JPY 46.9bn, QDENGA JPY 40.8bn, ADZYNMA JPY 12.0bn, EOHILIA JPY 8.8bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1711, 1824-1864 (product revenue table)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-007026",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's 20-F states that CMS selected Entyvio in January 2026 for Medicare price negotiation effective January 2028, that Entyvio was Takeda's highest-selling product in FY2025, that the Part D redesign is expected to negatively affect profits, and that a May 2025 US executive order encourages most-favored-nation pricing.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "extracted text line 406",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-014051",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (PARTIALLY_SUPPORTED; trade reporting + company releases)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "Alvotech's AVT16 (interchangeable IV vedolizumab biosimilar) was accepted for FDA review with a decision expected in Q1 2027 per trade reporting, and Fresenius Kabi/Polpharma announced FDA and EMA acceptance of PB016 on 2026-07-31; Entyvio BLA 125476 was originally approved on 2014-05-20 per an FDA review-document snippet.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-06",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-014031",
+     "title": "FDA to review biosimilar of Entyvio",
+     "publisher": "Managed Healthcare Executive",
+     "url": "https://www.managedhealthcareexecutive.com/view/fda-to-review-biosimilar-of-entyvio",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "MHE paragraph 3; Fresenius paragraph 1; FDA snippet",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-014032",
+     "title": "Fresenius Announces FDA and EMA Acceptance for Review of Vedolizumab Biosimilar Candidate",
+     "publisher": "Fresenius SE & Co. KGaA",
+     "url": "https://www.fresenius.com/sites/default/files/2026-07/20260731_fse_pressrelease_vedolizumab_e_final.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "MHE paragraph 3; Fresenius paragraph 1; FDA snippet",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-014033",
+     "title": "FDA Drugs@FDA review document 761359Orig1s000 (Entyvio SC) - name review",
+     "publisher": "U.S. Food and Drug Administration",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/761359Orig1s000NameR.pdf",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "MHE paragraph 3; Fresenius paragraph 1; FDA snippet",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-005015",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "VYVANSE/ELVANSE revenue fell from JPY 423.2bn (FY2023) to JPY 350.6bn (FY2024) and JPY 203.2bn (FY2025, -42% AER); its U.S. composition-of-matter patent and pediatric exclusivity expired in August 2023 and Takeda expects the decline to continue in FY2026.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2023-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000025",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2025-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 417, 1695, 1707",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2025-03-31_0001395064-25-000095.htm"
+    },
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 417, 1695, 1707",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-005001",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "FY2025 revenue declined 1.7% at actual exchange rates and 2.7% at constant exchange rates; U.S. revenue fell 9.0% AER (-7.7% CER) to JPY 2,164.8bn, while Europe and Canada rose 8.6% AER (+3.0% CER) to JPY 1,146.2bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "Yen depreciation inflated AER growth in FY2024 (FY2024 revenue +7.4% AER but +2.8% CER per 20-F line 2174)."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1796-1812 (revenue by geographic region table)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S05",
+   "scene_title": "The central challenge",
+   "scene_start_s": 102.233,
+   "scene_start": "01:42.23",
+   "claim_id": "CLM-005002",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "The United States accounted for JPY 2,164.8bn of JPY 4,505.7bn FY2025 revenue (about 48%); Japan JPY 433.1bn (about 10%); China JPY 195.1bn (about 4%); in FY2024 the U.S. was JPY 2,379.7bn of 4,581.6bn (about 52%).",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1803-1812",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005063",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's global plasma collection network grew to 233 centers in FY2022 (+29), 260 in FY2023 (+27) and 275 in FY2024 (+15); the FY2025 20-F cites a network of 'more than 270' centers in the U.S. and EU.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2022-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "FY2025 wording ('more than 270') is not a count, and the number is slightly below the FY2024 figure of 275; closures or rounding are not explained."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000025",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2025-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2024 20-F (SRC-000025), extracted text line 568-572; FY2025 20-F (SRC-000024), extracted text line 568-574",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2025-03-31_0001395064-25-000095.htm"
+    },
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2024 20-F (SRC-000025), extracted text line 568-572; FY2025 20-F (SRC-000024), extracted text line 568-574",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005060",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "In FY2025 Takeda rolled out personalised donation nomogram programs (Fresenius Kabi adaptive nomogram and Haemonetics Persona Nomogram) across its network of more than 270 U.S. and EU plasma donation centers, which it says drove efficiencies and improved productivity; no figures are given.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "No yield or productivity numbers disclosed."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 574",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005065",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda announced in June 2024 a USD 230m expansion of its Los Angeles plasma manufacturing site adding up to 2 million liters per year of fractionation capacity and about 125 jobs; the company also said a plant in Japan would add fractionation, purification and fill/finish capability for domestic and global supply.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2024",
+   "event_date": "2024-06",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "No commissioning or output data were found."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005020",
+     "title": "BioProcess International: Takeda bolsters plasma biz with $230m LA plant",
+     "publisher": "BioProcess International",
+     "url": "https://www.bioprocessintl.com/facilities-capacity/takeda-bolsters-plasma-biz-with-230m-la-plant",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "BioProcess International article, lead and paragraphs on capacity and Japan plant",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/0eb32af6c9fd2fbd.html"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005048",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda states oveporexton was discovered in its Shonan, Japan laboratories and that it is the world leader in orexin science.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005013",
+     "title": "Takeda Business Report: The 149th Interim Period (shareholder letter incl. CEO message)",
+     "publisher": "Takeda via TSE disclosure mirror (fse.or.jp)",
+     "url": "https://www.fse.or.jp/files/lis_tkj/25112845020.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "CEO message / orexin fact sheet, p.2",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/ec7c3f2c44331038.pdf"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005029",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 5 August 2026 the FDA approved Orzeyful (oveporexton) for narcolepsy type 1 in adults, with Breakthrough Therapy designation and Priority Review; the product is lawful to market after a DEA scheduling decision.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-08-05",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005004",
+     "title": "FDA News Release: FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms (Orzeyful/oveporexton)",
+     "publisher": "U.S. Food and Drug Administration",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA News Release 2026-08-05",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005032",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 28 August 2026 the FDA approved Mimrylo (rusfertide) for adults with polycythemia vera; per FDA, 76.9% of patients on Mimrylo required no phlebotomy in weeks 20-32 versus 32.9% on placebo in the 293-patient VERIFY study.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-08-28",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005005",
+     "title": "FDA News Release: FDA Approves First Drug of Its Kind for Polycythemia Vera (Mimrylo/rusfertide)",
+     "publisher": "U.S. Food and Drug Administration",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA release paragraphs 1,3-4; Takeda Oncology release",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/dd29c1e6ff71ee47.html"
+    },
+    {
+     "source_id": "SRC-005006",
+     "title": "Takeda Oncology — FDA Approves MIMRYLO (rusfertide) for Polycythemia Vera",
+     "publisher": "Takeda Oncology (Takeda Pharmaceuticals America)",
+     "url": "https://www.takedaoncology.com/newsroom/news-releases/2026/fda-approval-mimrylo/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA release paragraphs 1,3-4; Takeda Oncology release",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005035",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 14 September 2026 Takeda announced FDA acceptance of the zasocitinib NDA under Priority Review for moderate-to-severe plaque psoriasis and that the EMA accepted its marketing authorisation application; Takeda said the filing has no significant impact on its FY2026 forecast.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-09-14",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "Acceptance is not approval; no FDA action date was captured in the text read."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005007",
+     "title": "BusinessWire — U.S. FDA Accepts NDA Under Priority Review for Takeda's Zasocitinib in Moderate-to-Severe Plaque Psoriasis",
+     "publisher": "Takeda via Business Wire",
+     "url": "https://www.businesswire.com/news/home/20260914748441/en/U.S.-FDA-Accepts-New-Drug-Application-Under-Priority-Review-for-Takedas-Zasocitinib-in-Moderate-to-Severe-Plaque-Psoriasis-with-Potential-to-Redefine-Oral-Treatment-Expectations",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "press release paragraphs 1 and 'Next steps'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005042",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "The December 2024 R&D Day plan was three Phase 3 readouts in 2025 (oveporexton, zasocitinib, rusfertide), with filings for those indications in FY2025-FY2026 and five further indication filings in FY2027-FY2029 including zasocitinib in psoriatic arthritis, mezagitamab, fazirsiran and elritercept.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005014",
+     "title": "Takeda Spotlights High-Value, Late-Stage Pipeline (R&D Day press release, 2024-12-12)",
+     "publisher": "Takeda via Business Wire / BioSpace",
+     "url": "https://www.biospace.com/press-releases/takeda-spotlights-high-value-late-stage-pipeline-accelerating-the-development-of-potential-transformative-treatments-for-patients-in-multiple-therapeutic-areas",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "press release subtitle bullets",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-009084",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda recorded a JPY 58.2 billion impairment in the year ended March 2026 on the gamma delta T-cell platform and related oncology programs after discontinuing cell therapy research, and JPY 31.9 billion on ALUNBRIG on lower sales forecasts.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "TAK 20-F FY ended 2026-03-31, line 1920",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S06",
+   "scene_title": "What Takeda already has",
+   "scene_start_s": 132.933,
+   "scene_start": "02:12.93",
+   "claim_id": "CLM-005024",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's Phase 3 SKYLINE (Dravet) and SKYWAY (LGS) studies of soticlestat missed primary endpoints in June 2024; after FDA feedback that the data package could not support an NDA, Takeda discontinued soticlestat on 30 January 2025, having impaired JPY 21.5bn of intangible assets.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-01-30",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005011",
+     "title": "Takeda statement: Takeda Provides Update on Soticlestat (TAK-935) (2025-01-30)",
+     "publisher": "Takeda via TSE disclosure mirror (fse.or.jp)",
+     "url": "https://www.fse.or.jp/files/lis_tkj/25013045020.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "statement p.1",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/8dbefb22cfc960ae.pdf"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-006055",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (PARTIALLY_SUPPORTED)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "Lilly's most defensible asset is proprietary experimental data (company-estimated over USD 1 billion to generate, CLM-000280) paired with a federated platform that lets partners add data; compute and third-party models are purchasable by rivals.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006001",
+     "title": "Lilly Deploys World's Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-nvidia-blackwell-dgx-superpod/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006010",
+     "title": "Benchling and Lilly TuneLab Partner to Democratize Access to AI Models for Scientists Everywhere",
+     "publisher": "Benchling",
+     "url": "https://www.benchling.com/blog/benchling-and-lilly-tunelab-partner-to-democratize-access-to-ai-models",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006002",
+     "title": "Now Live: The World's Most Powerful AI Factory for Pharmaceutical Discovery and Development (LillyPod)",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/?p=90297",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-006056",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION",
+   "status": "SUPPORTED",
+   "statement": "Both Lilly TuneLab and the Apheris AISB consortium use federated learning so partners can improve shared models without pooling raw data; TuneLab is Lilly-led and AISB is multi-pharma, with Takeda, AbbVie and J&J in AISB.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006010",
+     "title": "Benchling and Lilly TuneLab Partner to Democratize Access to AI Models for Scientists Everywhere",
+     "publisher": "Benchling",
+     "url": "https://www.benchling.com/blog/benchling-and-lilly-tunelab-partner-to-democratize-access-to-ai-models",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006023",
+     "title": "AI Structural Biology (AISB) network - Federated OpenFold3 Initiative results",
+     "publisher": "Apheris",
+     "url": "https://www.apheris.com/networks/aisb",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006008",
+     "title": "insitro partners with Lilly to build first-in-kind machine learning models to advance small molecule drug discovery",
+     "publisher": "insitro",
+     "url": "https://www.insitro.com/news/insitro-partners-with-lilly-to-build-first-in-kind-machine-learning-models-to-advance-small-molecule-drug-discovery/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md"
+   ]
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-006032",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "At Bio-IT World in 2023 AbbVie's head of AI said the AbbVie R&D Convergence Hub (ARCH), conceived in 2020, was built by fewer than ten full-time AbbVie staff plus many contractors (Modak, SciBite, Tellic, TXI), harmonised a corpus over 124 TB, and exposes a graph of over 30 million nodes and nearly 2 billion relationships to all R&D employees.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2023-08-24",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006019",
+     "title": "AbbVie's R&D Convergence Hub",
+     "publisher": "Bio-IT World (Allison Proffitt)",
+     "url": "https://www.bio-itworld.com/news/2023/08/24/abbvie-s-r-d-convergence-hub",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "sections 'Effort of Partners', 'Mining the Graph'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-006034",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "AbbVie's ARCH governance gave all R&D employees access to data from medical affairs, discovery, clinical and real-world sources; per its head of AI, risk-based analysis allowed all 2,000+ clinical trials' de-identified data to be reused internally, with prison and pediatric populations excepted.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2023-08-24",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006019",
+     "title": "AbbVie's R&D Convergence Hub",
+     "publisher": "Bio-IT World (Allison Proffitt)",
+     "url": "https://www.bio-itworld.com/news/2023/08/24/abbvie-s-r-d-convergence-hub",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "section 'Effort of Partners'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-000280",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (company estimate)",
+   "status": "SUPPORTED",
+   "statement": "On September 9, 2025 Eli Lilly launched Lilly TuneLab, an AI/ML platform giving selected biotech companies access to Lilly-trained drug-discovery models (drug disposition, safety and preclinical datasets covering hundreds of thousands of molecules); Lilly estimates the underlying proprietary data cost over USD 1 billion to generate. Access is federated (third-party hosted) and partners contribute training data in return.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-09-09",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000029",
+     "title": "Lilly launches TuneLab platform to give biotechnology companies access to AI-enabled drug discovery models built through over $1 billion in research investment",
+     "publisher": "Eli Lilly and Company (PR Newswire)",
+     "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-tunelab-platform-give-biotechnology-companies",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21T12:10:00+00:00",
+     "locator": "paragraphs 1-3 of the release",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S07",
+   "scene_title": "From products to repeatable scientific advantage",
+   "scene_start_s": 159.5,
+   "scene_start": "02:39.50",
+   "claim_id": "CLM-011052",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "INTERPRETATION: Among Lilly, J&J and AbbVie the deployed data assets are Lilly TuneLab (operational, launched 2025-09-09), AbbVie ARCH (operational, built by fewer than ten staff plus contractors), J&J Polyphonic (early access, select hospitals only) and the five-company federated OpenFold3 effort (pilot); none has independent outcome evidence.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000029",
+     "title": "Lilly launches TuneLab platform to give biotechnology companies access to AI-enabled drug discovery models built through over $1 billion in research investment",
+     "publisher": "Eli Lilly and Company (PR Newswire)",
+     "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-tunelab-platform-give-biotechnology-companies",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21T12:10:00+00:00",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006019",
+     "title": "AbbVie's R&D Convergence Hub",
+     "publisher": "Bio-IT World (Allison Proffitt)",
+     "url": "https://www.bio-itworld.com/news/2023/08/24/abbvie-s-r-d-convergence-hub",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006017",
+     "title": "Johnson & Johnson Advances Polyphonic AI Fund for Surgery for Data-Driven Healthcare",
+     "publisher": "Johnson & Johnson",
+     "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-polyphonic-ai-fund-for-surgery-for-data-driven-healthcare",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006023",
+     "title": "AI Structural Biology (AISB) network - Federated OpenFold3 Initiative results",
+     "publisher": "Apheris",
+     "url": "https://www.apheris.com/networks/aisb",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006001",
+     "title": "Lilly Deploys World's Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-nvidia-blackwell-dgx-superpod/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006002",
+     "title": "Now Live: The World's Most Powerful AI Factory for Pharmaceutical Discovery and Development (LillyPod)",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/?p=90297",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006003",
+     "title": "Eli Lilly Launches Pharma's Largest AI Supercomputer",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/eli-lilly-launches-pharmas-largest-ai-supercomputer-1512/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006015",
+     "title": "Johnson & Johnson Announces MONARCH QUEST 3, Advancing the Latest in Robotically-Assisted Bronchoscopy",
+     "publisher": "Johnson & Johnson",
+     "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-monarch-quest-3-advancing-the-latest-in-robotically-assisted-bronchoscopy",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see statement",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/future_of_pharma/map.md"
+   ]
+  },
+  {
+   "scene_id": "S08",
+   "scene_title": "Data as a strategic asset: baseline first, then claim",
+   "scene_start_s": 187.3,
+   "scene_start": "03:07.30",
+   "claim_id": "CLM-005058",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (PARTIALLY_SUPPORTED; vendor-hosted self-report)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "A Databricks-hosted session summary states Takeda built a unified AI foundation on Databricks enabling 10,000-plus employees to develop, deploy and operate agents under enterprise governance, listing 'Agent AI for FDA Regulatory Submissions' as a production use case and reducing AI infrastructure provisioning from 60-70 tickets to a one-click approval taking about 20 minutes.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "'10,000-plus employees' is the capacity of the platform audience, not a count of agents in production or business outcomes; no regulatory-submission cycle-time outcome is stated."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005017",
+     "title": "Databricks session: 'Building Trustworthy AI at Scale: Takeda's Self-Service AI Foundation'",
+     "publisher": "Databricks (vendor conference session page)",
+     "url": "https://answers.databricks.com/building-trustworthy-ai-at-scale-takeda-s-self-service-ai-foundation-lBpsViTbh_0",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "session page summary, chapter list and FAQ",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S08",
+   "scene_title": "Data as a strategic asset: baseline first, then claim",
+   "scene_start_s": 187.3,
+   "scene_start": "03:07.30",
+   "claim_id": "CLM-014043",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (adoption metric per audit)",
+   "status": "SUPPORTED",
+   "statement": "Takeda reports 63.4% of its workforce actively using generative AI tools at 31 March 2026 (46.6% a year earlier) and that 30.9% of employees took at least one data, digital and technology course in FY2025; it says the focus shifted from general-purpose GenAI assistants to domain-focused and process-embedded AI agents.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-014028",
+     "title": "Takeda 2026 Annual Integrated Report (fiscal year ended March 31, 2026)",
+     "publisher": "Takeda Pharmaceutical Company Limited",
+     "url": "https://assets-dam.takeda.com/image/upload/v1787602373/Global/Investor/AIR/2026/takeda_2026_annual_integrated_report.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "PDF p.47 'Data, Digital and Technology' metrics table",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S08",
+   "scene_title": "Data as a strategic asset: baseline first, then claim",
+   "scene_start_s": 187.3,
+   "scene_start": "03:07.30",
+   "claim_id": "CLM-014041",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (company report; no outcome figure)",
+   "status": "SUPPORTED",
+   "statement": "Takeda's 2026 Annual Integrated Report states that at its Lessines (Belgium) site it has deployed more than 170 AI-enabled predictive-maintenance agents, with expansion to additional global sites planned by 2027.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-014028",
+     "title": "Takeda 2026 Annual Integrated Report (fiscal year ended March 31, 2026)",
+     "publisher": "Takeda Pharmaceutical Company Limited",
+     "url": "https://assets-dam.takeda.com/image/upload/v1787602373/Global/Investor/AIR/2026/takeda_2026_annual_integrated_report.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "PDF p.10",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S08",
+   "scene_title": "Data as a strategic asset: baseline first, then claim",
+   "scene_start_s": 187.3,
+   "scene_start": "03:07.30",
+   "claim_id": "CLM-005059",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's 25 March 2026 transformation program targets annualised gross savings above JPY 200bn by FY2028 'through streamlining of corporate functions, bringing leadership and teams closer to patients and customers and process simplification made possible by advanced technologies', with about JPY 150bn restructuring expense in FY2026.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-03-25",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "The H1 FY2026 report revised FY2026 restructuring to JPY 160bn and trade press quoted JPY 170bn at the May earnings (see restructuring claims)."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005008",
+     "title": "Takeda news release: Next Steps in its Transformation to Strengthen Competitiveness and Accelerate Future Growth Outlook (2026-03-25)",
+     "publisher": "Takeda via TSE disclosure mirror (fse.or.jp)",
+     "url": "https://www.fse.or.jp/files/lis_tkj/26032545020.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "press release p.1",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/4d2ffa0a220038e5.pdf"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006013",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "In 2024 (reported September) Arctoris acquired Lilly's Life Sciences Studio automated laboratory, relocating the platform from San Diego to Oxford and adding five automated biochemistry modules, a high-throughput screening module, a BSL2 cell-biology module and storage for 4 million compounds.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2024-09",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "Fierce snippet says Lilly sold 'a majority', not all, of the lab; unresolved."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006005",
+     "title": "Eli Lilly Sells Automated Lab to Arctoris, Platform Relocates to Oxford",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/eli-lilly-sells-automated-lab-to-arctoris-platform-relocates-to-oxford-949/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1-3",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/autonomous_lab_reality_check.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006016",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "By March 2026 Arctoris described the ex-Lilly platform as part of a cloud-controlled robotic system running biochemistry, biophysics, cell-biology and structural-biology workflows, announced a ten-fold biophysics instrumentation expansion, and said it was selected for the UK ARIA AI Scientist programme targeting endometriosis.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-03",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006006",
+     "title": "Arctoris Opens Biophysics Centre To Target Data Bottleneck in AI Drug Design",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/arctoris-opens-biophysics-centre-to-target-data-bottleneck-in-ai-drug-design-1530/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "'Context' and opening paragraphs",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/autonomous_lab_reality_check.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006002",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 2026-05-06 Lilly opened its Lilly Lebanon Advanced Therapies genetic-medicine plant and announced a further USD 4.5 billion for the Lebanon campus (more than USD 21 billion of Indiana commitments since 2020); a reporter on the guided tour saw staff monitoring robotic machines that dose, measure and seal medicines.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-05-06",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006012",
+     "title": "Lilly unveils new genetic medicine facility in Lebanon LEAP District and $4.5 billion investment",
+     "publisher": "WFYI (Indianapolis public media)",
+     "url": "https://www.wfyi.org/wfyi-news/2026-05-06/lilly-unveils-new-genetic-medicine-facility-in-lebanon-leap-district-and-4-5-billion-investment",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1 and 'During a tour'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006051",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (industry case, not one of the four)",
+   "status": "SUPPORTED",
+   "statement": "Ginkgo Bioworks agreed in July 2022 to buy Zymergen for about USD 300 million, one-tenth of its roughly USD 3 billion valuation at its April 2021 IPO, after Zymergen reported cumulative net losses of USD 1.2 billion, discontinued its first product, and had cut 220 jobs with 80 more planned.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2022-07",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006007",
+     "title": "Synbio Synergy: Ginkgo to Acquire Troubled Zymergen for $300M",
+     "publisher": "GEN (Genetic Engineering & Biotechnology News)",
+     "url": "https://www.genengnews.com/news/synbio-synergy-ginkgo-to-acquire-troubled-zymergen-for-300m/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 'The $300 million purchase price' and 'Sustained net losses'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/autonomous_lab_reality_check.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-000281",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (announcement, concept stage)",
+   "status": "SUPPORTED",
+   "statement": "On January 12, 2026 NVIDIA and Eli Lilly announced an AI co-innovation lab in the San Francisco Bay Area with up to USD 1 billion joint investment over five years in talent, infrastructure and compute, built on NVIDIA BioNeMo and the Vera Rubin architecture, initially targeting a 'continuous learning system' connecting Lilly's agentic wet labs with computational dry labs; work was expected to begin in South San Francisco in early 2026.",
+   "value": 1000,
+   "unit": "USD_millions",
+   "reporting_period": null,
+   "event_date": "2026-01-12",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000031",
+     "title": "NVIDIA and Lilly Announce Co-Innovation AI Lab to Reinvent Drug Discovery in the Age of AI",
+     "publisher": "NVIDIA Newsroom",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-and-lilly-announce-co-innovation-lab-to-reinvent-drug-discovery-in-the-age-of-ai",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21T12:10:00+00:00",
+     "locator": "News summary and paragraphs 2-6",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/press/LLY_nvidia_lab.html"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006039",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (company expectation)",
+   "status": "SUPPORTED",
+   "statement": "On 2025-10-14 Reuters reported that Nabla Bio and Takeda signed a second multi-year AI protein-design collaboration (first launched 2022) with upfront and research payments in double-digit millions of dollars and over USD 1 billion in success-based payments; Nabla expected first-in-human data within one to two years.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-10-14",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006022",
+     "title": "US biotech Nabla Bio, Japan's Takeda expand AI drug design partnership",
+     "publisher": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/news/us-biotech-nabla-bio-japans-090242368.html",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1-3, 8",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006041",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 2026-02-09 Iambic announced a multi-year collaboration with Takeda on small-molecule programs in oncology and gastroenterology/inflammation, with Takeda gaining access to Iambic's NeuralPLexer model and Iambic eligible for success-based payments that could exceed USD 1.7 billion plus royalties.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-02-09",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "A secondary analysis (not opened) cites USD 27 million upfront; unverified."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006021",
+     "title": "Iambic Announces Collaboration with Takeda to Advance AI-Driven Design of Small Molecules (Business Wire, reproduced by Yahoo Finance)",
+     "publisher": "Iambic via Business Wire / Yahoo Finance",
+     "url": "https://finance.yahoo.com/news/iambic-announces-collaboration-takeda-advance-130000281.html",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "opening and final paragraphs",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S09",
+   "scene_title": "The intelligent laboratory",
+   "scene_start_s": 207.4,
+   "scene_start": "03:27.40",
+   "claim_id": "CLM-006007",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION",
+   "status": "INCONCLUSIVE",
+   "statement": "No source opened for this review reports a scientific, cycle-time or financial outcome attributable to the Lilly AI factory or the planned NVIDIA co-innovation lab as of 2026-11-21.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006001",
+     "title": "Lilly Deploys World's Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-nvidia-blackwell-dgx-superpod/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006002",
+     "title": "Now Live: The World's Most Powerful AI Factory for Pharmaceutical Discovery and Development (LillyPod)",
+     "publisher": "NVIDIA blog",
+     "url": "https://blogs.nvidia.com/?p=90297",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-006003",
+     "title": "Eli Lilly Launches Pharma's Largest AI Supercomputer",
+     "publisher": "BiopharmaTrend",
+     "url": "https://www.biopharmatrend.com/news/eli-lilly-launches-pharmas-largest-ai-supercomputer-1512/",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "see source record",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md"
+   ]
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007015",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "CVS Health announced on 5 May 2026 that from 1 July 2026 its most common commercial template formularies would prefer the interchangeable Stelara biosimilars Pyzchiva and Yesintek over Stelara, with most members paying $0, and would add biosimilar-based preferences in multiple sclerosis (Tysabri) and rare blood disorders (Soliris).",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-05-05",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007012",
+     "title": "CVS Caremark expands biosimilar adoption through formulary updates to improve affordability and access (CVS Health release, 5 May 2026)",
+     "publisher": "CVS Health",
+     "url": "https://www.cvshealth.com/news/company-news/cvs-caremark-expands-biosimilar-adoption.html",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1-3",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007026",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's 20-F states that CMS selected Entyvio in January 2026 for Medicare price negotiation effective January 2028, that Entyvio was Takeda's highest-selling product in FY2025, that the Part D redesign is expected to negatively affect profits, and that a May 2025 US executive order encourages most-favored-nation pricing.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "extracted text line 406",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007041",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's FY2025 20-F says the subcutaneous Entyvio formulation, approved in the US, Europe and Japan, continues to drive increased patient uptake because of convenience and improved access, and that Entyvio was its top-selling product.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "extracted text line 588",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007042",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's FY2025 20-F says that in July 2025 FDA granted 510(k) clearance to HYHUB and HYHUB DUO devices that let Hyqvia be transferred from vials without a needle in a home or clinical setting, reducing preparation steps.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-07",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "extracted text line 705",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007053",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (PARTIALLY_SUPPORTED)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "INTERPRETATION: Home/subcutaneous conversion is the best-evidenced transferable mechanism for Takeda, because Entyvio SC is already approved in three regions and described as driving uptake, comparable moves (Tremfya SC share gains; Zepbound pens) coincide with strong growth, and Entyvio faces Medicare negotiation in 2028.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "links entyvio_sc, jnj_launch, lly_kwikpen, tak_ira",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007001",
+     "title": "Johnson & Johnson Form 10-K FY2025 (accession 0000200406-26-000016), text on disk",
+     "publisher": "Johnson & Johnson via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000200406&type=10-K",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "links entyvio_sc, jnj_launch, lly_kwikpen, tak_ira",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007007",
+     "title": "Zepbound, the most prescribed weight management medication in 2025, now available in multi-dose KwikPen (press release, 23 Feb 2026)",
+     "publisher": "Eli Lilly and Company via PR Newswire (reproduced on Yahoo Finance as paid press release)",
+     "url": "https://finance.yahoo.com/news/zepbound-tirzepatide-most-prescribed-weight-140000762.html",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "links entyvio_sc, jnj_launch, lly_kwikpen, tak_ira",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-007039",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (INCONCLUSIVE: absence of published outcomes in sources opened)",
+   "status": "INCONCLUSIVE",
+   "statement": "No source opened for Lilly, J&J, AbbVie or Takeda reports adherence, persistence or time-to-therapy outcomes for its patient support programs; the figures found are enrolment or access counts (LillyDirect patients, Allē members, Help at Hand patients) and are company-reported.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007007",
+     "title": "Zepbound, the most prescribed weight management medication in 2025, now available in multi-dose KwikPen (press release, 23 Feb 2026)",
+     "publisher": "Eli Lilly and Company via PR Newswire (reproduced on Yahoo Finance as paid press release)",
+     "url": "https://finance.yahoo.com/news/zepbound-tirzepatide-most-prescribed-weight-140000762.html",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "absence across four sources",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007016",
+     "title": "Allē by Allergan Aesthetics is the Leading Aesthetics Loyalty Rewards Program in the U.S. (press release, 23 Jan 2024)",
+     "publisher": "Allergan Aesthetics / AbbVie",
+     "url": "https://news.abbvie.com/2024-01-23-Alle-by-Allergan-Aesthetics-is-the-Leading-Aesthetics-Loyalty-Rewards-Program-in-the-U-S",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "absence across four sources",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007017",
+     "title": "About Takeda Help at Hand Patient Assistance Program",
+     "publisher": "Takeda Pharmaceuticals (helpathandpap.com)",
+     "url": "https://www.helpathandpap.com/About.aspx",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "absence across four sources",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-007019",
+     "title": "J&J withMe for Patients and Caregivers",
+     "publisher": "Johnson & Johnson (jnjwithme.com)",
+     "url": "https://www.jnjwithme.com/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "absence across four sources",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-003007",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "IQVIA claims data show Humira kept at least 97% of total U.S. adalimumab volume through March 2024, 14 months after biosimilar entry, because rebate-for-access contracting left payers little incentive to switch.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "2023-01 to 2024-03",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "A Forbes/Endpoints snippet (blocked, not opened) cites 96% Humira share in March 2024; Fierce (blocked) cites 82% in April 2024 after the CVS change."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-003016",
+     "title": "Biosimilar and Innovator Co-Promotions: The Changing Tide of Biosimilar Strategy",
+     "publisher": "IQVIA",
+     "url": "https://www.iqvia.com/es-ar/locations/united-states/blogs/2024/09/biosimilar-and-innovator-co-promotions",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "IQVIA blog, 'A new business model' section; Center for Biosimilars (uptake 'remains low at the 1-year mark')",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-003014",
+     "title": "Happy Birthday Adalimumab Biosimilars: Reflecting on the First Year of US Competition",
+     "publisher": "The Center for Biosimilars",
+     "url": "https://www.centerforbiosimilars.com/view/happy-birthday-adalimumab-biosimilars-reflecting-on-the-first-year-of-us-competition",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "IQVIA blog, 'A new business model' section; Center for Biosimilars (uptake 'remains low at the 1-year mark')",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/commercial_market_access/commercial.md"
+   ]
+  },
+  {
+   "scene_id": "S10",
+   "scene_title": "Commercial execution and care: the whole value chain",
+   "scene_start_s": 239.133,
+   "scene_start": "03:59.13",
+   "claim_id": "CLM-003002",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Global Humira net revenues were USD 20,694m (2021), 21,237m (2022), 14,404m (2023), 8,993m (2024) and 4,540m (2025); the 2025 figure is 21% of the 2022 peak.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2021-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 and FY2025 10-K net revenues tables; ratio computed (4,540/21,237 = 21.4%)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    },
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "FY2023 and FY2025 10-K net revenues tables; ratio computed (4,540/21,237 = 21.4%)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/companies/abbvie/business/business_model.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-009076",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda acquired Nimbus Lakshmi (TAK-279/zasocitinib, oral TYK2) in February 2023 for $4.0 billion upfront (paid $3.0B Feb 2023, $0.9B Apr 2023, $0.1B Aug 2023) plus two $1.0 billion milestones at $4 billion and $5 billion annual net sales, and assumed BMS milestone obligations.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2023-02-08",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000026",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2024-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000086/tak-20240331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "TAK 20-F FY2023 (Mar 2024) line 2066 and footnote 4; FY2024 20-F line 2031; SRC-009008",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2024-03-31_0001395064-24-000086.htm"
+    },
+    {
+     "source_id": "SRC-000025",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2025-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "TAK 20-F FY2023 (Mar 2024) line 2066 and footnote 4; FY2024 20-F line 2031; SRC-009008",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2025-03-31_0001395064-25-000095.htm"
+    },
+    {
+     "source_id": "SRC-009008",
+     "title": "Nimbus Therapeutics announces closing of Takeda's acquisition of TYK2 subsidiary",
+     "publisher": "Nimbus Therapeutics",
+     "url": "https://www.nimbustx.com/2023/02/08/nimbus-therapeutics-announces-closing-of-takedas-acquisition-of-tyk2-subsidiary/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "TAK 20-F FY2023 (Mar 2024) line 2066 and footnote 4; FY2024 20-F line 2031; SRC-009008",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-009078",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda and Innovent announced on 2025-10-22 a license, option and collaboration for IBI363 (PD-1/IL-2α-bias, Phase 3), IBI343 (CLDN18.2 ADC, Phase 3) and an option on IBI3001; Innovent receives US$1.2 billion upfront including US$100 million equity, and up to US$11.4 billion total deal value.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-10-22",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-009003",
+     "title": "Innovent Biologics announces global strategic partnership with Takeda (IBI363, IBI343, IBI3001)",
+     "publisher": "Innovent Biologics via PRNewswire/BioSpace",
+     "url": "https://www.biospace.com/press-releases/innovent-biologics-announces-global-strategic-partnership-with-takeda-to-bring-innovents-next-gen-io-backbone-therapy-and-adc-molecules-to-the-global-market",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "SRC-009003 key points; TAK 20-F FY ended 2026-03-31 line 574 and licensing table",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "SRC-009003 key points; TAK 20-F FY ended 2026-03-31 line 574 and licensing table",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-009097",
+   "kind_in_registry": "INTERPRETATION",
+   "kind_in_film": "INTERPRETATION (PARTIALLY_SUPPORTED)",
+   "status": "PARTIALLY_SUPPORTED",
+   "statement": "AbbVie's window combines two large purchases (ImmunoGen $9.2B net, Cerevel $8.3B net) with a steady stream of $130M-$2.1B early-stage asset buys and option licences and an annual $0.6-1.0B 'other' upfront stream.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2021-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Synthesis of ABBV Note 5 FY2021-FY2025",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    },
+    {
+     "source_id": "SRC-000005",
+     "title": "AbbVie Inc. Form 10-K for period ending 2023-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "Synthesis of ABBV Note 5 FY2021-FY2025",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2023-12-31_0001551152-24-000011.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-009053",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "AbbVie completed the Cerevel Therapeutics acquisition on 2024-08-01 at $45.00 per share; consideration was $8.7 billion ($8.3 billion net of cash), a business combination.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2024-08-01",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000003",
+     "title": "AbbVie Inc. Form 10-K for period ending 2025-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "ABBV FY2025 10-K Note 5, lines 1661-1667; FY2024 10-K line 1683",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2025-12-31_0001551152-26-000008.htm"
+    },
+    {
+     "source_id": "SRC-000004",
+     "title": "AbbVie Inc. Form 10-K for period ending 2024-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "ABBV FY2025 10-K Note 5, lines 1661-1667; FY2024 10-K line 1683",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2024-12-31_0001551152-25-000020.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-009054",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "AbbVie's two Phase 2 EMPOWER trials of emraclidine in schizophrenia missed their primary endpoint (announced 2024-11-11); AbbVie recorded a $4.5 billion intangible impairment for emraclidine and Cerevel operating losses through 2024 were $4.9 billion.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2024-11-11",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-009007",
+     "title": "AbbVie provides update on Phase 2 results for emraclidine in schizophrenia",
+     "publisher": "AbbVie",
+     "url": "https://news.abbvie.com/2024-11-11-AbbVie-Provides-Update-on-Phase-2-Results-for-Emraclidine-in-Schizophrenia",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "SRC-009007 first paragraph and table; ABBV FY2024 10-K lines 1010, 1721, 1878",
+     "local_document_path": null
+    },
+    {
+     "source_id": "SRC-000004",
+     "title": "AbbVie Inc. Form 10-K for period ending 2024-12-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:57+00:00",
+     "locator": "SRC-009007 first paragraph and table; ABBV FY2024 10-K lines 1010, 1721, 1878",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/ABBV_10-K_2024-12-31_0001551152-25-000020.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-005005",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (2.6x at Mar 2026 confirmed by audit)",
+   "status": "SUPPORTED",
+   "statement": "Takeda's adjusted net debt to adjusted EBITDA ratio was 2.6x at 31 March 2023, 3.1x at 31 March 2024, 2.8x at 31 March 2025 and 2.6x at 31 March 2026 (adjusted net debt JPY 3,817.6bn, adjusted EBITDA JPY 1,457.2bn at March 2026).",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2022-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000026",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2024-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000086/tak-20240331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 2351-2353, 2662-2669; FY2024 20-F (SRC-000025), extracted text line 2739; FY2023 20-F (SRC-000026), extracted text line 2803",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2024-03-31_0001395064-24-000086.htm"
+    },
+    {
+     "source_id": "SRC-000025",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2025-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 2351-2353, 2662-2669; FY2024 20-F (SRC-000025), extracted text line 2739; FY2023 20-F (SRC-000026), extracted text line 2803",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2025-03-31_0001395064-25-000095.htm"
+    },
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 2351-2353, 2662-2669; FY2024 20-F (SRC-000025), extracted text line 2739; FY2023 20-F (SRC-000026), extracted text line 2803",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S11",
+   "scene_title": "Partnerships, acquisitions and the leverage test",
+   "scene_start_s": 269.167,
+   "scene_start": "04:29.17",
+   "claim_id": "CLM-005014",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda recognised a JPY 403.5bn provision for legal proceedings in FY2025 following the AMITIZA verdict, which pushed reported operating profit to JPY 6.2bn and net loss to JPY 152.1bn in FY2025; Core Operating Profit was unaffected at JPY 1,172.5bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1924, 2349-2353 and existing CLM-000272/273",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S12",
+   "scene_title": "Long-term compounding: what the platform analogies really say",
+   "scene_start_s": 298.3,
+   "scene_start": "04:58.30",
+   "claim_id": "CLM-011003",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (NVIDIA executive statement)",
+   "status": "SUPPORTED",
+   "statement": "In March 2026 NVIDIA's Ian Buck said CUDA \"cost the company billions\", that NVIDIA \"didn't make money for 10 years\" on it, and that CUDA succeeded because it changed the C language as little as possible instead of inventing a new programming language.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-03-23",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-011001",
+     "title": "CUDA at 20: From billion-dollar gamble to agentic AI",
+     "publisher": "Computer Weekly (TechTarget), Aaron Tan",
+     "url": "https://www.computerweekly.com/news/366640614/CUDA-at-20-From-billion-dollar-gamble-to-agentic-AI",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs quoting Buck",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/platform_moats/analogies_platform_strategies.md"
+   ]
+  },
+  {
+   "scene_id": "S12",
+   "scene_title": "Long-term compounding: what the platform analogies really say",
+   "scene_start_s": 298.3,
+   "scene_start": "04:58.30",
+   "claim_id": "CLM-011004",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "NVIDIA's FY2026 10-K lists suppliers of custom chips and large customers with in-house development capability as competitors, and says some customers can build their own solutions to replace NVIDIA's.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2026",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-011002",
+     "title": "NVIDIA Corporation Form 10-K for fiscal year ended 25 January 2026",
+     "publisher": "NVIDIA Corporation via SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "Item 1A and Item 1 Competition, extracted text lines 290 and 423",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/platform_moats/analogies_platform_strategies.md"
+   ]
+  },
+  {
+   "scene_id": "S12",
+   "scene_title": "Long-term compounding: what the platform analogies really say",
+   "scene_start_s": 298.3,
+   "scene_start": "04:58.30",
+   "claim_id": "CLM-011006",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (NASA assessment)",
+   "status": "SUPPORTED",
+   "statement": "A NASA assessment states that SpaceX publicly indicated Falcon 9 development cost about USD 300 million plus about USD 90 million for Falcon 1, a total of USD 390 million that NASA verified, against NASA model estimates of USD 1.7 billion to 4.0 billion.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "The same document says it is difficult to determine why actual cost was so far below the model, so the cause (fewer processes, reduced oversight, lower overhead) is not isolated."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-011005",
+     "title": "An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions",
+     "publisher": "NASA Technical Reports Server",
+     "url": "https://ntrs.nasa.gov/api/citations/20170008895/downloads/20170008895.pdf",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "p.2",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/platform_moats/analogies_platform_strategies.md"
+   ]
+  },
+  {
+   "scene_id": "S12",
+   "scene_title": "Long-term compounding: what the platform analogies really say",
+   "scene_start_s": 298.3,
+   "scene_start": "04:58.30",
+   "claim_id": "CLM-011009",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (Alphabet 10-K)",
+   "status": "SUPPORTED",
+   "statement": "Alphabet reported Other Bets operating losses of USD 4,095 million (2023), USD 4,444 million (2024) and USD 7,515 million (2025); the 2025 loss included a USD 2.1 billion Waymo compensation charge.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2023-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-011006",
+     "title": "Alphabet Inc. Form 10-K for fiscal year ended 31 December 2025",
+     "publisher": "Alphabet Inc. via SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "MD&A and segment note, extracted text lines 776, 916, 2683",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/platform_moats/analogies_platform_strategies.md"
+   ]
+  },
+  {
+   "scene_id": "S12",
+   "scene_title": "Long-term compounding: what the platform analogies really say",
+   "scene_start_s": 298.3,
+   "scene_start": "04:58.30",
+   "claim_id": "CLM-011017",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT (Regeneron 10-K)",
+   "status": "SUPPORTED",
+   "statement": "Regeneron's FY2025 10-K reports EYLEA U.S. net product sales fell 42% in 2025 on competition and the shift to EYLEA HD, that EYLEA HD and EYLEA were 31% of total revenue (42% in 2024), and that it depends substantially on its share of Dupixent profits under the Sanofi collaboration.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [
+    "Counter-evidence to the idea that a discovery platform protects revenue: a flagship product eroded 42% in a year despite the platform."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-011011",
+     "title": "Regeneron Pharmaceuticals Form 10-K for fiscal year ended 31 December 2025",
+     "publisher": "Regeneron Pharmaceuticals via SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000008/regn-20251231.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "Item 1A (extracted lines 1501-1508) and MD&A line 2111",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "strategy/platform_moats/analogies_platform_strategies.md"
+   ]
+  },
+  {
+   "scene_id": "S13",
+   "scene_title": "Execution: the sequence, the gates, the envelope",
+   "scene_start_s": 330.867,
+   "scene_start": "05:30.87",
+   "claim_id": "CLM-007026",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's 20-F states that CMS selected Entyvio in January 2026 for Medicare price negotiation effective January 2028, that Entyvio was Takeda's highest-selling product in FY2025, that the Part D redesign is expected to negatively affect profits, and that a May 2025 US executive order encourages most-favored-nation pricing.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-007003",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for fiscal year ended 2026-03-31 (accession 0001395064-26-000177), text on disk",
+     "publisher": "Takeda Pharmaceutical Company Limited via SEC EDGAR",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001395064&type=20-F",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "extracted text line 406",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S13",
+   "scene_title": "Execution: the sequence, the gates, the envelope",
+   "scene_start_s": 330.867,
+   "scene_start": "05:30.87",
+   "claim_id": "CLM-005004",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda R&D expense was JPY 526.1bn (FY2021), 633.3bn (FY2022), 729.9bn (FY2023), 730.2bn (FY2024) and 675.9bn (FY2025); the FY2025 decrease was attributed to lower expenses as development programs were terminated or progressed and to mezagitamab co-development funding.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2021-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1918; series per companies/takeda_public_baseline/financials/xbrl_annual_facts.md and CLM-000271",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S13",
+   "scene_title": "Execution: the sequence, the gates, the envelope",
+   "scene_start_s": 330.867,
+   "scene_start": "05:30.87",
+   "claim_id": "CLM-006039",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 2025-10-14 Reuters reported that Nabla Bio and Takeda signed a second multi-year AI protein-design collaboration (first launched 2022) with upfront and research payments in double-digit millions of dollars and over USD 1 billion in success-based payments; Nabla expected first-in-human data within one to two years.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2025-10-14",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-006022",
+     "title": "US biotech Nabla Bio, Japan's Takeda expand AI drug design partnership",
+     "publisher": "Reuters via Yahoo Finance",
+     "url": "https://finance.yahoo.com/news/us-biotech-nabla-bio-japans-090242368.html",
+     "credibility_tier": "T3_independent_reporting",
+     "retrieved_at": "2026-11-21",
+     "locator": "paragraphs 1-3, 8",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/ai_data_robotics/ai_data_robotics_landscape.md",
+    "New_mediciine/industry_transformation/ai_data_robotics/capability_mechanism_cards.md"
+   ]
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005009",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "FY2025 revenue by product: ENTYVIO JPY 958.0bn (21% of revenue), immunoglobulin brands JPY 790.6bn (18%), TAKHZYRO JPY 223.9bn (5%), VYVANSE/ELVANSE JPY 203.2bn, GATTEX/REVESTIVE JPY 145.7bn, ALBUMIN JPY 140.3bn (3%), TRINTELLIX JPY 121.8bn, FRUZAQLA JPY 55.1bn, LIVTENCITY JPY 46.9bn, QDENGA JPY 40.8bn, ADZYNMA JPY 12.0bn, EOHILIA JPY 8.8bn.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2025 20-F (SRC-000024), extracted text line 1711, 1824-1864 (product revenue table)",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005029",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 5 August 2026 the FDA approved Orzeyful (oveporexton) for narcolepsy type 1 in adults, with Breakthrough Therapy designation and Priority Review; the product is lawful to market after a DEA scheduling decision.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-08-05",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005004",
+     "title": "FDA News Release: FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms (Orzeyful/oveporexton)",
+     "publisher": "U.S. Food and Drug Administration",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA News Release 2026-08-05",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005032",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 28 August 2026 the FDA approved Mimrylo (rusfertide) for adults with polycythemia vera; per FDA, 76.9% of patients on Mimrylo required no phlebotomy in weeks 20-32 versus 32.9% on placebo in the 293-patient VERIFY study.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-08-28",
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005005",
+     "title": "FDA News Release: FDA Approves First Drug of Its Kind for Polycythemia Vera (Mimrylo/rusfertide)",
+     "publisher": "U.S. Food and Drug Administration",
+     "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA release paragraphs 1,3-4; Takeda Oncology release",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/dd29c1e6ff71ee47.html"
+    },
+    {
+     "source_id": "SRC-005006",
+     "title": "Takeda Oncology — FDA Approves MIMRYLO (rusfertide) for Polycythemia Vera",
+     "publisher": "Takeda Oncology (Takeda Pharmaceuticals America)",
+     "url": "https://www.takedaoncology.com/newsroom/news-releases/2026/fda-approval-mimrylo/",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "FDA release paragraphs 1,3-4; Takeda Oncology release",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005035",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "On 14 September 2026 Takeda announced FDA acceptance of the zasocitinib NDA under Priority Review for moderate-to-severe plaque psoriasis and that the EMA accepted its marketing authorisation application; Takeda said the filing has no significant impact on its FY2026 forecast.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": "2026-09-14",
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "Acceptance is not approval; no FDA action date was captured in the text read."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005007",
+     "title": "BusinessWire — U.S. FDA Accepts NDA Under Priority Review for Takeda's Zasocitinib in Moderate-to-Severe Plaque Psoriasis",
+     "publisher": "Takeda via Business Wire",
+     "url": "https://www.businesswire.com/news/home/20260914748441/en/U.S.-FDA-Accepts-New-Drug-Application-Under-Priority-Review-for-Takedas-Zasocitinib-in-Moderate-to-Severe-Plaque-Psoriasis-with-Potential-to-Redefine-Oral-Treatment-Expectations",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "press release paragraphs 1 and 'Next steps'",
+     "local_document_path": null
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005063",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda's global plasma collection network grew to 233 centers in FY2022 (+29), 260 in FY2023 (+27) and 275 in FY2024 (+15); the FY2025 20-F cites a network of 'more than 270' centers in the U.S. and EU.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2022-FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [
+    "FY2025 wording ('more than 270') is not a count, and the number is slightly below the FY2024 figure of 275; closures or rounding are not explained."
+   ],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000025",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2025-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2024 20-F (SRC-000025), extracted text line 568-572; FY2025 20-F (SRC-000024), extracted text line 568-574",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2025-03-31_0001395064-25-000095.htm"
+    },
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "FY2024 20-F (SRC-000025), extracted text line 568-572; FY2025 20-F (SRC-000024), extracted text line 568-574",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-005048",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda states oveporexton was discovered in its Shonan, Japan laboratories and that it is the world leader in orexin science.",
+   "value": null,
+   "unit": null,
+   "reporting_period": null,
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": true,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-005013",
+     "title": "Takeda Business Report: The 149th Interim Period (shareholder letter incl. CEO message)",
+     "publisher": "Takeda via TSE disclosure mirror (fse.or.jp)",
+     "url": "https://www.fse.or.jp/files/lis_tkj/25112845020.pdf",
+     "credibility_tier": "T2_company_published",
+     "retrieved_at": "2026-11-21",
+     "locator": "CEO message / orexin fact sheet, p.2",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/ec7c3f2c44331038.pdf"
+    }
+   ],
+   "related_reports": []
+  },
+  {
+   "scene_id": "S14",
+   "scene_title": "Closing: build the system around the medicines",
+   "scene_start_s": 366.633,
+   "scene_start": "06:06.63",
+   "claim_id": "CLM-009084",
+   "kind_in_registry": "FACT",
+   "kind_in_film": "FACT",
+   "status": "SUPPORTED",
+   "statement": "Takeda recorded a JPY 58.2 billion impairment in the year ended March 2026 on the gamma delta T-cell platform and related oncology programs after discontinuing cell therapy research, and JPY 31.9 billion on ALUNBRIG on lower sales forecasts.",
+   "value": null,
+   "unit": null,
+   "reporting_period": "FY2025",
+   "event_date": null,
+   "basis": null,
+   "single_interested_source": false,
+   "contrary_evidence": [],
+   "last_verified": "2026-11-21",
+   "sources": [
+    {
+     "source_id": "SRC-000024",
+     "title": "Takeda Pharmaceutical Company Limited Form 20-F for period ending 2026-03-31",
+     "publisher": "SEC EDGAR",
+     "url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+     "credibility_tier": "T1_primary_official",
+     "retrieved_at": "2026-11-21T11:34:59+00:00",
+     "locator": "TAK 20-F FY ended 2026-03-31, line 1920",
+     "local_document_path": "New_mediciine/evidence_library/raw_documents/sec/TAK_20-F_2026-03-31_0001395064-26-000177.htm"
+    }
+   ],
+   "related_reports": [
+    "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md"
+   ]
+  }
+ ],
+ "strategy_references": [
+  {
+   "scene_id": "S05",
+   "id": "ASM-024",
+   "type": "ASSUMPTION",
+   "text": "Entyvio net-revenue erosion over the three years after first meaningful U.S. biosimilar entry.",
+   "value": 60,
+   "unit": "percent",
+   "rationale": "Range 40-80%. Illustrative bracket from Eylea U.S. net sales -42% in 2025 and Humira -78.6% over 2022-2025, both different products [CLM-011017] [CLM-003002]. Not a forecast. Applied to FY2025 Entyvio JPY 958.0bn [CLM-005009] gives JPY 380-770bn of annual revenue at risk by year three.",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S07",
+   "id": "BET-01",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Governed cross-franchise R&D data and decision layer",
+   "horizon": "H1",
+   "thesis": "Make Takeda's own trial, real-world, assay and plasma data reusable under one governed layer so that a small number of named decisions (target choice, trial design, supply planning) can be measured against a pre-agreed baseline. (RECOMMENDATION, conditional on IVB-001.)",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S08",
+   "id": "BET-17",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "AI use-case measurement, decision support and reskilling",
+   "horizon": "H1",
+   "thesis": "Measure a small set of AI use cases against pre-agreed baselines, prune early, pilot AI decision support that advises humans only, and publish a reskilling plan measured by task capability. (HYPOTHESIS) [CLM-011080] [CLM-011081] [CLM-011074]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S09",
+   "id": "BET-07",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Milestone-gated AI-design partnerships (Nabla, Iambic and successors)",
+   "horizon": "H2",
+   "thesis": "Keep AI-design alliances but tie each scale-up to first-in-human or Phase 2 data with pre-agreed stop rules; do not pay for scale on vendor claims. (RECOMMENDATION) [CLM-011060] [CLM-006058]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S09",
+   "id": "BET-09",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Rented automated data generation (CRO and cloud labs) with ladder triggers",
+   "horizon": "H1",
+   "thesis": "Buy stage 1-2 automated data generation as a service, run one stage-3 pilot only on explicit triggers, and do not build an owned robotic lab. (RECOMMENDATION) [CLM-011065] [CLM-011066]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S09",
+   "id": "BET-10",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Owned autonomous discovery lab (stage 4-5)",
+   "horizon": "H3",
+   "thesis": "Build an owned closed-loop autonomous lab. Not supported by evidence today; recorded as a rejected alternative with revisit triggers. (RECOMMENDATION: REJECT now.)",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S10",
+   "id": "BET-04",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Entyvio franchise defence: payer contracting, evidence and lifecycle",
+   "horizon": "H1",
+   "thesis": "Build payer-contracting and formulary-defence depth, outcomes evidence and lifecycle plans for Entyvio ahead of Medicare negotiation (January 2028) and biosimilar entry, to delay erosion and measure it. The outcome is 'delay and measure', not 'retain revenue': the January 2028 price is statutory and PBM private-label biosimilars route around contracts. (RECOMMENDATION) [CLM-011072] [CLM-007026] [CLM-007015]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S10",
+   "id": "BET-11",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Drug-device and home/SC administration platform",
+   "horizon": "H1",
+   "thesis": "Extend drug-device combinations (pens, needle-free transfer, home infusion) as the cheaper Intuitive-style pull-through, instead of surgical or lab robotics. (HYPOTHESIS) [CLM-011048]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S10",
+   "id": "BET-12",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Launch-pathway partnerships and patient-services outcome measurement",
+   "horizon": "H1",
+   "thesis": "Attach a diagnosis and certified-site pathway pilot to the oveporexton (Orzeyful) launch with a named leader, starting 2027 H1, and measure time-to-therapy and persistence before any redesign. Capped at USD 50m. (HYPOTHESIS) [CLM-011070] [CLM-005029]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S10",
+   "id": "RM-003",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-003",
+    "year": 2027,
+    "half": "H1",
+    "bet_id": "BET-04",
+    "milestone": "Gate: Entyvio benefit-channel split (medical versus pharmacy, IVB-004), erosion scenarios and patent posture approved; if most volume is outside the contractable channel, redirect part of the BET-04 spend to provider and site-of-care strategy.",
+    "type": "gate",
+    "depends_on": [],
+    "basis": "ASSUMPTION",
+    "claim_ids": [
+     "CLM-005017",
+     "CLM-014050",
+     "CLM-007015"
+    ],
+    "assumption_ids": [
+     "ASM-024",
+     "ASM-025"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  },
+  {
+   "scene_id": "S11",
+   "id": "ASM-033",
+   "type": "ASSUMPTION",
+   "text": "Leverage ceiling after any USD 5bn+ acquisition before dividend or buyback policy is revisited.",
+   "value": 3.0,
+   "unit": "x_adjusted_net_debt_to_EBITDA",
+   "rationale": "Takeda was 2.6x at March 2026 and 3.1x at March 2024 [CLM-005005]; ceiling is a planning assumption, not a Takeda policy.",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S11",
+   "id": "ASM-119",
+   "type": "ASSUMPTION",
+   "text": "Debt headroom to the ASM-033 leverage ceiling after the Amitiza provision is debt-funded (council arithmetic).",
+   "value": 150.5,
+   "unit": "JPY_bn",
+   "rationale": "Council arithmetic from registry values, free cash flow and acquired earnings ignored: adjusted net debt JPY 3,817.6bn at 2.6x implies EBITDA JPY 1,457.2bn [CLM-005005]; a 3.0x ceiling allows JPY 4,371.6bn, so headroom is JPY 554.0bn before and JPY 150.5bn after a JPY 403.5bn Amitiza outflow [CLM-005014]; at ASM-001 that is about USD 3.7bn and USD 1.0bn. A USD 5bn purchase gives about 3.13x and about 3.41x with Amitiza.",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S11",
+   "id": "BET-15",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Large asset purchase (USD 5bn or more) as LOE bridge",
+   "horizon": "H2",
+   "thesis": "A single USD 5bn+ acquisition as the LOE bridge. (RECOMMENDATION: REJECT as framed; the bridge is a funded Phase 2/3 licensing channel, BET-18.)",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S11",
+   "id": "BET-18",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Phase 2/3 in-licensing channel",
+   "horizon": "H2",
+   "thesis": "Hold a standing channel for Phase 2/3 in-licences and option-to-acquire deals with a per-deal upfront ceiling of USD 0.5-2bn (ASM-118), contingent on Amitiza cash (IVB-012) and the 3.0x leverage ceiling (ASM-033), so that the Entyvio refill gap (2031-2034) has a funded instrument that BET-06 (payoff 2035+) and BET-15 (fails the leverage test) cannot supply. (RECOMMENDATION, council-proposed, adopted by the Director in v2.)",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S12",
+   "id": "BET-02",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Plasma process-intelligence and fixed-price automation programme",
+   "horizon": "H1",
+   "thesis": "Test whether donor, yield and process data from the plasma network are a proprietary data class (no plasma peer is in the comparison set, so uniqueness is untested) by funding only a baseline, a demand-versus-capacity test, a plasma-peer benchmark and a one-site shadow-mode tranche before any fixed-price automation or network roll-out. (HYPOTHESIS) [CLM-011056] [CLM-011031]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S12",
+   "id": "BET-03",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Orexin science as a multi-asset discovery platform",
+   "horizon": "H2",
+   "thesis": "Run orexin biology as a platform with a second differentiated asset, funded at the constrained discovery size, with a Phase 1 gate before the H2 tranche, an additionality test against base R&D and a competitor orexin scan. (HYPOTHESIS) [CLM-011038]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S12",
+   "id": "BET-06",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Option-based external innovation engine incl. new-modality options",
+   "horizon": "H2",
+   "thesis": "Use option and early-licence structures with small upfronts and gated exercise for one or two modalities adjacent to existing disease depth (for example RNAi next to fazirsiran), scorecard-first, at the strategy's own constrained size; the balance of the v1 size is contingent on the deal-outcome scorecard (RM-007) and the first two deals (RM-019). (HYPOTHESIS) [CLM-011061]",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "ASM-001",
+   "type": "ASSUMPTION",
+   "text": "JPY per USD used only to size strategic-bet envelopes against disclosed Takeda JPY figures.",
+   "value": 150,
+   "unit": "JPY_per_USD",
+   "rationale": "Round planning rate, not a forecast. Takeda R&D JPY 675.9bn [CLM-005004] converts to about USD 4.5bn at this rate; Takeda amounts otherwise stay in JPY.",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S13",
+   "id": "ASM-002",
+   "type": "ASSUMPTION",
+   "text": "Balanced portfolio: committed-at-gates strategic-bet envelope, cumulative 2027-2040 (sum of v2 bet sizings; v1 was USD 2,950m).",
+   "value": 1920,
+   "unit": "USD_m",
+   "rationale": "Takeda's budget is not public (IVB-014). v2: USD 1,920m committed at gates plus about USD 1,030m contingent headroom reserved for BET-18 (ASM-118), which is not a saving. Anchors for scale: Lilly-NVIDIA lab up to USD 1bn over 5 years, joint [CLM-000281]; Nimbus USD 4.0bn upfront [CLM-009076]; AbbVie early-stage stream USD 0.6-1.0bn a year [CLM-009097]. About 3.0% of 14 years of flat R&D at ASM-001; incremental to base R&D and base plant capex (ASM-035).",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S13",
+   "id": "ASM-118",
+   "type": "ASSUMPTION",
+   "text": "BET-18 contingent pool, balanced portfolio (per-deal upfront ceiling range USD 500-2,000m).",
+   "value": 1030,
+   "unit": "USD_m",
+   "rationale": "Council suggestion of a per-deal ceiling of USD 0.5-2bn, to be set after IVB-012. The balanced pool equals the headroom freed by the v2 changes (BET-06 400, BET-03 200, BET-02 200, BET-07 100, BET-13 80, BET-12 50); constrained pool 500 and ambitious pool 2,000 are the range ends. Not committed; released only if the leverage test (ASM-033, ASM-119) passes. Comparators: Innovent USD 1.2bn upfront [CLM-009078]; Nimbus USD 4.0bn upfront exceeds the ceiling [CLM-009076].",
+   "source_doc": "strategy/data/assumptions.json"
+  },
+  {
+   "scene_id": "S13",
+   "id": "BET-18",
+   "type": "STRATEGY_BET (RECOMMENDATION)",
+   "name": "Phase 2/3 in-licensing channel",
+   "horizon": "H2",
+   "thesis": "Hold a standing channel for Phase 2/3 in-licences and option-to-acquire deals with a per-deal upfront ceiling of USD 0.5-2bn (ASM-118), contingent on Amitiza cash (IVB-012) and the 3.0x leverage ceiling (ASM-033), so that the Entyvio refill gap (2031-2034) has a funded instrument that BET-06 (payoff 2035+) and BET-15 (fails the leverage test) cannot supply. (RECOMMENDATION, council-proposed, adopted by the Director in v2.)",
+   "source_doc": "strategy/data/strategy_bets.json; strategy/investment_theses/strategic_bets.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "RM-001",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-001",
+    "year": 2027,
+    "half": "H1",
+    "bet_id": "BET-17",
+    "milestone": "Use-case inventory and baselines set (closes IVB-001 and IVB-003 questions).",
+    "type": "foundation",
+    "depends_on": [],
+    "basis": "ASSUMPTION",
+    "claim_ids": [
+     "CLM-006022",
+     "CLM-005058"
+    ],
+    "assumption_ids": [
+     "ASM-117"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "RM-016",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-016",
+    "year": 2028,
+    "half": "H1",
+    "bet_id": "BET-04",
+    "milestone": "Medicare negotiated price for Entyvio effective January 2028; contracting posture in place.",
+    "type": "outcome",
+    "depends_on": [
+     "RM-003"
+    ],
+    "basis": "evidence",
+    "claim_ids": [
+     "CLM-007026",
+     "CLM-008022"
+    ],
+    "assumption_ids": [
+     "ASM-104"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "RM-020",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-020",
+    "year": 2028,
+    "half": "H2",
+    "bet_id": "BET-07",
+    "milestone": "Stop or expand decision on Nabla and Iambic based on data; depends on the BET-01 decision log and the BET-09 cost benchmark; releases the H2 and H3 tranches.",
+    "type": "gate",
+    "depends_on": [
+     "RM-011",
+     "RM-015",
+     "RM-018"
+    ],
+    "basis": "ASSUMPTION",
+    "claim_ids": [
+     "CLM-006039",
+     "CLM-006041",
+     "CLM-006058"
+    ],
+    "assumption_ids": [
+     "ASM-021"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "RM-025",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-025",
+    "year": 2029,
+    "half": "H2",
+    "bet_id": "BET-02",
+    "milestone": "Scale decision: network roll-out versus stop (ASM-031 threshold).",
+    "type": "scale_decision",
+    "depends_on": [
+     "RM-017"
+    ],
+    "basis": "ASSUMPTION",
+    "claim_ids": [
+     "CLM-011031"
+    ],
+    "assumption_ids": [
+     "ASM-031",
+     "ASM-102"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  },
+  {
+   "scene_id": "S13",
+   "id": "RM-026",
+   "type": "ROADMAP_MILESTONE",
+   "record": {
+    "id": "RM-026",
+    "year": 2028,
+    "half": "H1",
+    "bet_id": "BET-04",
+    "milestone": "Biosimilar-event playbook live (moved from 2029 H2 to cover the early-entry stress case S-A, ASM-038).",
+    "type": "gate",
+    "depends_on": [
+     "RM-016"
+    ],
+    "basis": "ASSUMPTION",
+    "claim_ids": [
+     "CLM-014051",
+     "CLM-007015"
+    ],
+    "assumption_ids": [
+     "ASM-025",
+     "ASM-038"
+    ]
+   },
+   "source_doc": "strategy/data/roadmap.json; strategy/strategic_roadmap/roadmap_2027_2040.md"
+  }
+ ],
+ "unresolved_ids": []
+}

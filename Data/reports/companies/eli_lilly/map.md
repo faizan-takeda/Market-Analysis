@@ -1,0 +1,14 @@
+# Eli Lilly directory map
+- [master_report.md](master_report.md) v1.1 master dossier (Dossier status header; §22 lists audit repairs)
+- [timeline.md](timeline.md) dated events 2021-2026
+- [business/business_model.md](business/business_model.md) financial architecture
+- [pipeline/late_stage_assets.md](pipeline/late_stage_assets.md) late-stage assets with NCTs
+- [pipeline/ctgov_inventory.md](pipeline/ctgov_inventory.md) pre-existing CT.gov inventory
+- [commercial_market_access/commercial.md](commercial_market_access/commercial.md) access and pricing
+- [successes_failures/successes_failures.md](successes_failures/successes_failures.md) outcomes
+- [competitive_advantage/moats.md](competitive_advantage/moats.md) moats (interpretation)
+- [leadership/leadership.md](leadership/leadership.md) executives
+- [financials/xbrl_annual_facts.md](financials/xbrl_annual_facts.md) pre-existing XBRL facts
+- [evidence_gaps.md](evidence_gaps.md) gaps (closed and open, v1.1)
+- [financials/edgar_annual_facts.md](financials/edgar_annual_facts.md) pre-existing EDGAR facts (unchanged)
+- Horizontals: [ai_data_robotics](../../industry_transformation/ai_data_robotics/map.md), [partnerships_ecosystem](../../industry_transformation/partnerships_ecosystem/map.md), [pipeline_regulatory](../../industry_transformation/pipeline_regulatory/map.md), [policy](../../industry_transformation/policy/map.md), [commercial_patient](../../industry_transformation/commercial_patient/map.md)

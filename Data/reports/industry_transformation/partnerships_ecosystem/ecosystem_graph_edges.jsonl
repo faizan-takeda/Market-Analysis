@@ -1,0 +1,49 @@
+{"from": "Eli Lilly", "to": "Morphic", "type": "acquisition", "date": "2024-08-16", "claim_ids": ["CLM-009001"], "status": "completed", "value_usd_m": 3200}
+{"from": "Eli Lilly", "to": "POINT Biopharma", "type": "acquisition", "date": "2023-12-27", "claim_ids": ["CLM-009006"], "status": "completed", "value_usd_m": 1000}
+{"from": "Eli Lilly", "to": "Akouos", "type": "acquisition", "date": "2022-12-01", "claim_ids": ["CLM-009007"], "status": "completed", "value_usd_m": 327}
+{"from": "Eli Lilly", "to": "Verve Therapeutics", "type": "acquisition", "date": "2025-07-25", "claim_ids": ["CLM-009010"], "status": "completed", "value_usd_m": 549}
+{"from": "Eli Lilly", "to": "DICE Therapeutics", "type": "acquisition", "date": "2023-08", "claim_ids": ["CLM-009003"], "status": "completed", "value_usd_m": 1916}
+{"from": "Eli Lilly", "to": "Versanis Bio", "type": "acquisition", "date": "2023-08", "claim_ids": ["CLM-009004"], "status": "completed", "value_usd_m": 604}
+{"from": "Eli Lilly", "to": "Scorpion Therapeutics (STX-478)", "type": "asset_acquisition", "date": "2025-03", "claim_ids": ["CLM-009011"], "status": "completed", "value_usd_m": 1412}
+{"from": "Eli Lilly", "to": "SiteOne Therapeutics", "type": "acquisition", "date": "2025-07", "claim_ids": ["CLM-009011"], "status": "completed", "value_usd_m": 494}
+{"from": "Eli Lilly", "to": "NVIDIA", "type": "co_innovation_partnership", "date": "2026-01-12", "claim_ids": ["CLM-009029"], "status": "announced", "value_usd_m": 1000}
+{"from": "Eli Lilly", "to": "Benchling", "type": "platform_distribution", "date": "2026-01", "claim_ids": ["CLM-009027"], "status": "announced"}
+{"from": "Eli Lilly", "to": "Cheplapharm", "type": "divestiture", "date": "2023-07", "claim_ids": ["CLM-009018"], "status": "completed", "value_usd_m": 1050}
+{"from": "Eli Lilly", "to": "Amphastar", "type": "divestiture", "date": "2023-06", "claim_ids": ["CLM-009018"], "status": "completed", "value_usd_m": 500}
+{"from": "Johnson & Johnson", "to": "Abiomed", "type": "acquisition", "date": "2022-12-22", "claim_ids": ["CLM-009041"], "status": "completed", "value_usd_m": 17100}
+{"from": "Johnson & Johnson", "to": "Shockwave Medical", "type": "acquisition", "date": "2024-05-31", "claim_ids": ["CLM-009033"], "status": "completed", "value_usd_m": 12600}
+{"from": "Johnson & Johnson", "to": "Intra-Cellular Therapies", "type": "acquisition", "date": "2025-04-02", "claim_ids": ["CLM-009030"], "status": "completed", "value_usd_m": 14500}
+{"from": "Johnson & Johnson", "to": "Halda Therapeutics", "type": "acquisition", "date": "2025-12-26", "claim_ids": ["CLM-009032"], "status": "completed", "value_usd_m": 3050}
+{"from": "Johnson & Johnson", "to": "Ambrx", "type": "acquisition", "date": "2024-03-07", "claim_ids": ["CLM-009035"], "status": "completed", "value_usd_m": 1800}
+{"from": "Johnson & Johnson", "to": "Proteologix", "type": "acquisition", "date": "2024-06-20", "claim_ids": ["CLM-009036"], "status": "completed", "value_usd_m": 800}
+{"from": "Johnson & Johnson", "to": "Yellow Jersey (Numab NM26)", "type": "asset_acquisition", "date": "2024-07-11", "claim_ids": ["CLM-009037"], "status": "completed", "value_usd_m": 1250}
+{"from": "Johnson & Johnson", "to": "V-Wave", "type": "acquisition", "date": "2024-10-08", "claim_ids": ["CLM-009038"], "status": "completed", "value_usd_m": 600}
+{"from": "Johnson & Johnson", "to": "Laminar", "type": "acquisition", "date": "2023", "claim_ids": ["CLM-009039"], "status": "completed", "value_usd_m": 400}
+{"from": "AbbVie", "to": "ImmunoGen", "type": "acquisition", "date": "2024-02-12", "claim_ids": ["CLM-009056"], "status": "completed", "value_usd_m": 9800}
+{"from": "AbbVie", "to": "Cerevel Therapeutics", "type": "acquisition", "date": "2024-08-01", "claim_ids": ["CLM-009053"], "status": "completed", "value_usd_m": 8700}
+{"from": "AbbVie", "to": "Capstan Therapeutics", "type": "asset_acquisition", "date": "2025-08", "claim_ids": ["CLM-009058"], "status": "completed", "value_usd_m": 2100}
+{"from": "AbbVie", "to": "Gilgamesh Pharmaceuticals", "type": "asset_acquisition", "date": "2025-10", "claim_ids": ["CLM-009059"], "status": "completed", "value_usd_m": 906}
+{"from": "AbbVie", "to": "Ichnos Glenmark Innovation", "type": "license", "date": "2025-09", "claim_ids": ["CLM-009060"], "status": "completed", "value_usd_m": 700}
+{"from": "AbbVie", "to": "ADARx Pharmaceuticals", "type": "license_option", "date": "2025-05", "claim_ids": ["CLM-009061"], "status": "completed", "value_usd_m": 335}
+{"from": "AbbVie", "to": "Gubra", "type": "license", "date": "2025-04", "claim_ids": ["CLM-009062"], "status": "completed", "value_usd_m": 350}
+{"from": "AbbVie", "to": "Aliada Therapeutics", "type": "asset_acquisition", "date": "2024-12", "claim_ids": ["CLM-009063"], "status": "completed", "value_usd_m": 1400}
+{"from": "AbbVie", "to": "Celsius Therapeutics", "type": "asset_acquisition", "date": "2024-06", "claim_ids": ["CLM-009064"], "status": "completed", "value_usd_m": 250}
+{"from": "AbbVie", "to": "Nimble Therapeutics", "type": "acquisition", "date": "2025-01-23", "claim_ids": ["CLM-009057"], "status": "completed", "value_usd_m": 288}
+{"from": "AbbVie", "to": "DJS Antibodies", "type": "acquisition", "date": "2022-10", "claim_ids": ["CLM-009065"], "status": "completed", "value_usd_m": 287}
+{"from": "AbbVie", "to": "Syndesi Therapeutics", "type": "asset_acquisition", "date": "2022-02", "claim_ids": ["CLM-009066"], "status": "completed", "value_usd_m": 130}
+{"from": "AbbVie", "to": "Soliton", "type": "acquisition", "date": "2021-12", "claim_ids": ["CLM-009067"], "status": "completed", "value_usd_m": 535}
+{"from": "AbbVie", "to": "Calico Life Sciences", "type": "research_collaboration_option", "date": "2021-07", "claim_ids": ["CLM-009068"], "status": "extended", "value_usd_m": 500}
+{"from": "AbbVie", "to": "Genmab", "type": "co_development", "date": "2022", "claim_ids": ["CLM-009072"], "status": "marketed"}
+{"from": "AbbVie", "to": "Johnson & Johnson (Janssen)", "type": "co_commercialization", "date": "2011", "claim_ids": ["CLM-009073"], "status": "ongoing"}
+{"from": "AbbVie", "to": "Takeda", "type": "license", "date": "2025", "claim_ids": ["CLM-009093"], "status": "ongoing"}
+{"from": "Takeda", "to": "Nimbus Therapeutics (Lakshmi)", "type": "acquisition", "date": "2023-02-08", "claim_ids": ["CLM-009076"], "status": "completed", "value_usd_m": 4000}
+{"from": "Takeda", "to": "Innovent Biologics", "type": "license_equity_option", "date": "2025-10-22", "claim_ids": ["CLM-009078"], "status": "closed", "value_usd_m": 1200}
+{"from": "Takeda", "to": "Protagonist Therapeutics", "type": "license", "date": "2024-03", "claim_ids": ["CLM-009080"], "status": "completed"}
+{"from": "Takeda", "to": "Keros Therapeutics", "type": "license", "date": "2025", "claim_ids": ["CLM-009081"], "status": "completed"}
+{"from": "Takeda", "to": "HUTCHMED", "type": "license", "date": "2023", "claim_ids": ["CLM-009082"], "status": "approved_product"}
+{"from": "Takeda", "to": "Teva (Teva Takeda Pharma)", "type": "jv_dissolution", "date": "2025-03", "claim_ids": ["CLM-009085"], "status": "completed"}
+{"from": "Takeda", "to": "Denali Therapeutics", "type": "collaboration_terminated", "date": "2026-04", "claim_ids": ["CLM-009089"], "status": "terminated"}
+{"from": "Takeda", "to": "Neurocrine Biosciences", "type": "collaboration_terminated", "date": "2025-03", "claim_ids": ["CLM-009090"], "status": "terminated"}
+{"from": "AbbVie", "to": "BaseLaunch", "type": "venture_platform_membership", "date": "2025", "claim_ids": ["CLM-009094"], "status": "ongoing"}
+{"from": "Johnson & Johnson", "to": "BaseLaunch", "type": "venture_platform_membership", "date": "2025", "claim_ids": ["CLM-009094"], "status": "ongoing"}
+{"from": "Takeda", "to": "BaseLaunch", "type": "venture_platform_membership", "date": "2025-12", "claim_ids": ["CLM-009091"], "status": "ongoing"}

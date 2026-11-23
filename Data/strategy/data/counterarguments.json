@@ -1,0 +1,1196 @@
+{
+ "items": [
+  {
+   "id": "CA-001",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-024 (Entyvio erosion of 40-80% over three years) is bracketed by Eylea (-42% in one year) and Humira (-78.6% over three years). Both are different products with different channels. Neither is an intravenous infused biologic, so the bracket has no analogue for Entyvio's actual route of administration.",
+   "claim_ids": [
+    "CLM-011017",
+    "CLM-003002"
+   ],
+   "assumption_ids": [
+    "ASM-024"
+   ]
+  },
+  {
+   "id": "CA-002",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-025 puts first meaningful US Entyvio biosimilar entry at 2031 (range 2030-2032). The range excludes entry in 2027-2029. Two biosimilar BLAs are under FDA review (one decision expected Q1 2027 per trade reporting), the reference product was first approved on 2014-05-20, and Takeda says biosimilars launching before the 2032 patent dates must address infringement and validity. Under the statutory 12-year reference-product exclusivity (a rule outside the registry, to be verified), the regulatory barrier would already have lapsed in May 2026, leaving patents as the only barrier. Playbook milestone RM-026 (2029 H2) would be late if entry were earlier.",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-014050",
+    "CLM-014051"
+   ],
+   "assumption_ids": [
+    "ASM-025"
+   ]
+  },
+  {
+   "id": "CA-003",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "The Entyvio exposure arithmetic applies ASM-024 to the global JPY 958.0bn. The US was JPY 351.8bn of JPY 541.7bn Entyvio sales in H1 FY2026 (about 65%, council arithmetic). First-entry erosion is a US event, so the three-year window is overstated on the global base, while ex-US erosion follows later and is absent from the table.",
+   "claim_ids": [
+    "CLM-005009",
+    "CLM-005012"
+   ],
+   "assumption_ids": [
+    "ASM-024"
+   ]
+  },
+  {
+   "id": "CA-004",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-020, ASM-021, ASM-022 and ASM-028 (0.65, 0.15, 0.6, 0.1) are judgment, not data. Takeda's own R&D Day deck cites PTRS above 70% for the late-stage set, against ASM-022 at 0.6; neither is anchored. The capital ranking of bets uses these numbers, so the ranking is only as good as the judgment.",
+   "claim_ids": [
+    "CLM-014049",
+    "CLM-005041"
+   ],
+   "assumption_ids": [
+    "ASM-020",
+    "ASM-021",
+    "ASM-022",
+    "ASM-028"
+   ]
+  },
+  {
+   "id": "CA-005",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-033 sets 3.0x adjusted net debt to EBITDA as the leverage ceiling for any USD 5bn+ purchase. It is not a Takeda policy. Council arithmetic: JPY 3,817.6bn plus JPY 750bn (USD 5bn at ASM-001) over JPY 1,457.2bn is 3.13x, and 3.41x if the JPY 403.5bn Amitiza provision is also debt-funded. The trigger is unmet by arithmetic before any asset is named.",
+   "claim_ids": [
+    "CLM-005005",
+    "CLM-005014"
+   ],
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-001"
+   ]
+  },
+  {
+   "id": "CA-006",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-034 is labelled a planning 'range' but holds one value, the JPY 403.5bn provision. At JPY 152 per USD it equals three times the USD 884.9m single damages (council arithmetic, consistent with, not confirmed by, Takeda's disclosure). The third-party-payor class, interest, fees and any appeal outcome are not in the number, so the provision is a base case, not a downside.",
+   "claim_ids": [
+    "CLM-014048",
+    "CLM-005014",
+    "CLM-005013",
+    "CLM-014047"
+   ],
+   "assumption_ids": [
+    "ASM-034"
+   ]
+  },
+  {
+   "id": "CA-007",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "ASM-002 to ASM-004 are sums of bet-level sizings, not a top-down envelope. The 'constrained' case is set at 54% of balanced by convention. No Takeda technology or strategic-bet budget is public (IVB-014), so envelope totals could be off by a multiple.",
+   "claim_ids": [
+    "CLM-005004",
+    "CLM-005007"
+   ],
+   "assumption_ids": [
+    "ASM-002",
+    "ASM-003",
+    "ASM-004",
+    "ASM-035"
+   ]
+  },
+  {
+   "id": "CA-008",
+   "target": "BET-06",
+   "type": "unsupported_assumption",
+   "text": "ASM-106 sizes the option engine at USD 700m over 14 years, anchored on ADARx (USD 335m upfront) and Innovent (USD 1.2bn upfront including USD 100m equity). A single Innovent-type deal exceeds the whole engine. Either the engine excludes Takeda's real licence path or the anchor is mis-scaled.",
+   "claim_ids": [
+    "CLM-009061",
+    "CLM-009078"
+   ],
+   "assumption_ids": [
+    "ASM-106"
+   ]
+  },
+  {
+   "id": "CA-009",
+   "target": "BET-02",
+   "type": "unsupported_assumption",
+   "text": "ASM-031 (a 2% yield or cost improvement as the pilot pass mark, range 1-4%) has no economic anchor. Without cost per litre, the value of a 2% gain, and therefore whether USD 350m of follow-on is justified, cannot be computed.",
+   "claim_ids": [
+    "CLM-005063",
+    "CLM-005065"
+   ],
+   "assumption_ids": [
+    "ASM-031",
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "CA-010",
+   "target": "BET-01",
+   "type": "unsupported_assumption",
+   "text": "ASM-101 sizes the data layer at USD 200m by reference to ARCH, built by fewer than ten staff plus contractors. ARCH's total cost is not disclosed, so the anchor supports an order of magnitude, not a number.",
+   "claim_ids": [
+    "CLM-006032"
+   ],
+   "assumption_ids": [
+    "ASM-101"
+   ]
+  },
+  {
+   "id": "CA-011",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "Six bets carry confidence 'evidence_backed' (BET-04, 05, 08, 09, 11, 16) while their load-bearing recommendation claims are PARTIALLY_SUPPORTED or NEEDS_MORE_RESEARCH (CLM-011054, 011065, 011066, 011072, 011073, 007053). The A10-bis scorecard already flagged seven recommendations labelled EVIDENCE_BACKED but registered PARTIALLY_SUPPORTED.",
+   "claim_ids": [
+    "CLM-011054",
+    "CLM-011065",
+    "CLM-011066",
+    "CLM-011072",
+    "CLM-011073",
+    "CLM-007053"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-012",
+   "target": "THEME",
+   "type": "unsupported_assumption",
+   "text": "Most 'evidence' for the AI, data, plasma, orexin, registry and launch-pathway bets is the registry's own A11_strategy HYPOTHESIS or INTERPRETATION claims (CLM-011027 to CLM-011087), which carry NEEDS_MORE_RESEARCH or PARTIALLY_SUPPORTED status. Citing them as support is circular: they are hypotheses generated by the same strategy process.",
+   "claim_ids": [
+    "CLM-011027",
+    "CLM-011031",
+    "CLM-011038",
+    "CLM-011051",
+    "CLM-011055",
+    "CLM-011056",
+    "CLM-011066",
+    "CLM-011070"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-013",
+   "target": "BET-04",
+   "type": "unsupported_assumption",
+   "text": "The BET-04 premise that payer contracting can retain revenue assumes Entyvio sits in the contractable pharmacy channel. The registry has no claim on Entyvio's medical-benefit versus pharmacy-benefit mix. All three analogues (Humira, Stelara, Zepbound) are self-administered pharmacy-benefit products.",
+   "claim_ids": [
+    "CLM-003007",
+    "CLM-007015",
+    "CLM-007011"
+   ],
+   "assumption_ids": [
+    "ASM-104"
+   ]
+  },
+  {
+   "id": "CA-014",
+   "target": "BET-04",
+   "type": "unsupported_assumption",
+   "text": "The exposure arithmetic shows 'if defence retains 10 points of erosion the value is about JPY 96bn a year'. No lever, evidence or analogue shows that any contracting posture retains 10 points. The figure illustrates scale and could be read as an expected benefit.",
+   "claim_ids": [
+    "CLM-005009",
+    "CLM-003007"
+   ],
+   "assumption_ids": [
+    "ASM-024",
+    "ASM-104"
+   ]
+  },
+  {
+   "id": "CA-015",
+   "target": "BET-02",
+   "type": "unsupported_assumption",
+   "text": "'Plasma is capacity-bound' rests on Lilly's tirzepatide shortage record. Takeda's own H1 FY2026 plasma revenue is -1.5% at constant rates, and no capacity-utilisation datum is public. The argument may be inverted: demand, pricing or collection rates may bind.",
+   "claim_ids": [
+    "CLM-005064",
+    "CLM-001066",
+    "CLM-000172"
+   ],
+   "assumption_ids": [
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "CA-016",
+   "target": "BET-03",
+   "type": "unsupported_assumption",
+   "text": "ASM-103 treats USD 500m of orexin spend as incremental to base R&D (ASM-035). The Shonan orexin discovery team already sits in base R&D of JPY 675.9bn, so the incremental share cannot be verified from public data.",
+   "claim_ids": [
+    "CLM-005004",
+    "CLM-005048"
+   ],
+   "assumption_ids": [
+    "ASM-103",
+    "ASM-035"
+   ]
+  },
+  {
+   "id": "CA-017",
+   "target": "BET-12",
+   "type": "unsupported_assumption",
+   "text": "The hypothesis that launch pathways govern oveporexton uptake is generalised from Spravato (site certification) and Carvykti (capacity). Narcolepsy type 1 is diagnosed and treated by sleep specialists, a population and referral pattern not examined in the registry.",
+   "claim_ids": [
+    "CLM-011070",
+    "CLM-007029",
+    "CLM-007030"
+   ],
+   "assumption_ids": [
+    "ASM-112"
+   ]
+  },
+  {
+   "id": "CA-018",
+   "target": "BET-17",
+   "type": "unsupported_assumption",
+   "text": "ASM-117 assumes baselines can be set for AI use cases. J&J's published precedent (900 use cases reviewed, 10-15% drive about 80% of value) is a single CIO interview and carries no method.",
+   "claim_ids": [
+    "CLM-006018",
+    "CLM-006019"
+   ],
+   "assumption_ids": [
+    "ASM-117"
+   ]
+  },
+  {
+   "id": "CA-019",
+   "target": "BET-01",
+   "type": "unresolved_question",
+   "text": "How many AI and data products run in production at Takeda, with what users and what measured outcomes? Until IVB-001 is answered, BET-01 cannot be classified as a thin extension or a large build.",
+   "claim_ids": [
+    "CLM-005058",
+    "CLM-005080"
+   ],
+   "assumption_ids": [
+    "ASM-101"
+   ]
+  },
+  {
+   "id": "CA-020",
+   "target": "BET-04",
+   "type": "unresolved_question",
+   "text": "What is Entyvio's net price, persistence and benefit-channel split by payer segment, and what is the internal erosion curve? These decide whether the BET-04 lever exists (IVB-004).",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-005012"
+   ],
+   "assumption_ids": [
+    "ASM-024",
+    "ASM-025"
+   ]
+  },
+  {
+   "id": "CA-021",
+   "target": "BET-05",
+   "type": "unresolved_question",
+   "text": "What are Takeda's internal probabilities of success and launch forecasts for zasocitinib, oveporexton and rusfertide, and what was the FDA action date for zasocitinib under Priority Review (IVB-005)? The registry holds neither.",
+   "claim_ids": [
+    "CLM-005035",
+    "CLM-014049"
+   ],
+   "assumption_ids": [
+    "ASM-022"
+   ]
+  },
+  {
+   "id": "CA-022",
+   "target": "BET-02",
+   "type": "unresolved_question",
+   "text": "What are plasma yield per centre and cost per litre, and what is fractionation utilisation after the USD 230m expansion (IVB-006)?",
+   "claim_ids": [
+    "CLM-005063",
+    "CLM-005065"
+   ],
+   "assumption_ids": [
+    "ASM-031"
+   ]
+  },
+  {
+   "id": "CA-023",
+   "target": "THEME",
+   "type": "unresolved_question",
+   "text": "What is the final Amitiza judgment, trebling, appeal path and cash timing, and was the JPY 403.5bn provision already counted in 'adjusted' net debt (IVB-012)? Leverage headroom for every large decision depends on it.",
+   "claim_ids": [
+    "CLM-005013",
+    "CLM-005014",
+    "CLM-014048"
+   ],
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-034"
+   ]
+  },
+  {
+   "id": "CA-024",
+   "target": "BET-06",
+   "type": "unresolved_question",
+   "text": "What is the scope, size and track record of Takeda Ventures and the Center for External Innovation (IVB-007)? The option engine assumes an organisation the registry cannot see.",
+   "claim_ids": [
+    "CLM-014052",
+    "CLM-005052",
+    "CLM-009091"
+   ],
+   "assumption_ids": [
+    "ASM-106"
+   ]
+  },
+  {
+   "id": "CA-025",
+   "target": "BET-03",
+   "type": "unresolved_question",
+   "text": "What is Takeda's early-pipeline depth beyond the six late-stage programmes (IVB-008) and which competitors run orexin agonists in which phase? Neither is in the registry.",
+   "claim_ids": [
+    "CLM-005044",
+    "CLM-005048"
+   ],
+   "assumption_ids": [
+    "ASM-021",
+    "ASM-103"
+   ]
+  },
+  {
+   "id": "CA-026",
+   "target": "BET-07",
+   "type": "unresolved_question",
+   "text": "Which payments to Nabla and Iambic are committed upfront versus contingent, who owns the data fed to partner models, and what stop rules are in the contracts? The registry has only press terms.",
+   "claim_ids": [
+    "CLM-006039",
+    "CLM-006041",
+    "CLM-005049"
+   ],
+   "assumption_ids": [
+    "ASM-107"
+   ]
+  },
+  {
+   "id": "CA-027",
+   "target": "BET-09",
+   "type": "unresolved_question",
+   "text": "What are Takeda's current internal cost per data point and turnaround for the assays it would rent (IVB-002)? The gate compares a CRO price against a baseline that is not known.",
+   "claim_ids": [
+    "CLM-005067",
+    "CLM-006016"
+   ],
+   "assumption_ids": [
+    "ASM-109"
+   ]
+  },
+  {
+   "id": "CA-028",
+   "target": "BET-12",
+   "type": "unresolved_question",
+   "text": "When did or will oveporexton become commercially available after the DEA scheduling decision, and what is the early prescription-to-first-dose time? The pilot date (2027 H2) depends on it.",
+   "claim_ids": [
+    "CLM-005029",
+    "CLM-007039"
+   ],
+   "assumption_ids": [
+    "ASM-112"
+   ]
+  },
+  {
+   "id": "CA-029",
+   "target": "BET-17",
+   "type": "unresolved_question",
+   "text": "What share of the JPY 200bn savings is attributed to technology versus headcount (IVB-003), and who certifies the attribution?",
+   "claim_ids": [
+    "CLM-005059",
+    "CLM-005078"
+   ],
+   "assumption_ids": [
+    "ASM-117"
+   ]
+  },
+  {
+   "id": "CA-030",
+   "target": "BET-11",
+   "type": "unresolved_question",
+   "text": "Does SC conversion retain net price and patients after biosimilar entry, or does it move patients into the pharmacy-benefit channel where PBM templates apply? No data exist (IVB-004).",
+   "claim_ids": [
+    "CLM-007053",
+    "CLM-007015",
+    "CLM-007016"
+   ],
+   "assumption_ids": [
+    "ASM-111"
+   ]
+  },
+  {
+   "id": "CA-031",
+   "target": "CLM-009002",
+   "type": "conflicting_sources",
+   "text": "Morphic deal value: USD 3.2bn (Reuters headline), USD 2.55bn (audited acquired IPR&D charge) and USD 3.35bn (cash paid per the 10-K) measure different things. A10 proposed keeping all three with a basis note; the registry has not yet recorded it as a conflict.",
+   "claim_ids": [
+    "CLM-009001",
+    "CLM-009002"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-032",
+   "target": "CLM-006017",
+   "type": "conflicting_sources",
+   "text": "Lilly's robotic lab: BiopharmaTrend dates the Life Sciences Studio to 2017 (USD 90m); a Fierce snippet implies about 2020; the Strateos link and 2020 launch date are unsupported by any cited page; a Fierce snippet says Lilly sold 'a majority', not all. The reason for the sale is undisclosed. BET-09 and BET-10 lean on this evidence.",
+   "claim_ids": [
+    "CLM-006013",
+    "CLM-006014",
+    "CLM-006015",
+    "CLM-006017"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-033",
+   "target": "CLM-005078",
+   "type": "conflicting_sources",
+   "text": "Takeda restructuring cost: about JPY 150bn (March 2026), JPY 170.0bn (original FY2026 forecast, May 2026) and JPY 160.0bn (revised, October 2026). CLM-005078 still mis-describes 170bn as trade press.",
+   "claim_ids": [
+    "CLM-005078",
+    "CLM-005059"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-034",
+   "target": "CLM-005025",
+   "type": "conflicting_sources",
+   "text": "Cell-therapy impairment: JPY 58.0bn (October 2025 expectation) versus JPY 58.2bn (recognised in the FY2025 20-F). Not a contradiction, but several strategy files originally cited the earlier figure.",
+   "claim_ids": [
+    "CLM-005025",
+    "CLM-009084",
+    "CLM-009100"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-035",
+   "target": "CLM-000284",
+   "type": "conflicting_sources",
+   "text": "OTTAVA 'first commercial installation': the registry claim says completed on 2026-11-19, but J&J's release uses future tense. The De Novo grant date also differs by one day between claims (2026-07-21 FDA record versus 07-22). The strategy (BET-11 counter-example) uses it only as announced.",
+   "claim_ids": [
+    "CLM-000284",
+    "CLM-014022",
+    "CLM-006029"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-036",
+   "target": "CLM-006054",
+   "type": "conflicting_sources",
+   "text": "AI maturity: CLM-006054 and the master comparison say no company-level AI initiative shows a demonstrated outcome, while CLM-014073 (a former CEO's interview estimate of about 30% shorter narcolepsy development, no baseline or method) was first tagged DEMONSTRATED_OUTCOME. The A10-bis audit retagged it PILOT, so the registry now agrees. The strategy's statement that no competitor shows independent outcomes remains correct only in the narrower form A10 allows: the audit says CLM-006054's original wording is stronger than the sources support, so read it as 'none found in the sources opened'.",
+   "claim_ids": [
+    "CLM-006054",
+    "CLM-014073",
+    "CLM-011052"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-037",
+   "target": "CLM-007011",
+   "type": "conflicting_sources",
+   "text": "Zepbound exclusion: BET-04 and the LOE strategy cite 'about 11 months' with CLM-007011, but that claim records an 11% share-price fall on the announcement, not a duration. CVS restored Zepbound from 1 October 2026 (CLM-007013), about 15 months after the 1 July 2025 removal.",
+   "claim_ids": [
+    "CLM-007011",
+    "CLM-007013"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-038",
+   "target": "CLM-001036",
+   "type": "conflicting_sources",
+   "text": "Medicare obesity-drug access: from 'as early as 1 April 2026' (Lilly release) versus 'by 1 July 2026' (10-K). Unresolved; no CMS primary document opened. It bears on SCN-3 timing assumptions about government pricing agreements.",
+   "claim_ids": [
+    "CLM-001036",
+    "CLM-000251",
+    "CLM-007007",
+    "CLM-008027"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-039",
+   "target": "CLM-011000",
+   "type": "conflicting_sources",
+   "text": "NVIDIA CUDA developers: more than 11 million (company blog) versus over 7.5 million (10-K, different definition, ten months apart). The strategy's CUDA-flywheel analogy (BET-08, BET-14) depends on developer scale, and the audited figure is lower.",
+   "claim_ids": [
+    "CLM-011000",
+    "CLM-011001"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-040",
+   "target": "CLM-003086",
+   "type": "conflicting_sources",
+   "text": "AbbVie ImmunoGen plus Cerevel: USD 18.5bn is consideration; USD 17.5bn is net of cash; ImmunoGen alone is USD 10.1bn announced, USD 9.8bn consideration and USD 9.2bn net. The bets use the net figures and the J&J USD 17.5bn is also net. Cross-company deal values remain invalid to add.",
+   "claim_ids": [
+    "CLM-003086",
+    "CLM-009056",
+    "CLM-009049"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-041",
+   "target": "CLM-003042",
+   "type": "conflicting_sources",
+   "text": "Debt basis: the statement text of CLM-003042 and the XBRL series CLM-000066 to CLM-000070 still reads non-current, but the registry correction field (A10) says the values include the current portion (AbbVie total USD 64,503m versus non-current USD 58,941m in CLM-000287). Anyone reading statement text without the correction field will misstate AbbVie or J&J leverage; leverage statements should name a basis.",
+   "claim_ids": [
+    "CLM-003042",
+    "CLM-000287",
+    "CLM-000066"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-042",
+   "target": "CLM-009074",
+   "type": "conflicting_sources",
+   "text": "AbbVie Ventures origin: 2009 versus about 2015. Unresolved; both rest on snippets. It bears on the BD-engine benchmark in BET-06 only weakly.",
+   "claim_ids": [
+    "CLM-009074",
+    "CLM-009101"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-043",
+   "target": "CLM-012137",
+   "type": "conflicting_sources",
+   "text": "EXCLAIM-2: Takeda withdrew EXKIVITY in October 2023 after the trial missed its primary endpoint, yet the registry record shows primary completion on 2026-09-22. The registry date postdates the disclosure and must not be used to date the trial miss. Same pattern for abemaciclib CYCLONE 2.",
+   "claim_ids": [
+    "CLM-012121",
+    "CLM-012137",
+    "CLM-012136",
+    "CLM-012107"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-044",
+   "target": "CLM-014051",
+   "type": "conflicting_sources",
+   "text": "Entyvio biosimilars: the registry holds the AVT16 FDA decision (Q1 2027) only as trade reporting, and the 2014 approval date only as an FDA review-document snippet. The 'exclusivity status unconfirmed' note means ASM-025 cannot be tested against a primary record such as the Purple Book.",
+   "claim_ids": [
+    "CLM-014051",
+    "CLM-014050",
+    "CLM-005017"
+   ],
+   "assumption_ids": [
+    "ASM-025"
+   ]
+  },
+  {
+   "id": "CA-045",
+   "target": "CLM-006020",
+   "type": "conflicting_sources",
+   "text": "J&J's 2.6x enrolment claim is one CIO sentence with 'up to' wording and no baseline; CLM-006022 course completions were retagged as a training metric. J&J AI claims are self-reported across the registry.",
+   "claim_ids": [
+    "CLM-006020",
+    "CLM-006022",
+    "CLM-006019"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-046",
+   "target": "CLM-006043",
+   "type": "conflicting_sources",
+   "text": "AISB performance: Apheris reports about 10 points better pose accuracy and 11 points better interface quality on 1,056 private held-out structures, organiser-run and not peer reviewed. The strategy cites it as part of an evidence_backed bet.",
+   "claim_ids": [
+    "CLM-006043"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-047",
+   "target": "THEME",
+   "type": "public_knowledge_gap",
+   "text": "IVB-014: Takeda's approved multi-year technology and strategic-bet envelope is not public. Every dollar figure in the strategy is an ASSUMPTION and the envelope could differ by a multiple.",
+   "claim_ids": [
+    "CLM-005007",
+    "CLM-005006"
+   ],
+   "assumption_ids": [
+    "ASM-002",
+    "ASM-004"
+   ]
+  },
+  {
+   "id": "CA-048",
+   "target": "BET-01",
+   "type": "public_knowledge_gap",
+   "text": "IVB-001: inventory of AI and data products in production versus pilot, users and outcomes.",
+   "claim_ids": [
+    "CLM-005058",
+    "CLM-005080"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-049",
+   "target": "BET-09",
+   "type": "public_knowledge_gap",
+   "text": "IVB-002: lab automation and robotics footprint at Shonan, Boston and Vienna. The 'no evidence' finding is a public-evidence gap, not a finding of absence.",
+   "claim_ids": [
+    "CLM-005067",
+    "CLM-005080"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-050",
+   "target": "BET-17",
+   "type": "public_knowledge_gap",
+   "text": "IVB-003: realised versus targeted savings and the technology share of the JPY 200bn programme.",
+   "claim_ids": [
+    "CLM-005059",
+    "CLM-005078"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-051",
+   "target": "BET-04",
+   "type": "public_knowledge_gap",
+   "text": "IVB-004: Entyvio erosion scenarios, subcutaneous share and patent-litigation posture; rebate and contracting details are undisclosed per Takeda's 20-F.",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-007025"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-052",
+   "target": "BET-05",
+   "type": "public_knowledge_gap",
+   "text": "IVB-005: internal probability of success and launch forecasts.",
+   "claim_ids": [
+    "CLM-005041",
+    "CLM-014049"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-053",
+   "target": "BET-02",
+   "type": "public_knowledge_gap",
+   "text": "IVB-006: plasma yield per centre, cost per litre and fractionation automation. No plasma-peer benchmark is in the registry either.",
+   "claim_ids": [
+    "CLM-005063",
+    "CLM-005065"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-054",
+   "target": "BET-06",
+   "type": "public_knowledge_gap",
+   "text": "IVB-007: scope of Takeda Ventures and the Center for External Innovation.",
+   "claim_ids": [
+    "CLM-014052",
+    "CLM-005052"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-055",
+   "target": "BET-03",
+   "type": "public_knowledge_gap",
+   "text": "IVB-008: early-pipeline depth beyond six late-stage programmes. Takeda's pipeline page asset table (a PDF) and the Annual Integrated Report body were not opened.",
+   "claim_ids": [
+    "CLM-005044",
+    "CLM-005082",
+    "CLM-005081"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-056",
+   "target": "BET-07",
+   "type": "public_knowledge_gap",
+   "text": "IVB-010: use of AI models in target selection and clinical operations, and alliance results.",
+   "claim_ids": [
+    "CLM-005049",
+    "CLM-006045"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-057",
+   "target": "BET-02",
+   "type": "public_knowledge_gap",
+   "text": "IVB-011: current FDA and EMA inspection status of Hikari and other sites, which bears on BET-02 automation validation and BET-05 launch timing.",
+   "claim_ids": [
+    "CLM-005020"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-058",
+   "target": "THEME",
+   "type": "public_knowledge_gap",
+   "text": "IVB-012: Amitiza judgment timing, trebling, reserve adequacy and cash plan.",
+   "claim_ids": [
+    "CLM-005013",
+    "CLM-014048"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-059",
+   "target": "BET-12",
+   "type": "public_knowledge_gap",
+   "text": "IVB-013: patient-assistance and market-access inventory; no company publishes adherence, persistence or time-to-therapy outcomes.",
+   "claim_ids": [
+    "CLM-005072",
+    "CLM-007039"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-060",
+   "target": "THEME",
+   "type": "public_knowledge_gap",
+   "text": "Not in the registry at all: plasma-industry peers (CSL Behring, Grifols, Octapharma and others), orexin-agonist competitors, Entyvio benefit-channel mix, EU and Japan policy beyond NHI, antitrust review of large transactions, and the Lilly-NVIDIA lab's operating status. Each limits a specific council verdict.",
+   "claim_ids": [
+    "CLM-009091",
+    "CLM-009098",
+    "CLM-006007"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-061",
+   "target": "BET-09",
+   "type": "failed_hypothesis",
+   "text": "Lilly's Life Sciences Studio (an owned cloud robotic lab) was divested to the CRO Arctoris in 2024 and now operates as a service. No discovery outcome from it appears in any source opened. The reason for the sale is undisclosed, so it warns against owned automation but does not prove the model failed.",
+   "claim_ids": [
+    "CLM-006013",
+    "CLM-006016",
+    "CLM-006017"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-062",
+   "target": "BET-10",
+   "type": "failed_hypothesis",
+   "text": "Zymergen paired automation and machine learning, sold to Ginkgo at about one-tenth of its IPO valuation after USD 1.2bn of cumulative net losses and a discontinued first product. It is an industrial-biotech company, so it warns about commercial risk of automated biofoundries, not about drug-discovery automation specifically.",
+   "claim_ids": [
+    "CLM-006051",
+    "CLM-006052"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-063",
+   "target": "BET-07",
+   "type": "failed_hypothesis",
+   "text": "Recursion ended four of its 11 programmes in May 2025 after a long-term extension did not sustain early signal; Exscientia (EXS-21546) and BenevolentAI programmes were discontinued; cited AI-origin Phase 2 success is about the same as conventional. These are the nearest AI-first company failures to the bet.",
+   "claim_ids": [
+    "CLM-006047",
+    "CLM-006049"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-064",
+   "target": "BET-07",
+   "type": "failed_hypothesis",
+   "text": "Insilico's rentosertib is the best AI-origin result in the registry (Phase IIa FVC signal, 71 patients, 12 weeks) and it carried seven liver-related discontinuations. A positive signal does not remove the standard safety risk.",
+   "claim_ids": [
+    "CLM-006048"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-065",
+   "target": "BET-03",
+   "type": "failed_hypothesis",
+   "text": "AbbVie's emraclidine (Cerevel) missed both Phase 2 EMPOWER trials and cost a USD 4.5bn impairment, 24% of the USD 18.5bn paid for ImmunoGen and Cerevel. J&J's aticaprant Phase 3 stopped for insufficient efficacy. Neuroscience is the common failure site among AbbVie, J&J and Takeda.",
+   "claim_ids": [
+    "CLM-003054",
+    "CLM-003057",
+    "CLM-003086",
+    "CLM-002039",
+    "CLM-012135",
+    "CLM-012120"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-066",
+   "target": "BET-03",
+   "type": "failed_hypothesis",
+   "text": "Takeda's own orexin first attempt, TAK-994, was stopped for a liver-related signal in 2021, and soticlestat missed Phase 3 in 2024 (JPY 21.5bn impairment). The second asset is therefore not assured by the first approval.",
+   "claim_ids": [
+    "CLM-012119",
+    "CLM-005023",
+    "CLM-012120",
+    "CLM-009083"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-067",
+   "target": "BET-06",
+   "type": "failed_hypothesis",
+   "text": "Option and licence structures at Takeda have ended: Denali (April 2026), Neurocrine (March 2025), Maverick programmes (JPY 27.8bn impairment). Lilly discontinued DICE's lead asset the year after buying it, and AbbVie wrote Cerevel down 54%. No option from the window has produced an approved product.",
+   "claim_ids": [
+    "CLM-009089",
+    "CLM-009090",
+    "CLM-009083",
+    "CLM-009003",
+    "CLM-009054",
+    "CLM-009097"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-068",
+   "target": "BET-06",
+   "type": "failed_hypothesis",
+   "text": "Takeda's cell-therapy exit (JPY 58.2bn gamma-delta T-cell platform) shows that a new-modality bet can be written off after a decade. BET-06 asks for new-modality exposure again, through options.",
+   "claim_ids": [
+    "CLM-005025",
+    "CLM-009084",
+    "CLM-009100"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-069",
+   "target": "BET-11",
+   "type": "failed_hypothesis",
+   "text": "J&J OTTAVA took a USD 0.9bn partial impairment in 2021 for development delays and only received De Novo authorisation in July 2026. Device robotics is a counter-example to the Intuitive pull-through analogy, although BET-11 is a drug-device bet.",
+   "claim_ids": [
+    "CLM-009047",
+    "CLM-014022"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-070",
+   "target": "BET-12",
+   "type": "failed_hypothesis",
+   "text": "Pear Therapeutics filed for Chapter 11 in April 2023 even though commentary says its clinical evidence was strong. AbbVie reversed its revised Allē loyalty programme within months and Botox Cosmetic then fell 11%.",
+   "claim_ids": [
+    "CLM-007045",
+    "CLM-007046",
+    "CLM-003033",
+    "CLM-003032"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-071",
+   "target": "BET-04",
+   "type": "failed_hypothesis",
+   "text": "Humira's contracting defence worked on volume (at least 97% to March 2024) and failed on revenue (U.S. Humira -35% in 2023, -41% in 2024, -57% in 2025). A co-branded private-label route delayed, not prevented, the loss.",
+   "claim_ids": [
+    "CLM-003007",
+    "CLM-003008",
+    "CLM-003010",
+    "CLM-003002"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-072",
+   "target": "BET-01",
+   "type": "failed_hypothesis",
+   "text": "Google dissolved its unified Google Health division in about three years (snippet-level source). It is a weak analogue, but it shows that a large data and AI platform in healthcare does not guarantee product-market fit.",
+   "claim_ids": [
+    "CLM-011013"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-073",
+   "target": "BET-14",
+   "type": "failed_hypothesis",
+   "text": "Lilly's TuneLab has distribution to 1,300+ Benchling customers but no disclosed uptake or retraining counts; the only usage figure is a single vendor blog. A productised model platform has no demonstrated customer demand to copy.",
+   "claim_ids": [
+    "CLM-000280",
+    "CLM-006008",
+    "CLM-009028"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-074",
+   "target": "THEME",
+   "type": "failed_hypothesis",
+   "text": "Inspection-driven launch delays at Lilly (lebrikizumab CRL) and AbbVie (ABBV-951 second CRL) warn against plans that assume approval dates follow clinical data. Takeda's own warning letter history is documented.",
+   "claim_ids": [
+    "CLM-012134",
+    "CLM-012112",
+    "CLM-005020"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-075",
+   "target": "BET-09",
+   "type": "alternative_interpretation",
+   "text": "Lilly's 2024 sale of the Studio and its 2026 joint lab with NVIDIA (up to USD 1bn) can be read as re-platforming at larger scale, which reverses the lesson the strategy draws ('owned labs fail'). Under that reading renting is a way to be a follower.",
+   "claim_ids": [
+    "CLM-006013",
+    "CLM-000281",
+    "CLM-006017"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-076",
+   "target": "BET-04",
+   "type": "alternative_interpretation",
+   "text": "Entyvio's FY2025 growth (+4.8%) and H1 FY2026 growth (+2.7% CER) can be read as proof the franchise is resilient before entry, in which case early spend is premature. The dated exposure argues the reverse. The registry cannot settle which reading holds.",
+   "claim_ids": [
+    "CLM-000274",
+    "CLM-005012"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-077",
+   "target": "BET-04",
+   "type": "alternative_interpretation",
+   "text": "The Humira lesson can be read two ways: contracting retained volume (97% for 14 months), or contracting failed because net price collapsed anyway. The strategy uses it as a model for defence; a contrary reading treats it as a warning that volume defence is not revenue defence.",
+   "claim_ids": [
+    "CLM-003007",
+    "CLM-003010",
+    "CLM-003002"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-078",
+   "target": "BET-02",
+   "type": "alternative_interpretation",
+   "text": "Plasma-derived revenue -1.5% at constant rates in H1 FY2026 can mean a mature, demand-bound category (automation saves cost only) rather than a capacity-bound one (automation unlocks revenue). The strategy's 'capacity' reading is favourable to the bet.",
+   "claim_ids": [
+    "CLM-005064",
+    "CLM-005065"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-079",
+   "target": "BET-05",
+   "type": "alternative_interpretation",
+   "text": "The strategy treats zasocitinib as replacement revenue. It can equally be read as a second concentration risk: a single oral TYK2 product with a USD 4bn price carries two USD 1bn milestones and enters a class where J&J has an approved oral comparator.",
+   "claim_ids": [
+    "CLM-009076",
+    "CLM-012012",
+    "CLM-002065"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-080",
+   "target": "BET-06",
+   "type": "alternative_interpretation",
+   "text": "The rationale 'options are safer than purchases' can be reversed: AbbVie's option stream and Lilly's expensed IPR&D produced no approvals by the cutoff, while Takeda's approved late-stage assets came from licensed Phase 2/3 programmes (Protagonist, Nimbus). Phase 2/3 licensing, not options, is the evidenced path.",
+   "claim_ids": [
+    "CLM-009097",
+    "CLM-009000",
+    "CLM-009076",
+    "CLM-012151"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-081",
+   "target": "BET-07",
+   "type": "alternative_interpretation",
+   "text": "Takeda's AI partnerships may be better read as data bets than as AI bets: the scarce input is proprietary assay and clinical data, and the partner model is replaceable. That makes BET-07 part of BET-01 and BET-09.",
+   "claim_ids": [
+    "CLM-006055",
+    "CLM-006056",
+    "CLM-011087"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-082",
+   "target": "BET-08",
+   "type": "alternative_interpretation",
+   "text": "AISB membership can be read as a sign that Takeda has data worth contributing (five pharmas, 20,000 structures) or as a sign it is a junior member (absent from the Bind founding list).",
+   "claim_ids": [
+    "CLM-006042",
+    "CLM-006044",
+    "CLM-006043"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-083",
+   "target": "THEME",
+   "type": "alternative_interpretation",
+   "text": "Takeda's FY2025 R&D fell to JPY 675.9bn from JPY 730.2bn because programmes ended and mezagitamab co-funding began. That can be read as discipline or as retrenchment ahead of the pipeline refill gap. The same reading applies to the 160bn restructuring programme.",
+   "claim_ids": [
+    "CLM-005004",
+    "CLM-005077"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-084",
+   "target": "BET-15",
+   "type": "alternative_interpretation",
+   "text": "'DEFER' can be read as prudence (leverage 2.6x, Amitiza) or as inaction while AbbVie and J&J buy bridges. The council arithmetic shows the trigger is already unmet, so DEFER may be a polite REJECT.",
+   "claim_ids": [
+    "CLM-005005",
+    "CLM-003086",
+    "CLM-009049"
+   ],
+   "assumption_ids": [
+    "ASM-033"
+   ]
+  },
+  {
+   "id": "CA-085",
+   "target": "THEME",
+   "type": "alternative_interpretation",
+   "text": "The strategy treats Entyvio as the single exposure to defend (21% of revenue). Vyvanse removed about JPY 220bn of annual revenue in two years, Trintellix faces generics after December 2026 and Takhzyro's patent runs to January 2036. Together the 2026-2030 erosion may exceed Entyvio's, and the bets address only one.",
+   "claim_ids": [
+    "CLM-005015",
+    "CLM-005016",
+    "CLM-005019",
+    "CLM-005009"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-086",
+   "target": "BET-13",
+   "type": "alternative_interpretation",
+   "text": "Registry-based evidence for rare-disease or plasma products may come more cheaply from patient-organisation partnerships and existing hub data (BET-12) than from a neutral registry vehicle.",
+   "claim_ids": [
+    "CLM-011051",
+    "CLM-007037"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-087",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Efficacy statements for Takeda's 2026 approvals and zasocitinib are company-reported. Source tiers: 71 of 83 A5 Takeda claims were flagged single_interested_source, and independent_corroboration is populated on only two of 1,401 registry claims (CLM-000280, CLM-000283).",
+   "claim_ids": [
+    "CLM-005033",
+    "CLM-005034",
+    "CLM-005027",
+    "CLM-000280",
+    "CLM-000283"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-088",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Cross-company comparisons used by the bets are bounded by the audit: shares of revenue from post-2021 molecules, deal-value sums and capex comparisons are invalid. A reader should not rank Takeda against Lilly, J&J or AbbVie from the strategy files.",
+   "claim_ids": [
+    "CLM-012013",
+    "CLM-009098",
+    "CLM-005007"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-089",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Mechanism analogies (NVIDIA, SpaceX, Regeneron, TSMC, AWS, Intuitive, Flatiron) generate hypotheses and several are snippet-level. SpaceX's NASA source states the cause of the cost gap is not isolated; CUDA's cost claim is one interested speaker; Roche's realised value from Flatiron is not in the registry.",
+   "claim_ids": [
+    "CLM-011006",
+    "CLM-011013",
+    "CLM-011024",
+    "CLM-011022"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-090",
+   "target": "BET-04",
+   "type": "caveat",
+   "text": "BET-04 is the only bet with fixed external dates (January 2028, biosimilar reviews, 2032 patents). Its evidence is the strongest in the set but its mechanism is the least tested at Takeda.",
+   "claim_ids": [
+    "CLM-007026",
+    "CLM-014051",
+    "CLM-005017"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-091",
+   "target": "BET-10",
+   "type": "caveat",
+   "text": "The REJECT recommendations (BET-10, BET-14, BET-16) are the best-evidenced decisions because they rest on absence of demonstrated benefit and on structural mismatch. Absence of evidence is not evidence of failure; the sample is small and the search was limited.",
+   "claim_ids": [
+    "CLM-006052",
+    "CLM-007052",
+    "CLM-011045"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-092",
+   "target": "BET-12",
+   "type": "caveat",
+   "text": "Patient-support programme evidence at every company is enrolment or access counts. Any design for BET-12 starts without a published benchmark.",
+   "claim_ids": [
+    "CLM-007039",
+    "CLM-007037"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-093",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Stage-gate capital at risk is a convention (ASM-037) and sums to USD 5m more than the bet size for BET-02, BET-07, BET-09 and BET-11 (USD 20m in total). BET-15's USD 5,000m gate exposure sits outside every portfolio.",
+   "claim_ids": [],
+   "assumption_ids": [
+    "ASM-037",
+    "ASM-115"
+   ]
+  },
+  {
+   "id": "CA-094",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Competitor claims about AI metrics (J&J 2.6x, 10-15% of use cases, 47,000 course completions; Takeda 63.4% usage; Nabla three to four weeks) are self-reported or interview-sourced. None is independent.",
+   "claim_ids": [
+    "CLM-006020",
+    "CLM-006019",
+    "CLM-006022",
+    "CLM-014043",
+    "CLM-006040"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "CA-095",
+   "target": "THEME",
+   "type": "caveat",
+   "text": "Takeda's FY runs April-March; the strategy cutoff is 2026-11-21 and roughly half of FY2026 is a forecast. JPY-to-USD conversions use 150 (ASM-001) for sizing only; the Amitiza arithmetic implies about JPY 152. Exchange-rate movement changes every USD-denominated envelope against JPY figures.",
+   "claim_ids": [
+    "CLM-005011",
+    "CLM-005001"
+   ],
+   "assumption_ids": [
+    "ASM-001"
+   ]
+  }
+ ]
+}

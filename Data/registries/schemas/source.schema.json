@@ -1,0 +1,251 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "medicine2040/source.schema.json",
+  "title": "Source record",
+  "type": "object",
+  "required": [
+    "source_id",
+    "title",
+    "publisher",
+    "company",
+    "source_type",
+    "credibility_tier",
+    "canonical_url",
+    "retrieved_at",
+    "access_status"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "pattern": "^SRC-[0-9]{6}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "author_or_org": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string",
+      "enum": [
+        "LLY",
+        "JNJ",
+        "ABBV",
+        "TAK",
+        "INDUSTRY",
+        "METHODOLOGY",
+        "MULTI"
+      ]
+    },
+    "subject_category": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "sec_filing",
+        "xbrl_companyfacts",
+        "annual_report",
+        "press_release",
+        "earnings_release",
+        "earnings_transcript",
+        "investor_presentation",
+        "regulatory_decision",
+        "clinical_trial_record",
+        "peer_reviewed",
+        "patent",
+        "lobbying_disclosure",
+        "news_report",
+        "analyst_report",
+        "interview",
+        "company_webpage",
+        "government_data",
+        "methodology_doc",
+        "other",
+        "company_web",
+        "regulatory_record",
+        "clinical_trial_registry",
+        "preprint",
+        "government_record",
+        "news_tier1",
+        "news_trade",
+        "industry_report",
+        "academic_report",
+        "interview_transcript",
+        "podcast_video",
+        "dataset_api"
+      ]
+    },
+    "credibility_tier": {
+      "type": "string",
+      "enum": [
+        "T1_primary_official",
+        "T2_company_published",
+        "T3_independent_reporting",
+        "T4_expert_opinion",
+        "T5_speculative"
+      ]
+    },
+    "original_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "canonical_url": {
+      "type": "string",
+      "minLength": 8
+    },
+    "published_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "ISO date or null if unknown"
+    },
+    "reporting_period": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "FY2024, Q3-2025, CY2023, TAK-FY2024, 9M-2026, or ISO date"
+    },
+    "retrieved_at": {
+      "type": "string",
+      "description": "ISO 8601 datetime of the actual fetch"
+    },
+    "identifiers": {
+      "type": "object",
+      "properties": {
+        "accession_number": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "cik": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "doi": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "nct_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "patent_no": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "other": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "local_document_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "local_extracted_text_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "locator_hint": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Default section/table/page for this source"
+    },
+    "content_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "access_status": {
+      "type": "string",
+      "enum": [
+        "retrieved",
+        "metadata_only",
+        "blocked",
+        "unavailable",
+        "paywalled",
+        "api_json"
+      ]
+    },
+    "rights": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "public_domain | company_terms | copyrighted_excerpt_only | open_license | unknown"
+    },
+    "limitations": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "added_by": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "agent role id, e.g. A4"
+    },
+    "run_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "inspected_passage": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "verbatim passage (<=600 chars) actually inspected; required when access_status=retrieved for shard-origin records"
+    },
+    "locator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "merged_from_shard": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

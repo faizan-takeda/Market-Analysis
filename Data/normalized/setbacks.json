@@ -1,0 +1,206 @@
+{
+"available": true,
+"path": "New_mediciine/industry_transformation/pipeline_regulatory/setbacks_crls_withdrawals.md",
+"rows": [
+{
+"when": "2022-06 (decided; Takeda FY2021 20-F)",
+"year": 2022,
+"company": "TAK",
+"asset": "TAK-994",
+"what": "Phase 2 stopped 2021 for liver safety signal; development ended June 2022; pevonedistat Phase 3 missed EFS",
+"claim_ids": [
+"CLM-012119"
+]
+},
+{
+"when": "2022 (Jan 2022 decision)",
+"year": 2022,
+"company": "JNJ",
+"asset": "bermekimab (atopic dermatitis)",
+"what": "Efficacy information led to termination; about $0.6B IPR&D impairment",
+"claim_ids": [
+"CLM-012109"
+]
+},
+{
+"when": "2022",
+"year": 2022,
+"company": "LLY",
+"asset": "sintilimab ex-China license",
+"what": "License terminated, rights reverted to Innovent",
+"claim_ids": [
+"CLM-012108"
+]
+},
+{
+"when": "2023-01",
+"year": 2023,
+"company": "LLY",
+"asset": "donanemab accelerated approval",
+"what": "Complete response letter on accelerated-approval submission",
+"claim_ids": [
+"CLM-012105"
+]
+},
+{
+"when": "2023-03",
+"year": 2023,
+"company": "ABBV",
+"asset": "ABBV-951 (Vyalev)",
+"what": "CRL; FDA requested more information on the pump device",
+"claim_ids": [
+"CLM-012111"
+]
+},
+{
+"when": "2023-05",
+"year": 2023,
+"company": "ABBV",
+"asset": "Imbruvica accelerated approvals (MCL, MZL)",
+"what": "Voluntary U.S. withdrawal",
+"claim_ids": [
+"CLM-012113"
+]
+},
+{
+"when": "2023-10-02",
+"year": 2023,
+"company": "LLY",
+"asset": "lebrikizumab (Ebglyss)",
+"what": "CRL from third-party manufacturer inspection findings; no concern on clinical data, safety or label",
+"claim_ids": [
+"CLM-012134"
+]
+},
+{
+"when": "2023 (FY2023)",
+"year": 2023,
+"company": "JNJ",
+"asset": "RSV adult vaccine program",
+"what": "Discontinued in R&D prioritization",
+"claim_ids": [
+"CLM-012110"
+]
+},
+{
+"when": "2023-10",
+"year": 2023,
+"company": "TAK",
+"asset": "Exkivity (mobocertinib)",
+"what": "Global voluntary withdrawal after EXCLAIM-2 missed primary endpoint; accelerated-approval confirmation failed",
+"claim_ids": [
+"CLM-012121"
+]
+},
+{
+"when": "FY2023 (Takeda)",
+"year": 2023,
+"company": "TAK",
+"asset": "Alofisel (darvadstrocel)",
+"what": "JPY 74.0B impairment after Phase 3 ADMIRE-CD II topline",
+"claim_ids": [
+"CLM-012122"
+]
+},
+{
+"when": "2024-04",
+"year": 2024,
+"company": "ABBV",
+"asset": "navitoclax TRANSFORM-2",
+"what": "Phase 3 discontinued after TRANSFORM-1 data and regulator feedback",
+"claim_ids": [
+"CLM-012114"
+]
+},
+{
+"when": "2024-06",
+"year": 2024,
+"company": "ABBV",
+"asset": "ABBV-951 second CRL",
+"what": "Third-party manufacturer inspection observations",
+"claim_ids": [
+"CLM-012112"
+]
+},
+{
+"when": "2024-06",
+"year": 2024,
+"company": "TAK",
+"asset": "soticlestat",
+"what": "Phase 3 SKYLINE and SKYWAY missed primary endpoints; no filing",
+"claim_ids": [
+"CLM-012120"
+]
+},
+{
+"when": "2024 (Phase III)",
+"year": 2024,
+"company": "LLY",
+"asset": "abemaciclib prostate cancer",
+"what": "Phase III trials missed endpoints or stopped for futility; discontinued",
+"claim_ids": [
+"CLM-012107"
+]
+},
+{
+"when": "2024-11",
+"year": 2024,
+"company": "ABBV",
+"asset": "emraclidine EMPOWER trials",
+"what": "Phase 2 missed primary endpoint",
+"claim_ids": [
+"CLM-012115"
+]
+},
+{
+"when": "FY2024",
+"year": 2024,
+"company": "ABBV",
+"asset": "emraclidine impairment",
+"what": "$4.5B intangible impairment",
+"claim_ids": [
+"CLM-012116"
+]
+},
+{
+"when": "2025-03-06",
+"year": 2025,
+"company": "JNJ",
+"asset": "aticaprant VENTURA",
+"what": "Discontinued for insufficient efficacy",
+"claim_ids": [
+"CLM-012135"
+]
+},
+{
+"when": "2025-06",
+"year": 2025,
+"company": "ABBV",
+"asset": "Venclexta VERONA (HR-MDS)",
+"what": "Missed overall-survival primary endpoint",
+"claim_ids": [
+"CLM-012117"
+]
+},
+{
+"when": "2026-01",
+"year": 2026,
+"company": "ABBV",
+"asset": "Epkinly Phase 3 R/R DLBCL",
+"what": "PFS improved; OS not statistically significant",
+"claim_ids": [
+"CLM-012118"
+]
+},
+{
+"when": "FY2025 (Takeda)",
+"year": 2025,
+"company": "TAK",
+"asset": "gamma delta T-cell platform",
+"what": "Cell therapy efforts discontinued; JPY 58.2B impairment",
+"claim_ids": [
+"CLM-012123"
+]
+}
+]
+}

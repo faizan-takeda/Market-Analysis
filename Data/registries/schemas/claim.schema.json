@@ -1,0 +1,232 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "medicine2040/claim.schema.json",
+  "title": "Claim record",
+  "type": "object",
+  "required": [
+    "claim_id",
+    "statement",
+    "kind",
+    "companies",
+    "supporting_sources",
+    "status",
+    "last_verified"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "claim_id": {
+      "type": "string",
+      "pattern": "^CLM-[0-9]{6}$"
+    },
+    "statement": {
+      "type": "string",
+      "minLength": 10
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "FACT",
+        "INTERPRETATION",
+        "HYPOTHESIS",
+        "SCENARIO",
+        "RECOMMENDATION"
+      ]
+    },
+    "companies": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "LLY",
+          "JNJ",
+          "ABBV",
+          "TAK",
+          "INDUSTRY",
+          "MULTI"
+        ]
+      },
+      "minItems": 1
+    },
+    "domains": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "business",
+          "financials",
+          "pipeline",
+          "scientific_rd",
+          "data_ai",
+          "robotics_automation",
+          "commercial_market_access",
+          "patient_care",
+          "partnerships_ma",
+          "policy_regulation",
+          "leadership",
+          "successes_failures",
+          "competitive_advantage",
+          "methodology",
+          "strategy"
+        ]
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "products, technologies, partners, people"
+    },
+    "supporting_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "source_id",
+          "locator"
+        ],
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "pattern": "^SRC-[0-9]{6}$"
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 3
+          }
+        }
+      }
+    },
+    "independent_corroboration": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^SRC-[0-9]{6}$"
+      }
+    },
+    "single_interested_source": {
+      "type": "boolean"
+    },
+    "contrary_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "SRC or CLM ids or free text"
+    },
+    "value": {
+      "type": [
+        "number",
+        "string",
+        "null"
+      ]
+    },
+    "unit": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "USD, USD_millions, JPY_billions, percent, count"
+    },
+    "reporting_period": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "event_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "basis": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "GAAP | non-GAAP | IFRS | reported | constant_currency | company_guidance"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "CONTRADICTED",
+        "INCONCLUSIVE",
+        "NEEDS_MORE_RESEARCH"
+      ]
+    },
+    "confidence_rationale": {
+      "type": "string"
+    },
+    "maturity": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "CONCEPT",
+        "PROTOTYPE",
+        "PILOT",
+        "OPERATIONAL",
+        "SCALED",
+        "DEMONSTRATED_OUTCOME",
+        null
+      ]
+    },
+    "last_verified": {
+      "type": "string"
+    },
+    "related_reports": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "implications": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Analyst implication, kept separate from the fact"
+    },
+    "added_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "run_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "contrary_source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "merged_from_shard": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "locator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

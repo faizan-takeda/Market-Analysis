@@ -1,0 +1,1578 @@
+{
+"LLY": {
+"available": true,
+"path": "New_mediciine/companies/eli_lilly/timeline.md",
+"events": [
+{
+"date": "FY2021",
+"year": 2021,
+"event": "Revenue USD 28.3bn; Trulicity top product; COVID antibody inventory impairment USD 339.7m",
+"claim_ids": [
+"CLM-000133",
+"CLM-001000",
+"CLM-001010"
+]
+},
+{
+"date": "2021-10",
+"year": 2021,
+"event": "EMBER-3 (imlunestrant) Phase 3 starts",
+"claim_ids": [
+"CLM-001049"
+]
+},
+{
+"date": "2022-01-28",
+"year": 2022,
+"event": "Concord, NC site announced (USD 1bn, later USD 2bn); trade report of commercial production from end-2024",
+"claim_ids": [
+"CLM-014014"
+]
+},
+{
+"date": "2022-05-13",
+"year": 2022,
+"event": "FDA approves Mounjaro",
+"claim_ids": [
+"CLM-001028"
+]
+},
+{
+"date": "FY2022",
+"year": 2022,
+"event": "Mounjaro first revenue USD 482.5m; Alimta -55% on generics (USD 927.7m vs 2,061.4m); COVID-19 antibody revenue USD 2,023.5m (-10%); GBA1 gene therapy impairment",
+"claim_ids": [
+"CLM-001001",
+"CLM-001011",
+"CLM-001012"
+]
+},
+{
+"date": "2022-12",
+"year": 2022,
+"event": "Akouos acquired (USD 327.2m net of cash; hearing gene therapy)",
+"claim_ids": [
+"CLM-009007"
+]
+},
+{
+"date": "2023-01",
+"year": 2023,
+"event": "Donanemab accelerated-approval CRL; Jaypirca approved 2023-01-27",
+"claim_ids": [
+"CLM-001024",
+"CLM-001061"
+]
+},
+{
+"date": "2023-03-01",
+"year": 2023,
+"event": "Insulin list price cut 70%, USD 35 cap",
+"claim_ids": [
+"CLM-001068"
+]
+},
+{
+"date": "2023",
+"year": 2023,
+"event": "Lebrikizumab CRL; revenue includes ~USD 2.0bn rights sales",
+"claim_ids": [
+"CLM-001024",
+"CLM-001002"
+]
+},
+{
+"date": "2023-08",
+"year": 2023,
+"event": "DICE (USD 1,915.5m IPR&D), Versanis, Emergence acquired as asset acquisitions; DICE DC-806 discontinued 2024",
+"claim_ids": [
+"CLM-014058",
+"CLM-009003"
+]
+},
+{
+"date": "2023-10-26",
+"year": 2023,
+"event": "Omvoh approved",
+"claim_ids": [
+"CLM-001062"
+]
+},
+{
+"date": "2023-11-08",
+"year": 2023,
+"event": "Zepbound approved",
+"claim_ids": [
+"CLM-001029"
+]
+},
+{
+"date": "2024-01-04",
+"year": 2024,
+"event": "LillyDirect launched",
+"claim_ids": [
+"CLM-001042"
+]
+},
+{
+"date": "2024-05-24",
+"year": 2024,
+"event": "Lebanon, Indiana investment raised to USD 9bn",
+"claim_ids": [
+"CLM-001038"
+]
+},
+{
+"date": "2024-08",
+"year": 2024,
+"event": "Morphic acquisition (USD 2,548.5m IPR&D expensed; USD 3.2bn headline)",
+"claim_ids": [
+"CLM-009001",
+"CLM-009002"
+]
+},
+{
+"date": "2024-06-10",
+"year": 2024,
+"event": "FDA advisory committee 11-0 for donanemab",
+"claim_ids": [
+"CLM-001067"
+]
+},
+{
+"date": "2024-07-02",
+"year": 2024,
+"event": "Kisunla approved",
+"claim_ids": [
+"CLM-001063"
+]
+},
+{
+"date": "2024-09-13",
+"year": 2024,
+"event": "Ebglyss approved",
+"claim_ids": [
+"CLM-001064"
+]
+},
+{
+"date": "2024",
+"year": 2024,
+"event": "Vitrakvi impairment, USD 435m litigation charge; tirzepatide shortage ends (Oct/Dec)",
+"claim_ids": [
+"CLM-001013",
+"CLM-001066"
+]
+},
+{
+"date": "2024-12-05",
+"year": 2024,
+"event": "Kenosha, WI USD 3bn expansion announced (USD 4bn Wisconsin total)",
+"claim_ids": [
+"CLM-014013"
+]
+},
+{
+"date": "2024-12-20",
+"year": 2024,
+"event": "FDA approves Zepbound for obstructive sleep apnea",
+"claim_ids": [
+"CLM-012031"
+]
+},
+{
+"date": "2025-01",
+"year": 2025,
+"event": "USD 500m Lilly-funded a16z Biotech Ecosystem Venture Fund announced",
+"claim_ids": [
+"CLM-014063"
+]
+},
+{
+"date": "2025-02-26",
+"year": 2025,
+"event": ">USD 50bn U.S. manufacturing plan",
+"claim_ids": [
+"CLM-001039"
+]
+},
+{
+"date": "2025-09-25",
+"year": 2025,
+"event": "Inluriyo approved",
+"claim_ids": [
+"CLM-001065"
+]
+},
+{
+"date": "2025-09-16",
+"year": 2025,
+"event": "USD 5bn Virginia site announced",
+"claim_ids": [
+"CLM-001040"
+]
+},
+{
+"date": "2025-09-23",
+"year": 2025,
+"event": "Houston, TX USD 6.5bn API site announced (groundbreaking 2026-09-21)",
+"claim_ids": [
+"CLM-014008"
+]
+},
+{
+"date": "2025-11-06",
+"year": 2025,
+"event": "Pricing agreement with U.S. government",
+"claim_ids": [
+"CLM-001036",
+"CLM-001037"
+]
+},
+{
+"date": "2025-12-09",
+"year": 2025,
+"event": "Huntsville, AL USD 6bn+ site announced (completion 2032)",
+"claim_ids": [
+"CLM-014009"
+]
+},
+{
+"date": "2025-11",
+"year": 2025,
+"event": "ATTAIN-1 published (NEJM)",
+"claim_ids": [
+"CLM-001058"
+]
+},
+{
+"date": "FY2025",
+"year": 2025,
+"event": "Revenue USD 65.2bn; tirzepatide 56%",
+"claim_ids": [
+"CLM-000137",
+"CLM-000242"
+]
+},
+{
+"date": "2025-09-09 / 2026-01-12",
+"year": 2025,
+"event": "TuneLab; NVIDIA co-innovation lab",
+"claim_ids": [
+"CLM-000280",
+"CLM-000281"
+]
+},
+{
+"date": "2026-01-30",
+"year": 2026,
+"event": "Lehigh Valley, PA USD 3.5bn+ site announced (operational 2031)",
+"claim_ids": [
+"CLM-014010"
+]
+},
+{
+"date": "2026-02-04",
+"year": 2026,
+"event": "Q4 2025 earnings release (8-K Ex. 99.1): FY2025 revenue USD 65,179m; initial 2026 guidance USD 80-83bn",
+"claim_ids": [
+"CLM-014000",
+"CLM-014001"
+]
+},
+{
+"date": "2026-04-01",
+"year": 2026,
+"event": "Foundayo (orforglipron) approved",
+"claim_ids": [
+"CLM-001030"
+]
+},
+{
+"date": "2026-05-06",
+"year": 2026,
+"event": "+USD 4.5bn Indiana; genetic-medicine plant opens",
+"claim_ids": [
+"CLM-001041"
+]
+},
+{
+"date": "2026-10-22",
+"year": 2026,
+"event": "Richmond, VA groundbreaking",
+"claim_ids": [
+"CLM-001040"
+]
+},
+{
+"date": "2026-06-18",
+"year": 2026,
+"event": "Charles River announces TuneLab collaboration",
+"claim_ids": [
+"CLM-014056"
+]
+},
+{
+"date": "2026-09-21",
+"year": 2026,
+"event": "Houston, TX groundbreaking",
+"claim_ids": [
+"CLM-014008"
+]
+},
+{
+"date": "2026-09-23",
+"year": 2026,
+"event": "Onswik (insulin efsitora alfa) approved",
+"claim_ids": [
+"CLM-012007"
+]
+},
+{
+"date": "2026-10-29",
+"year": 2026,
+"event": "Q3 2026: revenue USD 24.4bn; 9M USD 67.2bn; guidance raised to USD 91-92bn from USD 85-87bn (initial Feb 2026 guidance USD 80-83bn); about USD 0.9bn one-off benefits",
+"claim_ids": [
+"CLM-001031",
+"CLM-001032",
+"CLM-001033",
+"CLM-014002",
+"CLM-014003"
+]
+},
+{
+"date": "2026-11-05",
+"year": 2026,
+"event": "TRIUMPH-1 retatrutide NEJM",
+"claim_ids": [
+"CLM-001060"
+]
+}
+]
+},
+"JNJ": {
+"available": true,
+"path": "New_mediciine/companies/johnson_johnson/timeline.md",
+"events": [
+{
+"date": "2021-07",
+"year": 2021,
+"event": "Opioid settlement agreement (up to USD 5.0bn; ~80% paid by FY2025 end)",
+"claim_ids": [
+"CLM-002032"
+]
+},
+{
+"date": "2021-10",
+"year": 2021,
+"event": "LTL Management talc Chapter 11 (first attempt), later dismissed",
+"claim_ids": [
+"CLM-002015"
+]
+},
+{
+"date": "2021-11",
+"year": 2021,
+"event": "Announces intent to separate Consumer Health (to become Kenvue)",
+"claim_ids": [
+"CLM-002008"
+]
+},
+{
+"date": "2022 (FY)",
+"year": 2022,
+"event": "COVID-19 vaccine exit costs USD 1.5bn; bermekimab IPR&D impairment ~USD 0.8bn",
+"claim_ids": [
+"CLM-002019",
+"CLM-002020"
+]
+},
+{
+"date": "2022-02-28",
+"year": 2022,
+"event": "CARVYKTI initial FDA approval",
+"claim_ids": [
+"CLM-002051"
+]
+},
+{
+"date": "2022-10-25",
+"year": 2022,
+"event": "TECVAYLI FDA approval",
+"claim_ids": [
+"CLM-002050"
+]
+},
+{
+"date": "2022-12-22",
+"year": 2022,
+"event": "Abiomed closes (USD 17.1bn net of cash + CVR)",
+"claim_ids": [
+"CLM-002009",
+"CLM-002010"
+]
+},
+{
+"date": "2023 (FY)",
+"year": 2023,
+"event": "RSV adult vaccine, hepatitis, HIV exits; ~USD 0.5bn restructuring",
+"claim_ids": [
+"CLM-002018"
+]
+},
+{
+"date": "2023-04",
+"year": 2023,
+"event": "LTL 2 talc Chapter 11 (dismissed)",
+"claim_ids": [
+"CLM-002015"
+]
+},
+{
+"date": "2023-05-08",
+"year": 2023,
+"event": "Kenvue IPO (J&J ~89.6% retained)",
+"claim_ids": [
+"CLM-002006"
+]
+},
+{
+"date": "2023-07",
+"year": 2023,
+"event": "Janssen sues HHS/CMS over Medicare negotiation program",
+"claim_ids": [
+"CLM-002021"
+]
+},
+{
+"date": "2023-08-09",
+"year": 2023,
+"event": "TALVEY FDA approval",
+"claim_ids": [
+"CLM-002050"
+]
+},
+{
+"date": "2023-08-23",
+"year": 2023,
+"event": "Kenvue exchange offer completed (~9.5% retained)",
+"claim_ids": [
+"CLM-002007",
+"CLM-002040"
+]
+},
+{
+"date": "2023-12-27",
+"year": 2023,
+"event": "Abiomed Impella Class I IFU recall (66,390 pumps)",
+"claim_ids": [
+"CLM-002046"
+]
+},
+{
+"date": "2024-03-07",
+"year": 2024,
+"event": "Ambrx closes",
+"claim_ids": [
+"CLM-002012"
+]
+},
+{
+"date": "2024-05-31",
+"year": 2024,
+"event": "Shockwave closes (USD 335/share)",
+"claim_ids": [
+"CLM-002011",
+"CLM-002068"
+]
+},
+{
+"date": "2024-06-20 / 07-11 / 10-08",
+"year": 2024,
+"event": "Proteologix; Yellow Jersey/Numab NM26; V-Wave close",
+"claim_ids": [
+"CLM-002012"
+]
+},
+{
+"date": "2024-06-05",
+"year": 2024,
+"event": "VELYS 510(k) K240211 decided (openFDA)",
+"claim_ids": [
+"CLM-014026"
+]
+},
+{
+"date": "2024-08-02",
+"year": 2024,
+"event": "VELYS Spine 510(k) clearance announced",
+"claim_ids": [
+"CLM-002066"
+]
+},
+{
+"date": "2024-08-19",
+"year": 2024,
+"event": "LAZCLUZE FDA approval",
+"claim_ids": [
+"CLM-002050"
+]
+},
+{
+"date": "2024-05",
+"year": 2024,
+"event": "Prepackaged talc plan (about USD 6.475bn present value)",
+"claim_ids": [
+"CLM-008050"
+]
+},
+{
+"date": "2024-09",
+"year": 2024,
+"event": "Red River Talc Chapter 11 filed (S.D. Tex.)",
+"claim_ids": [
+"CLM-002015"
+]
+},
+{
+"date": "2024-11-12",
+"year": 2024,
+"event": "OTTAVA IDE approval announced",
+"claim_ids": [
+"CLM-002048"
+]
+},
+{
+"date": "2025-01-05",
+"year": 2025,
+"event": "VARIPULSE U.S. cases paused (4 neurovascular events)",
+"claim_ids": [
+"CLM-002044",
+"CLM-002045"
+]
+},
+{
+"date": "2025-02-14",
+"year": 2025,
+"event": "VARIPULSE Instructions for Use updated for all lots (correction, not removal); 4 of 132 External Evaluation patients had stroke/TIA",
+"claim_ids": [
+"CLM-014018"
+]
+},
+{
+"date": "2025-01 → 02",
+"year": 2025,
+"event": "First U.S. ustekinumab biosimilars launch (Wezlana, then others)",
+"claim_ids": [
+"CLM-002052"
+]
+},
+{
+"date": "2025-03",
+"year": 2025,
+"event": "TREMFYA Crohn's approval",
+"claim_ids": [
+"CLM-002053"
+]
+},
+{
+"date": "2025-03-06",
+"year": 2025,
+"event": "Aticaprant Phase 3 VENTURA discontinued",
+"claim_ids": [
+"CLM-002039",
+"CLM-002056"
+]
+},
+{
+"date": "2025-03-21",
+"year": 2025,
+"event": "More than USD 55bn U.S. investment pledge over four years",
+"claim_ids": [
+"CLM-008030"
+]
+},
+{
+"date": "2025-03-31",
+"year": 2025,
+"event": "Red River plan not confirmed and case dismissed (Judge Lopez); about USD 7bn reserve reversed, no appeal",
+"claim_ids": [
+"CLM-002038",
+"CLM-002043",
+"CLM-014027",
+"CLM-014028"
+]
+},
+{
+"date": "2025-04-02",
+"year": 2025,
+"event": "Intra-Cellular closes (CAPLYTA)",
+"claim_ids": [
+"CLM-002013",
+"CLM-002041"
+]
+},
+{
+"date": "2025-04-29/30",
+"year": 2025,
+"event": "IMAAVY (nipocalimab) approval",
+"claim_ids": [
+"CLM-002042",
+"CLM-002050"
+]
+},
+{
+"date": "2025-06-27",
+"year": 2025,
+"event": "340B rebate-model ruling against J&J",
+"claim_ids": [
+"CLM-002069"
+]
+},
+{
+"date": "2025-10-14",
+"year": 2025,
+"event": "Intent to separate Orthopaedics (DePuy Synthes)",
+"claim_ids": [
+"CLM-002037",
+"CLM-002030"
+]
+},
+{
+"date": "2025-07-01",
+"year": 2025,
+"event": "Optum Rx excludes Stelara from two main formularies (nine biosimilars on market)",
+"claim_ids": [
+"CLM-007016"
+]
+},
+{
+"date": "2025-10",
+"year": 2025,
+"event": "CMS deselects Stelara and Xarelto from the negotiation programme from 2027",
+"claim_ids": [
+"CLM-008011"
+]
+},
+{
+"date": "2025-10-27",
+"year": 2025,
+"event": "Polyphonic described as early access to select hospitals only",
+"claim_ids": [
+"CLM-006030"
+]
+},
+{
+"date": "2025-12-26",
+"year": 2025,
+"event": "Halda closes (RIPTAC)",
+"claim_ids": [
+"CLM-002013"
+]
+},
+{
+"date": "2025-12-29",
+"year": 2025,
+"event": "D. Maine enjoins HRSA 340B rebate pilot",
+"claim_ids": [
+"CLM-002070"
+]
+},
+{
+"date": "2026-01-01",
+"year": 2026,
+"event": "Medicare negotiated prices (incl. Stelara, Xarelto, Imbruvica) take effect",
+"claim_ids": [
+"CLM-002054"
+]
+},
+{
+"date": "2026-01-07",
+"year": 2026,
+"event": "OTTAVA De Novo submission announced by J&J (FDA record shows request received 2025-12-18; *contested*)",
+"claim_ids": [
+"CLM-002049",
+"CLM-014022"
+]
+},
+{
+"date": "2026-01-08",
+"year": 2026,
+"event": "Voluntary agreement with the administration (TrumpRx, Medicaid pricing, tariff exemption)",
+"claim_ids": [
+"CLM-008031"
+]
+},
+{
+"date": "~2026-03-17",
+"year": 2026,
+"event": "ICOTYDE (icotrokinra) FDA approval",
+"claim_ids": [
+"CLM-002065"
+]
+},
+{
+"date": "2026-05-18",
+"year": 2026,
+"event": "Supreme Court denies certiorari in Janssen v. Kennedy (IRA challenge)",
+"claim_ids": [
+"CLM-008024"
+]
+},
+{
+"date": "2026-05-21",
+"year": 2026,
+"event": "Polyphonic Abu Dhabi programme announced (deployment expected)",
+"claim_ids": [
+"CLM-006031"
+]
+},
+{
+"date": "2026-05-27",
+"year": 2026,
+"event": "Duato at Bernstein: 2026 guidance 6.1% adjusted operational growth, over USD 100bn",
+"claim_ids": [
+"CLM-014069"
+]
+},
+{
+"date": "2026-06-25",
+"year": 2026,
+"event": "VELYS 510(k) K260480 decided (openFDA)",
+"claim_ids": [
+"CLM-014026"
+]
+},
+{
+"date": "2026-07-01",
+"year": 2026,
+"event": "CVS Caremark prefers Stelara biosimilars",
+"claim_ids": [
+"CLM-007015"
+]
+},
+{
+"date": "2026-07-21",
+"year": 2026,
+"event": "FDA grants OTTAVA De Novo DEN250068 (grant letter date); D.C. Circuit 340B rebate ruling",
+"claim_ids": [
+"CLM-014022",
+"CLM-008039"
+]
+},
+{
+"date": "2026-07-22",
+"year": 2026,
+"event": "OTTAVA De Novo authorization announced by J&J",
+"claim_ids": [
+"CLM-000283"
+]
+},
+{
+"date": "2026-07-25",
+"year": 2026,
+"event": "MONARCH 510(k) K260382 decided (openFDA)",
+"claim_ids": [
+"CLM-014025"
+]
+},
+{
+"date": "2026-07-27",
+"year": 2026,
+"event": "Proposed ~USD 5.5bn ovarian talc resolution",
+"claim_ids": [
+"CLM-002062",
+"CLM-002063"
+]
+},
+{
+"date": "2026-08-04",
+"year": 2026,
+"event": "Taubert retirement; Cavanaugh to lead Innovative Medicine from 2026-09-01 (company release only)",
+"claim_ids": [
+"CLM-002064"
+]
+},
+{
+"date": "2026-08-17",
+"year": 2026,
+"event": "MONARCH QUEST 3 510(k) clearance announced",
+"claim_ids": [
+"CLM-014025"
+]
+},
+{
+"date": "2026-10-13",
+"year": 2026,
+"event": "Q3 2026 results; FY2026 guidance raised",
+"claim_ids": [
+"CLM-002060",
+"CLM-002061"
+]
+},
+{
+"date": "2026-11-19",
+"year": 2026,
+"event": "J&J announces Memorial Hermann-TMC as the first hospital to install OTTAVA (early-access programme; installation not shown as completed)",
+"claim_ids": [
+"CLM-000284",
+"CLM-014024"
+]
+}
+]
+},
+"ABBV": {
+"available": true,
+"path": "New_mediciine/companies/abbvie/timeline.md",
+"events": [
+{
+"date": "2020-05-08",
+"year": 2020,
+"event": "Allergan closes (lookback)",
+"claim_ids": [
+"CLM-003048"
+]
+},
+{
+"date": "2021-07",
+"year": 2021,
+"event": "Calico collaboration extended three years (USD 500m AbbVie share)",
+"claim_ids": [
+"CLM-009068"
+]
+},
+{
+"date": "2021-12",
+"year": 2021,
+"event": "Soliton acquired (USD 535m)",
+"claim_ids": [
+"CLM-009067"
+]
+},
+{
+"date": "2021-09-01 / 2021-12-03",
+"year": 2021,
+"event": "FDA JAK class warning; Rinvoq boxed-warning label, RA limited to post-TNF",
+"claim_ids": [
+"CLM-003017"
+]
+},
+{
+"date": "2022",
+"year": 2022,
+"event": "Skyrizi PsA (Jan), Crohn's (Jun); Rinvoq AD (Jan), UC (Mar); USD 2.5bn Allergan cost synergies realized",
+"claim_ids": [
+"CLM-003016",
+"CLM-003049"
+]
+},
+{
+"date": "2022",
+"year": 2022,
+"event": "Humira global peak USD 21.2bn; company revenue peak 58.1bn",
+"claim_ids": [
+"CLM-003002",
+"CLM-003015"
+]
+},
+{
+"date": "2022-02",
+"year": 2022,
+"event": "Syndesi acquired (USD 130m, ABBV-552)",
+"claim_ids": [
+"CLM-009066"
+]
+},
+{
+"date": "2022-08-01",
+"year": 2022,
+"event": "Seventh Circuit affirms dismissal of Humira patent-thicket antitrust complaint",
+"claim_ids": [
+"CLM-008048"
+]
+},
+{
+"date": "2022-10",
+"year": 2022,
+"event": "DJS Antibodies acquired (USD 255m upfront; USD 287m total)",
+"claim_ids": [
+"CLM-009065"
+]
+},
+{
+"date": "2022-11-14",
+"year": 2022,
+"event": "Elahere FDA approval (ImmunoGen sponsor)",
+"claim_ids": [
+"CLM-012013"
+]
+},
+{
+"date": "2023-01-31",
+"year": 2023,
+"event": "U.S. Humira LOE; Amjevita launches (55%/5% below list)",
+"claim_ids": [
+"CLM-003000",
+"CLM-003006"
+]
+},
+{
+"date": "2023-03",
+"year": 2023,
+"event": "ABBV-951 first CRL (device)",
+"claim_ids": [
+"CLM-003061",
+"CLM-012111"
+]
+},
+{
+"date": "2023-05",
+"year": 2023,
+"event": "Rinvoq Crohn's approval; Imbruvica accelerated approvals (MCL, MZL) voluntarily withdrawn in the U.S.",
+"claim_ids": [
+"CLM-003016",
+"CLM-012113"
+]
+},
+{
+"date": "2023-05-19",
+"year": 2023,
+"event": "Epkinly FDA approval (Genmab sponsor)",
+"claim_ids": [
+"CLM-012014"
+]
+},
+{
+"date": "2023-07",
+"year": 2023,
+"event": "Seven more Humira biosimilars launch; nine in 2023",
+"claim_ids": [
+"CLM-003006"
+]
+},
+{
+"date": "2023-08-29",
+"year": 2023,
+"event": "Imbruvica IRA selection; USD 2.1bn impairment",
+"claim_ids": [
+"CLM-003026"
+]
+},
+{
+"date": "2023-11-30 / 12-06",
+"year": 2023,
+"event": "ImmunoGen and Cerevel announced",
+"claim_ids": [
+"CLM-003053",
+"CLM-003052"
+]
+},
+{
+"date": "2023-Q4",
+"year": 2023,
+"event": "CoolSculpting/Liletta impairment USD 1.4bn",
+"claim_ids": [
+"CLM-003035"
+]
+},
+{
+"date": "2024-02-12",
+"year": 2024,
+"event": "ImmunoGen closes (USD 9.8bn consideration; 9.2bn net of cash; 10.1bn announced value)",
+"claim_ids": [
+"CLM-003053",
+"CLM-009056"
+]
+},
+{
+"date": "2024-02-20",
+"year": 2024,
+"event": "Michael named CEO",
+"claim_ids": [
+"CLM-003076"
+]
+},
+{
+"date": "2024-03-25",
+"year": 2024,
+"event": "Landos agreement (USD 20.42 a share plus CVR); completed 2024-05-23 per release",
+"claim_ids": [
+"CLM-014033"
+]
+},
+{
+"date": "2024-04",
+"year": 2024,
+"event": "Navitoclax TRANSFORM-2 discontinued",
+"claim_ids": [
+"CLM-012114"
+]
+},
+{
+"date": "2024-04-01",
+"year": 2024,
+"event": "CVS Caremark removes Humira from template formularies",
+"claim_ids": [
+"CLM-003008"
+]
+},
+{
+"date": "2024-06",
+"year": 2024,
+"event": "ABBV-951 second CRL (third-party manufacturer)",
+"claim_ids": [
+"CLM-003061",
+"CLM-012112"
+]
+},
+{
+"date": "2024-06",
+"year": 2024,
+"event": "Celsius Therapeutics acquired (USD 250m)",
+"claim_ids": [
+"CLM-009064"
+]
+},
+{
+"date": "2024-07-01",
+"year": 2024,
+"event": "Michael becomes CEO",
+"claim_ids": [
+"CLM-003076"
+]
+},
+{
+"date": "2024-08-01",
+"year": 2024,
+"event": "Cerevel closes (USD 8.7bn consideration; 8.3bn net of cash)",
+"claim_ids": [
+"CLM-003052",
+"CLM-014035"
+]
+},
+{
+"date": "2024-10-17",
+"year": 2024,
+"event": "Vyalev FDA approval",
+"claim_ids": [
+"CLM-003061"
+]
+},
+{
+"date": "2024-10",
+"year": 2024,
+"event": "Revised Allē loyalty program launched (reversed early 2025)",
+"claim_ids": [
+"CLM-003033"
+]
+},
+{
+"date": "2024-10-28",
+"year": 2024,
+"event": "Aliada announced (USD 1.4bn; closed December 2024)",
+"claim_ids": [
+"CLM-014032"
+]
+},
+{
+"date": "2024-11-11",
+"year": 2024,
+"event": "Emraclidine EMPOWER trials fail; shares -12%; USD 4.5bn impairment",
+"claim_ids": [
+"CLM-003054",
+"CLM-003057"
+]
+},
+{
+"date": "2025-01",
+"year": 2025,
+"event": "Payor class action over Humira rebating filed",
+"claim_ids": [
+"CLM-007021"
+]
+},
+{
+"date": "2025-01-23",
+"year": 2025,
+"event": "Nimble Therapeutics completed (USD 288m)",
+"claim_ids": [
+"CLM-014034"
+]
+},
+{
+"date": "2025-03-03",
+"year": 2025,
+"event": "Gubra amylin licence",
+"claim_ids": [
+"CLM-003073"
+]
+},
+{
+"date": "2025-05-14",
+"year": 2025,
+"event": "Emrelis accelerated approval",
+"claim_ids": [
+"CLM-003066"
+]
+},
+{
+"date": "2025-06",
+"year": 2025,
+"event": "Venclexta VERONA misses overall-survival endpoint",
+"claim_ids": [
+"CLM-012117"
+]
+},
+{
+"date": "2025-06-30 / 08-19",
+"year": 2025,
+"event": "Capstan announced / closed (USD 2.1bn cash; 1.9bn net of cash)",
+"claim_ids": [
+"CLM-003072",
+"CLM-014030"
+]
+},
+{
+"date": "2025-09",
+"year": 2025,
+"event": "Rinvoq generic settlements (no entry before 2037); tavapadon NDA",
+"claim_ids": [
+"CLM-003021",
+"CLM-003063"
+]
+},
+{
+"date": "2025-07-01",
+"year": 2025,
+"event": "Michael becomes chairman",
+"claim_ids": [
+"CLM-003076"
+]
+},
+{
+"date": "2025-10",
+"year": 2025,
+"event": "Gilgamesh acquired (USD 906m upfront)",
+"claim_ids": [
+"CLM-014031"
+]
+},
+{
+"date": "2026-01",
+"year": 2026,
+"event": "Epkinly Phase 3 DLBCL: PFS improved, OS not significant",
+"claim_ids": [
+"CLM-012118"
+]
+},
+{
+"date": "2026-01-12",
+"year": 2026,
+"event": "U.S. agreement, USD 100bn pledge",
+"claim_ids": [
+"CLM-003081",
+"CLM-008032"
+]
+},
+{
+"date": "2026-05-27",
+"year": 2026,
+"event": "Decnupaz (pivekimab sunirine) FDA approval",
+"claim_ids": [
+"CLM-012016"
+]
+},
+{
+"date": "2026-09-25",
+"year": 2026,
+"event": "Juvmo (tavapadon) FDA approval (FDA record; NDA submitted September 2025)",
+"claim_ids": [
+"CLM-012017",
+"CLM-014039",
+"CLM-014040"
+]
+},
+{
+"date": "2026-09-28",
+"year": 2026,
+"event": "AbbVie announces Juvmo approval",
+"claim_ids": [
+"CLM-014039",
+"CLM-003063"
+]
+},
+{
+"date": "2026-09-29",
+"year": 2026,
+"event": "Valkai AI partnership announced",
+"claim_ids": [
+"CLM-003083",
+"CLM-000285"
+]
+},
+{
+"date": "2026-10-30",
+"year": 2026,
+"event": "Q3 2026: revenue 17.4bn (+10.3%), Humira 0.68bn; guidance raised",
+"claim_ids": [
+"CLM-003023"
+]
+}
+]
+},
+"TAK": {
+"available": true,
+"path": "New_mediciine/companies/takeda_public_baseline/timeline.md",
+"events": [
+{
+"date": "FY2021 (Apr 2021 to Mar 2022)",
+"year": 2021,
+"event": "Revenue JPY 3,569.0bn; R&D JPY 526.1bn; profit attributable JPY 230.2bn; operating cash flow JPY 1,123.1bn",
+"claim_ids": [
+"CLM-005000",
+"CLM-005004",
+"CLM-000219",
+"CLM-000227"
+]
+},
+{
+"date": "2021-04 (lookback)",
+"year": 2021,
+"event": "Japan non-core portfolio sold to Teijin Pharma, JPY 133.0bn; annual NHI price revisions since April 2021",
+"claim_ids": [
+"CLM-009086",
+"CLM-008036"
+]
+},
+{
+"date": "2021",
+"year": 2021,
+"event": "TAK-994 Phase 2 studies terminated for a liver-related safety signal; Phase 3 pevonedistat MDS trial missed its event-free-survival endpoint",
+"claim_ids": [
+"CLM-012119"
+]
+},
+{
+"date": "2022-02",
+"year": 2022,
+"event": "Gabriele Ricci becomes Chief Data and Technology Officer",
+"claim_ids": [
+"CLM-005056"
+]
+},
+{
+"date": "2022-03",
+"year": 2022,
+"event": "China prescription portfolio sold to Hasten Biopharmaceutic, USD 230m (JPY 34.8bn)",
+"claim_ids": [
+"CLM-009086"
+]
+},
+{
+"date": "2022",
+"year": 2022,
+"event": "First Nabla Bio AI protein-design collaboration launched (second signed 2025-10-14)",
+"claim_ids": [
+"CLM-006039"
+]
+},
+{
+"date": "FY2022 (Apr 2022 to Mar 2023)",
+"year": 2022,
+"event": "Revenue JPY 4,027.5bn; R&D JPY 633.3bn; plasma centres 233 (+29)",
+"claim_ids": [
+"CLM-005000",
+"CLM-005004",
+"CLM-005063"
+]
+},
+{
+"date": "2022-06",
+"year": 2022,
+"event": "Decision not to develop TAK-994 further; pivot to TAK-861 (oveporexton)",
+"claim_ids": [
+"CLM-012119",
+"CLM-005023"
+]
+},
+{
+"date": "FY2022",
+"year": 2022,
+"event": "In-licensing: fruquintinib (HUTCHMED), TAK-227 (Zedira/Dr. Falk); HUTCHMED USD 400m paid April 2023",
+"claim_ids": [
+"CLM-009082",
+"CLM-014060"
+]
+},
+{
+"date": "2023-02-08",
+"year": 2023,
+"event": "Nimbus Lakshmi (TAK-279) acquired, USD 4.0bn upfront",
+"claim_ids": [
+"CLM-005036"
+]
+},
+{
+"date": "2023-08",
+"year": 2023,
+"event": "VYVANSE U.S. patent and pediatric exclusivity expire",
+"claim_ids": [
+"CLM-005015"
+]
+},
+{
+"date": "2023-04",
+"year": 2023,
+"event": "HUTCHMED upfront USD 400m paid (up to USD 730m further)",
+"claim_ids": [
+"CLM-014060"
+]
+},
+{
+"date": "2023-09 / 2024-04",
+"year": 2023,
+"event": "ENTYVIO subcutaneous Pen approved (UC / Crohn's); FDA application records 2023-09-27 (SC) and 2024-04-18 (pen)",
+"claim_ids": [
+"CLM-005018",
+"CLM-012029",
+"CLM-012030"
+]
+},
+{
+"date": "2023-11-08",
+"year": 2023,
+"event": "FDA approves Fruzaqla (fruquintinib)",
+"claim_ids": [
+"CLM-012018"
+]
+},
+{
+"date": "2023-10",
+"year": 2023,
+"event": "EXKIVITY global withdrawal; ALOFISEL impairment (FY2023)",
+"claim_ids": [
+"CLM-005022"
+]
+},
+{
+"date": "2023-12",
+"year": 2023,
+"event": "Delaware ruling for AbbVie, USD 505m",
+"claim_ids": [
+"CLM-005020"
+]
+},
+{
+"date": "2024-02-09",
+"year": 2024,
+"event": "Eohilia (budesonide oral suspension) NDA approved",
+"claim_ids": [
+"CLM-012028"
+]
+},
+{
+"date": "2024-04",
+"year": 2024,
+"event": "Protagonist upfront USD 300m",
+"claim_ids": [
+"CLM-014060"
+]
+},
+{
+"date": "2024-05-09",
+"year": 2024,
+"event": "Enterprise efficiency program announced",
+"claim_ids": [
+"CLM-005077"
+]
+},
+{
+"date": "2024-06",
+"year": 2024,
+"event": "Soticlestat Phase 3 misses; LA plasma plant (USD 230m) announced",
+"claim_ids": [
+"CLM-005024",
+"CLM-005065"
+]
+},
+{
+"date": "2024-09",
+"year": 2024,
+"event": "CDTO Ricci interview on digital factories and AI",
+"claim_ids": [
+"CLM-005057"
+]
+},
+{
+"date": "2024-12",
+"year": 2024,
+"event": "R&D Day: six late-stage programs; USD 10-20bn peak estimate is a company statement not adjusted for probability of success",
+"claim_ids": [
+"CLM-005041",
+"CLM-005042",
+"CLM-014049"
+]
+},
+{
+"date": "2025-01-30",
+"year": 2025,
+"event": "Soticlestat discontinued",
+"claim_ids": [
+"CLM-005024"
+]
+},
+{
+"date": "FY2024",
+"year": 2024,
+"event": "Keros elritercept license (USD 200m upfront, February 2025); Teva generics JV dissolved (March 2025, JPY 18.9bn impairment); Neurocrine terminates TAK-041/TAK-831 (March 2025)",
+"claim_ids": [
+"CLM-005040",
+"CLM-005021",
+"CLM-014061",
+"CLM-009085",
+"CLM-009090"
+]
+},
+{
+"date": "2025-10-01",
+"year": 2025,
+"event": "Cell therapy exit; JPY 58.0bn expected impairment (recognised JPY 58.2bn in the FY2025 20-F)",
+"claim_ids": [
+"CLM-005025",
+"CLM-009084",
+"CLM-012123"
+]
+},
+{
+"date": "2025-10-01 / 2025-10-14",
+"year": 2025,
+"event": "AISB OpenFold3 consortium membership; second Nabla Bio collaboration",
+"claim_ids": [
+"CLM-006042",
+"CLM-006039"
+]
+},
+{
+"date": "2025-12",
+"year": 2025,
+"event": "Zasocitinib Phase 3 psoriasis topline; Innovent upfront USD 1.2bn paid",
+"claim_ids": [
+"CLM-005033",
+"CLM-014061",
+"CLM-009078"
+]
+},
+{
+"date": "2026-01 to 03",
+"year": 2026,
+"event": "Oveporexton filed in China, U.S., Japan",
+"claim_ids": [
+"CLM-005030"
+]
+},
+{
+"date": "2026-02-09",
+"year": 2026,
+"event": "Iambic AI collaboration announced",
+"claim_ids": [
+"CLM-006041"
+]
+},
+{
+"date": "2026-02 to 04",
+"year": 2026,
+"event": "UK and Netherlands revocation actions filed against Entyvio patents",
+"claim_ids": [
+"CLM-014050"
+]
+},
+{
+"date": "2026-03-25",
+"year": 2026,
+"event": "Transformation program, over JPY 200bn gross savings by FY2028; restructuring cost about JPY 150bn in FY2026",
+"claim_ids": [
+"CLM-005059",
+"CLM-005078"
+]
+},
+{
+"date": "2026-03-31",
+"year": 2026,
+"event": "FY2025 ends; AI used by 63.4% of workforce; leverage 2.6x",
+"claim_ids": [
+"CLM-014043",
+"CLM-005005"
+]
+},
+{
+"date": "2026-05",
+"year": 2026,
+"event": "FY2025 results; original FY2026 restructuring forecast JPY 170.0bn; about 4,500 roles affected (trade press); Kim's \"two horizons\" letter",
+"claim_ids": [
+"CLM-005078",
+"CLM-005011",
+"CLM-014074"
+]
+},
+{
+"date": "2026-05-18",
+"year": 2026,
+"event": "AMITIZA jury verdict, USD 884.9m single damages; JPY 403.5bn provision",
+"claim_ids": [
+"CLM-005013",
+"CLM-014048",
+"CLM-005014"
+]
+},
+{
+"date": "2026-06",
+"year": 2026,
+"event": "Zasocitinib head-to-head vs deucravacitinib (company-reported)",
+"claim_ids": [
+"CLM-005034"
+]
+},
+{
+"date": "2026-06-24",
+"year": 2026,
+"event": "Julie Kim becomes CEO; Weber retires",
+"claim_ids": [
+"CLM-005073"
+]
+},
+{
+"date": "2026-08-05",
+"year": 2026,
+"event": "FDA approves Orzeyful (oveporexton)",
+"claim_ids": [
+"CLM-005029"
+]
+},
+{
+"date": "2026-08-28",
+"year": 2026,
+"event": "FDA approves Mimrylo (rusfertide)",
+"claim_ids": [
+"CLM-005032"
+]
+},
+{
+"date": "2026-09-14",
+"year": 2026,
+"event": "FDA accepts zasocitinib NDA (Priority Review); EMA MAA accepted",
+"claim_ids": [
+"CLM-005035"
+]
+},
+{
+"date": "2026-10-28 or 29",
+"year": 2026,
+"event": "H1 FY2026 results (report header dated October 29, 2026); Core OP guidance JPY 1,190bn; restructuring forecast revised from JPY 170.0bn to 160.0bn",
+"claim_ids": [
+"CLM-005011",
+"CLM-005078"
+]
+}
+]
+}
+}

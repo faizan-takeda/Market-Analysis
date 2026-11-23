@@ -1,0 +1,1187 @@
+{
+ "version": "v2",
+ "changes_from_v1": [
+  {
+   "decision_record_row": "1",
+   "change": "BET-15 DEFER -> REJECT as framed (fails the 3.0x leverage ceiling by council arithmetic, ASM-119); its stage gates are removed and its roadmap milestones move to BET-18."
+  },
+  {
+   "decision_record_row": "1",
+   "change": "New BET-18 'Phase 2/3 in-licensing channel' (PARTNER, secondary INVEST; USD 0.5-2bn contingent on IVB-012 and ASM-033; ASM-118 to ASM-120) with a complete A-M template labelled 'v2 addition (council-proposed)'; USD 0 committed, contingent pool 500 / 1,030 / 2,000."
+  },
+  {
+   "decision_record_row": "2",
+   "change": "ASM-025 range widened 2030-2032 -> 2028-2032 (central 2031 unchanged); ASM-038 early-entry stress case; stress case S-A added to scenarios; RM-026 moved 2029 H2 -> 2028 H1 and RM-031 to 2028 H2 (earliest window)."
+  },
+  {
+   "decision_record_row": "3",
+   "change": "BET-06 balanced USD 700m -> 300m, scorecard-first; the USD 400m balance is contingent on RM-007 and the first two deals."
+  },
+  {
+   "decision_record_row": "4",
+   "change": "BET-02 BUILD -> EXPERIMENT; balanced USD 430m -> 230m (baseline and shadow-mode tranche about USD 65m at risk); ASM-031 re-based on money; demand-versus-capacity and plasma-peer tests added as gates (RM-004, new RM-051); Takeda-execution dissent recorded."
+  },
+  {
+   "decision_record_row": "5",
+   "change": "BET-03 balanced USD 500m -> 300m; Phase 1 gate before the H2 tranche (RM-030); additionality test and competitor orexin scan (new RM-052)."
+  },
+  {
+   "decision_record_row": "6",
+   "change": "BET-04 stays BUILD; benefit-channel gate 2027 H1 (RM-003, IVB-004); outcome reframed 'retain 10 points of erosion' -> 'delay and measure'."
+  },
+  {
+   "decision_record_row": "7",
+   "change": "BET-07 prerequisites re-wired (RM-020 depends on RM-015 and RM-018; RM-011 on the decision-log standard and contract stop rules, new RM-053); balanced USD 180m -> 80m with H2/H3 tranches released only at RM-020."
+  },
+  {
+   "decision_record_row": "8",
+   "change": "BET-11 stays BUILD; baseline first; BET-04 channel conflict stated and wired (RM-013 depends on RM-003); confidence -> hypothesis."
+  },
+  {
+   "decision_record_row": "9",
+   "change": "BET-12 capped at USD 50m (from 100m), attached to the oveporexton launch, start 2027 H2 -> 2027 H1 (RM-012)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-13 carry removed (balanced USD 80m -> 0; ambitious USD 160m -> 0 by the proportional rescale)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-17 measurement owner moved from the CFO to internal audit or the CDTO with Audit Committee visibility."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Six bets (BET-04, 05, 08, 09, 11, 16) relabelled evidence_backed -> hypothesis (BET-11 also in row 8)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "CVS Caremark Zepbound removal corrected from 'about 11 months [CLM-007011]' to about 15 months [CLM-007011] [CLM-007013]."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Stage-gate capital at risk is now allocated in whole USD 5m units that sum to the bet size, so no gate total exceeds the bet size (v1 exceeded it by USD 5m for BET-02, 07, 09 and 11)."
+  },
+  {
+   "decision_record_row": "— (re-rating)",
+   "change": "Published robustness table is the council's re-rating (19 of 85 cells changed); the strategy author's v1 rating is kept as a second column."
+  },
+  {
+   "decision_record_row": "— (owned labs)",
+   "change": "'Owned labs fail' narrative softened for BET-09 and BET-10: Lilly's reason undisclosed, the Strateos link unsupported, the NVIDIA joint lab reads as re-platforming; BET-10 stays REJECT with an operational trigger set (T1-T3)."
+  },
+  {
+   "decision_record_row": "Net effect",
+   "change": "Balanced USD 2,950m -> 1,920m committed-at-gates (plus about USD 1,030m contingent headroom for BET-18, not a saving); capital-constrained USD 1,590m -> 1,130m and ambitious USD 4,975m -> 3,155m by proportional rescale of the changed bets; core H1 2027-29 tranche USD 465m."
+  }
+ ],
+ "gates": [
+  {
+   "bet_id": "BET-01",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Inventory of data and AI products with users and outcomes (IVB-001).",
+   "commercial_milestone": "Inventory complete; baselines for two decisions.",
+   "stop_criteria": "No decision can be baselined by end 2027 H2.",
+   "expand_criteria": "Two decisions have baselines and owners.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-01",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Thin-slice catalogue, metadata standard and decision log live.",
+   "commercial_milestone": "Standard adopted by one franchise and plasma.",
+   "stop_criteria": "Standard not adopted by a second function within 12 months.",
+   "expand_criteria": "Second function adopts.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-01",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Governed layer used in two named decisions.",
+   "commercial_milestone": "Two decisions logged versus baseline.",
+   "stop_criteria": "No measured effect on cycle time, hit rate or cost per decision.",
+   "expand_criteria": "Measured effect in at least one decision.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-01",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 50,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot across two franchises; reuse of trial data permitted by governance.",
+   "commercial_milestone": "Reuse policy approved; reuse rate measured.",
+   "stop_criteria": "Reuse rate below threshold set in feasibility (ASSUMPTION).",
+   "expand_criteria": "Reuse above threshold.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-01",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 70,
+   "capital_basis": "committed",
+   "evidence_required": "Enterprise scale, run cost known.",
+   "commercial_milestone": "Layer supports R&D-wide decision log.",
+   "stop_criteria": "Run cost exceeds measured benefit.",
+   "expand_criteria": "Benefit exceeds run cost by gate-agreed margin.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-01",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review of decisions changed by models.",
+   "commercial_milestone": "Annual value review.",
+   "stop_criteria": "Two consecutive reviews with no attributable benefit.",
+   "expand_criteria": "Extend to new decision classes.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Yield, cost per litre and deviation baseline per centre (IVB-006) and the demand-versus-capacity test: H1 FY2026 PDT revenue was -1.5% CER, which does not show a capacity constraint [CLM-005064].",
+   "commercial_milestone": "Baseline and demand-versus-capacity result.",
+   "stop_criteria": "Plasma is demand-bound, or headroom is below ASM-031 after the baseline: redirect or stop.",
+   "expand_criteria": "Capacity-bound and headroom at or above ASM-031.",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 45,
+   "capital_basis": "committed",
+   "evidence_required": "Plasma-peer benchmark of yield and cost per litre (no plasma peer is in the registry [CLM-009091]); ASM-031 re-based on money; vendor options priced fixed-price and outcome-linked [CLM-011031].",
+   "commercial_milestone": "Benchmark, re-based threshold and two vendor bids.",
+   "stop_criteria": "No plasma-peer data obtainable, or no vendor accepts outcome-linked terms.",
+   "expand_criteria": "Benchmark shows a distinct data position and at least one bid is within the envelope.",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 35,
+   "capital_basis": "committed",
+   "evidence_required": "Digital upgrade running in shadow mode at one site; first two gates hold about USD 65m at risk.",
+   "commercial_milestone": "Shadow-mode data for two quarters.",
+   "stop_criteria": "Model predictions do not improve on the nomogram baseline [CLM-005060].",
+   "expand_criteria": "Predictions beat baseline.",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 60,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot at Los Angeles with validated change control, released only if the first three gates pass.",
+   "commercial_milestone": "Pilot results versus the ASM-031 threshold in money; inspection status clean.",
+   "stop_criteria": "New inspection observations attributable to the pilot, or below threshold.",
+   "expand_criteria": "At or above threshold with clean inspection.",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 60,
+   "capital_basis": "committed",
+   "evidence_required": "Network roll-out in waves.",
+   "commercial_milestone": "Wave 1 completed.",
+   "stop_criteria": "Wave 1 below pilot results by a gate-set margin.",
+   "expand_criteria": "Wave results hold.",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-02",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review of yield, cost and deviations.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "Two reviews without sustained gain.",
+   "expand_criteria": "Extend to neutral analytics test (low confidence).",
+   "owner_role": "Head of Plasma-Derived Therapies business unit (role)",
+   "decision_authority": "Executive Team; Board for capital over the delegated limit (ASSUMPTION)",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Orexin biology map beyond narcolepsy type 1; target candidates.",
+   "commercial_milestone": "Indication map and lead criteria.",
+   "stop_criteria": "No second target or indication clears safety criteria (liver history [CLM-005023]).",
+   "expand_criteria": "Candidate class with clean safety rationale.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Candidate profile and tox plan; additionality test against base R&D (JPY 675.9bn [CLM-005004]) and competitor orexin scan (research gap).",
+   "commercial_milestone": "Candidate selection; additionality and competitor scan reported before the H2 tranche.",
+   "stop_criteria": "No candidate by gate date, or the spend is not incremental to base R&D.",
+   "expand_criteria": "Candidate selected and incremental share demonstrated.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 45,
+   "capital_basis": "committed",
+   "evidence_required": "Preclinical package and first-in-human readiness.",
+   "commercial_milestone": "IND-enabling complete.",
+   "stop_criteria": "Safety signal in preclinical package.",
+   "expand_criteria": "Package supports start.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 75,
+   "capital_basis": "committed",
+   "evidence_required": "Phase 1 and early Phase 2 quality (placebo response, exposure, safety); a second candidate clean through Phase 1 releases the H2 tranche (RM-030).",
+   "commercial_milestone": "Phase 1 gate: H2 tranche decision.",
+   "stop_criteria": "Safety or exposure failure; weak Phase 2 design (LES-18).",
+   "expand_criteria": "Clean Phase 1; credible Phase 2 design.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 105,
+   "capital_basis": "committed",
+   "evidence_required": "Late-stage programme; partner decision on non-core indications.",
+   "commercial_milestone": "Phase 3 start.",
+   "stop_criteria": "Phase 2 misses primary endpoint.",
+   "expand_criteria": "Phase 2 positive; Phase 3 funded from base R&D.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-03",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Value review after first approval.",
+   "commercial_milestone": "Annual review.",
+   "stop_criteria": "Single-asset only after 2040 (platform claim withdrawn).",
+   "expand_criteria": "Two assets approved: declare platform.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Benefit-channel gate (IVB-004): medical versus pharmacy benefit split of Entyvio volume; erosion scenarios and patent posture.",
+   "commercial_milestone": "Gate decision 2027 H1 (RM-003): continue, or redirect part of the spend to provider and site-of-care strategy.",
+   "stop_criteria": "Most volume is outside the contractable channel and no provider-side lever exists.",
+   "expand_criteria": "Most volume is contractable.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Contracting capability assessment; payer segment net price and persistence.",
+   "commercial_milestone": "Capability assessment and playbook.",
+   "stop_criteria": "Playbook shows no feasible contracting lever.",
+   "expand_criteria": "Levers identified.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Contracting posture ready for January 2028 negotiated price [CLM-007026].",
+   "commercial_milestone": "Posture signed off.",
+   "stop_criteria": "n/a (date-fixed).",
+   "expand_criteria": "Posture tested in scenario table.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 35,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot of outcomes and persistence evidence; patient-programme changes piloted before roll-out [CLM-003088].",
+   "commercial_milestone": "Pilot results.",
+   "stop_criteria": "Pilot shows loss of share.",
+   "expand_criteria": "Pilot retains share.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 50,
+   "capital_basis": "committed",
+   "evidence_required": "Biosimilar-event playbook live before ASM-025 earliest entry.",
+   "commercial_milestone": "Playbook live.",
+   "stop_criteria": "n/a.",
+   "expand_criteria": "Triggered on first entry.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-04",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Net price and persistence measured against the ASM-024 low case (delay and measure).",
+   "commercial_milestone": "Annual review.",
+   "stop_criteria": "Net price and persistence below the ASM-024 low case: redirect to lifecycle.",
+   "expand_criteria": "Net price and persistence at or above the ASM-024 midpoint.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Target modality and disease-depth map; kill criteria.",
+   "commercial_milestone": "Criteria approved.",
+   "stop_criteria": "No adjacent modality with disease depth.",
+   "expand_criteria": "One or two modalities selected.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Deal-outcome scorecard from Takeda's past deals; options priced; the contingent balance of the v1 size stays unreleased until this gate and the first two deals.",
+   "commercial_milestone": "Scorecard and price bands (RM-007).",
+   "stop_criteria": "Option fees above band.",
+   "expand_criteria": "Within band.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 45,
+   "capital_basis": "committed",
+   "evidence_required": "First 2-3 option or licence deals signed with exercise on Phase 1/2 data.",
+   "commercial_milestone": "Deals signed.",
+   "stop_criteria": "Counterparty terminates (Denali and Neurocrine precedent [CLM-009089] [CLM-009090]).",
+   "expand_criteria": "Phase 1 data positive.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 75,
+   "capital_basis": "committed",
+   "evidence_required": "Option exercise on data.",
+   "commercial_milestone": "Exercise decisions.",
+   "stop_criteria": "Phase 1 safety or exposure failure.",
+   "expand_criteria": "Exercise on clean data.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 105,
+   "capital_basis": "committed",
+   "evidence_required": "Late-stage conversion and capital.",
+   "commercial_milestone": "Phase 3 starts from options.",
+   "stop_criteria": "Impairments exceed 54% of deal value benchmark [CLM-009054].",
+   "expand_criteria": "Approval path credible.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-06",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Three-year impairment and conversion review.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "Conversion below 0.05 (ASM-028 low).",
+   "expand_criteria": "Conversion at or above 0.10.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Review of Nabla and Iambic data package plans.",
+   "commercial_milestone": "Plans with go/no-go.",
+   "stop_criteria": "No data-gated structure.",
+   "expand_criteria": "Gates agreed.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Benchmark design: AI-origin versus conventional on Takeda targets; needs the BET-01 decision log (RM-015) and the BET-09 cost benchmark (RM-018).",
+   "commercial_milestone": "Benchmark approved.",
+   "stop_criteria": "No benchmark baseline.",
+   "expand_criteria": "Benchmark approved.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Nabla first-in-human expected within one to two years of October 2025 [CLM-006039]; stop rules written into contracts before the next payment (RM-053).",
+   "commercial_milestone": "First-in-human data in hand.",
+   "stop_criteria": "Data absent by 2028 H2 or negative.",
+   "expand_criteria": "Data positive versus conventional.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Phase 1 starts from AI programmes; Phase 2 transition.",
+   "commercial_milestone": "Phase 1 results.",
+   "stop_criteria": "Safety or exposure failure.",
+   "expand_criteria": "Transition rate at or above conventional.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Scale partnership or license.",
+   "commercial_milestone": "Scale terms.",
+   "stop_criteria": "Success-based payments grow faster than data.",
+   "expand_criteria": "Data justify scale.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-07",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review versus Phase 2 transition rate.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "Transition below conventional for two cycles.",
+   "expand_criteria": "Above conventional.",
+   "owner_role": "Head of Research (role)",
+   "decision_authority": "R&D Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Define assays needed for BET-07 and orexin work.",
+   "commercial_milestone": "Assay list.",
+   "stop_criteria": "No assay suitable for rent.",
+   "expand_criteria": "List approved.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "CRO and cloud-lab quotes; data schema agreed (thin slice of BET-01).",
+   "commercial_milestone": "Quotes and schema.",
+   "stop_criteria": "No provider meets quality and IP terms.",
+   "expand_criteria": "Provider selected.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot contract with acceptance criteria.",
+   "commercial_milestone": "Contract signed.",
+   "stop_criteria": "n/a.",
+   "expand_criteria": "Contract signed.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 25,
+   "capital_basis": "committed",
+   "evidence_required": "Cost per data point and turnaround versus internal baseline.",
+   "commercial_milestone": "Pilot results.",
+   "stop_criteria": "Cost above internal baseline.",
+   "expand_criteria": "Cost at or below baseline.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Scale service use; stage-3 pilot only if triggers fire [CLM-011066].",
+   "commercial_milestone": "Scale or stage-3 decision.",
+   "stop_criteria": "Triggers not met.",
+   "expand_criteria": "Triggers met.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-09",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Annual cost and quality review.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "Vendor quality fails twice.",
+   "expand_criteria": "Maintain.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Device pipeline map for Entyvio, Hyqvia and new launches.",
+   "commercial_milestone": "Device map.",
+   "stop_criteria": "No device addresses a defined need.",
+   "expand_criteria": "Needs defined.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Patient and payer value of formats; channel decision against the BET-04 benefit-channel gate (RM-003): does moving patients into the pharmacy benefit help or hurt after entry [CLM-007015]?",
+   "commercial_milestone": "Format value assessment and channel decision.",
+   "stop_criteria": "No persistence advantage plausible, or SC raises exposure after entry.",
+   "expand_criteria": "Advantage plausible and channel exposure acceptable.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 30,
+   "capital_basis": "committed",
+   "evidence_required": "Next-generation device prototype.",
+   "commercial_milestone": "Prototype tested.",
+   "stop_criteria": "Usability failure.",
+   "expand_criteria": "Passes usability.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 45,
+   "capital_basis": "committed",
+   "evidence_required": "Controlled launch with persistence measures.",
+   "commercial_milestone": "Pilot persistence.",
+   "stop_criteria": "SC erodes net price faster than it retains patients [CLM-007053].",
+   "expand_criteria": "Persistence higher than IV.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 65,
+   "capital_basis": "committed",
+   "evidence_required": "Wider launch.",
+   "commercial_milestone": "Scale.",
+   "stop_criteria": "Device recall or clearance setback.",
+   "expand_criteria": "Adoption target met.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-11",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review after biosimilar entry.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "No retention effect after entry.",
+   "expand_criteria": "Retention effect shown.",
+   "owner_role": "Head of GI franchise and U.S. business unit (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-05",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 35,
+   "capital_basis": "committed",
+   "evidence_required": "Plan for incremental indications and comparative data.",
+   "commercial_milestone": "Plan approved.",
+   "stop_criteria": "No incremental indication with evidence.",
+   "expand_criteria": "Indications identified.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-05",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 55,
+   "capital_basis": "committed",
+   "evidence_required": "PsA Phase 3 results (study end May 2027 [CLM-005037]).",
+   "commercial_milestone": "PsA readout.",
+   "stop_criteria": "PsA misses primary endpoint.",
+   "expand_criteria": "PsA positive.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-05",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 70,
+   "capital_basis": "committed",
+   "evidence_required": "Approval and launch execution; payer coverage at 6 and 12 months.",
+   "commercial_milestone": "Launch metrics.",
+   "stop_criteria": "Coverage and uptake below plan.",
+   "expand_criteria": "Coverage at plan.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-05",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review of replacement versus Entyvio exposure.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "n/a.",
+   "expand_criteria": "Extend to further indications.",
+   "owner_role": "Head of R&D (role)",
+   "decision_authority": "R&D Committee; Executive Team at scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-08",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Held-out evaluation set defined.",
+   "commercial_milestone": "Set and metrics.",
+   "stop_criteria": "No Takeda task with measurable gain.",
+   "expand_criteria": "Metric defined.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-08",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Pooled model on Takeda held-out data versus public and Takeda-only models.",
+   "commercial_milestone": "Evaluation result.",
+   "stop_criteria": "Pooled model does not beat alternatives.",
+   "expand_criteria": "Gain shown.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-08",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review of tasks and gains.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "Two reviews without gain.",
+   "expand_criteria": "Add tasks.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-12",
+   "stage": "prototype",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Launch-pathway design attached to the oveporexton launch with a named leader; time-to-therapy baseline; start 2027 H1.",
+   "commercial_milestone": "Design and baseline.",
+   "stop_criteria": "No pathway bottleneck identified.",
+   "expand_criteria": "Bottleneck identified.",
+   "owner_role": "Head of Patient Services and Market Access, U.S. (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-12",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 15,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot with diagnosis or site partners; compliance review [CLM-007010].",
+   "commercial_milestone": "Pilot results.",
+   "stop_criteria": "No improvement in time to first dose.",
+   "expand_criteria": "Improvement shown.",
+   "owner_role": "Head of Patient Services and Market Access, U.S. (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-12",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 20,
+   "capital_basis": "committed",
+   "evidence_required": "Extend to other launches.",
+   "commercial_milestone": "Scale.",
+   "stop_criteria": "Compliance finding.",
+   "expand_criteria": "Gain holds.",
+   "owner_role": "Head of Patient Services and Market Access, U.S. (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-12",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 5,
+   "capital_basis": "committed",
+   "evidence_required": "Annual review.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "n/a.",
+   "expand_criteria": "Registry decision (BET-13).",
+   "owner_role": "Head of Patient Services and Market Access, U.S. (role)",
+   "decision_authority": "Executive Team",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-17",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 25,
+   "capital_basis": "committed",
+   "evidence_required": "Use-case list and baselines (IVB-001, IVB-003).",
+   "commercial_milestone": "Baselines.",
+   "stop_criteria": "No baseline for a use case: stop that use case.",
+   "expand_criteria": "Baselines set.",
+   "owner_role": "Head of Internal Audit or Chief Digital and Technology Officer, with Audit Committee visibility (role; independent of the savings-target owner)",
+   "decision_authority": "Audit Committee oversight; Executive Team for scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-17",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 35,
+   "capital_basis": "committed",
+   "evidence_required": "Measured pilots incl. advisory-only decision support [CLM-011074].",
+   "commercial_milestone": "Pilot results.",
+   "stop_criteria": "No measured benefit.",
+   "expand_criteria": "Benefit shown.",
+   "owner_role": "Head of Internal Audit or Chief Digital and Technology Officer, with Audit Committee visibility (role; independent of the savings-target owner)",
+   "decision_authority": "Audit Committee oversight; Executive Team for scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-17",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 50,
+   "capital_basis": "committed",
+   "evidence_required": "Scale measured use cases; reskilling plan measured by task capability [CLM-011081].",
+   "commercial_milestone": "Scale.",
+   "stop_criteria": "Retention or morale deterioration.",
+   "expand_criteria": "Capability measure improves.",
+   "owner_role": "Head of Internal Audit or Chief Digital and Technology Officer, with Audit Committee visibility (role; independent of the savings-target owner)",
+   "decision_authority": "Audit Committee oversight; Executive Team for scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-17",
+   "stage": "value_review",
+   "capital_at_risk_usd_m": 10,
+   "capital_basis": "committed",
+   "evidence_required": "Annual share of use cases with measured benefit.",
+   "commercial_milestone": "Value review.",
+   "stop_criteria": "n/a.",
+   "expand_criteria": "Continue.",
+   "owner_role": "Head of Internal Audit or Chief Digital and Technology Officer, with Audit Committee visibility (role; independent of the savings-target owner)",
+   "decision_authority": "Audit Committee oversight; Executive Team for scale gates",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-13",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 0,
+   "capital_basis": "committed",
+   "evidence_required": "Disease choice and neutral sponsor options.",
+   "commercial_milestone": "Options paper (2029).",
+   "stop_criteria": "No neutral sponsor.",
+   "expand_criteria": "Sponsor exists.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-13",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 0,
+   "capital_basis": "committed",
+   "evidence_required": "Pilot registry with patient organisations; consent model.",
+   "commercial_milestone": "Pilot decision (2030).",
+   "stop_criteria": "Consent or demand insufficient.",
+   "expand_criteria": "Pilot launched.",
+   "owner_role": "Chief Digital and Technology Officer (role)",
+   "decision_authority": "Executive Team on recommendation of the Portfolio Review Committee",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037"
+   ]
+  },
+  {
+   "bet_id": "BET-18",
+   "stage": "discovery",
+   "capital_at_risk_usd_m": 0,
+   "capital_basis": "contingent",
+   "evidence_required": "Leverage policy: adjusted net debt to EBITDA ceiling (ASM-033) and Amitiza cash timing (IVB-012); per-deal upfront ceiling (ASM-118).",
+   "commercial_milestone": "Policy and per-deal ceiling set (RM-054).",
+   "stop_criteria": "Leverage test fails: no deal.",
+   "expand_criteria": "Test passes with headroom (ASM-119).",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037",
+    "ASM-118"
+   ]
+  },
+  {
+   "bet_id": "BET-18",
+   "stage": "feasibility",
+   "capital_at_risk_usd_m": 0,
+   "capital_basis": "contingent",
+   "evidence_required": "Screen of Phase 2/3 assets with human data; deal-outcome scorecard shared with BET-06 (RM-007).",
+   "commercial_milestone": "Short list within the ceiling.",
+   "stop_criteria": "No asset within the ceiling, or kill criteria met.",
+   "expand_criteria": "At least one asset within the ceiling.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037",
+    "ASM-118"
+   ]
+  },
+  {
+   "bet_id": "BET-18",
+   "stage": "pilot",
+   "capital_at_risk_usd_m": 500,
+   "capital_basis": "contingent",
+   "evidence_required": "First licence or option with milestone-weighted payments; one-write-down test: a write-down must not breach ASM-033 or dividend policy [CLM-005006].",
+   "commercial_milestone": "First deal signed.",
+   "stop_criteria": "Write-down test fails.",
+   "expand_criteria": "Test passes.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037",
+    "ASM-118"
+   ]
+  },
+  {
+   "bet_id": "BET-18",
+   "stage": "scale",
+   "capital_at_risk_usd_m": 530,
+   "capital_basis": "contingent",
+   "evidence_required": "Second and later deals under the same tests; impairment review against the Cerevel benchmark [CLM-009054].",
+   "commercial_milestone": "Further deals signed within the pool (ASM-118).",
+   "stop_criteria": "Impairments exceed 54% of deal value benchmark [CLM-009054].",
+   "expand_criteria": "Phase 3 starts or approval path credible.",
+   "owner_role": "Head of Corporate Development and External Innovation (role)",
+   "decision_authority": "Portfolio Review Committee; Board for large transactions",
+   "basis": "ASSUMPTION",
+   "assumption_ids": [
+    "ASM-037",
+    "ASM-118"
+   ]
+  }
+ ]
+}

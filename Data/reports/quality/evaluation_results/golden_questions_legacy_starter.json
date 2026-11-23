@@ -1,0 +1,184 @@
+[
+  {
+    "id": "GQ01",
+    "domain": "Lilly",
+    "question": "What are Lilly 2025 audited revenue, R&D, operating cash flow, and product concentration?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ02",
+    "domain": "Lilly",
+    "question": "Which 2025-2026 AI initiatives were announced, piloted, actually deployed, and independently measured?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ03",
+    "domain": "Lilly",
+    "question": "What is evidence that Lilly TuneLab creates measurable partner scientific outcomes?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ04",
+    "domain": "Lilly",
+    "question": "What is the evidence for Lilly Direct access impact beyond engagement statistics?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ05",
+    "domain": "Lilly",
+    "question": "What are 3 Lilly clinical/commercial setbacks over 2021-2026 and what changed?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ06",
+    "domain": "JNJ",
+    "question": "How must 2021-2025 growth be normalized for Kenvue separation?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ07",
+    "domain": "JNJ",
+    "question": "What exact FDA 2026 OTTAVA authorization and first commercial deployment are supported by sources?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ08",
+    "domain": "JNJ",
+    "question": "Does OTTAVA regulatory authorization prove broad surgical superiority or commercial adoption?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ09",
+    "domain": "JNJ",
+    "question": "How is the Polyphonic ecosystem connected to robotics, and what measured outcomes exist?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ10",
+    "domain": "JNJ",
+    "question": "How does Innovate Medicine segment fund/reinforce MedTech, based on public evidence?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ11",
+    "domain": "AbbVie",
+    "question": "What do 2025 audited 10-K figures show for Humira, Skyrizi, and Rinvoq?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ12",
+    "domain": "AbbVie",
+    "question": "What is portfolio concentration after Humira LOE and what diversification risks persist?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ13",
+    "domain": "AbbVie",
+    "question": "What AI clinical development deployments were validated, versus only partnerships announced?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ14",
+    "domain": "AbbVie",
+    "question": "What disclosed M&A and licensing deals strengthen future immunology, neuroscience and oncology?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ15",
+    "domain": "AbbVie",
+    "question": "What strategic setbacks challenge the narrative of post-Humira resilience?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ16",
+    "domain": "Cross",
+    "question": "How do CEO/CFO/R&D promises in FY2021 compare with delivered outcomes by 2025?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ17",
+    "domain": "Cross",
+    "question": "Which leadership interviews are primary public transcripts vs news paraphrases?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ18",
+    "domain": "Cross",
+    "question": "Which exact lobbying filings/positions exist and what policy impacts are unprovable?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ19",
+    "domain": "Cross",
+    "question": "Which company has actual robotics deployment, not only research/marketing plans?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ20",
+    "domain": "Cross",
+    "question": "Where do results depend on product vs segment vs continuing-operations denominators?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ21",
+    "domain": "Takeda",
+    "question": "What does FY2025 public Takeda disclosure establish for funding and portfolio priorities?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ22",
+    "domain": "Takeda",
+    "question": "Which patent/LOE events are source-verified and which dates remain estimates?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ23",
+    "domain": "Takeda",
+    "question": "What investment options create cumulative learning and partner ecosystems across 3 horizons?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ24",
+    "domain": "Takeda",
+    "question": "How do base/severe LOE/delayed trials/breakthrough scenarios differ?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ25",
+    "domain": "Website",
+    "question": "Can every chart and leadership quote open the original source to its specific locator?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  },
+  {
+    "id": "GQ26",
+    "domain": "Website",
+    "question": "Does changing LOE erosion assumptions impact outputs monotonically with other factors held fixed?",
+    "status": "not_evaluated",
+    "expected_source_ids": []
+  }
+]

@@ -1,0 +1,106 @@
+1. JAMA Neurol. 2026 May 1;83(5):452-460. doi: 10.1001/jamaneurol.2026.0590.
+
+Fixed-Dose Tavapadon for Early Parkinson Disease: A Randomized Clinical Trial.
+
+Pahwa R(1), Moro E(2), Espay AJ(3), Evans A(4), Saint-Hilaire M(5), 
+Torres-Russotto D(6), Sanchez R(7), Leoni M(8), Duvvuri S(8), Combs C(9), Chang 
+I(10), Tringali S(11), Boiser J(10), Zadikoff C(10), Antonini A(12)(13).
+
+Author information:
+(1)University of Kansas Medical Center, Kansas City.
+(2)Grenoble Institute of Neuroscience, Grenoble Alpes University, CHU of 
+Grenoble, Grenoble, France.
+(3)University of Cincinnati College of Medicine, Cincinnati, Ohio.
+(4)The Royal Melbourne Hospital, Parkville, Victoria, Australia.
+(5)Chobanian and Avedisian School of Medicine at Boston University, Boston, 
+Massachusetts.
+(6)Baptist Health Miami Neuroscience Institute, Florida International 
+University, Miami.
+(7)Bain Capital Life Sciences Investors, Boston, Massachusetts.
+(8)Merida Biosciences, Cambridge, Massachusetts.
+(9)Neurogene, New York, New York.
+(10)AbbVie, North Chicago, Illinois.
+(11)Amgen, Cambridge, Massachusetts.
+(12)Neurodegenerative Diseases Unit, Department of Neuroscience, Padova 
+Neuroscience Center, University of Padova, Padova, Italy.
+(13)IRCCS San Camillo, Venice, Italy.
+
+Comment in
+ doi: 10.1001/jamaneurol.2026.0577.
+
+IMPORTANCE: Tavapadon is an oral, once-daily, selective D1/D5 agonist that may 
+improve Parkinson disease (PD) motor symptoms while minimizing adverse events 
+(AEs) associated with D2/D3 receptor activation.
+OBJECTIVE: To evaluate the efficacy, safety, and tolerability of tavapadon in 
+adults with early PD.
+DESIGN, SETTING, AND PARTICIPANTS: TEMPO-1 was a phase 3, double-blind, 
+placebo-controlled randomized clinical trial conducted at 102 sites across 12 
+countries between December 2019 and June 2024. Adults with early PD (<3 years' 
+disease duration) who were treatment naive or had less than 3 months of prior 
+dopaminergic treatment were eligible for enrollment. Data analysis was completed 
+from July 2024 to May 2025.
+INTERVENTION: Participants were randomized 1:1:1 to receive 1 of 2 fixed doses 
+of tavapadon (5 or 15 mg once daily) or placebo for 27 weeks, followed by a 
+4-week safety follow-up period.
+MAIN OUTCOMES AND MEASURES: The primary end point was least-squares mean (LSM) 
+change from baseline to week 26 in Movement Disorder Society-Unified Parkinson's 
+Disease Rating Scale (MDS-UPDRS) parts II and III combined score. Key secondary 
+end points were LSM change from baseline to week 26 in MDS-UPDRS part II scores 
+and the proportion of participants with a score of "much improved" or "very much 
+improved" on the Patient Global Impression of Change.
+RESULTS: Overall, 751 adults with early PD who were treatment naive or had less 
+than 3 months of prior dopaminergic treatment were screened, and 529 
+participants were enrolled (187 female participants [35.3%]; mean [SD] age, 63.7 
+[9.6] years; mean [SD] disease duration, 0.7 [0.8] years) and randomized to 
+receive tavapadon, 5 mg (n = 177), tavapadon, 15 mg (n = 177), or placebo 
+(n = 175). The change from baseline to week 26 in the MDS-UPDRS parts II and III 
+combined score was significantly improved in participants treated with both the 
+5-mg dose of tavapadon (9.7-point decrease vs 1.8-point increase with placebo; 
+treatment difference, -11.5 points; 95% CI, -13.8 to -9.2; P < .001; d = 1.14) 
+and 15-mg dose of tavapadon (10.2-point decrease vs 1.8-point increase with 
+placebo; treatment difference, -12.1 points; 95% CI, -14.4 to -9.8; P < .001; 
+d = 1.20). Tavapadon had a favorable safety profile; most AEs were nonserious 
+and mild to moderate in severity. Common AEs with tavapadon were nausea (90 of 
+354 with tavapadon [25.4%]), headache (59 of 354 [16.7%]), and dizziness (45 of 
+354 [12.7%]).
+CONCLUSIONS AND RELEVANCE: In the TEMPO-1 randomized clinical trial, tavapadon 
+improved motor function in participants with early PD and was well tolerated 
+with a favorable safety profile.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04201093.
+
+DOI: 10.1001/jamaneurol.2026.0590
+PMCID: PMC13005179
+PMID: 41860533 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Pahwa 
+reported advisory board or consultant fees from AbbVie during the conduct of the 
+study and consultant fees from Abbott, AbbVie, ACADIA, Amneal Pharmaceuticals, 
+AskBio, Convatec, Fasikl, Genetech, Insightec, Lundbeck, Merz, Mitsubishi 
+Tanabe, Ono, PhotoPharmics, Supernus Pharmaceuticals, and Theravance outside the 
+submitted work. Dr Moro reported grants from Centre Hospitalier Universitaire 
+Grenoble Alpes during the conduct of the study. Dr Espay reported personal fees 
+from serving as a scientific consultant to AbbVie, Acorda, Amneal, Bial, Citrus 
+Health, Herantis Pharma, Intrance Medical Systems, Merz, Mitsubishi Tanabe 
+Pharma America, NeuroDiagnostics, Praxis Precision Medicines, and Supernus 
+Pharmaceuticals outside the submitted work. Dr Evans reported honoraria for 
+presentations and/or advisory boards from Abbott, AbbVie, BlueRock Therapeutics, 
+CSL Seqirus, Encapsulate, Ipsen, and STADA and grants to support research 
+activities at the Royal Melbourne Hospital from the Australian National Health 
+and Medical Research Council outside the submitted work. Dr Saint-Hilaire 
+reported funding from the US National Institutes of Health for the SPARX 3 study 
+on the benefit of exercise in Parkinson disease; support from the Michael J. Fox 
+Foundation for the Parkinson’s Progression Markers Initiative; and participating 
+in the LUMA study in early Parkinson to slow down progression, funded by Biogen. 
+Dr Torres-Russotto reported consulting for AbbVie, Ipsen, Neurocrine, Revance, 
+and Teva outside the submitted work. Dr Sanchez reported employment by Bain 
+Capital Life Sciences during the conduct of the study. Dr Duvvuri reported 
+employment by and holding stock in AbbVie/Cerevel at the time of this work; 
+owning stock in Pfizer; being a current employee of Merida Biosciences; and a 
+pending patent for AbbVie on dosing and titration schemes for tavapadon. Dr 
+Combs reported employment by AbbVie and Cerevel Therapeutics and employment by 
+Neurogene outside the submitted work. Dr Chang reported employment by AbbVie 
+both during the conduct of the study and outside the submitted work. Dr Tringali 
+reported being a prior employee of AbbVie. Dr Zadikoff reported employment by 
+AbbVie during the conduct of the study. Dr Antonini reported personal fees from 
+AbbVie, Bial, Ferrer, Theravance Biopharma, and Zambon outside the submitted 
+work. No other disclosures were reported.

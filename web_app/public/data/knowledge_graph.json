@@ -1,0 +1,5246 @@
+{
+"nodes": [
+{
+"id": "LLY",
+"type": "company",
+"label": "Lilly"
+},
+{
+"id": "JNJ",
+"type": "company",
+"label": "J&J"
+},
+{
+"id": "ABBV",
+"type": "company",
+"label": "AbbVie"
+},
+{
+"id": "TAK",
+"type": "company",
+"label": "Takeda"
+},
+{
+"id": "E:Eli Lilly",
+"type": "product",
+"label": "Eli Lilly"
+},
+{
+"id": "E:Mounjaro",
+"type": "product",
+"label": "Mounjaro"
+},
+{
+"id": "E:tirzepatide",
+"type": "product",
+"label": "tirzepatide"
+},
+{
+"id": "E:Zepbound",
+"type": "product",
+"label": "Zepbound"
+},
+{
+"id": "E:Trulicity",
+"type": "product",
+"label": "Trulicity"
+},
+{
+"id": "E:Verzenio",
+"type": "product",
+"label": "Verzenio"
+},
+{
+"id": "E:Taltz",
+"type": "product",
+"label": "Taltz"
+},
+{
+"id": "E:manufacturing capacity",
+"type": "technology",
+"label": "manufacturing capacity"
+},
+{
+"id": "E:Scorpion Therapeutics",
+"type": "product",
+"label": "Scorpion Therapeutics"
+},
+{
+"id": "E:SiteOne Therapeutics",
+"type": "product",
+"label": "SiteOne Therapeutics"
+},
+{
+"id": "E:Morphic Holding",
+"type": "product",
+"label": "Morphic Holding"
+},
+{
+"id": "E:POINT Biopharma",
+"type": "entity",
+"label": "POINT Biopharma"
+},
+{
+"id": "E:radioligand therapy",
+"type": "entity",
+"label": "radioligand therapy"
+},
+{
+"id": "E:Verve Therapeutics",
+"type": "entity",
+"label": "Verve Therapeutics"
+},
+{
+"id": "E:gene editing",
+"type": "entity",
+"label": "gene editing"
+},
+{
+"id": "E:orforglipron",
+"type": "entity",
+"label": "orforglipron"
+},
+{
+"id": "E:Medicare",
+"type": "entity",
+"label": "Medicare"
+},
+{
+"id": "E:National Priority Voucher",
+"type": "entity",
+"label": "National Priority Voucher"
+},
+{
+"id": "E:Innovative Medicine",
+"type": "product",
+"label": "Innovative Medicine"
+},
+{
+"id": "E:MedTech",
+"type": "product",
+"label": "MedTech"
+},
+{
+"id": "E:STELARA",
+"type": "product",
+"label": "STELARA"
+},
+{
+"id": "E:biosimilars",
+"type": "product",
+"label": "biosimilars"
+},
+{
+"id": "E:Medicare Part D",
+"type": "product",
+"label": "Medicare Part D"
+},
+{
+"id": "E:DARZALEX",
+"type": "product",
+"label": "DARZALEX"
+},
+{
+"id": "E:TREMFYA",
+"type": "product",
+"label": "TREMFYA"
+},
+{
+"id": "E:CARVYKTI",
+"type": "product",
+"label": "CARVYKTI"
+},
+{
+"id": "E:CAR-T",
+"type": "product",
+"label": "CAR-T"
+},
+{
+"id": "E:Intra-Cellular Therapies",
+"type": "product",
+"label": "Intra-Cellular Therapies"
+},
+{
+"id": "E:CAPLYTA",
+"type": "product",
+"label": "CAPLYTA"
+},
+{
+"id": "E:Halda Therapeutics",
+"type": "product",
+"label": "Halda Therapeutics"
+},
+{
+"id": "E:Shockwave Medical",
+"type": "product",
+"label": "Shockwave Medical"
+},
+{
+"id": "E:Abiomed",
+"type": "product",
+"label": "Abiomed"
+},
+{
+"id": "E:Orthopaedics",
+"type": "product",
+"label": "Orthopaedics"
+},
+{
+"id": "E:AbbVie",
+"type": "product",
+"label": "AbbVie"
+},
+{
+"id": "E:Humira",
+"type": "product",
+"label": "Humira"
+},
+{
+"id": "E:Skyrizi",
+"type": "product",
+"label": "Skyrizi"
+},
+{
+"id": "E:Rinvoq",
+"type": "product",
+"label": "Rinvoq"
+},
+{
+"id": "E:emraclidine",
+"type": "entity",
+"label": "emraclidine"
+},
+{
+"id": "E:Cerevel Therapeutics",
+"type": "entity",
+"label": "Cerevel Therapeutics"
+},
+{
+"id": "E:schizophrenia",
+"type": "entity",
+"label": "schizophrenia"
+},
+{
+"id": "E:ImmunoGen",
+"type": "entity",
+"label": "ImmunoGen"
+},
+{
+"id": "E:Nimble Therapeutics",
+"type": "entity",
+"label": "Nimble Therapeutics"
+},
+{
+"id": "E:Capstan Therapeutics",
+"type": "product",
+"label": "Capstan Therapeutics"
+},
+{
+"id": "E:Gilgamesh Pharmaceuticals",
+"type": "product",
+"label": "Gilgamesh Pharmaceuticals"
+},
+{
+"id": "E:Ichnos Glenmark",
+"type": "product",
+"label": "Ichnos Glenmark"
+},
+{
+"id": "E:Takeda",
+"type": "product",
+"label": "Takeda"
+},
+{
+"id": "E:AMITIZA",
+"type": "product",
+"label": "AMITIZA"
+},
+{
+"id": "E:antitrust litigation",
+"type": "product",
+"label": "antitrust litigation"
+},
+{
+"id": "E:ENTYVIO",
+"type": "product",
+"label": "ENTYVIO"
+},
+{
+"id": "E:VYVANSE",
+"type": "product",
+"label": "VYVANSE"
+},
+{
+"id": "E:generics",
+"type": "product",
+"label": "generics"
+},
+{
+"id": "E:LOE",
+"type": "product",
+"label": "LOE"
+},
+{
+"id": "E:TRINTELLIX",
+"type": "entity",
+"label": "TRINTELLIX"
+},
+{
+"id": "E:zasocitinib",
+"type": "entity",
+"label": "zasocitinib"
+},
+{
+"id": "E:TAK-279",
+"type": "entity",
+"label": "TAK-279"
+},
+{
+"id": "E:psoriasis",
+"type": "entity",
+"label": "psoriasis"
+},
+{
+"id": "E:plasma-derived therapies",
+"type": "technology",
+"label": "plasma-derived therapies"
+},
+{
+"id": "E:BioLife",
+"type": "technology",
+"label": "BioLife"
+},
+{
+"id": "E:TuneLab",
+"type": "technology",
+"label": "TuneLab"
+},
+{
+"id": "E:Catalyze360",
+"type": "technology",
+"label": "Catalyze360"
+},
+{
+"id": "E:federated learning",
+"type": "technology",
+"label": "federated learning"
+},
+{
+"id": "E:NVIDIA",
+"type": "technology",
+"label": "NVIDIA"
+},
+{
+"id": "E:BioNeMo",
+"type": "technology",
+"label": "BioNeMo"
+},
+{
+"id": "E:autonomous laboratory",
+"type": "technology",
+"label": "autonomous laboratory"
+},
+{
+"id": "E:AI factory",
+"type": "technology",
+"label": "AI factory"
+},
+{
+"id": "E:digital twin",
+"type": "technology",
+"label": "digital twin"
+},
+{
+"id": "E:OTTAVA",
+"type": "technology",
+"label": "OTTAVA"
+},
+{
+"id": "E:FDA De Novo",
+"type": "technology",
+"label": "FDA De Novo"
+},
+{
+"id": "E:surgical robotics",
+"type": "technology",
+"label": "surgical robotics"
+},
+{
+"id": "E:Memorial Hermann",
+"type": "technology",
+"label": "Memorial Hermann"
+},
+{
+"id": "E:Valkai",
+"type": "technology",
+"label": "Valkai"
+},
+{
+"id": "E:AI@AbbVie",
+"type": "technology",
+"label": "AI@AbbVie"
+},
+{
+"id": "E:clinical development",
+"type": "technology",
+"label": "clinical development"
+},
+{
+"id": "MULTI",
+"type": "company_group",
+"label": "MULTI"
+},
+{
+"id": "E:Johnson & Johnson",
+"type": "technology",
+"label": "Johnson & Johnson"
+},
+{
+"id": "E:State of Indiana",
+"type": "technology",
+"label": "State of Indiana"
+},
+{
+"id": "E:advanced manufacturing",
+"type": "technology",
+"label": "advanced manufacturing"
+},
+{
+"id": "E:process development",
+"type": "technology",
+"label": "process development"
+},
+{
+"id": "E:DGX SuperPOD B300",
+"type": "technology",
+"label": "DGX SuperPOD B300"
+},
+{
+"id": "E:Omniverse",
+"type": "technology",
+"label": "Omniverse"
+},
+{
+"id": "E:Isaac",
+"type": "technology",
+"label": "Isaac"
+},
+{
+"id": "E:DGX SuperPOD",
+"type": "technology",
+"label": "DGX SuperPOD"
+},
+{
+"id": "E:Spectrum-X",
+"type": "technology",
+"label": "Spectrum-X"
+},
+{
+"id": "E:NVIDIA Isaac",
+"type": "technology",
+"label": "NVIDIA Isaac"
+},
+{
+"id": "E:Benchling",
+"type": "technology",
+"label": "Benchling"
+},
+{
+"id": "E:NVIDIA FLARE",
+"type": "technology",
+"label": "NVIDIA FLARE"
+},
+{
+"id": "E:insitro",
+"type": "technology",
+"label": "insitro"
+},
+{
+"id": "E:ADMET prediction",
+"type": "technology",
+"label": "ADMET prediction"
+},
+{
+"id": "E:Chai Discovery",
+"type": "technology",
+"label": "Chai Discovery"
+},
+{
+"id": "E:OpenAI",
+"type": "technology",
+"label": "OpenAI"
+},
+{
+"id": "E:Isomorphic Labs",
+"type": "entity",
+"label": "Isomorphic Labs"
+},
+{
+"id": "E:AlphaFold",
+"type": "entity",
+"label": "AlphaFold"
+},
+{
+"id": "E:Arctoris",
+"type": "technology",
+"label": "Arctoris"
+},
+{
+"id": "E:Strateos",
+"type": "technology",
+"label": "Strateos"
+},
+{
+"id": "E:cloud lab",
+"type": "technology",
+"label": "cloud lab"
+},
+{
+"id": "E:robotic automation",
+"type": "technology",
+"label": "robotic automation"
+},
+{
+"id": "INDUSTRY",
+"type": "company_group",
+"label": "INDUSTRY"
+},
+{
+"id": "E:ARIA",
+"type": "technology",
+"label": "ARIA"
+},
+{
+"id": "E:MONARCH QUEST 3",
+"type": "technology",
+"label": "MONARCH QUEST 3"
+},
+{
+"id": "E:nodule segmentation",
+"type": "technology",
+"label": "nodule segmentation"
+},
+{
+"id": "E:CBCT",
+"type": "technology",
+"label": "CBCT"
+},
+{
+"id": "E:AWS",
+"type": "technology",
+"label": "AWS"
+},
+{
+"id": "E:Mayo Clinic",
+"type": "technology",
+"label": "Mayo Clinic"
+},
+{
+"id": "E:Polyphonic",
+"type": "technology",
+"label": "Polyphonic"
+},
+{
+"id": "E:Abu Dhabi DOH",
+"type": "technology",
+"label": "Abu Dhabi DOH"
+},
+{
+"id": "E:Modak",
+"type": "technology",
+"label": "Modak"
+},
+{
+"id": "E:SciBite",
+"type": "technology",
+"label": "SciBite"
+},
+{
+"id": "E:Tellic",
+"type": "technology",
+"label": "Tellic"
+},
+{
+"id": "E:TXI Digital",
+"type": "technology",
+"label": "TXI Digital"
+},
+{
+"id": "E:Cloudera",
+"type": "technology",
+"label": "Cloudera"
+},
+{
+"id": "E:knowledge graph",
+"type": "technology",
+"label": "knowledge graph"
+},
+{
+"id": "E:NLP",
+"type": "technology",
+"label": "NLP"
+},
+{
+"id": "E:BigHat Biosciences",
+"type": "entity",
+"label": "BigHat Biosciences"
+},
+{
+"id": "E:machine learning antibody design",
+"type": "entity",
+"label": "machine learning antibody design"
+},
+{
+"id": "E:Nabla Bio",
+"type": "entity",
+"label": "Nabla Bio"
+},
+{
+"id": "E:JAM generative antibody design",
+"type": "entity",
+"label": "JAM generative antibody design"
+},
+{
+"id": "E:Iambic Therapeutics",
+"type": "entity",
+"label": "Iambic Therapeutics"
+},
+{
+"id": "E:NeuralPLexer",
+"type": "entity",
+"label": "NeuralPLexer"
+},
+{
+"id": "E:Apheris",
+"type": "technology",
+"label": "Apheris"
+},
+{
+"id": "E:Columbia AlQuraishi Lab",
+"type": "technology",
+"label": "Columbia AlQuraishi Lab"
+},
+{
+"id": "E:OpenFold3",
+"type": "technology",
+"label": "OpenFold3"
+},
+{
+"id": "E:AISB-1-Fed",
+"type": "technology",
+"label": "AISB-1-Fed"
+},
+{
+"id": "E:Ginkgo Bioworks",
+"type": "technology",
+"label": "Ginkgo Bioworks"
+},
+{
+"id": "E:biofoundry automation",
+"type": "technology",
+"label": "biofoundry automation"
+},
+{
+"id": "E:Morphic",
+"type": "entity",
+"label": "Morphic"
+},
+{
+"id": "E:retatrutide",
+"type": "entity",
+"label": "retatrutide"
+},
+{
+"id": "E:olomorasib",
+"type": "entity",
+"label": "olomorasib"
+},
+{
+"id": "E:imlunestrant",
+"type": "entity",
+"label": "imlunestrant"
+},
+{
+"id": "E:lepodisiran",
+"type": "entity",
+"label": "lepodisiran"
+},
+{
+"id": "E:bimagrumab",
+"type": "entity",
+"label": "bimagrumab"
+},
+{
+"id": "E:eloralintide",
+"type": "entity",
+"label": "eloralintide"
+},
+{
+"id": "E:remternetug",
+"type": "entity",
+"label": "remternetug"
+},
+{
+"id": "E:donanemab",
+"type": "entity",
+"label": "donanemab"
+},
+{
+"id": "E:Imbruvica",
+"type": "entity",
+"label": "Imbruvica"
+},
+{
+"id": "E:Venclexta",
+"type": "entity",
+"label": "Venclexta"
+},
+{
+"id": "E:Vraylar",
+"type": "entity",
+"label": "Vraylar"
+},
+{
+"id": "E:Botox Therapeutic",
+"type": "entity",
+"label": "Botox Therapeutic"
+},
+{
+"id": "E:Botox Cosmetic",
+"type": "entity",
+"label": "Botox Cosmetic"
+},
+{
+"id": "E:Juvederm",
+"type": "entity",
+"label": "Juvederm"
+},
+{
+"id": "E:CoolSculpting",
+"type": "entity",
+"label": "CoolSculpting"
+},
+{
+"id": "E:Liletta",
+"type": "entity",
+"label": "Liletta"
+},
+{
+"id": "E:Resonic",
+"type": "entity",
+"label": "Resonic"
+},
+{
+"id": "E:Durysta",
+"type": "entity",
+"label": "Durysta"
+},
+{
+"id": "E:Elahere",
+"type": "entity",
+"label": "Elahere"
+},
+{
+"id": "E:Ubrelvy",
+"type": "entity",
+"label": "Ubrelvy"
+},
+{
+"id": "E:Qulipta",
+"type": "entity",
+"label": "Qulipta"
+},
+{
+"id": "E:Vyalev",
+"type": "entity",
+"label": "Vyalev"
+},
+{
+"id": "E:tavapadon",
+"type": "entity",
+"label": "tavapadon"
+},
+{
+"id": "E:Emrelis",
+"type": "entity",
+"label": "Emrelis"
+},
+{
+"id": "E:Epkinly",
+"type": "entity",
+"label": "Epkinly"
+},
+{
+"id": "E:pivekimab sunirine",
+"type": "entity",
+"label": "pivekimab sunirine"
+},
+{
+"id": "E:TrenibotE",
+"type": "entity",
+"label": "TrenibotE"
+},
+{
+"id": "E:ABBV-400",
+"type": "entity",
+"label": "ABBV-400"
+},
+{
+"id": "E:lutikizumab",
+"type": "entity",
+"label": "lutikizumab"
+},
+{
+"id": "E:ABBV-466",
+"type": "entity",
+"label": "ABBV-466"
+},
+{
+"id": "E:zumilokibart",
+"type": "entity",
+"label": "zumilokibart"
+},
+{
+"id": "E:CPTX2309",
+"type": "entity",
+"label": "CPTX2309"
+},
+{
+"id": "E:GUB014295",
+"type": "entity",
+"label": "GUB014295"
+},
+{
+"id": "E:Jaypirca",
+"type": "entity",
+"label": "Jaypirca"
+},
+{
+"id": "E:pirtobrutinib",
+"type": "entity",
+"label": "pirtobrutinib"
+},
+{
+"id": "E:Omvoh",
+"type": "entity",
+"label": "Omvoh"
+},
+{
+"id": "E:mirikizumab-mrkz",
+"type": "entity",
+"label": "mirikizumab-mrkz"
+},
+{
+"id": "E:Kisunla",
+"type": "entity",
+"label": "Kisunla"
+},
+{
+"id": "E:donanemab-azbt",
+"type": "entity",
+"label": "donanemab-azbt"
+},
+{
+"id": "E:Ebglyss",
+"type": "entity",
+"label": "Ebglyss"
+},
+{
+"id": "E:lebrikizumab-lbkz",
+"type": "entity",
+"label": "lebrikizumab-lbkz"
+},
+{
+"id": "E:Inluriyo",
+"type": "entity",
+"label": "Inluriyo"
+},
+{
+"id": "E:Foundayo",
+"type": "entity",
+"label": "Foundayo"
+},
+{
+"id": "E:Onswik",
+"type": "entity",
+"label": "Onswik"
+},
+{
+"id": "E:insulin efsitora alfa-gobe",
+"type": "entity",
+"label": "insulin efsitora alfa-gobe"
+},
+{
+"id": "E:Tecvayli",
+"type": "entity",
+"label": "Tecvayli"
+},
+{
+"id": "E:teclistamab-cqyv",
+"type": "entity",
+"label": "teclistamab-cqyv"
+},
+{
+"id": "E:Talvey",
+"type": "entity",
+"label": "Talvey"
+},
+{
+"id": "E:talquetamab-tgvs",
+"type": "entity",
+"label": "talquetamab-tgvs"
+},
+{
+"id": "E:Lazcluze",
+"type": "entity",
+"label": "Lazcluze"
+},
+{
+"id": "E:lazertinib",
+"type": "entity",
+"label": "lazertinib"
+},
+{
+"id": "E:Imaavy",
+"type": "entity",
+"label": "Imaavy"
+},
+{
+"id": "E:nipocalimab-aahu",
+"type": "entity",
+"label": "nipocalimab-aahu"
+},
+{
+"id": "E:Icotyde",
+"type": "entity",
+"label": "Icotyde"
+},
+{
+"id": "E:icotrokinra",
+"type": "entity",
+"label": "icotrokinra"
+},
+{
+"id": "E:mirvetuximab soravtansine-gynx",
+"type": "entity",
+"label": "mirvetuximab soravtansine-gynx"
+},
+{
+"id": "E:epcoritamab-bysp",
+"type": "entity",
+"label": "epcoritamab-bysp"
+},
+{
+"id": "E:telisotuzumab vedotin-tllv",
+"type": "entity",
+"label": "telisotuzumab vedotin-tllv"
+},
+{
+"id": "E:Decnupaz",
+"type": "entity",
+"label": "Decnupaz"
+},
+{
+"id": "E:pivekimab sunirine-pvzy",
+"type": "entity",
+"label": "pivekimab sunirine-pvzy"
+},
+{
+"id": "E:Juvmo",
+"type": "entity",
+"label": "Juvmo"
+},
+{
+"id": "E:Fruzaqla",
+"type": "entity",
+"label": "Fruzaqla"
+},
+{
+"id": "E:fruquintinib",
+"type": "entity",
+"label": "fruquintinib"
+},
+{
+"id": "E:Orzeyful",
+"type": "entity",
+"label": "Orzeyful"
+},
+{
+"id": "E:oveporexton",
+"type": "entity",
+"label": "oveporexton"
+},
+{
+"id": "E:Mimrylo",
+"type": "entity",
+"label": "Mimrylo"
+},
+{
+"id": "E:rusfertide",
+"type": "entity",
+"label": "rusfertide"
+},
+{
+"id": "E:retatrutide (TRIUMPH-1)",
+"type": "entity",
+"label": "retatrutide (TRIUMPH-1)"
+},
+{
+"id": "E:retatrutide outcomes",
+"type": "entity",
+"label": "retatrutide outcomes"
+},
+{
+"id": "E:orforglipron (ATTAIN-1)",
+"type": "entity",
+"label": "orforglipron (ATTAIN-1)"
+},
+{
+"id": "E:lepodisiran (ACCLAIM-Lp(a))",
+"type": "entity",
+"label": "lepodisiran (ACCLAIM-Lp(a))"
+},
+{
+"id": "E:olomorasib (SUNRAY-01)",
+"type": "entity",
+"label": "olomorasib (SUNRAY-01)"
+},
+{
+"id": "E:remternetug (TRAILRUNNER-ALZ 3)",
+"type": "entity",
+"label": "remternetug (TRAILRUNNER-ALZ 3)"
+},
+{
+"id": "E:tirzepatide (SURMOUNT-MMO)",
+"type": "entity",
+"label": "tirzepatide (SURMOUNT-MMO)"
+},
+{
+"id": "E:eloralintide (ENLIGHTEN-1)",
+"type": "entity",
+"label": "eloralintide (ENLIGHTEN-1)"
+},
+{
+"id": "E:muvalaplin (MOVE-Lp(a))",
+"type": "entity",
+"label": "muvalaplin (MOVE-Lp(a))"
+},
+{
+"id": "E:imlunestrant (EMBER-4)",
+"type": "entity",
+"label": "imlunestrant (EMBER-4)"
+},
+{
+"id": "E:remternetug (TRAILRUNNER-ALZ 1)",
+"type": "entity",
+"label": "remternetug (TRAILRUNNER-ALZ 1)"
+},
+{
+"id": "E:abemaciclib CYCLONE 2",
+"type": "entity",
+"label": "abemaciclib CYCLONE 2"
+},
+{
+"id": "E:abemaciclib CYCLONE 3",
+"type": "entity",
+"label": "abemaciclib CYCLONE 3"
+},
+{
+"id": "E:icotrokinra (ICONIC-PsA 2)",
+"type": "entity",
+"label": "icotrokinra (ICONIC-PsA 2)"
+},
+{
+"id": "E:nipocalimab (DAFFODIL, Sjogren's)",
+"type": "entity",
+"label": "nipocalimab (DAFFODIL, Sjogren's)"
+},
+{
+"id": "E:TAR-200 (SunRISe-3)",
+"type": "entity",
+"label": "TAR-200 (SunRISe-3)"
+},
+{
+"id": "E:seltorexant",
+"type": "entity",
+"label": "seltorexant"
+},
+{
+"id": "E:bleximenib (cAMeLot-2)",
+"type": "entity",
+"label": "bleximenib (cAMeLot-2)"
+},
+{
+"id": "E:amivantamab CRC (OrigAMI-2)",
+"type": "entity",
+"label": "amivantamab CRC (OrigAMI-2)"
+},
+{
+"id": "E:teclistamab/talquetamab (MajesTEC-7)",
+"type": "entity",
+"label": "teclistamab/talquetamab (MajesTEC-7)"
+},
+{
+"id": "E:ciltacabtagene (CARTITUDE-5)",
+"type": "entity",
+"label": "ciltacabtagene (CARTITUDE-5)"
+},
+{
+"id": "E:aticaprant (VENTURA-LT)",
+"type": "entity",
+"label": "aticaprant (VENTURA-LT)"
+},
+{
+"id": "E:tavapadon (TEMPO-1)",
+"type": "entity",
+"label": "tavapadon (TEMPO-1)"
+},
+{
+"id": "E:telisotuzumab vedotin (confirmatory Phase 3)",
+"type": "entity",
+"label": "telisotuzumab vedotin (confirmatory Phase 3)"
+},
+{
+"id": "E:epcoritamab (EPCORE FL-1; Genmab sponsor)",
+"type": "entity",
+"label": "epcoritamab (EPCORE FL-1; Genmab sponsor)"
+},
+{
+"id": "E:telisotuzumab adizutecan (Temab-A)",
+"type": "entity",
+"label": "telisotuzumab adizutecan (Temab-A)"
+},
+{
+"id": "E:lutikizumab (Intrepid, HS)",
+"type": "entity",
+"label": "lutikizumab (Intrepid, HS)"
+},
+{
+"id": "E:upadacitinib (Up-AA)",
+"type": "entity",
+"label": "upadacitinib (Up-AA)"
+},
+{
+"id": "E:venetoclax VERONA",
+"type": "entity",
+"label": "venetoclax VERONA"
+},
+{
+"id": "E:emraclidine (Phase 2)",
+"type": "entity",
+"label": "emraclidine (Phase 2)"
+},
+{
+"id": "E:emraclidine EMPOWER (Phase 2)",
+"type": "entity",
+"label": "emraclidine EMPOWER (Phase 2)"
+},
+{
+"id": "E:zasocitinib psoriasis (60-wk)",
+"type": "entity",
+"label": "zasocitinib psoriasis (60-wk)"
+},
+{
+"id": "E:zasocitinib psoriasis (52-wk)",
+"type": "entity",
+"label": "zasocitinib psoriasis (52-wk)"
+},
+{
+"id": "E:zasocitinib vs deucravacitinib",
+"type": "entity",
+"label": "zasocitinib vs deucravacitinib"
+},
+{
+"id": "E:oveporexton (FirstLight)",
+"type": "entity",
+"label": "oveporexton (FirstLight)"
+},
+{
+"id": "E:rusfertide (VERIFY; Protagonist sponsor)",
+"type": "entity",
+"label": "rusfertide (VERIFY; Protagonist sponsor)"
+},
+{
+"id": "E:mezagitamab IgAN",
+"type": "entity",
+"label": "mezagitamab IgAN"
+},
+{
+"id": "E:fazirsiran",
+"type": "entity",
+"label": "fazirsiran"
+},
+{
+"id": "E:elritercept MDS anemia",
+"type": "entity",
+"label": "elritercept MDS anemia"
+},
+{
+"id": "E:soticlestat Dravet (SKYLINE)",
+"type": "entity",
+"label": "soticlestat Dravet (SKYLINE)"
+},
+{
+"id": "E:soticlestat LGS (SKYWAY)",
+"type": "entity",
+"label": "soticlestat LGS (SKYWAY)"
+},
+{
+"id": "E:mobocertinib EXCLAIM-2",
+"type": "entity",
+"label": "mobocertinib EXCLAIM-2"
+},
+{
+"id": "E:darvadstrocel ADMIRE-CD II (Tigenix sponsor)",
+"type": "entity",
+"label": "darvadstrocel ADMIRE-CD II (Tigenix sponsor)"
+},
+{
+"id": "E:teclistamab",
+"type": "entity",
+"label": "teclistamab"
+},
+{
+"id": "E:ciltacabtagene",
+"type": "entity",
+"label": "ciltacabtagene"
+},
+{
+"id": "E:amivantamab",
+"type": "entity",
+"label": "amivantamab"
+},
+{
+"id": "E:risankizumab",
+"type": "entity",
+"label": "risankizumab"
+},
+{
+"id": "E:Walmart",
+"type": "entity",
+"label": "Walmart"
+},
+{
+"id": "E:Zepbound KwikPen",
+"type": "entity",
+"label": "Zepbound KwikPen"
+},
+{
+"id": "E:GoodRx",
+"type": "entity",
+"label": "GoodRx"
+},
+{
+"id": "E:LillyDirect",
+"type": "entity",
+"label": "LillyDirect"
+},
+{
+"id": "E:Wegovy",
+"type": "entity",
+"label": "Wegovy"
+},
+{
+"id": "E:Cordavis",
+"type": "entity",
+"label": "Cordavis"
+},
+{
+"id": "E:Quallent",
+"type": "entity",
+"label": "Quallent"
+},
+{
+"id": "E:Nuvaila",
+"type": "entity",
+"label": "Nuvaila"
+},
+{
+"id": "E:Stelara",
+"type": "entity",
+"label": "Stelara"
+},
+{
+"id": "E:Tremfya",
+"type": "entity",
+"label": "Tremfya"
+},
+{
+"id": "E:Varipulse",
+"type": "entity",
+"label": "Varipulse"
+},
+{
+"id": "E:aticaprant",
+"type": "entity",
+"label": "aticaprant"
+},
+{
+"id": "E:CPTX2309 (ABBV-619)",
+"type": "entity",
+"label": "CPTX2309 (ABBV-619)"
+},
+{
+"id": "E:in vivo CAR-T",
+"type": "entity",
+"label": "in vivo CAR-T"
+},
+{
+"id": "E:tLNP",
+"type": "entity",
+"label": "tLNP"
+},
+{
+"id": "E:TetraScience",
+"type": "technology",
+"label": "TetraScience"
+},
+{
+"id": "E:APHERIS",
+"type": "technology",
+"label": "APHERIS"
+}
+],
+"edges": [
+{
+"source": "LLY",
+"target": "E:Eli Lilly",
+"claims": [
+"CLM-000239",
+"CLM-000240",
+"CLM-000241",
+"CLM-000242",
+"CLM-000243",
+"CLM-000244",
+"CLM-000245",
+"CLM-000246",
+"CLM-000247",
+"CLM-000248",
+"CLM-000249",
+"CLM-000250",
+"CLM-000251",
+"CLM-000252",
+"CLM-000280",
+"CLM-000281",
+"CLM-000282"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"data_ai",
+"financials",
+"partnerships_ma",
+"pipeline",
+"policy_regulation",
+"robotics_automation",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Mounjaro",
+"claims": [
+"CLM-000240",
+"CLM-000242",
+"CLM-012000",
+"CLM-014000"
+],
+"domains": [
+"business",
+"competitive_advantage",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:tirzepatide",
+"claims": [
+"CLM-000240",
+"CLM-000241",
+"CLM-000250",
+"CLM-001055",
+"CLM-001056",
+"CLM-012000",
+"CLM-012089",
+"CLM-007000",
+"CLM-014000"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"financials",
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Zepbound",
+"claims": [
+"CLM-000241",
+"CLM-000242",
+"CLM-007000",
+"CLM-007001",
+"CLM-007002",
+"CLM-007011",
+"CLM-007013",
+"CLM-014000"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Trulicity",
+"claims": [
+"CLM-000243",
+"CLM-000250"
+],
+"domains": [
+"business",
+"competitive_advantage",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Verzenio",
+"claims": [
+"CLM-000244",
+"CLM-000250",
+"CLM-014000"
+],
+"domains": [
+"business",
+"competitive_advantage",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Taltz",
+"claims": [
+"CLM-000245"
+],
+"domains": [
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:manufacturing capacity",
+"claims": [
+"CLM-000246"
+],
+"domains": [
+"business",
+"financials",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Scorpion Therapeutics",
+"claims": [
+"CLM-000247"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:SiteOne Therapeutics",
+"claims": [
+"CLM-000247"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Morphic Holding",
+"claims": [
+"CLM-000247"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:POINT Biopharma",
+"claims": [
+"CLM-000248"
+],
+"domains": [
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:radioligand therapy",
+"claims": [
+"CLM-000248"
+],
+"domains": [
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Verve Therapeutics",
+"claims": [
+"CLM-000249"
+],
+"domains": [
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:gene editing",
+"claims": [
+"CLM-000249"
+],
+"domains": [
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:orforglipron",
+"claims": [
+"CLM-000251",
+"CLM-001043",
+"CLM-001044",
+"CLM-001045",
+"CLM-001058",
+"CLM-001059",
+"CLM-012006",
+"CLM-012093"
+],
+"domains": [
+"commercial_market_access",
+"pipeline",
+"policy_regulation",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Medicare",
+"claims": [
+"CLM-000251"
+],
+"domains": [
+"commercial_market_access",
+"pipeline",
+"policy_regulation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:National Priority Voucher",
+"claims": [
+"CLM-000251"
+],
+"domains": [
+"commercial_market_access",
+"pipeline",
+"policy_regulation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Innovative Medicine",
+"claims": [
+"CLM-000253"
+],
+"domains": [
+"business",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:MedTech",
+"claims": [
+"CLM-000253",
+"CLM-000259",
+"CLM-000260"
+],
+"domains": [
+"business",
+"financials",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:STELARA",
+"claims": [
+"CLM-000254"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:biosimilars",
+"claims": [
+"CLM-000254"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Medicare Part D",
+"claims": [
+"CLM-000254"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:DARZALEX",
+"claims": [
+"CLM-000255"
+],
+"domains": [
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:TREMFYA",
+"claims": [
+"CLM-000256"
+],
+"domains": [
+"commercial_market_access",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:CARVYKTI",
+"claims": [
+"CLM-000257"
+],
+"domains": [
+"financials",
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:CAR-T",
+"claims": [
+"CLM-000257"
+],
+"domains": [
+"financials",
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Intra-Cellular Therapies",
+"claims": [
+"CLM-000258"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:CAPLYTA",
+"claims": [
+"CLM-000258"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Halda Therapeutics",
+"claims": [
+"CLM-000258"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Shockwave Medical",
+"claims": [
+"CLM-000259"
+],
+"domains": [
+"financials",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Abiomed",
+"claims": [
+"CLM-000259"
+],
+"domains": [
+"financials",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Orthopaedics",
+"claims": [
+"CLM-000260"
+],
+"domains": [
+"business",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:AbbVie",
+"claims": [
+"CLM-000262",
+"CLM-000263",
+"CLM-000264",
+"CLM-000265",
+"CLM-000266",
+"CLM-000267",
+"CLM-000268",
+"CLM-000269",
+"CLM-000270",
+"CLM-000285",
+"CLM-000287"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"data_ai",
+"financials",
+"partnerships_ma",
+"pipeline",
+"scientific_rd",
+"successes_failures"
+],
+"kinds": [
+"FACT",
+"INTERPRETATION"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Humira",
+"claims": [
+"CLM-000263",
+"CLM-000266",
+"CLM-003000",
+"CLM-003001",
+"CLM-003002",
+"CLM-003003",
+"CLM-003004",
+"CLM-003005",
+"CLM-003006",
+"CLM-003007",
+"CLM-003008",
+"CLM-003009",
+"CLM-003010",
+"CLM-003011",
+"CLM-003023",
+"CLM-007020"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"financials",
+"policy_regulation"
+],
+"kinds": [
+"FACT",
+"INTERPRETATION"
+]
+},
+{
+"source": "ABBV",
+"target": "E:biosimilars",
+"claims": [
+"CLM-000263"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Skyrizi",
+"claims": [
+"CLM-000264",
+"CLM-000266",
+"CLM-003012",
+"CLM-003016",
+"CLM-003020",
+"CLM-003021",
+"CLM-003023",
+"CLM-007020"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT",
+"INTERPRETATION"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Rinvoq",
+"claims": [
+"CLM-000265",
+"CLM-000266",
+"CLM-003013",
+"CLM-003016",
+"CLM-003017",
+"CLM-003018",
+"CLM-003019",
+"CLM-003021",
+"CLM-003023",
+"CLM-007020"
+],
+"domains": [
+"business",
+"commercial_market_access",
+"competitive_advantage",
+"financials",
+"pipeline",
+"policy_regulation"
+],
+"kinds": [
+"FACT",
+"INTERPRETATION"
+]
+},
+{
+"source": "ABBV",
+"target": "E:emraclidine",
+"claims": [
+"CLM-000267",
+"CLM-003052",
+"CLM-003054",
+"CLM-003055",
+"CLM-003056",
+"CLM-003057",
+"CLM-003058",
+"CLM-012099"
+],
+"domains": [
+"partnerships_ma",
+"pipeline",
+"scientific_rd",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Cerevel Therapeutics",
+"claims": [
+"CLM-000267",
+"CLM-000268"
+],
+"domains": [
+"partnerships_ma",
+"pipeline",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:schizophrenia",
+"claims": [
+"CLM-000267"
+],
+"domains": [
+"partnerships_ma",
+"pipeline",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:ImmunoGen",
+"claims": [
+"CLM-000268"
+],
+"domains": [
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Nimble Therapeutics",
+"claims": [
+"CLM-000268"
+],
+"domains": [
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Capstan Therapeutics",
+"claims": [
+"CLM-000269"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Gilgamesh Pharmaceuticals",
+"claims": [
+"CLM-000269"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Ichnos Glenmark",
+"claims": [
+"CLM-000269"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Takeda",
+"claims": [
+"CLM-000271",
+"CLM-000272",
+"CLM-000273",
+"CLM-000274",
+"CLM-000275",
+"CLM-000276",
+"CLM-000277",
+"CLM-000278",
+"CLM-000279"
+],
+"domains": [
+"business",
+"data_ai",
+"financials",
+"pipeline",
+"policy_regulation",
+"robotics_automation",
+"scientific_rd",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:AMITIZA",
+"claims": [
+"CLM-000272"
+],
+"domains": [
+"financials",
+"policy_regulation",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:antitrust litigation",
+"claims": [
+"CLM-000272"
+],
+"domains": [
+"financials",
+"policy_regulation",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:ENTYVIO",
+"claims": [
+"CLM-000274",
+"CLM-000276"
+],
+"domains": [
+"business",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:VYVANSE",
+"claims": [
+"CLM-000275"
+],
+"domains": [
+"business",
+"financials",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:generics",
+"claims": [
+"CLM-000275"
+],
+"domains": [
+"business",
+"financials",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:LOE",
+"claims": [
+"CLM-000275",
+"CLM-000276"
+],
+"domains": [
+"business",
+"financials",
+"pipeline",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:TRINTELLIX",
+"claims": [
+"CLM-000276"
+],
+"domains": [
+"business",
+"financials",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:zasocitinib",
+"claims": [
+"CLM-000277",
+"CLM-012101"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:TAK-279",
+"claims": [
+"CLM-000277"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:psoriasis",
+"claims": [
+"CLM-000277"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:plasma-derived therapies",
+"claims": [
+"CLM-000279"
+],
+"domains": [
+"business",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:BioLife",
+"claims": [
+"CLM-000279"
+],
+"domains": [
+"business",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:TuneLab",
+"claims": [
+"CLM-000280"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Catalyze360",
+"claims": [
+"CLM-000280"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:federated learning",
+"claims": [
+"CLM-000280",
+"CLM-006008",
+"CLM-006009"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:NVIDIA",
+"claims": [
+"CLM-000281",
+"CLM-000282",
+"CLM-006003",
+"CLM-006004",
+"CLM-009029"
+],
+"domains": [
+"data_ai",
+"partnerships_ma",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:BioNeMo",
+"claims": [
+"CLM-000281",
+"CLM-006003"
+],
+"domains": [
+"data_ai",
+"partnerships_ma",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:autonomous laboratory",
+"claims": [
+"CLM-000281"
+],
+"domains": [
+"data_ai",
+"partnerships_ma",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:AI factory",
+"claims": [
+"CLM-000282"
+],
+"domains": [
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:digital twin",
+"claims": [
+"CLM-000282",
+"CLM-006006"
+],
+"domains": [
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:OTTAVA",
+"claims": [
+"CLM-000283",
+"CLM-000284",
+"CLM-006028"
+],
+"domains": [
+"commercial_market_access",
+"pipeline",
+"policy_regulation",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:FDA De Novo",
+"claims": [
+"CLM-000283"
+],
+"domains": [
+"pipeline",
+"policy_regulation",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:surgical robotics",
+"claims": [
+"CLM-000283"
+],
+"domains": [
+"pipeline",
+"policy_regulation",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Memorial Hermann",
+"claims": [
+"CLM-000284"
+],
+"domains": [
+"commercial_market_access",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Valkai",
+"claims": [
+"CLM-000285"
+],
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:AI@AbbVie",
+"claims": [
+"CLM-000285"
+],
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:clinical development",
+"claims": [
+"CLM-000285"
+],
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "MULTI",
+"target": "E:Eli Lilly",
+"claims": [
+"CLM-000286"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"INTERPRETATION"
+]
+},
+{
+"source": "MULTI",
+"target": "E:Johnson & Johnson",
+"claims": [
+"CLM-000286"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"INTERPRETATION"
+]
+},
+{
+"source": "MULTI",
+"target": "E:AbbVie",
+"claims": [
+"CLM-000286"
+],
+"domains": [
+"competitive_advantage",
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"INTERPRETATION"
+]
+},
+{
+"source": "LLY",
+"target": "E:State of Indiana",
+"claims": [
+"CLM-006000"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:advanced manufacturing",
+"claims": [
+"CLM-006000"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:process development",
+"claims": [
+"CLM-006000"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:DGX SuperPOD B300",
+"claims": [
+"CLM-006003"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Omniverse",
+"claims": [
+"CLM-006003",
+"CLM-006006"
+],
+"domains": [
+"data_ai",
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Isaac",
+"claims": [
+"CLM-006003"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:DGX SuperPOD",
+"claims": [
+"CLM-006004"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Spectrum-X",
+"claims": [
+"CLM-006004"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:NVIDIA Isaac",
+"claims": [
+"CLM-006006"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Benchling",
+"claims": [
+"CLM-006008"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:NVIDIA FLARE",
+"claims": [
+"CLM-006008"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:insitro",
+"claims": [
+"CLM-006009"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:ADMET prediction",
+"claims": [
+"CLM-006009"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Chai Discovery",
+"claims": [
+"CLM-006010"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:OpenAI",
+"claims": [
+"CLM-006011"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Isomorphic Labs",
+"claims": [
+"CLM-006012"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:AlphaFold",
+"claims": [
+"CLM-006012"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Arctoris",
+"claims": [
+"CLM-006013"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Strateos",
+"claims": [
+"CLM-006013"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:cloud lab",
+"claims": [
+"CLM-006013"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:robotic automation",
+"claims": [
+"CLM-006013"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Arctoris",
+"claims": [
+"CLM-006016"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:ARIA",
+"claims": [
+"CLM-006016"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:MONARCH QUEST 3",
+"claims": [
+"CLM-006027"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:nodule segmentation",
+"claims": [
+"CLM-006027"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:CBCT",
+"claims": [
+"CLM-006027"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:NVIDIA",
+"claims": [
+"CLM-006030",
+"CLM-006031"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:AWS",
+"claims": [
+"CLM-006030",
+"CLM-006031"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Mayo Clinic",
+"claims": [
+"CLM-006030"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Polyphonic",
+"claims": [
+"CLM-006030"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Abu Dhabi DOH",
+"claims": [
+"CLM-006031"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Modak",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:SciBite",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Tellic",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:TXI Digital",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Cloudera",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:knowledge graph",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:NLP",
+"claims": [
+"CLM-006032"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:BigHat Biosciences",
+"claims": [
+"CLM-006035"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:machine learning antibody design",
+"claims": [
+"CLM-006035"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Nabla Bio",
+"claims": [
+"CLM-006039",
+"CLM-014045"
+],
+"domains": [
+"data_ai",
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:JAM generative antibody design",
+"claims": [
+"CLM-006039"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Iambic Therapeutics",
+"claims": [
+"CLM-006041"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:NeuralPLexer",
+"claims": [
+"CLM-006041"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Apheris",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Columbia AlQuraishi Lab",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:OpenFold3",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:federated learning",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Apheris",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Columbia AlQuraishi Lab",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:OpenFold3",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:federated learning",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Apheris",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Columbia AlQuraishi Lab",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:OpenFold3",
+"claims": [
+"CLM-006042",
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:federated learning",
+"claims": [
+"CLM-006042"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:AISB-1-Fed",
+"claims": [
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:AISB-1-Fed",
+"claims": [
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:AISB-1-Fed",
+"claims": [
+"CLM-006043"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Ginkgo Bioworks",
+"claims": [
+"CLM-006051"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:biofoundry automation",
+"claims": [
+"CLM-006051"
+],
+"domains": [
+"robotics_automation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Morphic",
+"claims": [
+"CLM-009001"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:retatrutide",
+"claims": [
+"CLM-001046",
+"CLM-001047",
+"CLM-001060",
+"CLM-012091",
+"CLM-012092"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:olomorasib",
+"claims": [
+"CLM-001048"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:imlunestrant",
+"claims": [
+"CLM-001049",
+"CLM-012005"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:lepodisiran",
+"claims": [
+"CLM-001050"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:bimagrumab",
+"claims": [
+"CLM-001051"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:eloralintide",
+"claims": [
+"CLM-001052"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:remternetug",
+"claims": [
+"CLM-001053"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:donanemab",
+"claims": [
+"CLM-001054",
+"CLM-001057",
+"CLM-012090"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Imbruvica",
+"claims": [
+"CLM-003025",
+"CLM-003026"
+],
+"domains": [
+"financials",
+"policy_regulation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Venclexta",
+"claims": [
+"CLM-003027"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Vraylar",
+"claims": [
+"CLM-003028",
+"CLM-003029"
+],
+"domains": [
+"competitive_advantage",
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Botox Therapeutic",
+"claims": [
+"CLM-003030"
+],
+"domains": [
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Botox Cosmetic",
+"claims": [
+"CLM-003031",
+"CLM-003032",
+"CLM-003033",
+"CLM-003034"
+],
+"domains": [
+"financials",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Juvederm",
+"claims": [
+"CLM-003031",
+"CLM-003032",
+"CLM-003034"
+],
+"domains": [
+"financials",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:CoolSculpting",
+"claims": [
+"CLM-003035"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Liletta",
+"claims": [
+"CLM-003035"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Resonic",
+"claims": [
+"CLM-003035"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Durysta",
+"claims": [
+"CLM-003035"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Elahere",
+"claims": [
+"CLM-003036",
+"CLM-003053",
+"CLM-012013"
+],
+"domains": [
+"financials",
+"partnerships_ma",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Ubrelvy",
+"claims": [
+"CLM-003037"
+],
+"domains": [
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Qulipta",
+"claims": [
+"CLM-003037"
+],
+"domains": [
+"financials"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Vyalev",
+"claims": [
+"CLM-003037",
+"CLM-003061",
+"CLM-003062"
+],
+"domains": [
+"financials",
+"pipeline",
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:tavapadon",
+"claims": [
+"CLM-003052",
+"CLM-003063",
+"CLM-003064",
+"CLM-003065",
+"CLM-012017",
+"CLM-012100",
+"CLM-014040"
+],
+"domains": [
+"partnerships_ma",
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Emrelis",
+"claims": [
+"CLM-003066",
+"CLM-012015"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Epkinly",
+"claims": [
+"CLM-003067",
+"CLM-012014"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:pivekimab sunirine",
+"claims": [
+"CLM-003067",
+"CLM-003071"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:TrenibotE",
+"claims": [
+"CLM-003067"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:ABBV-400",
+"claims": [
+"CLM-003068"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:lutikizumab",
+"claims": [
+"CLM-003069"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:ABBV-466",
+"claims": [
+"CLM-003070"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:zumilokibart",
+"claims": [
+"CLM-003070"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:CPTX2309",
+"claims": [
+"CLM-003072"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:GUB014295",
+"claims": [
+"CLM-003073"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Jaypirca",
+"claims": [
+"CLM-012001"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:pirtobrutinib",
+"claims": [
+"CLM-012001"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Omvoh",
+"claims": [
+"CLM-012002"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:mirikizumab-mrkz",
+"claims": [
+"CLM-012002"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Kisunla",
+"claims": [
+"CLM-012003"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:donanemab-azbt",
+"claims": [
+"CLM-012003"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Ebglyss",
+"claims": [
+"CLM-012004"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:lebrikizumab-lbkz",
+"claims": [
+"CLM-012004"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Inluriyo",
+"claims": [
+"CLM-012005"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Foundayo",
+"claims": [
+"CLM-012006",
+"CLM-007013"
+],
+"domains": [
+"commercial_market_access",
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Onswik",
+"claims": [
+"CLM-012007"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:insulin efsitora alfa-gobe",
+"claims": [
+"CLM-012007"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Tecvayli",
+"claims": [
+"CLM-012008"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:teclistamab-cqyv",
+"claims": [
+"CLM-012008"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Talvey",
+"claims": [
+"CLM-012009"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:talquetamab-tgvs",
+"claims": [
+"CLM-012009"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Lazcluze",
+"claims": [
+"CLM-012010"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:lazertinib",
+"claims": [
+"CLM-012010"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Imaavy",
+"claims": [
+"CLM-012011"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:nipocalimab-aahu",
+"claims": [
+"CLM-012011"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Icotyde",
+"claims": [
+"CLM-012012"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:icotrokinra",
+"claims": [
+"CLM-012012",
+"CLM-012097"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:mirvetuximab soravtansine-gynx",
+"claims": [
+"CLM-012013"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:epcoritamab-bysp",
+"claims": [
+"CLM-012014"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:telisotuzumab vedotin-tllv",
+"claims": [
+"CLM-012015"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Decnupaz",
+"claims": [
+"CLM-012016"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:pivekimab sunirine-pvzy",
+"claims": [
+"CLM-012016"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:Juvmo",
+"claims": [
+"CLM-012017",
+"CLM-014040"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Fruzaqla",
+"claims": [
+"CLM-012018"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:fruquintinib",
+"claims": [
+"CLM-012018"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Orzeyful",
+"claims": [
+"CLM-012019"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:oveporexton",
+"claims": [
+"CLM-012019",
+"CLM-012102",
+"CLM-012103"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:Mimrylo",
+"claims": [
+"CLM-012020"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:rusfertide",
+"claims": [
+"CLM-012020",
+"CLM-012104"
+],
+"domains": [
+"pipeline",
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:retatrutide (TRIUMPH-1)",
+"claims": [
+"CLM-012046"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:retatrutide outcomes",
+"claims": [
+"CLM-012047"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:orforglipron (ATTAIN-1)",
+"claims": [
+"CLM-012048"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:lepodisiran (ACCLAIM-Lp(a))",
+"claims": [
+"CLM-012049"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:olomorasib (SUNRAY-01)",
+"claims": [
+"CLM-012050"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:remternetug (TRAILRUNNER-ALZ 3)",
+"claims": [
+"CLM-012051"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:tirzepatide (SURMOUNT-MMO)",
+"claims": [
+"CLM-012052"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:eloralintide (ENLIGHTEN-1)",
+"claims": [
+"CLM-012053"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:muvalaplin (MOVE-Lp(a))",
+"claims": [
+"CLM-012054"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:imlunestrant (EMBER-4)",
+"claims": [
+"CLM-012055"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:remternetug (TRAILRUNNER-ALZ 1)",
+"claims": [
+"CLM-012056"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:abemaciclib CYCLONE 2",
+"claims": [
+"CLM-012057"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:abemaciclib CYCLONE 3",
+"claims": [
+"CLM-012058"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:icotrokinra (ICONIC-PsA 2)",
+"claims": [
+"CLM-012059"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:nipocalimab (DAFFODIL, Sjogren's)",
+"claims": [
+"CLM-012060"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:TAR-200 (SunRISe-3)",
+"claims": [
+"CLM-012061"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:seltorexant",
+"claims": [
+"CLM-012062"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:bleximenib (cAMeLot-2)",
+"claims": [
+"CLM-012063"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:amivantamab CRC (OrigAMI-2)",
+"claims": [
+"CLM-012064"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:teclistamab/talquetamab (MajesTEC-7)",
+"claims": [
+"CLM-012065"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:ciltacabtagene (CARTITUDE-5)",
+"claims": [
+"CLM-012066"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:aticaprant (VENTURA-LT)",
+"claims": [
+"CLM-012067"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:tavapadon (TEMPO-1)",
+"claims": [
+"CLM-012068"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:telisotuzumab vedotin (confirmatory Phase 3)",
+"claims": [
+"CLM-012069"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:epcoritamab (EPCORE FL-1; Genmab sponsor)",
+"claims": [
+"CLM-012070"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:telisotuzumab adizutecan (Temab-A)",
+"claims": [
+"CLM-012071"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:lutikizumab (Intrepid, HS)",
+"claims": [
+"CLM-012072"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:upadacitinib (Up-AA)",
+"claims": [
+"CLM-012073"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:venetoclax VERONA",
+"claims": [
+"CLM-012074"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:emraclidine (Phase 2)",
+"claims": [
+"CLM-012075"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:emraclidine EMPOWER (Phase 2)",
+"claims": [
+"CLM-012076"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:zasocitinib psoriasis (60-wk)",
+"claims": [
+"CLM-012077"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:zasocitinib psoriasis (52-wk)",
+"claims": [
+"CLM-012078"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:zasocitinib vs deucravacitinib",
+"claims": [
+"CLM-012079"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:oveporexton (FirstLight)",
+"claims": [
+"CLM-012080"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:rusfertide (VERIFY; Protagonist sponsor)",
+"claims": [
+"CLM-012081"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:mezagitamab IgAN",
+"claims": [
+"CLM-012082"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:fazirsiran",
+"claims": [
+"CLM-012083"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:elritercept MDS anemia",
+"claims": [
+"CLM-012084"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:soticlestat Dravet (SKYLINE)",
+"claims": [
+"CLM-012085"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:soticlestat LGS (SKYWAY)",
+"claims": [
+"CLM-012086"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:mobocertinib EXCLAIM-2",
+"claims": [
+"CLM-012087"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:darvadstrocel ADMIRE-CD II (Tigenix sponsor)",
+"claims": [
+"CLM-012088"
+],
+"domains": [
+"pipeline"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:teclistamab",
+"claims": [
+"CLM-012094"
+],
+"domains": [
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:ciltacabtagene",
+"claims": [
+"CLM-012095"
+],
+"domains": [
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:amivantamab",
+"claims": [
+"CLM-012096"
+],
+"domains": [
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:risankizumab",
+"claims": [
+"CLM-012098"
+],
+"domains": [
+"scientific_rd"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Walmart",
+"claims": [
+"CLM-007003"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Zepbound KwikPen",
+"claims": [
+"CLM-007004",
+"CLM-007044"
+],
+"domains": [
+"commercial_market_access",
+"patient_care"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:GoodRx",
+"claims": [
+"CLM-007008"
+],
+"domains": [
+"policy_regulation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:LillyDirect",
+"claims": [
+"CLM-007008"
+],
+"domains": [
+"policy_regulation"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Zepbound",
+"claims": [
+"CLM-007011",
+"CLM-007013"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Wegovy",
+"claims": [
+"CLM-007011",
+"CLM-007013"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "LLY",
+"target": "E:Wegovy",
+"claims": [
+"CLM-007011",
+"CLM-007013"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Foundayo",
+"claims": [
+"CLM-007013"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Cordavis",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Quallent",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "INDUSTRY",
+"target": "E:Nuvaila",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Cordavis",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Quallent",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Nuvaila",
+"claims": [
+"CLM-007016"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Stelara",
+"claims": [
+"CLM-007017"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Tremfya",
+"claims": [
+"CLM-007017"
+],
+"domains": [
+"commercial_market_access"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:Varipulse",
+"claims": [
+"CLM-014018"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "JNJ",
+"target": "E:aticaprant",
+"claims": [
+"CLM-014019"
+],
+"domains": [
+"successes_failures"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:CPTX2309 (ABBV-619)",
+"claims": [
+"CLM-014030"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:in vivo CAR-T",
+"claims": [
+"CLM-014030"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "ABBV",
+"target": "E:tLNP",
+"claims": [
+"CLM-014030"
+],
+"domains": [
+"partnerships_ma"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:TetraScience",
+"claims": [
+"CLM-014045"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+},
+{
+"source": "TAK",
+"target": "E:APHERIS",
+"claims": [
+"CLM-014045"
+],
+"domains": [
+"data_ai"
+],
+"kinds": [
+"FACT"
+]
+}
+],
+"note": "Edges are evidence links (company ↔ entity mentioned in a claim), not causal assertions."
+}

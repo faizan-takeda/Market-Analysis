@@ -1,0 +1,1686 @@
+{
+"available": true,
+"path": "New_mediciine/evidence_library/conflicts.jsonl",
+"items": [
+{
+"type": "status_adjusted_at_merge",
+"claim_id": "CLM-006019",
+"from": "SUPPORTED",
+"to": "PARTIALLY_SUPPORTED",
+"reason": "FACT supported only by a T4 secondary summary (DeepLearning.AI The Batch); WSJ original paywalled",
+"recorded": "2026-11-21T12:48:24+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006017",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "NEEDS_MORE_RESEARCH"
+},
+"correction": {
+"from": null,
+"to": "A10: neither cited BiopharmaTrend page mentions Strateos or a ~2020 launch; they date the Life Sciences Studio to 2017 (USD 90m). The Strateos link and 2020 date are unsupported until the Fierce article (403) is opened."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009022",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10 resolved: 874.9 (FY2021 10-K) vs 970.1 (FY2022 10-K comparative) is a line-item definition change (FY2022 widened the line to include development milestones, +95.2); both figures are correct on their own basis."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000284",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10: the J&J release says Memorial Hermann 'will be the first hospital to install' OTTAVA; completion of the installation is not shown. Treat as announced installation site, not a completed install; do not derive 'IDE-to-install' durations from it."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000286",
+"changed": {
+"status": {
+"from": "SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10: 'regulator-verified' rests on J&J releases for OTTAVA/VELYS/MONARCH. openFDA 510(k) records exist for MONARCH (K260382, K243219) and VELYS (K260480, K240211); the OTTAVA De Novo (DEN250068, per A14 CLM-014022) is from a J&J release, not yet opened in an FDA database."
+},
+"maturity": {
+"from": null,
+"to": "OPERATIONAL"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006054",
+"changed": {
+"status": {
+"from": "SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10: wording stronger than the sources support (see audit_wave1_reinspection.md)."
+},
+"maturity": {
+"from": null,
+"to": "OPERATIONAL"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-005078",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10: the restructuring-cost series is ~JPY 150bn (25 Mar 2026 estimate) -> JPY 170.0bn (original FY2026 forecast, May 2026) -> JPY 160.0bn (revised, Oct 2026); 170bn is Takeda's own figure, not a press figure."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-005025",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10: JPY 58.0bn was the October 2025 announced expectation; the recognised impairment in the FY2025 20-F is JPY 58.2bn (CLM-009100). The '137 Massachusetts roles' element could not be re-verified (Fierce 403)."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000280",
+"changed": {
+"implications": {
+"from": "An ecosystem/platform move: Lilly monetises proprietary data as influence over the biotech pipeline (data-for-access), analogous in intent to developer-platform strategies; whether it yields assets is unproven.",
+"to": "An ecosystem/platform move: Lilly offers proprietary models to biotechs in exchange for data contributions (data-for-access), analogous in intent to developer-platform strategies. The corpus shows no revenue or asset outcome from TuneLab; whether it yields assets is unproven."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-001014",
+"changed": {
+"basis": {
+"from": null,
+"to": "acquired IPR&D EXPENSE as reported in the income statement (not cash paid)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000247",
+"changed": {
+"basis": {
+"from": "US GAAP as filed",
+"to": "cash paid for acquired IPR&D (cash-flow statement); differs from the expensed IPR&D line (2.91 / 3.28 / 3.8 bn for 2025 / 2024 / 2023)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009000",
+"changed": {
+"basis": {
+"from": null,
+"to": "acquired IPR&D expense (income statement); cash-paid basis differs (see CLM-000247)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009002",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10: USD 3.2bn is the announced deal value; the audited IPR&D charge was USD 2.55bn and cash paid USD 3.35bn — different measures, not a contradiction."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009001",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10: headline deal values and expensed IPR&D charges are different measures (see CLM-009002)."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-003086",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10: USD 18.5bn = consideration transferred for ImmunoGen+Cerevel; USD 17.5bn net of cash acquired. ImmunoGen alone: 10.1bn announced total value, 9.8bn consideration, 9.2bn net of cash."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009074",
+"changed": {
+"status": {
+"from": "INCONCLUSIVE",
+"to": "INCONCLUSIVE"
+},
+"correction": {
+"from": null,
+"to": "A10: AbbVie Ventures founding 2009 ('investing since 2009') vs ~2015 ('ten years ago') unresolved; impact-report PDF not readable (403 / no extractable text)."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-009101",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "INCONCLUSIVE"
+},
+"correction": {
+"from": null,
+"to": "See CLM-009074 (founding-date conflict unresolved)."
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000026",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "consolidated net earnings (us-gaap:ProfitLoss / NetIncomeLoss as tagged); A4 shard uses net earnings attributable to AbbVie (differs by noncontrolling interest, e.g. 11,549 vs 11,542)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000027",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "consolidated net earnings (us-gaap:ProfitLoss / NetIncomeLoss as tagged); A4 shard uses net earnings attributable to AbbVie (differs by noncontrolling interest, e.g. 11,549 vs 11,542)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000028",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "consolidated net earnings (us-gaap:ProfitLoss / NetIncomeLoss as tagged); A4 shard uses net earnings attributable to AbbVie (differs by noncontrolling interest, e.g. 11,549 vs 11,542)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000029",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "consolidated net earnings (us-gaap:ProfitLoss / NetIncomeLoss as tagged); A4 shard uses net earnings attributable to AbbVie (differs by noncontrolling interest, e.g. 11,549 vs 11,542)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000030",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "consolidated net earnings (us-gaap:ProfitLoss / NetIncomeLoss as tagged); A4 shard uses net earnings attributable to AbbVie (differs by noncontrolling interest, e.g. 11,549 vs 11,542)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-004108",
+"changed": {
+"basis": {
+"from": "net_income",
+"to": "net earnings attributable to AbbVie; RUN-0001 claims use consolidated net earnings (definitional difference)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-004119",
+"changed": {
+"basis": {
+"from": "net_income",
+"to": "net earnings attributable to AbbVie; RUN-0001 claims use consolidated net earnings (definitional difference)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-004130",
+"changed": {
+"basis": {
+"from": "net_income",
+"to": "net earnings attributable to AbbVie; RUN-0001 claims use consolidated net earnings (definitional difference)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-004141",
+"changed": {
+"basis": {
+"from": "net_income",
+"to": "net earnings attributable to AbbVie; RUN-0001 claims use consolidated net earnings (definitional difference)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-004152",
+"changed": {
+"basis": {
+"from": "net_income",
+"to": "net earnings attributable to AbbVie; RUN-0001 claims use consolidated net earnings (definitional difference)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000066",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000067",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000068",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000069",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000070",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000128",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000129",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000130",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000131",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000132",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-003042",
+"changed": {
+"correction": {
+"from": null,
+"to": "Label correction (A10): the value is total long-term debt INCLUDING the current portion (XBRL tag us-gaap:LongTermDebt), not the balance-sheet non-current amount. Non-current FY2025: AbbVie 58,941; J&J 39,438 (USD m). Number itself is correct."
+},
+"basis": {
+"from": null,
+"to": "total long-term debt including current portion (us-gaap:LongTermDebt)"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002037",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002039",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002040",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002041",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002044",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002060",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002061",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-002064",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006022",
+"changed": {
+"maturity": {
+"from": "SCALED",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10 maturity retag: workforce-training metric, not a deployment"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006026",
+"changed": {
+"maturity": {
+"from": "SCALED",
+"to": "OPERATIONAL"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006047",
+"changed": {
+"maturity": {
+"from": "DEMONSTRATED_OUTCOME",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10 maturity retag: describes Recursion, not one of the four companies"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006049",
+"changed": {
+"maturity": {
+"from": "DEMONSTRATED_OUTCOME",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10 maturity retag: describes Exscientia/BenevolentAI, not one of the four companies"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006051",
+"changed": {
+"maturity": {
+"from": "DEMONSTRATED_OUTCOME",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10 maturity retag: describes Zymergen, not one of the four companies"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006020",
+"changed": {
+"maturity": {
+"from": "OPERATIONAL",
+"to": "PILOT"
+},
+"correction": {
+"from": null,
+"to": "A10 maturity retag: single CIO interview sentence, no baseline: self-reported pilot-level evidence"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-000278",
+"changed": {
+"maturity": {
+"from": null,
+"to": "CONCEPT"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006045",
+"changed": {
+"maturity": {
+"from": null,
+"to": "CONCEPT"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-006050",
+"changed": {
+"maturity": {
+"from": null,
+"to": "PILOT"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-005049",
+"changed": {
+"maturity": {
+"from": null,
+"to": "PROTOTYPE"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_id": "CLM-005054",
+"changed": {
+"maturity": {
+"from": null,
+"to": "CONCEPT"
+}
+},
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-009001",
+"CLM-009002",
+"CLM-009095",
+"CLM-000247",
+"CLM-001014"
+],
+"issue": "Morphic acquisition value: USD 3.2bn (Reuters headline, CLM-009002) versus USD 2.55bn audited IPR&D charge (CLM-009001).",
+"evidence": "LLY FY2024 10-K line 1570: Morphic acquired IPR&D charge USD 2,548.5m (asset acquisition, Aug 2024). Line 1039: 'We paid $3.35 billion in 2024 for acquired IPR&D primarily related to the acquisition of Morphic'. FY2025 10-K Note 4 line 1424 repeats 2,549. The two figures measure different things: headline equity/deal value (press) versus the amount expensed as IPR&D after allocating consideration to cash and other net assets. The 10-K cash-paid figure (3.35bn) is the nearest filing counterpart to the press figure. No filing statement of the 3.2bn headline was located in the 10-K text.",
+"proposed_resolution": "Keep both; add note to CLM-009002 and CLM-009001 that they are different measures (deal value vs expensed IPR&D charge, with cash paid 3.35bn in the 10-K); do not mark either CONTRADICTED. Keep CLM-009002 PARTIALLY_SUPPORTED until the Reuters article is opened (SRC metadata_only).",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-003057",
+"CLM-009054",
+"CLM-012116",
+"CLM-003058",
+"CLM-003059",
+"CLM-000267"
+],
+"issue": "Emraclidine impairment amount and timing (brief premise ~3.5bn in 2025 versus 4.5bn Q4-2024).",
+"evidence": "ABBV FY2024 10-K line 1010 and 1721: intangible impairment of $4.5 billion related to emraclidine; line 1878: pre-tax impairment of $4.5bn charged to R&D in Q4 2024, fair value $2.4bn, measured at 11-Nov-2024. FY2025 10-K cash-flow line 1444: total intangible impairments 847 (2025), 4,476 (2024), 4,229 (2023); the 2025 charge relates to Resonic and Durysta (line 1857). No conflict exists in the filings.",
+"proposed_resolution": "No conflict among registry claims; CLM-003058 correctly records the premise as CONTRADICTED. Add note that 4.5bn (emraclidine) is a component of the 2024 total of 4,476 only in rounding terms: the total intangible impairment (4,476) is slightly below the emraclidine headline (4.5bn) because the headline is rounded. Keep all.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-009022",
+"CLM-000178"
+],
+"issue": "Lilly FY2021 acquired IPR&D: 874.9 (FY2021 10-K) versus 970.1 (FY2022 10-K comparative, and XBRL claim CLM-000178).",
+"evidence": "LLY FY2021 10-K lines 577, 596, 814: line item 'Acquired in-process research and development' 874.9 (2021) and 660.4 (2020). LLY FY2022 10-K lines 590, 615, 829, 941: line item renamed 'Acquired in-process research and development (IPR&D) and development milestones' with 908.5 (2022) and 970.1 (2021); the difference of 95.2 for 2021 is the added development-milestone component. This is a change in line-item definition, not a restatement of the same measure.",
+"proposed_resolution": "Resolve: upgrade CLM-009022 from PARTIALLY_SUPPORTED to SUPPORTED with note 'definition change: FY2022 line item adds development milestones; 970.1 - 874.9 = 95.2'. Relabel CLM-000178 (statement says 'acquired ipr&d expensed (asset acquisitions)') as 'acquired IPR&D and development milestones' where the value is 970.1, to prevent mixing with the 874.9 series.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-005059",
+"CLM-005078",
+"CLM-005011"
+],
+"issue": "Takeda FY2026 restructuring cost cited as 150bn, 160bn and 170bn.",
+"evidence": "Takeda release 25-Mar-2026 (fse.or.jp 26032545020.pdf, re-read by A10): 'restructuring expenses of approximately JPY 150 billion in FY2026'. Takeda H1 FY2026 Kessan Tanshin (SRC-005015, re-extracted by A10, note *3, text line 649): 'restructuring expenses of JPY160.0 billion in Revised Forecast ... compared with the Original Forecast of JPY 170.0 billion'. BioSpace (SRC-005018) quotes ~JPY170bn. So 170bn is Takeda's own original FY2026 forecast (May 2026), not only a trade-press figure.",
+"proposed_resolution": "Resolve as a time series: ~150bn (25 Mar 2026 estimate) -> 170.0bn (original FY2026 forecast, May 2026) -> 160.0bn (revised forecast, Oct 2026). Edit CLM-005078 wording (it calls 170bn a trade-press report and orders the figures 150->160->170); upgrade CLM-005078 to SUPPORTED. Date each figure whenever quoted.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-009074",
+"CLM-009101"
+],
+"issue": "AbbVie Ventures founding: 2009 ('Investing since 2009', web page) versus about 2015 ('Ten years ago, AbbVie Ventures launched', 2025 impact report).",
+"evidence": "Both statements rest on metadata_only snippets (SRC-009014). The impact-report PDF is fetchable by tools/evidence.py (6.5 MB, no text extracted); A10 could not obtain page text (direct download returned 403), so the sentence was not re-read.",
+"proposed_resolution": "Keep both; status INCONCLUSIVE (unresolved). Likely reading: 2009 is when AbbVie began venture investing (as part of Abbott lineage, AbbVie spun out in 2013), 2015 is the launch of the 'dedicated' strategic investment group; this is INTERPRETATION and must not be asserted. Next step: re-fetch the PDF with --store-raw and read page 1; open the AbbVie Ventures web page.",
+"proposer": "A10",
+"director_decision": "accepted (left INCONCLUSIVE; source unreadable)",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-006013",
+"CLM-006014",
+"CLM-006015",
+"CLM-006017"
+],
+"issue": "Lilly robotic cloud lab start date: 2017 (Life Sciences Studio, BiopharmaTrend) versus ~2020 (Fierce snippet 'four years after launching'; CLM-006017 'Strateos ... public launch about 2020').",
+"evidence": "A10 opened both BiopharmaTrend pages (stored text 142aee2607f17df3, e701e9b32d276dae): they state the Life Sciences Studio was established in 2017 as part of a USD 90m investment and contain no mention of Strateos. The ~2020 date comes only from a metadata_only Fierce snippet (SRC-006028). CLM-006017 attributes the 2020 date to a 'Lilly-Strateos remote robotic laboratory' that no cited page describes.",
+"proposed_resolution": "Mark CLM-006017 NOT_FOUND_IN_SOURCE for the Strateos link and the 2020 date; downgrade to NEEDS_MORE_RESEARCH or rewrite as 'Lilly sold the Life Sciences Studio automation platform to Arctoris in 2024 (BiopharmaTrend)'. Keep CLM-006014 as the conflict note; resolve only after the Fierce article is opened (403 for A10 too).",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-000066",
+"CLM-000067",
+"CLM-000068",
+"CLM-000069",
+"CLM-000070",
+"CLM-000128",
+"CLM-000129",
+"CLM-000130",
+"CLM-000131",
+"CLM-000132",
+"CLM-003042"
+],
+"issue": "XBRL 'long-term debt (noncurrent)' claims for AbbVie and J&J carry the tag us-gaap:LongTermDebt, which includes the current portion.",
+"evidence": "ABBV FY2025 10-K line 1065: 'Long-term debt, including current portion' 64,503 (current 6,000, long-term 58,503); balance sheet line 1372: non-current 58,941 (2025) / 60,340 (2024). FY2021 10-K line 1007: 75,962 total (current 12,428), balance sheet line 1245 non-current 64,189; FY2022 line 1022 (63,128 total) and 1327 (59,135); FY2023 line 1086 (59,245) and 1394 (52,194). JNJ FY2025 10-K lines 2030-2038: subtotal 41,438, less current portion 2,000, 'Total long-term debt' 39,438 (FY2024: 32,400 and 30,651); balance sheet line 1203: 39,438. Lilly claims use LongTermDebtNoncurrent and are correct (FY2025 40,868 = balance sheet line 1111).",
+"proposed_resolution": "Retitle CLM-000066..000070 and CLM-000128..000132 as 'long-term debt including current portion (tag LongTermDebt)' and add the non-current figures as new claims (ABBV 64,189 / 59,135 / 52,194 / 60,340 / 58,941; JNJ non-current from balance sheets). Correct CLM-003042 and the AbbVie business_model.md line that cites it. J&J master report uses 'debt 47.9bn (FY2025)' (total incl. loans and notes payable), which is a third basis; label each basis.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-000026",
+"CLM-000027",
+"CLM-000028",
+"CLM-000029",
+"CLM-000030",
+"CLM-004108",
+"CLM-004119",
+"CLM-004130",
+"CLM-004141",
+"CLM-004152"
+],
+"issue": "AbbVie net income: RUN-0001 XBRL claims (11,549 / 11,845 / 4,873 / 4,286 / 4,233) versus A4_financial claims (11,542 / 11,836 / 4,863 / 4,278 / 4,226) for the same years.",
+"evidence": "ABBV FY2021 10-K lines 1178-1180 and FY2025 10-K lines 1306-1308: 'Net earnings' (incl. non-controlling interest) 11,549 ... 4,233; 'Net earnings attributable to AbbVie Inc.' 11,542 ... 4,226. A4 used the attributable measure, RUN-0001 the consolidated measure. Of 151 matched metric-year pairs between RUN-0001 and A4_financial, 146 agree within rounding; these five are the only differences and all are definitional.",
+"proposed_resolution": "Keep both; add 'basis' note to each (consolidated net earnings vs attributable to AbbVie). Downstream tables must state which one they use.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-002000",
+"CLM-002001",
+"CLM-000253"
+],
+"issue": "J&J FY2021 segment sales: Pharmaceutical 52,080 / Consumer Health 14,635 (FY2021 10-K) versus 51,680 / 15,035 (FY2022 10-K comparatives).",
+"evidence": "JNJ FY2021 10-K lines 656, 588, 797-798 (52,080; 14,635); FY2022 10-K lines 650, 596 (51,680 and 15,035 as comparatives). A reclassification between segments, already flagged in CLM-002001.",
+"proposed_resolution": "Keep both; no change. Ensure charts use the as-reported series for FY2021 and recast series only for like-for-like growth.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-003053",
+"CLM-009056",
+"CLM-003086",
+"CLM-009095"
+],
+"issue": "ImmunoGen deal size: about USD 10.1bn (announcement, 'total value'), 9.8bn (consideration transferred) and 9.2bn (net of cash acquired); and CLM-003086 'USD 18.5bn of cash paid' for ImmunoGen plus Cerevel.",
+"evidence": "ABBV FY2023 10-K line 1105: 'total value of approximately $10.1 billion'; FY2025 10-K line 1702: consideration $9.8bn ($9.2bn net of cash acquired). FY2024 10-K line 1684: Cerevel $8.7bn ($8.3bn net). 9.8 + 8.7 = 18.5 is consideration transferred, gross of cash acquired; net of cash acquired the sum is 17.5bn. The AbbVie master report quotes 10.1bn for ImmunoGen without that distinction.",
+"proposed_resolution": "Add note to CLM-003086 and master_report L45: '18.5bn = consideration transferred (17.5bn net of cash acquired)', and cite 10.1bn as announced total value (includes debt/other), 9.8bn as consideration. No contradiction.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-000284",
+"CLM-006029",
+"CLM-002049",
+"CLM-000283"
+],
+"issue": "OTTAVA 'first commercial installation' reported as completed on 2026-11-19, but the J&J release uses future tense.",
+"evidence": "J&J investor release (A10 fetched, stored text c5bb363a88b35bf7): 'Memorial Hermann-Texas Medical Center in Houston, Texas will be the first hospital to install the OTTAVA Robotic Surgical System'; 'The installation follows FDA De Novo authorization in July 2026'. The text read by A10 does not show a 19-Nov-2026 date. J&J master report (L30, L74, L84) treats the install as an event and derives 'about 24 months from IDE to first commercial install'.",
+"proposed_resolution": "Downgrade wording to 'announced the first hospital installation (Memorial Hermann)', keep CLM-000284 PARTIALLY_SUPPORTED, add the release date from page metadata once confirmed; do not use '24 months to first install' until an install is confirmed (regulator-verified milestone remains the De Novo grant, which is supported by CLM-000283). Source SRC-000034 is retrievable: upgrade from metadata_only.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-006022",
+"CLM-006026",
+"CLM-006047",
+"CLM-006049",
+"CLM-006051",
+"CLM-006020"
+],
+"issue": "Maturity tags not matched to the evidence (SCALED for course completions and for VELYS without counts; DEMONSTRATED_OUTCOME for competitor failures; OPERATIONAL for a single interview figure).",
+"evidence": "CLM-006026 source states no VELYS system or procedure counts; CLM-006022 counts training completions; CLM-006047/006049/006051 describe Recursion, Exscientia/BenevolentAI and Zymergen; CLM-006020 is one CIO interview sentence with no baseline. Maturity values are upper-case in the registry while agent_protocols.md lists lower-case enums.",
+"proposed_resolution": "Retag: CLM-006022 -> not_applicable (workforce training metric); CLM-006026 -> operational (device in commercial use, no scale data); CLM-006047/049/051 -> not_applicable or unknown (not an application at the four companies); CLM-006020 -> pilot (self-reported). Normalise case. 24 AI/robotics claims have no maturity tag at all (list in audit_wave1_status_discipline.md).",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-000247",
+"CLM-009000",
+"CLM-001014",
+"CLM-009022"
+],
+"issue": "Lilly acquired-IPR&D amounts quoted on three bases: cash paid (3.0bn 2025, 3.3bn 2024), expense (2.91 / 3.28 / 3.80bn) and 'IPR&D and development milestones'.",
+"evidence": "LLY FY2025 10-K line 926/1034 (2,910; 3,280; 3,800 expense), line 952 ('We paid $3.0 billion in 2025 ... $3.3 billion in 2024'), cash-flow line 1219 (3,008; 3,346; 3,944). Each claim is internally correct.",
+"proposed_resolution": "Keep all; add 'basis' field (expense vs cash paid) to prevent the shard 'ipr_d_acquired' (A4) and 'iprd_payments_cash' series being mixed in the financial model.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10-wave1-2026-11-21",
+"claim_ids": [
+"CLM-005025",
+"CLM-009100"
+],
+"issue": "Takeda gamma-delta T-cell platform impairment: JPY 58.0bn (CLM-005025) versus JPY 58.2bn (CLM-009100).",
+"evidence": "Takeda release 1 Oct 2025 (fse.or.jp 25100145020.pdf, read by A10): 'expects to recognize an impairment loss of approximately JPY 58.0 billion'. Takeda FY2025 20-F lines 537 and 1920: 'approximately JPY 58.2 billion' recognised for the fiscal year ended 31 March 2026 (plus JPY 31.9bn ALUNBRIG).",
+"proposed_resolution": "Not a contradiction: 58.0bn is the announced expectation, 58.2bn is the audited recognised amount. Update CLM-005025 (and Takeda master report line 27) to cite 58.2bn as recognised with 58.0bn as the October 2025 estimate; keep both with dates.",
+"proposer": "A10",
+"director_decision": "accepted",
+"recorded": "2026-11-21T13:22:35+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-003063",
+"changed": {
+"event_date": {
+"from": "2024-09, 2024-12, 2025-09, 2026-09-28",
+"to": "2026-09-25"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: FDA approval of Juvmo (tavapadon) is dated 2026-09-25 in the FDA record (CLM-012017); 2026-09-28 is AbbVie's announcement date."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-000283",
+"changed": {
+"event_date": {
+"from": "2026-07-22",
+"to": "2026-07-21"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: FDA De Novo DEN250068 decision date is 2026-07-21 (receipt 2025-12-18); 2026-07-22 is J&J's announcement date (see CLM-014022)."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-006029",
+"changed": {
+"event_date": {
+"from": "2026-11-19",
+"to": "2026-07-21"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: De Novo granted 2026-07-21 per FDA record; 2026-07-22 is the J&J announcement."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-002049",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10-bis: FDA received the OTTAVA De Novo submission on 2025-12-18; 2026-01-07 is the date of J&J's statement. The '24 months IDE-to-install' derivation is withdrawn (installation announced, not completed)."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-009044",
+"changed": {
+"event_date": {
+"from": "2025-04-30",
+"to": "2025-04-29"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: FDA approved IMAAVY (nipocalimab, BLA761430) on 2025-04-29 (CLM-012011); 2025-04-30 is the company announcement."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-000050",
+"changed": {
+"basis": {
+"from": "US GAAP as filed (XBRL)",
+"to": "acquired IPR&D and milestones expense (upfronts 4,808 + milestones 208 = 5,016; XBRL)"
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-003045",
+"changed": {
+"basis": {
+"from": null,
+"to": "upfront charges only (4,808); excludes 208 of milestones included in the XBRL total 5,016 (CLM-000050)"
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-012137",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10-bis: the ClinicalTrials.gov completion date postdates Takeda's October 2023 topline disclosure and withdrawal (CLM-012121); registry dates lag company decisions."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-012107",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10-bis: registry status lags the company decision; Lilly's FY2023 10-K lists the programme as discontinued (CLM-012136). Use the 10-K for status, the registry for dates."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-011000",
+"changed": {
+"basis": {
+"from": null,
+"to": "unaudited company marketing figure (blog); the FY2026 10-K figure is 7.5 million (CLM-011001)"
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014073",
+"changed": {
+"maturity": {
+"from": "DEMONSTRATED_OUTCOME",
+"to": "PILOT"
+},
+"single_interested_source": {
+"from": true,
+"to": true
+},
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: a former CEO's interview estimate (~30% shorter development) with no baseline or method; not a demonstrated outcome."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014043",
+"changed": {
+"maturity": {
+"from": "SCALED",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10-bis: usage/training percentages are adoption metrics, not a deployment maturity level (consistent with the round-1 retag of J&J course completions)."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014030",
+"changed": {
+"maturity": {
+"from": "PROTOTYPE",
+"to": null
+},
+"correction": {
+"from": null,
+"to": "A10-bis: asset-acquisition accounting claim, not an AI/robotics capability."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014025",
+"changed": {
+"maturity": {
+"from": "OPERATIONAL",
+"to": "OPERATIONAL"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: openFDA 510(k) shows substantial equivalence only; 'AI-powered' features are company marketing."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-000286",
+"changed": {
+"correction": {
+"from": "A10: 'regulator-verified' rests on J&J releases for OTTAVA/VELYS/MONARCH. openFDA 510(k) records exist for MONARCH (K260382, K243219) and VELYS (K260480, K240211); the OTTAVA De Novo (DEN250068, per A14 CLM-014022) is from a J&J release, not yet opened in an FDA database.",
+"to": "A10: 'regulator-verified' rests on J&J releases for OTTAVA/VELYS/MONARCH. openFDA 510(k) records exist for MONARCH (K260382, K243219) and VELYS (K260480, K240211); the OTTAVA De Novo (DEN250068, per A14 CLM-014022) is from a J&J release, not yet opened in an FDA database. A10-bis (adds to round 1): 'regulator-verified milestone and a commercial installation' is stale — the installation is announced, not completed; the regulator record is the De Novo grant (2026-07-21)."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-008001",
+"changed": {
+"status": {
+"from": "PARTIALLY_SUPPORTED",
+"to": "PARTIALLY_SUPPORTED"
+},
+"correction": {
+"from": null,
+"to": "A10-bis: USD 8.43m (shareholder-proponent summary) vs 7.89m (company report, CLM-008000) unresolved until the Senate LDA database is opened."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-001036",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10-bis: '1 April 2026' is the earliest possible start stated in Lilly's 6 Nov 2025 release; the FY2025 10-K states 1 July 2026 (CLM-000251). Wording difference, not resolved."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-008027",
+"changed": {
+"correction": {
+"from": null,
+"to": "A10-bis: see CLM-001036 — April (release, earliest) vs July (10-K) start date for Medicare obesity access."
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-002020",
+"changed": {
+"basis": {
+"from": null,
+"to": "final FY2022 charge for AD and HS (~USD 0.8bn); the FY2021 filing's ~0.6bn was the AD-only estimate (CLM-012109)"
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014008",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014009",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014010",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014011",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014012",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014015",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_amendment",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_id": "CLM-014020",
+"changed": {
+"single_interested_source": {
+"from": false,
+"to": true
+}
+},
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-000050",
+"CLM-003045"
+],
+"issue": "AbbVie FY2025 acquired IPR&D: 5,016 (XBRL claim, labelled 'asset acquisitions') versus 4,808 (10-K table 'upfront charges'). master_comparison.md line 64 shows both without a basis note.",
+"evidence": "AbbVie FY2025 10-K lines 999-1001 and 1752-1754: 'Upfront charges' 4,808 / 2,627 / 582 and 'Acquired IPR&D and milestones' 5,016 / 2,757 / 778. 5,016 = 4,808 upfront + 208 milestones.",
+"proposed_resolution": "Not a contradiction. Keep both; relabel CLM-000050 as 'acquired IPR&D and milestones expense (upfronts plus milestones)' and CLM-003045 as 'upfront charges only'; add a basis note in master_comparison line 64 and the AbbVie business model.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-003063",
+"CLM-012017",
+"CLM-012148",
+"CLM-014039"
+],
+"issue": "Juvmo (tavapadon) FDA approval date: 2026-09-28 (CLM-003063, AbbVie announcement) versus 2026-09-25 (CLM-012017, CLM-012148, CLM-014039).",
+"evidence": "openFDA drugsfda NDA220415: ORIG-1 submission_status AP, status date 20260925 (queried 2026-11-21). FDA novel approvals 2026 page row (SRC-012002 family) also 9/25. CLM-014039 records AbbVie's own release as 2026-09-28.",
+"proposed_resolution": "Keep 2026-09-25 as the approval date (regulator record). Edit CLM-003063 to say AbbVie announced approval on 2026-09-28 after FDA action on 2026-09-25, and set its event_date to 2026-09-25. Same fix wherever the A3 dossier says approved on 28 September.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-001036",
+"CLM-008027",
+"CLM-000251",
+"CLM-007007"
+],
+"issue": "Medicare obesity-drug access start: 'from as early as 1 April 2026' (Lilly release 6 Nov 2025: CLM-001036, CLM-008027) versus 'by 1 July 2026' (Lilly FY2025 10-K: CLM-000251, CLM-007007).",
+"evidence": "Lilly 6 Nov 2025 release text: 'Starting as early as April 1, 2026, Medicare beneficiaries will pay no more than $50 per month for Zepbound'. Lilly FY2025 10-K line 504 and 862 refer to preliminary agreements with Medicare access by 1 July 2026. Managed Healthcare Executive (SRC-007011 page) states Medicare Part D access of about USD 50 per month via the GLP-1 Bridge demonstration beginning 1 July 2026. No CMS primary document was opened by any shard.",
+"proposed_resolution": "Keep both and mark the wording difference: April is the earliest possible date in the release, July is the date in the later filing and the Bridge demonstration. Mark UNRESOLVED which date actually applied until a CMS or Lilly operating document is opened; add a caveat to CLM-001036 and CLM-008027 (the policy report already carries it for 008027).",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-012109",
+"CLM-002020",
+"CLM-009046",
+"CLM-009100"
+],
+"issue": "J&J bermekimab impairment: roughly USD 0.6bn (CLM-012109, FY2021 10-K) versus about USD 0.8bn (CLM-002020, CLM-009046, CLM-009100, FY2022 10-K).",
+"evidence": "J&J FY2021 10-K line 769: on 28 Jan 2022 the company decided to terminate bermekimab for atopic dermatitis and recorded 'approximately $0.6 billion' as a non-recognized subsequent event reflected in Q1 2022. J&J FY2022 10-K lines 746, 798, 1527: impairment 'approximately $0.8 billion' recorded in fiscal 2022 after the HS indication was also terminated.",
+"proposed_resolution": "Not a contradiction: 0.6bn was the AD-only estimate in the FY2021 filing, 0.8bn the final FY2022 charge for AD and HS. Keep 0.8bn as the impairment amount; reword CLM-012109 to 'estimated approximately 0.6bn for the AD indication, disclosed as a subsequent event' and cross-reference CLM-002020.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-000283",
+"CLM-006029",
+"CLM-014022",
+"CLM-014070"
+],
+"issue": "OTTAVA De Novo grant date: 2026-07-22 (CLM-000283, CLM-006029, repeated in domain4 and analogies) versus 2026-07-21 (CLM-014022, CLM-014070).",
+"evidence": "FDA De Novo database record DEN250068 (accessdata.fda.gov, page updated 11/16/2026): Date Received 12/18/2025, Decision Date 07/21/2026, Decision granted (DENG), 21 CFR 878.4966, product code SIR.",
+"proposed_resolution": "Keep 2026-07-21 (regulator record). Correct CLM-000283 and CLM-006029; if J&J announced on 2026-07-22 say so as the announcement date.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-002049",
+"CLM-014022",
+"CLM-014023"
+],
+"issue": "OTTAVA De Novo submission date: 'submitted' with J&J statement dated 2026-01-07 (CLM-002049 event_date) versus FDA receipt 2025-12-18 (CLM-014022).",
+"evidence": "FDA De Novo database: Date Received 12/18/2025; De Novo letter header 'Dated: December 18, 2025, Received: December 18, 2025' (SRC-014014). J&J's investor release of 2026-01-07 announced the submission after the fact.",
+"proposed_resolution": "Keep both with different meanings: submitted 2025-12-18 (FDA), announced 2026-01-07 (J&J). Correct CLM-002049 event_date to 2025-12-18 or relabel it as the announcement date. Review-time arithmetic (about 215 days) rests on the FDA dates.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-009044",
+"CLM-012011"
+],
+"issue": "IMAAVY (nipocalimab) FDA approval date: 2025-04-30 (CLM-009044, A9, repeated in domain6) versus 2025-04-29 (CLM-012011, FDA novel approvals).",
+"evidence": "openFDA drugsfda BLA761430: ORIG-1 AP 20250429, sponsor JANSSEN BIOTECH, Type 1 NME.",
+"proposed_resolution": "Keep 2025-04-29 (regulator). Edit CLM-009044 to 2025-04-29 (04-30 is probably the J&J announcement) and correct domain6_partnerships.md line 15.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-008000",
+"CLM-008001"
+],
+"issue": "Lilly 2024 federal lobbying spend: USD 7,890,000 (company report, CLM-008000) versus USD 8,430,000 (shareholder-proponent summary on the UN PRI platform, CLM-008001). The policy report calls it unreconciled; no conflicts.jsonl entry exists.",
+"evidence": "Lilly '2024 Report of Political Financial Contributions' PDF: 'In 2024, Lilly spent $7,890,000 on U.S. federal lobbying activities'. CLM-008001 source SRC-008027 is metadata_only (T4); LDA filings were blocked for A8, so the difference may be a definition (LDA-reported versus company-reported including trade-association share).",
+"proposed_resolution": "Keep both; keep CLM-008000 SUPPORTED and CLM-008001 PARTIALLY_SUPPORTED; mark the conflict UNRESOLVED until the Senate LDA database is opened.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-012121",
+"CLM-012137"
+],
+"issue": "EXCLAIM-2 timeline: Takeda withdrew EXKIVITY in October 2023 after the trial missed its primary endpoint (CLM-012121) versus ClinicalTrials.gov primary completion 2026-09-22 (ACTUAL), status COMPLETED (CLM-012137).",
+"evidence": "ClinicalTrials.gov API v2 NCT04129502 (queried 2026-11-21) returns COMPLETED with primary completion 2026-09-22 ACTUAL, matching the claim. The company disclosure places the topline miss in 2023.",
+"proposed_resolution": "Keep both and add a note to CLM-012137 that the registry date postdates the 2023 topline disclosure and probably reflects a later data-lock or administrative update; do not use it as the date of the trial miss.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-012136",
+"CLM-012107"
+],
+"issue": "Abemaciclib in prostate cancer: Lilly FY2023 10-K lists it as discontinued after Phase III failure or futility (CLM-012107) while the CYCLONE 2 registry record shows ACTIVE_NOT_RECRUITING with primary completion 2024-01-02 (CLM-012136).",
+"evidence": "ClinicalTrials.gov API v2 NCT03706365 (status matches the claim). Both facts are already juxtaposed in CLM-012136 but no conflict record exists.",
+"proposed_resolution": "Keep both; registry status lags the company decision. Mark UNRESOLVED/explained: use the 10-K for programme status and the registry only for dates.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-011000",
+"CLM-011001"
+],
+"issue": "NVIDIA CUDA developer count: more than 11 million (company blog, Nov 2026, CLM-011000) versus over 7.5 million (FY2026 10-K, year ended 25 Jan 2026, CLM-011001).",
+"evidence": "NVIDIA blog '20 years of CUDA' (opened): 'more than 11 million developers build on CUDA'. NVIDIA FY2026 10-K: 'over 7.5 million developers worldwide using CUDA and our other software tools'. Different dates (10 months apart) and different definitions (build on CUDA versus use CUDA and other tools).",
+"proposer": "A10b",
+"proposed_resolution": "Not a contradiction; keep both. Use 7.5 million as the audited figure and label 11 million as an unaudited company marketing figure (the analogies file already notes the difference).",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-000070",
+"CLM-000132",
+"CLM-003042",
+"CLM-000066",
+"CLM-000067",
+"CLM-000068",
+"CLM-000069"
+],
+"issue": "Debt basis: master_comparison.md line 7 states non-current debt of USD 58,941m (AbbVie) and USD 39,438m (J&J) at FY2025 but no registry claim holds these values, and CLM-003042 is still labelled non-current with the total-debt series. Gate 1 required the correction; it has not been applied.",
+"evidence": "AbbVie FY2025 10-K lines 1372 and 2063: long-term debt and finance lease obligations, non-current, 58,941 (60,340 in 2024); line 1065 'Long-term debt, including current portion' 64,503. J&J FY2025 10-K lines 1203 and 2038: long-term debt 39,438 (30,651 in 2024).",
+"proposed_resolution": "Register two FACT claims (AbbVie 58,941 and J&J 39,438 non-current, FY2025) and relabel the XBRL series in CLM-000066..000070 and CLM-003042 as 'including current portion'; point master line 7 at the new claims.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+},
+{
+"type": "audit_proposal",
+"audit_ref": "A10bis-wave2-2026-11-21",
+"claim_ids": [
+"CLM-006054",
+"CLM-014073"
+],
+"issue": "AI maturity contradiction: CLM-006054 and master_comparison line 32 say no company-level AI initiative shows a demonstrated outcome, while CLM-014073 (A14, Weber interview, T3, PARTIALLY_SUPPORTED) is tagged DEMONSTRATED_OUTCOME for a claimed ~30% cut in narcolepsy trial development time.",
+"evidence": "CLM-014073 rests on one interested executive in a January 2026 interview with no baseline or method; the rubric and A6's own convention require independent evidence for DEMONSTRATED_OUTCOME.",
+"proposed_resolution": "Retag CLM-014073 to PILOT (or OPERATIONAL) and flag single_interested_source; keep the 'no demonstrated outcome' statement. Record as resolved by retag.",
+"proposer": "A10b",
+"director_decision": "accepted",
+"recorded": "2026-11-21T14:05:56+00:00",
+"by": "A0"
+}
+]
+}

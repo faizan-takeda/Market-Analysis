@@ -1,0 +1,24 @@
+company,item,url,classification,state
+LLY,2025 10-K SEC,https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm,primary_filing,discovery_seed_only
+LLY,Annual reports index,https://investor.lilly.com/financial-information/annual-reports,primary_index,discovery_seed_only
+LLY,2025 year in review CEO letter,https://www.lilly.com/about/year-in-review,company_statement,discovery_seed_only
+LLY,TuneLab launch 2025,https://investor.lilly.com/news-releases/news-release-details/lilly-launches-tunelab-platform-give-biotechnology-companies,company_statement,discovery_seed_only
+LLY,NVIDIA co-innovation 2026,https://nvidianews.nvidia.com/news/nvidia-and-lilly-announce-co-innovation-lab-to-reinvent-drug-discovery-in-the-age-of-ai,company_statement,discovery_seed_only
+LLY,Public policy and lobbying,https://www.lilly.com/about/our-views/public-policy/political-participation,company_statement,discovery_seed_only
+JNJ,2025 10-K SEC,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm,primary_filing,discovery_seed_only
+JNJ,2025 annual report,https://www.jnj.com/download/johnson-johnson-2025-annual-report,primary_filing,discovery_seed_only
+JNJ,OTTAVA FDA authorization 2026,https://investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-Receives-FDA-Market-Authorization-in-the-U-S--for-its-OTTAVA-Robotic-Surgical-System/default.aspx,company_statement_regulatory,discovery_seed_only
+JNJ,OTTAVA first commercial installation,https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-first-commercial-installation-of-the-ottava-robotic-surgical-system-at-memorial-hermann-health-system,company_statement,discovery_seed_only
+JNJ,Political engagement,https://investor.jnj.com/governance/political-engagement/default.aspx,company_statement,discovery_seed_only
+ABBV,2025 10-K SEC,https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm,primary_filing,discovery_seed_only
+ABBV,Annual reports proxy index,https://investors.abbvie.com/annual-report-proxy,primary_index,discovery_seed_only
+ABBV,FY2025 results,https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-full-year-and-fourth-quarter-2025-financial,company_statement,discovery_seed_only
+ABBV,AI in clinical development 2026,https://news.abbvie.com/2026-09-29-AbbVie-Partners-with-Valkai-to-Apply-Advanced-AI-Across-Targeted-Areas-of-Clinical-Development,company_statement,discovery_seed_only
+ABBV,Public policy disclosures,https://www.abbvie.com/who-we-are/policies-disclosures.html,company_statement,discovery_seed_only
+TAK,2026 annual integrated report,https://www.takeda.com/investors/annual-integrated-report/,primary_integrated_report,discovery_seed_only
+TAK,2026 AIR SEC,https://www.sec.gov/Archives/edgar/data/1395064/000139506426000185/a2026_air.htm,primary_integrated_report,discovery_seed_only
+META,Anthropic multi-agent research,https://www.anthropic.com/research/multi-agent-research-system,methodology,discovery_seed_only
+META,Karpathy autoresearch,https://github.com/karpathy/autoresearch,methodology,discovery_seed_only
+META,OpenAI deep research,https://deploymentsafety.openai.com/deep-research,methodology,discovery_seed_only
+META,Kiro subagent docs,https://kiro.dev/docs/custom-agents/subagents/,methodology,discovery_seed_only
+META,Kiro models,https://kiro.dev/docs/models/available-models/,methodology,discovery_seed_only

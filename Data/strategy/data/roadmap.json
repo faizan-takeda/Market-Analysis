@@ -1,0 +1,1084 @@
+{
+ "version": "v2",
+ "changes_from_v1": [
+  {
+   "decision_record_row": "1",
+   "change": "BET-15 DEFER -> REJECT as framed (fails the 3.0x leverage ceiling by council arithmetic, ASM-119); its stage gates are removed and its roadmap milestones move to BET-18."
+  },
+  {
+   "decision_record_row": "1",
+   "change": "New BET-18 'Phase 2/3 in-licensing channel' (PARTNER, secondary INVEST; USD 0.5-2bn contingent on IVB-012 and ASM-033; ASM-118 to ASM-120) with a complete A-M template labelled 'v2 addition (council-proposed)'; USD 0 committed, contingent pool 500 / 1,030 / 2,000."
+  },
+  {
+   "decision_record_row": "2",
+   "change": "ASM-025 range widened 2030-2032 -> 2028-2032 (central 2031 unchanged); ASM-038 early-entry stress case; stress case S-A added to scenarios; RM-026 moved 2029 H2 -> 2028 H1 and RM-031 to 2028 H2 (earliest window)."
+  },
+  {
+   "decision_record_row": "3",
+   "change": "BET-06 balanced USD 700m -> 300m, scorecard-first; the USD 400m balance is contingent on RM-007 and the first two deals."
+  },
+  {
+   "decision_record_row": "4",
+   "change": "BET-02 BUILD -> EXPERIMENT; balanced USD 430m -> 230m (baseline and shadow-mode tranche about USD 65m at risk); ASM-031 re-based on money; demand-versus-capacity and plasma-peer tests added as gates (RM-004, new RM-051); Takeda-execution dissent recorded."
+  },
+  {
+   "decision_record_row": "5",
+   "change": "BET-03 balanced USD 500m -> 300m; Phase 1 gate before the H2 tranche (RM-030); additionality test and competitor orexin scan (new RM-052)."
+  },
+  {
+   "decision_record_row": "6",
+   "change": "BET-04 stays BUILD; benefit-channel gate 2027 H1 (RM-003, IVB-004); outcome reframed 'retain 10 points of erosion' -> 'delay and measure'."
+  },
+  {
+   "decision_record_row": "7",
+   "change": "BET-07 prerequisites re-wired (RM-020 depends on RM-015 and RM-018; RM-011 on the decision-log standard and contract stop rules, new RM-053); balanced USD 180m -> 80m with H2/H3 tranches released only at RM-020."
+  },
+  {
+   "decision_record_row": "8",
+   "change": "BET-11 stays BUILD; baseline first; BET-04 channel conflict stated and wired (RM-013 depends on RM-003); confidence -> hypothesis."
+  },
+  {
+   "decision_record_row": "9",
+   "change": "BET-12 capped at USD 50m (from 100m), attached to the oveporexton launch, start 2027 H2 -> 2027 H1 (RM-012)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-13 carry removed (balanced USD 80m -> 0; ambitious USD 160m -> 0 by the proportional rescale)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "BET-17 measurement owner moved from the CFO to internal audit or the CDTO with Audit Committee visibility."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Six bets (BET-04, 05, 08, 09, 11, 16) relabelled evidence_backed -> hypothesis (BET-11 also in row 8)."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "CVS Caremark Zepbound removal corrected from 'about 11 months [CLM-007011]' to about 15 months [CLM-007011] [CLM-007013]."
+  },
+  {
+   "decision_record_row": "10",
+   "change": "Stage-gate capital at risk is now allocated in whole USD 5m units that sum to the bet size, so no gate total exceeds the bet size (v1 exceeded it by USD 5m for BET-02, 07, 09 and 11)."
+  },
+  {
+   "decision_record_row": "— (re-rating)",
+   "change": "Published robustness table is the council's re-rating (19 of 85 cells changed); the strategy author's v1 rating is kept as a second column."
+  },
+  {
+   "decision_record_row": "— (owned labs)",
+   "change": "'Owned labs fail' narrative softened for BET-09 and BET-10: Lilly's reason undisclosed, the Strateos link unsupported, the NVIDIA joint lab reads as re-platforming; BET-10 stays REJECT with an operational trigger set (T1-T3)."
+  },
+  {
+   "decision_record_row": "Net effect",
+   "change": "Balanced USD 2,950m -> 1,920m committed-at-gates (plus about USD 1,030m contingent headroom for BET-18, not a saving); capital-constrained USD 1,590m -> 1,130m and ambitious USD 4,975m -> 3,155m by proportional rescale of the changed bets; core H1 2027-29 tranche USD 465m."
+  }
+ ],
+ "id_note": "RM ids are kept from v1 so council references stay valid; new v2 milestones are RM-051 to RM-054.",
+ "milestones": [
+  {
+   "id": "RM-001",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-17",
+   "milestone": "Use-case inventory and baselines set (closes IVB-001 and IVB-003 questions).",
+   "type": "foundation",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006022",
+    "CLM-005058"
+   ],
+   "assumption_ids": [
+    "ASM-117"
+   ]
+  },
+  {
+   "id": "RM-002",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-01",
+   "milestone": "Thin-slice data standard and decision log adopted in one franchise and plasma.",
+   "type": "foundation",
+   "depends_on": [
+    "RM-001"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006032"
+   ],
+   "assumption_ids": [
+    "ASM-101"
+   ]
+  },
+  {
+   "id": "RM-003",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-04",
+   "milestone": "Gate: Entyvio benefit-channel split (medical versus pharmacy, IVB-004), erosion scenarios and patent posture approved; if most volume is outside the contractable channel, redirect part of the BET-04 spend to provider and site-of-care strategy.",
+   "type": "gate",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-014050",
+    "CLM-007015"
+   ],
+   "assumption_ids": [
+    "ASM-024",
+    "ASM-025"
+   ]
+  },
+  {
+   "id": "RM-004",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-02",
+   "milestone": "Yield, cost per litre and deviation baseline across sample centres, plus the demand-versus-capacity test (IVB-006).",
+   "type": "validation",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005063",
+    "CLM-005060",
+    "CLM-005064"
+   ],
+   "assumption_ids": [
+    "ASM-031"
+   ]
+  },
+  {
+   "id": "RM-005",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-09",
+   "milestone": "CRO or cloud-lab pilot contract with acceptance criteria and data schema.",
+   "type": "partnership",
+   "depends_on": [
+    "RM-002"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006016",
+    "CLM-011065"
+   ],
+   "assumption_ids": [
+    "ASM-109"
+   ]
+  },
+  {
+   "id": "RM-006",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-08",
+   "milestone": "Held-out evaluation of federated models on Takeda targets.",
+   "type": "validation",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006042",
+    "CLM-006043"
+   ],
+   "assumption_ids": [
+    "ASM-108"
+   ]
+  },
+  {
+   "id": "RM-007",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-06",
+   "milestone": "Deal-outcome scorecard and option pricing bands approved.",
+   "type": "foundation",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-009097",
+    "CLM-009061"
+   ],
+   "assumption_ids": [
+    "ASM-106"
+   ]
+  },
+  {
+   "id": "RM-008",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-03",
+   "milestone": "Orexin platform plan, indication map and lead criteria.",
+   "type": "foundation",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005048",
+    "CLM-011038"
+   ],
+   "assumption_ids": [
+    "ASM-103"
+   ]
+  },
+  {
+   "id": "RM-009",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-05",
+   "milestone": "FDA action on zasocitinib NDA under Priority Review (action date not in the registry).",
+   "type": "outcome",
+   "depends_on": [],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005035"
+   ],
+   "assumption_ids": [
+    "ASM-022"
+   ]
+  },
+  {
+   "id": "RM-012",
+   "year": 2027,
+   "half": "H1",
+   "bet_id": "BET-12",
+   "milestone": "Oveporexton launch-pathway pilot attached to the launch with a named leader (diagnosis and certified sites); start moved from 2027 H2.",
+   "type": "pilot",
+   "depends_on": [
+    "RM-001"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-007030",
+    "CLM-011070",
+    "CLM-005029"
+   ],
+   "assumption_ids": [
+    "ASM-112"
+   ]
+  },
+  {
+   "id": "RM-010",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-05",
+   "milestone": "PsA Phase 3 study completion (study end May 2027) and readout.",
+   "type": "validation",
+   "depends_on": [],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-005037"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-011",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-07",
+   "milestone": "Gate: Nabla first-in-human data window (company expectation one to two years from October 2025); stop rules in contracts and the decision-log standard are in place first.",
+   "type": "gate",
+   "depends_on": [
+    "RM-053",
+    "RM-002"
+   ],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-006039",
+    "CLM-006040"
+   ],
+   "assumption_ids": [
+    "ASM-107"
+   ]
+  },
+  {
+   "id": "RM-013",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-11",
+   "milestone": "Baseline: share of Entyvio patients on SC and Hyqvia patients on home use; channel decision against the BET-04 benefit-channel gate before any SC scale-up.",
+   "type": "validation",
+   "depends_on": [
+    "RM-003"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-007041",
+    "CLM-007042"
+   ],
+   "assumption_ids": [
+    "ASM-111"
+   ]
+  },
+  {
+   "id": "RM-014",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-10",
+   "milestone": "Watch: Lilly Medicine Foundry opening (stated late 2027); not a Takeda trigger by itself.",
+   "type": "outcome",
+   "depends_on": [],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-006000",
+    "CLM-006001"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-015",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-01",
+   "milestone": "Gate 3: two decisions with baselines and measured effect.",
+   "type": "gate",
+   "depends_on": [
+    "RM-002"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011052"
+   ],
+   "assumption_ids": [
+    "ASM-020"
+   ]
+  },
+  {
+   "id": "RM-051",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-02",
+   "milestone": "Gate: plasma-peer benchmark complete and ASM-031 re-based on money; the remainder of the programme is released only if this gate and the demand-versus-capacity test pass.",
+   "type": "gate",
+   "depends_on": [
+    "RM-004"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011056",
+    "CLM-009091",
+    "CLM-005064"
+   ],
+   "assumption_ids": [
+    "ASM-031",
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "RM-052",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-03",
+   "milestone": "Gate: additionality test against base R&D and competitor orexin scan complete before the H2 tranche is committed.",
+   "type": "gate",
+   "depends_on": [
+    "RM-008"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005004",
+    "CLM-005048"
+   ],
+   "assumption_ids": [
+    "ASM-103"
+   ]
+  },
+  {
+   "id": "RM-053",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-07",
+   "milestone": "Stop rules written into the Nabla and Iambic contracts before the next payment.",
+   "type": "gate",
+   "depends_on": [
+    "RM-002"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006039",
+    "CLM-006041",
+    "CLM-006058"
+   ],
+   "assumption_ids": [
+    "ASM-107"
+   ]
+  },
+  {
+   "id": "RM-054",
+   "year": 2027,
+   "half": "H2",
+   "bet_id": "BET-18",
+   "milestone": "Gate: leverage policy and per-deal upfront ceiling set after IVB-012 (Amitiza cash, ASM-033); decides whether the BET-18 pool is released.",
+   "type": "gate",
+   "depends_on": [
+    "RM-007"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005005",
+    "CLM-005014"
+   ],
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-118",
+    "ASM-119"
+   ]
+  },
+  {
+   "id": "RM-016",
+   "year": 2028,
+   "half": "H1",
+   "bet_id": "BET-04",
+   "milestone": "Medicare negotiated price for Entyvio effective January 2028; contracting posture in place.",
+   "type": "outcome",
+   "depends_on": [
+    "RM-003"
+   ],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-007026",
+    "CLM-008022"
+   ],
+   "assumption_ids": [
+    "ASM-104"
+   ]
+  },
+  {
+   "id": "RM-017",
+   "year": 2028,
+   "half": "H1",
+   "bet_id": "BET-02",
+   "milestone": "One-site shadow-mode run at Los Angeles starts (fixed-price, outcome-linked) after the plasma-peer gate.",
+   "type": "pilot",
+   "depends_on": [
+    "RM-004",
+    "RM-051"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011031",
+    "CLM-005065"
+   ],
+   "assumption_ids": [
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "RM-018",
+   "year": 2028,
+   "half": "H1",
+   "bet_id": "BET-09",
+   "milestone": "Gate: CRO cost per data point and turnaround versus internal baseline.",
+   "type": "gate",
+   "depends_on": [
+    "RM-005"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006016"
+   ],
+   "assumption_ids": [
+    "ASM-109"
+   ]
+  },
+  {
+   "id": "RM-019",
+   "year": 2028,
+   "half": "H1",
+   "bet_id": "BET-06",
+   "milestone": "First two option or licence deals under the scorecard; the contingent balance of the BET-06 v1 size is released only after this milestone.",
+   "type": "partnership",
+   "depends_on": [
+    "RM-007"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-009061",
+    "CLM-009078"
+   ],
+   "assumption_ids": [
+    "ASM-028"
+   ]
+  },
+  {
+   "id": "RM-026",
+   "year": 2028,
+   "half": "H1",
+   "bet_id": "BET-04",
+   "milestone": "Biosimilar-event playbook live (moved from 2029 H2 to cover the early-entry stress case S-A, ASM-038).",
+   "type": "gate",
+   "depends_on": [
+    "RM-016"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-014051",
+    "CLM-007015"
+   ],
+   "assumption_ids": [
+    "ASM-025",
+    "ASM-038"
+   ]
+  },
+  {
+   "id": "RM-020",
+   "year": 2028,
+   "half": "H2",
+   "bet_id": "BET-07",
+   "milestone": "Stop or expand decision on Nabla and Iambic based on data; depends on the BET-01 decision log and the BET-09 cost benchmark; releases the H2 and H3 tranches.",
+   "type": "gate",
+   "depends_on": [
+    "RM-011",
+    "RM-015",
+    "RM-018"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006039",
+    "CLM-006041",
+    "CLM-006058"
+   ],
+   "assumption_ids": [
+    "ASM-021"
+   ]
+  },
+  {
+   "id": "RM-021",
+   "year": 2028,
+   "half": "H2",
+   "bet_id": "BET-12",
+   "milestone": "Gate: time-to-therapy and persistence baseline for oveporexton.",
+   "type": "gate",
+   "depends_on": [
+    "RM-012"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-007039"
+   ],
+   "assumption_ids": [
+    "ASM-112"
+   ]
+  },
+  {
+   "id": "RM-022",
+   "year": 2028,
+   "half": "H2",
+   "bet_id": "BET-08",
+   "milestone": "Gate: continue, widen or exit federated participation.",
+   "type": "gate",
+   "depends_on": [
+    "RM-006"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006056"
+   ],
+   "assumption_ids": [
+    "ASM-108"
+   ]
+  },
+  {
+   "id": "RM-031",
+   "year": 2028,
+   "half": "H2",
+   "bet_id": "BET-04",
+   "milestone": "Earliest possible biosimilar window (stress case S-A, ASM-038; central case ASM-025 is 2031, range widened to 2028-2032).",
+   "type": "outcome",
+   "depends_on": [
+    "RM-026"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-014051"
+   ],
+   "assumption_ids": [
+    "ASM-024",
+    "ASM-025",
+    "ASM-038"
+   ]
+  },
+  {
+   "id": "RM-023",
+   "year": 2029,
+   "half": "H1",
+   "bet_id": "BET-17",
+   "milestone": "FY2028 checkpoint on JPY 200bn gross savings plan; technology share disclosed internally (IVB-003).",
+   "type": "outcome",
+   "depends_on": [
+    "RM-001"
+   ],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-005059",
+    "CLM-005078"
+   ],
+   "assumption_ids": [
+    "ASM-117"
+   ]
+  },
+  {
+   "id": "RM-024",
+   "year": 2029,
+   "half": "H1",
+   "bet_id": "BET-01",
+   "milestone": "Scale decision for the governed layer.",
+   "type": "scale_decision",
+   "depends_on": [
+    "RM-015"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011055"
+   ],
+   "assumption_ids": [
+    "ASM-101"
+   ]
+  },
+  {
+   "id": "RM-025",
+   "year": 2029,
+   "half": "H2",
+   "bet_id": "BET-02",
+   "milestone": "Scale decision: network roll-out versus stop (ASM-031 threshold).",
+   "type": "scale_decision",
+   "depends_on": [
+    "RM-017"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011031"
+   ],
+   "assumption_ids": [
+    "ASM-031",
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "RM-027",
+   "year": 2029,
+   "half": "H2",
+   "bet_id": "BET-10",
+   "milestone": "Annual ladder review: have the three triggers fired?",
+   "type": "gate",
+   "depends_on": [
+    "RM-020",
+    "RM-018"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011066",
+    "CLM-000281"
+   ],
+   "assumption_ids": [
+    "ASM-110"
+   ]
+  },
+  {
+   "id": "RM-028",
+   "year": 2029,
+   "half": "H2",
+   "bet_id": "BET-13",
+   "milestone": "Options paper on a neutral registry (USD 25m funded inside the BET-12 cap; no BET-13 carry).",
+   "type": "gate",
+   "depends_on": [
+    "RM-021",
+    "RM-024"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011051"
+   ],
+   "assumption_ids": [
+    "ASM-113",
+    "ASM-112"
+   ]
+  },
+  {
+   "id": "RM-029",
+   "year": 2029,
+   "half": "H2",
+   "bet_id": "BET-18",
+   "milestone": "H1 portfolio review: reallocate between portfolios; check the BET-18 leverage test and Amitiza cash (IVB-005, IVB-012).",
+   "type": "gate",
+   "depends_on": [
+    "RM-009",
+    "RM-023",
+    "RM-054"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005005",
+    "CLM-005014"
+   ],
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-034"
+   ]
+  },
+  {
+   "id": "RM-030",
+   "year": 2030,
+   "half": "H1",
+   "bet_id": "BET-03",
+   "milestone": "Gate: second orexin-class candidate clean through Phase 1 (target 2030 H1); releases the H2 tranche of BET-03.",
+   "type": "gate",
+   "depends_on": [
+    "RM-008"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005023",
+    "CLM-011038"
+   ],
+   "assumption_ids": [
+    "ASM-021",
+    "ASM-103"
+   ]
+  },
+  {
+   "id": "RM-032",
+   "year": 2030,
+   "half": "H2",
+   "bet_id": "BET-02",
+   "milestone": "Network roll-out wave 1 if the scale decision passed.",
+   "type": "scale_decision",
+   "depends_on": [
+    "RM-025"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005063"
+   ],
+   "assumption_ids": [
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "RM-033",
+   "year": 2031,
+   "half": "H1",
+   "bet_id": "BET-06",
+   "milestone": "First option exercise decisions on Phase 1/2 data.",
+   "type": "gate",
+   "depends_on": [
+    "RM-019"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011061",
+    "CLM-009099"
+   ],
+   "assumption_ids": [
+    "ASM-028"
+   ]
+  },
+  {
+   "id": "RM-034",
+   "year": 2031,
+   "half": "H1",
+   "bet_id": "BET-18",
+   "milestone": "Annual BET-18 trigger review after zasocitinib launch curves.",
+   "type": "gate",
+   "depends_on": [
+    "RM-029"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005041",
+    "CLM-014049"
+   ],
+   "assumption_ids": [
+    "ASM-033",
+    "ASM-118"
+   ]
+  },
+  {
+   "id": "RM-035",
+   "year": 2031,
+   "half": "H2",
+   "bet_id": "BET-07",
+   "milestone": "Share of Phase 1 starts from AI programmes and Phase 2 transition rate versus conventional.",
+   "type": "validation",
+   "depends_on": [
+    "RM-020"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-006049",
+    "CLM-006047"
+   ],
+   "assumption_ids": [
+    "ASM-021"
+   ]
+  },
+  {
+   "id": "RM-036",
+   "year": 2032,
+   "half": "H1",
+   "bet_id": "BET-04",
+   "milestone": "Entyvio patent expiry window (2032 patents) and revocation action outcomes.",
+   "type": "outcome",
+   "depends_on": [
+    "RM-031"
+   ],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-005017",
+    "CLM-014050"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-037",
+   "year": 2032,
+   "half": "H1",
+   "bet_id": "BET-05",
+   "milestone": "Breadth review: indications labelled and share of Entyvio exposure replaced.",
+   "type": "validation",
+   "depends_on": [
+    "RM-010"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-003084",
+    "CLM-003014"
+   ],
+   "assumption_ids": [
+    "ASM-022"
+   ]
+  },
+  {
+   "id": "RM-038",
+   "year": 2032,
+   "half": "H2",
+   "bet_id": "BET-10",
+   "milestone": "Ladder review 2: stage-3 pilot only if triggers fired and BET-01 full.",
+   "type": "gate",
+   "depends_on": [
+    "RM-027",
+    "RM-024"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011066"
+   ],
+   "assumption_ids": [
+    "ASM-110"
+   ]
+  },
+  {
+   "id": "RM-039",
+   "year": 2032,
+   "half": "H2",
+   "bet_id": "BET-02",
+   "milestone": "Decision on neutral analytics or shared-capacity offer (low confidence).",
+   "type": "gate",
+   "depends_on": [
+    "RM-032"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011041",
+    "CLM-011040"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-040",
+   "year": 2033,
+   "half": "H1",
+   "bet_id": "BET-11",
+   "milestone": "Persistence of SC and home users after biosimilar entry versus IV.",
+   "type": "validation",
+   "depends_on": [
+    "RM-031",
+    "RM-013"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-007053"
+   ],
+   "assumption_ids": [
+    "ASM-111"
+   ]
+  },
+  {
+   "id": "RM-041",
+   "year": 2033,
+   "half": "H2",
+   "bet_id": "BET-03",
+   "milestone": "Phase 2 readout for second orexin-class asset (if started 2030).",
+   "type": "gate",
+   "depends_on": [
+    "RM-030"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-003054",
+    "CLM-012135"
+   ],
+   "assumption_ids": [
+    "ASM-021"
+   ]
+  },
+  {
+   "id": "RM-042",
+   "year": 2034,
+   "half": "H2",
+   "bet_id": "BET-18",
+   "milestone": "H2 portfolio review: reset H3 allocation; compare with SCN signals; BET-18 pool review.",
+   "type": "gate",
+   "depends_on": [
+    "RM-034",
+    "RM-036"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005005"
+   ],
+   "assumption_ids": [
+    "ASM-002"
+   ]
+  },
+  {
+   "id": "RM-043",
+   "year": 2035,
+   "half": "H1",
+   "bet_id": "BET-06",
+   "milestone": "First approval attributable to an option or early licence (conversion check).",
+   "type": "outcome",
+   "depends_on": [
+    "RM-033"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-009097",
+    "CLM-012151"
+   ],
+   "assumption_ids": [
+    "ASM-028"
+   ]
+  },
+  {
+   "id": "RM-044",
+   "year": 2035,
+   "half": "H1",
+   "bet_id": "BET-01",
+   "milestone": "Annual value review: decisions changed by models with measured effect.",
+   "type": "gate",
+   "depends_on": [
+    "RM-024"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011052"
+   ],
+   "assumption_ids": [
+    "ASM-020"
+   ]
+  },
+  {
+   "id": "RM-045",
+   "year": 2036,
+   "half": "H1",
+   "bet_id": "BET-04",
+   "milestone": "Market anchor: tirzepatide compound patent to 2036; test of Lilly concentration risk (56.0% of FY2025 revenue).",
+   "type": "outcome",
+   "depends_on": [],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-000250",
+    "CLM-001003"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-046",
+   "year": 2036,
+   "half": "H1",
+   "bet_id": "BET-18",
+   "milestone": "TAKHZYRO U.S. patent listed to January 2036; replacement check (BET-18 channel).",
+   "type": "outcome",
+   "depends_on": [
+    "RM-042"
+   ],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-005019"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-047",
+   "year": 2037,
+   "half": "H2",
+   "bet_id": "BET-04",
+   "milestone": "Market anchor: AbbVie Rinvoq generic entry not before April 2037; test of settlement-based IP defence.",
+   "type": "outcome",
+   "depends_on": [],
+   "basis": "evidence",
+   "claim_ids": [
+    "CLM-003021",
+    "CLM-003087"
+   ],
+   "assumption_ids": []
+  },
+  {
+   "id": "RM-048",
+   "year": 2038,
+   "half": "H1",
+   "bet_id": "BET-03",
+   "milestone": "Platform test: second orexin-class approval (ASSUMPTION date).",
+   "type": "outcome",
+   "depends_on": [
+    "RM-041"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-011038",
+    "CLM-005048"
+   ],
+   "assumption_ids": [
+    "ASM-021"
+   ]
+  },
+  {
+   "id": "RM-049",
+   "year": 2038,
+   "half": "H2",
+   "bet_id": "BET-02",
+   "milestone": "Annual review: yield, cost and deviation record across network.",
+   "type": "gate",
+   "depends_on": [
+    "RM-032"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005063"
+   ],
+   "assumption_ids": [
+    "ASM-102"
+   ]
+  },
+  {
+   "id": "RM-050",
+   "year": 2040,
+   "half": "H2",
+   "bet_id": "BET-18",
+   "milestone": "2040 value review: Takeda revenue concentration versus Entyvio-era 21% [CLM-005009] and portfolio outcomes versus ASM envelopes.",
+   "type": "outcome",
+   "depends_on": [
+    "RM-042",
+    "RM-043",
+    "RM-048"
+   ],
+   "basis": "ASSUMPTION",
+   "claim_ids": [
+    "CLM-005009",
+    "CLM-005017"
+   ],
+   "assumption_ids": [
+    "ASM-002"
+   ]
+  }
+ ]
+}

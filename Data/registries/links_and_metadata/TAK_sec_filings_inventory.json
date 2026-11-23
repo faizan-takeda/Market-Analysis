@@ -1,0 +1,1885 @@
+{
+ "ticker": "TAK",
+ "cik": "0001395064",
+ "entity_name": "TAKEDA PHARMACEUTICAL CO LTD",
+ "sic": "2834",
+ "sic_description": "Pharmaceutical Preparations",
+ "fiscal_year_end": null,
+ "source_url": "https://data.sec.gov/submissions/CIK0001395064.json",
+ "retrieved_at": "2026-11-21T11:34:58+00:00",
+ "sha256": "4d19d723081ef99f0178e94a85722511ac1a4449b0fdd7973efd36775320c0f1",
+ "filings": [
+  {
+   "form": "6-K",
+   "filing_date": "2026-10-29",
+   "report_period": "2026-10-29",
+   "accession_number": "0001395064-26-000345",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000345/form6k-2_102926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000345/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-10-29",
+   "report_period": "2026-10-29",
+   "accession_number": "0001395064-26-000343",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000343/form6k-1_102926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000343/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-09-14",
+   "report_period": "2026-09-14",
+   "accession_number": "0001395064-26-000337",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000337/form6k_091426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000337/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-08-31",
+   "report_period": "2026-08-28",
+   "accession_number": "0001395064-26-000331",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000331/form6k_082826.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000331/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-08-06",
+   "report_period": "2026-08-05",
+   "accession_number": "0001395064-26-000329",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000329/form6k_080526.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000329/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-07-30",
+   "report_period": "2026-07-30",
+   "accession_number": "0001395064-26-000327",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000327/form6k_073026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000327/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-07-09",
+   "report_period": "2026-07-09",
+   "accession_number": "0001395064-26-000280",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000280/form6k_070926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000280/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-07-08",
+   "report_period": "2026-07-08",
+   "accession_number": "0001395064-26-000278",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000278/form6k_070826.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000278/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-29",
+   "report_period": "2026-06-29",
+   "accession_number": "0001395064-26-000189",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000189/form6k_062926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000189/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-26",
+   "report_period": "2026-06-26",
+   "accession_number": "0001395064-26-000187",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000187/form6k_062626.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000187/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-24",
+   "report_period": "2026-06-24",
+   "accession_number": "0001395064-26-000185",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000185/form6k-3_062426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000185/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-24",
+   "report_period": "2026-06-24",
+   "accession_number": "0001395064-26-000183",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000183/form6k-2_062426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000183/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-24",
+   "report_period": "2026-06-24",
+   "accession_number": "0001395064-26-000181",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000181/form6k-1_062426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000181/",
+   "description": "6-K"
+  },
+  {
+   "form": "20-F",
+   "filing_date": "2026-06-17",
+   "report_period": "2026-03-31",
+   "accession_number": "0001395064-26-000177",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/",
+   "description": "20-F"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-09",
+   "report_period": "2026-06-09",
+   "accession_number": "0001395064-26-000170",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000170/form6k_060926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000170/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-05",
+   "report_period": "2026-06-05",
+   "accession_number": "0001395064-26-000168",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000168/form6k_2x060526.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000168/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-05",
+   "report_period": "2026-06-05",
+   "accession_number": "0001395064-26-000166",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000166/form6k_060526.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000166/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-06-01",
+   "report_period": "2026-06-01",
+   "accession_number": "0001395064-26-000164",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000164/form6k_060126.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000164/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-26",
+   "report_period": "2026-05-26",
+   "accession_number": "0001395064-26-000162",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000162/form6k_052626x1.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000162/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-26",
+   "report_period": "2026-05-26",
+   "accession_number": "0001395064-26-000160",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000160/form6k_052626x2.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000160/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-26",
+   "report_period": "2026-05-26",
+   "accession_number": "0001395064-26-000158",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000158/form6k_052626x3.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000158/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-26",
+   "report_period": "2026-05-26",
+   "accession_number": "0001395064-26-000156",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000156/form6k_052626x4.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000156/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-26",
+   "report_period": "2026-05-26",
+   "accession_number": "0001395064-26-000154",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000154/form6k_052626x5.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000154/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-19",
+   "report_period": "2026-05-19",
+   "accession_number": "0001395064-26-000149",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000149/form6k_051926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000149/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-13",
+   "report_period": "2026-05-13",
+   "accession_number": "0001395064-26-000147",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000147/form6k-2_051326.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000147/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-05-13",
+   "report_period": "2026-05-13",
+   "accession_number": "0001395064-26-000145",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000145/exhibit991_051326.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000145/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-03-30",
+   "report_period": "2026-03-30",
+   "accession_number": "0001395064-26-000104",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000104/form6k_033026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000104/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-03-26",
+   "report_period": "2026-03-26",
+   "accession_number": "0001395064-26-000102",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000102/form6k_032626.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000102/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-03-25",
+   "report_period": "2026-03-25",
+   "accession_number": "0001395064-26-000100",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000100/form6k_032526.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000100/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-03-02",
+   "report_period": "2026-03-02",
+   "accession_number": "0001395064-26-000007",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000007/form6k_030226.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000007/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-02-10",
+   "report_period": "2026-02-10",
+   "accession_number": "0001395064-26-000005",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000005/form6k_021026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000005/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2026-01-29",
+   "report_period": "2026-01-29",
+   "accession_number": "0001395064-26-000002",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000002/form6k_012926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000002/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-12-18",
+   "report_period": "2025-12-18",
+   "accession_number": "0001395064-25-000174",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000174/form6k_121825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000174/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-12-08",
+   "report_period": "2025-12-08",
+   "accession_number": "0001395064-25-000164",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000164/form6k_120825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000164/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-11-28",
+   "report_period": "2025-11-28",
+   "accession_number": "0001395064-25-000161",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000161/form6k_112825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000161/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-10-30",
+   "report_period": "2025-10-30",
+   "accession_number": "0001395064-25-000154",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000154/form6k-3_103025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000154/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-10-30",
+   "report_period": "2025-10-30",
+   "accession_number": "0001395064-25-000152",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000152/form6k-2_103025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000152/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-10-30",
+   "report_period": "2025-10-30",
+   "accession_number": "0001395064-25-000150",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000150/form6k-1_103025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000150/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-10-01",
+   "report_period": "2025-10-01",
+   "accession_number": "0001395064-25-000145",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000145/form6k_100125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000145/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-09-25",
+   "report_period": "2025-09-25",
+   "accession_number": "0001395064-25-000143",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000143/form6k_092525.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000143/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-09-08",
+   "report_period": "2025-09-08",
+   "accession_number": "0001395064-25-000130",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000130/form6k_090825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000130/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-31",
+   "report_period": "2025-07-31",
+   "accession_number": "0001395064-25-000122",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000122/form6k_073125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000122/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-30",
+   "report_period": "2025-07-30",
+   "accession_number": "0001395064-25-000120",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000120/form-6k_073025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000120/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-14",
+   "report_period": "2025-07-14",
+   "accession_number": "0001395064-25-000117",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000117/form6k_071425.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000117/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-09",
+   "report_period": "2025-07-09",
+   "accession_number": "0001395064-25-000115",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000115/form6k_070925.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000115/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-08",
+   "report_period": "2025-07-08",
+   "accession_number": "0001395064-25-000113",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000113/form6k_070825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000113/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-02",
+   "report_period": "2025-07-02",
+   "accession_number": "0001395064-25-000111",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000111/takeda-closingform6xk.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000111/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-07-01",
+   "report_period": "2025-07-01",
+   "accession_number": "0001395064-25-000107",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000107/form6k_070125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000107/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-30",
+   "report_period": "2025-06-30",
+   "accession_number": "0001395064-25-000105",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000105/form6k_063025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000105/",
+   "description": "6-K"
+  },
+  {
+   "form": "20-F",
+   "filing_date": "2025-06-25",
+   "report_period": "2025-03-31",
+   "accession_number": "0001395064-25-000095",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/tak-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000095/",
+   "description": "20-F"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-25",
+   "report_period": "2025-06-25",
+   "accession_number": "0001395064-25-000093",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000093/form6k-2_062525.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000093/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-25",
+   "report_period": "2025-06-25",
+   "accession_number": "0001395064-25-000091",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000091/form6k-1_062525.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000091/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-12",
+   "report_period": "2025-06-12",
+   "accession_number": "0001395064-25-000080",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000080/form6k_061225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000080/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-10",
+   "report_period": "2025-06-10",
+   "accession_number": "0001395064-25-000078",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000078/form6k_061025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000078/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-06",
+   "report_period": "2025-06-06",
+   "accession_number": "0001395064-25-000076",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000076/form6k_060625.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000076/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-02",
+   "report_period": "2025-06-02",
+   "accession_number": "0001395064-25-000073",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000073/form6k-2_060225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000073/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-06-02",
+   "report_period": "2025-06-02",
+   "accession_number": "0001395064-25-000071",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000071/form6k-1_060225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000071/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-28",
+   "report_period": "2025-05-28",
+   "accession_number": "0001395064-25-000069",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000069/form6k-4_052825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000069/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-28",
+   "report_period": "2025-05-28",
+   "accession_number": "0001395064-25-000067",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000067/form6k-3_052825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000067/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-28",
+   "report_period": "2025-05-28",
+   "accession_number": "0001395064-25-000065",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000065/form6k-2_052825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000065/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-28",
+   "report_period": "2025-05-28",
+   "accession_number": "0001395064-25-000063",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000063/form6k-1_052825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000063/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-14",
+   "report_period": "2025-05-14",
+   "accession_number": "0001395064-25-000060",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000060/form6k_051425.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000060/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-08",
+   "report_period": "2025-05-08",
+   "accession_number": "0001395064-25-000050",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000050/form6k-2_050825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000050/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-05-08",
+   "report_period": "2025-05-08",
+   "accession_number": "0001395064-25-000048",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000048/form6k-1_050825.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000048/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-04-22",
+   "report_period": "2025-04-22",
+   "accession_number": "0001395064-25-000046",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000046/form6k_042225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000046/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-04-14",
+   "report_period": "2025-04-14",
+   "accession_number": "0001395064-25-000044",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000044/form6k_041425.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000044/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-04-01",
+   "report_period": "2025-04-01",
+   "accession_number": "0001395064-25-000041",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000041/form6k_040125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000041/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-03-26",
+   "report_period": "2025-03-26",
+   "accession_number": "0001395064-25-000038",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000038/form6k-1_032625.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000038/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-03-13",
+   "report_period": "2025-03-13",
+   "accession_number": "0001395064-25-000036",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000036/form6k_031325.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000036/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-03-03",
+   "report_period": "2025-03-03",
+   "accession_number": "0001395064-25-000034",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000034/form6k-2_030325.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000034/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-03-03",
+   "report_period": "2025-03-03",
+   "accession_number": "0001395064-25-000032",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000032/form6k-1_030325.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000032/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-02-13",
+   "report_period": "2025-02-13",
+   "accession_number": "0001395064-25-000022",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000022/form6k_021325.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000022/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-01-30",
+   "report_period": "2025-01-30",
+   "accession_number": "0001395064-25-000010",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000010/form6k-5_013025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000010/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-01-30",
+   "report_period": "2025-01-30",
+   "accession_number": "0001395064-25-000008",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000008/form6k-4_013025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000008/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-01-30",
+   "report_period": "2025-01-30",
+   "accession_number": "0001395064-25-000006",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000006/form6k-3_013025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000006/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-01-30",
+   "report_period": "2025-01-30",
+   "accession_number": "0001395064-25-000004",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000004/form6k-2_013025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000004/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2025-01-30",
+   "report_period": "2025-01-30",
+   "accession_number": "0001395064-25-000002",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000002/form6k-1_013025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506425000002/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-12-18",
+   "report_period": "2024-12-18",
+   "accession_number": "0001395064-24-000174",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000174/form6k_121824.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000174/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-12-13",
+   "report_period": "2024-12-13",
+   "accession_number": "0001395064-24-000172",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000172/form6k_121324.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000172/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-12-02",
+   "report_period": "2024-12-02",
+   "accession_number": "0001395064-24-000169",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000169/form6k_120224.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000169/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-10-31",
+   "report_period": "2024-10-31",
+   "accession_number": "0001395064-24-000167",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000167/form6k-3_103124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000167/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-10-31",
+   "report_period": "2024-10-31",
+   "accession_number": "0001395064-24-000165",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000165/form6k-1_103124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000165/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-10-31",
+   "report_period": "2024-10-31",
+   "accession_number": "0001395064-24-000163",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000163/form6k-2_103124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000163/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-09-26",
+   "report_period": "2024-09-26",
+   "accession_number": "0001395064-24-000160",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000160/form6k_092624.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000160/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-31",
+   "report_period": "2024-07-31",
+   "accession_number": "0001395064-24-000153",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000153/form6k_073124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000153/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-10",
+   "report_period": "2024-07-10",
+   "accession_number": "0001395064-24-000135",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000135/form6k_071024.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000135/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-09",
+   "report_period": "2024-07-09",
+   "accession_number": "0001395064-24-000121",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000121/form6k_070924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000121/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-05",
+   "report_period": "2024-07-05",
+   "accession_number": "0001395064-24-000107",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000107/form6k_070524.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000107/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-02",
+   "report_period": "2024-07-02",
+   "accession_number": "0001395064-24-000104",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000104/form6k_070224.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000104/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-07-01",
+   "report_period": "2024-07-01",
+   "accession_number": "0001395064-24-000102",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000102/form6k_070124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000102/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "20-F",
+   "filing_date": "2024-06-26",
+   "report_period": "2024-03-31",
+   "accession_number": "0001395064-24-000086",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000086/tak-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000086/",
+   "description": "FORM 20-F"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-26",
+   "report_period": "2024-06-26",
+   "accession_number": "0001395064-24-000084",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000084/form6k-2_062624.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000084/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-26",
+   "report_period": "2024-06-26",
+   "accession_number": "0001395064-24-000083",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000083/form6k-1_062624.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000083/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-17",
+   "report_period": "2024-06-17",
+   "accession_number": "0001395064-24-000071",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000071/form6k_061724.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000071/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-11",
+   "report_period": "2024-06-11",
+   "accession_number": "0001395064-24-000068",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000068/form6k_061124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000068/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-10",
+   "report_period": "2024-06-10",
+   "accession_number": "0001395064-24-000066",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000066/form6k_061024.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000066/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-07",
+   "report_period": "2024-06-07",
+   "accession_number": "0001395064-24-000064",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000064/form6k-2_060724.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000064/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-07",
+   "report_period": "2024-06-07",
+   "accession_number": "0001395064-24-000062",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000062/form6k-1_060724.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000062/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-03",
+   "report_period": "2024-06-03",
+   "accession_number": "0001395064-24-000060",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000060/form6k-2_060324.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000060/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-06-03",
+   "report_period": "2024-06-03",
+   "accession_number": "0001395064-24-000058",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000058/form6k-1_060324.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000058/",
+   "description": "FOMR 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-29",
+   "report_period": "2024-05-29",
+   "accession_number": "0001395064-24-000056",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000056/form6k-4_052924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000056/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-29",
+   "report_period": "2024-05-29",
+   "accession_number": "0001395064-24-000055",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000055/form6k-3_052924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000055/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-29",
+   "report_period": "2024-05-29",
+   "accession_number": "0001395064-24-000054",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000054/form6k-2_052924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000054/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-29",
+   "report_period": "2024-05-29",
+   "accession_number": "0001395064-24-000050",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000050/form6k-1_052924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000050/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-21",
+   "report_period": "2024-05-21",
+   "accession_number": "0001395064-24-000048",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000048/form6k_052124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000048/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-09",
+   "accession_number": "0001395064-24-000046",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000046/form6k-5_050924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000046/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-09",
+   "accession_number": "0001395064-24-000044",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000044/form6k-4_050924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000044/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-09",
+   "accession_number": "0001395064-24-000042",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000042/form6k-3_050924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000042/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-09",
+   "accession_number": "0001395064-24-000040",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000040/form6k-2_050924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000040/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-05-09",
+   "report_period": "2024-05-09",
+   "accession_number": "0001395064-24-000038",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000038/form6k-1_050924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000038/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-04-19",
+   "report_period": "2024-04-19",
+   "accession_number": "0001395064-24-000029",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000029/form6k_041924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000029/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-04-15",
+   "report_period": "2024-04-15",
+   "accession_number": "0001395064-24-000027",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000027/form6k_041524.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000027/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-03-27",
+   "report_period": "2024-03-27",
+   "accession_number": "0001395064-24-000020",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000020/form6k_032724.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000020/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-02-09",
+   "report_period": "2024-02-09",
+   "accession_number": "0001395064-24-000018",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000018/form6k_020924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000018/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-02-02",
+   "report_period": "2024-02-02",
+   "accession_number": "0001395064-24-000016",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000016/form6k_020224.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000016/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-02-01",
+   "report_period": "2024-02-01",
+   "accession_number": "0001395064-24-000014",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000014/form6k-2_020124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000014/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-02-01",
+   "report_period": "2024-02-01",
+   "accession_number": "0001395064-24-000011",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000011/form6k-1_020124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000011/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2024-01-16",
+   "report_period": "2024-01-16",
+   "accession_number": "0001395064-24-000002",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000002/form6k_011624.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506424000002/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-12-14",
+   "report_period": "2023-12-14",
+   "accession_number": "0001395064-23-000145",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000145/form6k_121423.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000145/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-11-30",
+   "report_period": "2023-11-30",
+   "accession_number": "0001395064-23-000143",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000143/form6k_113023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000143/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-11-13",
+   "report_period": "2023-11-13",
+   "accession_number": "0001395064-23-000140",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000140/form6k_111323.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000140/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-30",
+   "report_period": "2023-10-30",
+   "accession_number": "0001395064-23-000138",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000138/form6k_103023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000138/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-26",
+   "report_period": "2023-10-26",
+   "accession_number": "0001395064-23-000135",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000135/form6k-2_102623.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000135/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-26",
+   "report_period": "2023-10-26",
+   "accession_number": "0001395064-23-000133",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000133/form6k_102623.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000133/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-18",
+   "report_period": "2023-10-18",
+   "accession_number": "0001395064-23-000131",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000131/form6k-2_101823.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000131/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-18",
+   "report_period": "2023-10-18",
+   "accession_number": "0001395064-23-000129",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000129/form6k-1_101823.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000129/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-10-02",
+   "report_period": "2023-10-02",
+   "accession_number": "0001395064-23-000127",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000127/form6k_100223.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000127/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-09-28",
+   "report_period": "2023-09-28",
+   "accession_number": "0001395064-23-000125",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000125/form6k_092823.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000125/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-09-11",
+   "report_period": "2023-09-11",
+   "accession_number": "0001395064-23-000123",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000123/form6k_091123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000123/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-08-01",
+   "report_period": "2023-08-01",
+   "accession_number": "0001395064-23-000121",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000121/form6k_080123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000121/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-07-27",
+   "report_period": "2023-07-27",
+   "accession_number": "0001395064-23-000119",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000119/form6k_072723.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000119/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-07-12",
+   "report_period": "2023-07-12",
+   "accession_number": "0001395064-23-000116",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000116/form6k_071223.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000116/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-07-06",
+   "report_period": "2023-07-06",
+   "accession_number": "0001395064-23-000081",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000081/form6k_070623.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000081/",
+   "description": "6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-07-03",
+   "report_period": "2023-07-03",
+   "accession_number": "0001395064-23-000076",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000076/form6k_070323.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000076/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "20-F",
+   "filing_date": "2023-06-28",
+   "report_period": "2023-03-31",
+   "accession_number": "0001395064-23-000072",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000072/tak-20230331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000072/",
+   "description": "FORM 20-F"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-28",
+   "report_period": "2023-06-28",
+   "accession_number": "0001395064-23-000071",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000071/form6k-2_062823.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000071/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-28",
+   "report_period": "2023-06-28",
+   "accession_number": "0001395064-23-000069",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000069/form6k-1_062823.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000069/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-23",
+   "report_period": "2023-06-23",
+   "accession_number": "0001395064-23-000058",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000058/form6k-2_062323.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000058/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-23",
+   "report_period": "2023-06-23",
+   "accession_number": "0001395064-23-000056",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000056/form6k-1_062323.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000056/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-09",
+   "report_period": "2023-06-09",
+   "accession_number": "0001395064-23-000054",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000054/form6k_060923.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000054/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-06-01",
+   "report_period": "2023-06-01",
+   "accession_number": "0001395064-23-000052",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000052/form6k_060123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000052/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-30",
+   "report_period": "2023-05-30",
+   "accession_number": "0001395064-23-000050",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000050/form6k-4_053023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000050/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-30",
+   "report_period": "2023-05-30",
+   "accession_number": "0001395064-23-000048",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000048/form6k-3_053023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000048/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-30",
+   "report_period": "2023-05-30",
+   "accession_number": "0001395064-23-000046",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000046/form6k-2_053023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000046/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-30",
+   "report_period": "2023-05-30",
+   "accession_number": "0001395064-23-000044",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000044/form6k-1_053023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000044/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-17",
+   "report_period": "2023-05-17",
+   "accession_number": "0001395064-23-000036",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000036/form6k_051723.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000036/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-11",
+   "report_period": "2023-05-11",
+   "accession_number": "0001395064-23-000032",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000032/form6k-2_051123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000032/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-05-11",
+   "report_period": "2023-05-11",
+   "accession_number": "0001395064-23-000030",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000030/form6k-1_051123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000030/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-03-30",
+   "report_period": "2023-03-30",
+   "accession_number": "0001395064-23-000027",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000027/form6k_033023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000027/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-03-20",
+   "report_period": "2023-03-20",
+   "accession_number": "0001395064-23-000025",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000025/form6k_032023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000025/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-03-16",
+   "report_period": "2023-03-16",
+   "accession_number": "0001395064-23-000023",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000023/form6k-031623.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000023/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-03-01",
+   "report_period": "2023-03-01",
+   "accession_number": "0001395064-23-000021",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000021/form6k_030123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000021/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-02-10",
+   "report_period": "2023-02-10",
+   "accession_number": "0001395064-23-000019",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000019/form6k_021023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000019/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-02-09",
+   "report_period": "2023-02-09",
+   "accession_number": "0001395064-23-000017",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000017/form6k_020923.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000017/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-02-07",
+   "report_period": "2023-02-07",
+   "accession_number": "0001395064-23-000015",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000015/form6k_020723.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000015/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-02-02",
+   "report_period": "2023-02-02",
+   "accession_number": "0001395064-23-000007",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000007/form6k_020223.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000007/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-01-10",
+   "report_period": "2023-01-10",
+   "accession_number": "0001395064-23-000004",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000004/form6k_011023.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000004/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2023-01-05",
+   "report_period": "2023-01-05",
+   "accession_number": "0001395064-23-000002",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000002/form6k_010523.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506423000002/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-12-21",
+   "report_period": "2022-12-21",
+   "accession_number": "0001395064-22-000152",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000152/form6k_122122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000152/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-12-13",
+   "report_period": "2022-12-13",
+   "accession_number": "0001395064-22-000150",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000150/form6k_121322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000150/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-12-08",
+   "report_period": "2022-12-08",
+   "accession_number": "0001395064-22-000148",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000148/form6k_120822.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000148/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-11-30",
+   "report_period": "2022-11-30",
+   "accession_number": "0001395064-22-000144",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000144/form6k_113022.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000144/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-11-04",
+   "report_period": "2022-11-04",
+   "accession_number": "0001395064-22-000142",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000142/form6k_110422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000142/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-10-27",
+   "report_period": "2022-10-27",
+   "accession_number": "0001395064-22-000140",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000140/form6k_102722.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000140/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-10-14",
+   "report_period": "2022-10-14",
+   "accession_number": "0001395064-22-000138",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000138/form6k_101422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000138/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-10-04",
+   "report_period": "2022-10-04",
+   "accession_number": "0001395064-22-000136",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000136/form6k_100422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000136/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-08-23",
+   "report_period": "2022-08-23",
+   "accession_number": "0001395064-22-000134",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000134/form6k_082322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000134/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-08-04",
+   "report_period": "2022-08-04",
+   "accession_number": "0001395064-22-000129",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000129/form6k_080422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000129/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-07-28",
+   "report_period": "2022-07-28",
+   "accession_number": "0001395064-22-000127",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000127/form6k_072822.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000127/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-07-11",
+   "report_period": "2022-07-11",
+   "accession_number": "0001395064-22-000123",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000123/form6k_071122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000123/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-07-05",
+   "report_period": "2022-07-05",
+   "accession_number": "0001395064-22-000111",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000111/form6k_070522.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000111/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "20-F",
+   "filing_date": "2022-06-29",
+   "report_period": "2022-03-31",
+   "accession_number": "0001395064-22-000107",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000107/tak-20220331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000107/",
+   "description": "FORM 20-F"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-29",
+   "report_period": "2022-06-29",
+   "accession_number": "0001395064-22-000105",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000105/form6k-3_062922.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000105/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-29",
+   "report_period": "2022-06-29",
+   "accession_number": "0001395064-22-000104",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000104/form6k-2_062922.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000104/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-29",
+   "report_period": "2022-06-29",
+   "accession_number": "0001395064-22-000103",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000103/form6k-1_062922.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000103/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-24",
+   "report_period": "2022-06-24",
+   "accession_number": "0001395064-22-000096",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000096/form6k_062422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000096/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-10",
+   "report_period": "2022-06-10",
+   "accession_number": "0001395064-22-000093",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000093/form6k_061022.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000093/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-06-01",
+   "report_period": "2022-06-01",
+   "accession_number": "0001395064-22-000091",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000091/form6k_060122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000091/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-31",
+   "report_period": "2022-05-31",
+   "accession_number": "0001395064-22-000089",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000089/form6k-5_053122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000089/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-31",
+   "report_period": "2022-05-31",
+   "accession_number": "0001395064-22-000088",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000088/form6k-4_053122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000088/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-31",
+   "report_period": "2022-05-31",
+   "accession_number": "0001395064-22-000085",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000085/form6k-3_053122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000085/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-31",
+   "report_period": "2022-05-31",
+   "accession_number": "0001395064-22-000083",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000083/form6k-2_053122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000083/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-31",
+   "report_period": "2022-05-31",
+   "accession_number": "0001395064-22-000081",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000081/form6k-1_053122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000081/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-12",
+   "report_period": "2022-05-12",
+   "accession_number": "0001395064-22-000076",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000076/form6k_051222.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000076/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-11",
+   "report_period": "2022-05-11",
+   "accession_number": "0001395064-22-000074",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000074/form6k-2_051122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000074/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-05-11",
+   "report_period": "2022-05-11",
+   "accession_number": "0001395064-22-000071",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000071/form6k-1_051122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000071/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-04-19",
+   "report_period": "2022-04-19",
+   "accession_number": "0001395064-22-000053",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000053/form6k-041922.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000053/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-04-14",
+   "report_period": "2022-04-14",
+   "accession_number": "0001395064-22-000050",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000050/form6k-041422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000050/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-04-13",
+   "report_period": "2022-04-13",
+   "accession_number": "0001395064-22-000048",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000048/form6k-041322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000048/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-04-01",
+   "report_period": "2022-04-01",
+   "accession_number": "0001395064-22-000046",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000046/form6k-2x040122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000046/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-04-01",
+   "report_period": "2022-04-01",
+   "accession_number": "0001395064-22-000044",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000044/form6k-1x040122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000044/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-03-22",
+   "report_period": "2022-03-22",
+   "accession_number": "0001395064-22-000042",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000042/form6k-032222.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000042/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-03-14",
+   "report_period": "2022-03-14",
+   "accession_number": "0001395064-22-000038",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000038/form6k-031422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000038/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-03-01",
+   "report_period": "2022-03-01",
+   "accession_number": "0001395064-22-000035",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000035/form6k-030122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000035/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-02-14",
+   "report_period": "2022-02-14",
+   "accession_number": "0001395064-22-000033",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000033/form6k-021422.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000033/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-02-10",
+   "report_period": "2022-02-10",
+   "accession_number": "0001395064-22-000030",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000030/form6k-021022.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000030/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-02-03",
+   "report_period": "2022-02-03",
+   "accession_number": "0001395064-22-000027",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000027/form6k-3_020322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000027/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-02-03",
+   "report_period": "2022-02-03",
+   "accession_number": "0001395064-22-000025",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000025/form6k-2_020322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000025/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-02-03",
+   "report_period": "2022-02-03",
+   "accession_number": "0001395064-22-000023",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000023/form6k-1_020322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000023/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-01-13",
+   "report_period": "2022-01-13",
+   "accession_number": "0001395064-22-000009",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000009/form6k-011322.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000009/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-01-11",
+   "report_period": "2022-01-11",
+   "accession_number": "0001395064-22-000006",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000006/form6k-2x011122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000006/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-01-11",
+   "report_period": "2022-01-11",
+   "accession_number": "0001395064-22-000004",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000004/form6k-1x011122.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000004/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2022-01-05",
+   "report_period": "2022-01-05",
+   "accession_number": "0001395064-22-000002",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000002/form6k-010522.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506422000002/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2021-12-27",
+   "report_period": "2021-12-27",
+   "accession_number": "0001395064-21-000254",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000254/form6k-122721.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000254/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2021-12-16",
+   "report_period": "2021-12-16",
+   "accession_number": "0001395064-21-000252",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000252/form6k-121621.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000252/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2021-12-14",
+   "report_period": "2021-12-14",
+   "accession_number": "0001395064-21-000250",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000250/form6k-121421.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000250/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2021-12-01",
+   "report_period": "2021-12-01",
+   "accession_number": "0001395064-21-000243",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000243/form6k-120121.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000243/",
+   "description": "FORM 6-K"
+  },
+  {
+   "form": "6-K",
+   "filing_date": "2021-11-30",
+   "report_period": "2021-11-30",
+   "accession_number": "0001395064-21-000240",
+   "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000240/form6k-113021.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1395064/000139506421000240/",
+   "description": "FORM 6-K"
+  }
+ ]
+}

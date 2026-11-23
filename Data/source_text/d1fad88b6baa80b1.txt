@@ -1,0 +1,165 @@
+Webinar Recording: Federated Learning in Drug Discovery — How Lilly TuneLab Integrates with CDD Vault 
+
+ Share:
+
+ October 27, 2026 
+ Webinar Recording: Federated Learning in Drug Discovery — How Lilly TuneLab Integrates with CDD Vault 
+
+ Predictive AI/ML models can support drug discovery, but their effectiveness depends on access to relevant scientific data and integration with existing research workflows. 
+
+ In this webinar, Jonathan Gilbert, PhD , Senior Director – Ecosystem Growth & Contributor Partnerships at Eli Lilly, and Peter Gedeck, PhD , Research Informatics Senior Scientist at Collaborative Drug Discovery (CDD) , discussed how Lilly TuneLab uses federated learning to develop predictive models while protecting proprietary research data. The session covered small-molecule and antibody predictions and demonstrated how these capabilities integrate with CDD Vault. 
+
+ Peter Gedeck, PhD Slides 
+
+ Jonathan Gilbert, PhD Slides  
+
+ Federated Learning: Improving Models Without Sharing Proprietary Data 
+
+ Jonathan introduced Lilly TuneLab, a collaborative AI/ML platform that provides participating biotechnology companies with access to predictive models trained on decades of Lilly research data.
+
+ As of October 2026, TuneLab's models incorporate more than 2 million preclinical data points from Lilly and more than 675,000 partner-contributed data points, expanding the scientific information available for model development.
+
+ Federated learning allows organizations to contribute to shared model training without exposing their proprietary datasets. Models are trained within separate, secure environments where each organization's experimental data resides. Model updates are then aggregated to improve the shared model, while the underlying research data remains protected.
+
+ Jonathan explained that Lilly evaluates model contributions and monitors their effect on shared model performance. By incorporating data from organizations working across different chemical and biological spaces, TuneLab aims to expand model applicability and improve predictive performance.
+
+ ChemLab and AbLab: Predictive Models for Small Molecules and Antibodies 
+
+ Lilly TuneLab provides predictive models across two primary areas of drug discovery: small molecules and antibodies.
+
+ ChemLab supports small-molecule ADMET and physicochemical predictions across more than 33 endpoints, including solubility, permeability, metabolic stability, microsomal clearance, and hERG binding. These predictions help researchers evaluate properties relevant to a compound's absorption, distribution, metabolism, excretion, and toxicity.
+
+ AbLab focuses on antibody developability, providing predictions across more than 17 endpoints, including thermal stability, aggregation, and non-specific binding. The initial CDD Vault integration supports conventional monoclonal antibodies using heavy- and light-chain sequences.
+
+ Together, ChemLab and AbLab provide researchers with information for evaluating drug candidates and prioritizing experimental work.
+
+ Accessing Lilly TuneLab Predictions Within CDD Vault 
+
+ Peter demonstrated how TuneLab's predictive models are available directly within CDD Vault, allowing researchers to generate and review predictions alongside their existing experimental data.  Structure and sequence data never leaves the CDD Vault security perimeter. 
+
+ The integration supports several workflows: 
+
+ Individual molecule and antibody predictions: Researchers can select relevant ChemLab or AbLab models and view predictions within the corresponding entity record. 
+
+ Saved model selections: Frequently used groups of predictive endpoints can be saved and reused across projects. 
+
+ Bulk predictions: Researchers can evaluate up to 200 molecules per request and download results as a CSV file for additional analysis. 
+
+ Structure editor predictions: Small-molecule researchers can generate predictions while exploring chemical structures and evaluating potential modifications. 
+
+ Predictions are organized by property category, allowing scientists to review multiple endpoints without switching between separate modeling platforms. 
+
+ Understanding Model Uncertainty and Prediction Reliability 
+
+ An important part of Peter's demonstration focused on how researchers should interpret predictive model outputs. 
+
+ TuneLab provides uncertainty estimates alongside its predictions. For numerical endpoints, these appear as prediction intervals, while classification endpoints use prediction sets to communicate uncertainty in the predicted category. 
+
+ Peter explained that these estimates use conformal prediction methods calibrated to a 90% coverage target , meaning the intervals or prediction sets are designed to contain the true outcome at that frequency under the method's calibration assumptions. This does not mean that individual predictions are 90% accurate. 
+
+ Understanding uncertainty helps researchers assess the reliability of predictions, particularly for compounds or antibodies that differ from the training data, and identify where additional experimental validation may be needed.
+
+ Contributing Experimental Data to Lilly TuneLab 
+
+ Federated learning allows participating organizations to contribute experimental data to support continued model development. 
+
+ Peter demonstrated CDD Vault's data contribution workflow, which allows account administrators to select experimental endpoints, provide assay conditions and protocol information, identify relevant data, and review datasets before submission. 
+
+ For CDD Vault participants, the federated learning node operates within CDD's secure infrastructure. Compound structures, antibody sequences, and individual assay results remain within CDD Vault, while model updates, dataset metadata, and aggregate statistics are exchanged through the federated learning infrastructure. 
+
+ Jonathan also discussed the requirements for participating in TuneLab, including minimum dataset sizes, assay consistency, and protocol documentation. Lilly evaluates contributions and monitors their effect on shared model performance. 
+
+ Participation requires approval from Lilly and completion of the relevant agreements. Once approved, eligible organizations can access TuneLab's predictive models through their existing CDD Vault environment. 
+
+ Key Takeaways from the Webinar 
+
+ The webinar highlighted several practical considerations for applying predictive AI/ML models within drug discovery: 
+
+ Federated learning allows organizations to contribute to shared predictive models without directly sharing proprietary experimental datasets. 
+
+ Broader scientific datasets can help improve model performance and expand the chemical and biological space represented during training. 
+
+ ChemLab and AbLab support small-molecule ADMET and antibody developability predictions. 
+
+ Model uncertainty estimates provide additional context for interpreting predictions and determining where experimental validation is needed. 
+
+ Integrated prediction workflows allow researchers to evaluate individual molecules, run bulk predictions, and review results alongside existing experimental data. 
+
+ Structured experimental data supports participation in federated model development. 
+
+ Lilly TuneLab and CDD Vault 
+
+ The integration of Lilly TuneLab with CDD Vault brings predictive AI/ML models into the same environment where scientists manage chemical structures, antibody sequences, experimental results, and research workflows. 
+
+ Through the integration, researchers can access ChemLab and AbLab predictions, review model uncertainty, and contribute qualifying experimental data through a secure federated learning process. The integration supports individual predictions, saved model selections, bulk evaluations, and small-molecule predictions within the structure editor. 
+
+ For eligible biotechnology companies, this provides access to models trained on Lilly research data while supporting the continued development of shared predictive capabilities. 
+
+ To learn more about Lilly TuneLab, eligibility requirements, and the integration with CDD Vault, explore the resources below. 
+
+ Learn More About Lilly TuneLab in CDD Vault 
+
+ Explore the CDD Vault TuneLab Integration and Workflows 
+
+ Jonathan Gilbert, PhD
+
+ Senior Director – Ecosystem Growth & Contributor Partnerships, Eli Lilly
+
+ Jonathan Gilbert leads the growth of the Lilly TuneLab Ecosystem. Jonathan received his PhD from MIT in Chemical Engineering and has spent his last decade plus in biotech at multiple companies ranging from the Seed stage to early clinical public companies. Immediately prior to Lilly, Jonathan led Corporate Development and Strategy at Entact Bio.
+
+ LinkedIn 
+
+ Peter Gedeck, PhD
+
+ Research Informatics Senior Scientist, Collaborative Drug Discovery (CDD Vault)
+
+ Peter Gedeck has over 30 years of experience in scientific computing and data science. After 20 years as a computational chemist at Novartis, he now works as a senior data scientist at Collaborative Drug Discovery. He specializes in the development of machine learning algorithms to predict biological and physicochemical properties of drug candidates.
+
+ LinkedIn 
+
+ Share:
+
+ Tag(s): 
+
+ Webinars 
+ , 
+
+ CDD Blog 
+
+ Other posts you might be interested in
+
+ View All Posts 
+
+ CDD Vault Updates 
+
+ 4 min
+
+ November 20, 2026 
+
+ CDD Vault Update (November 2026)  ELN Dashboard, Updated 3D Viewer, Bioisosteres & Deep Learning Similarity, Zero-Click Models, Registration Forms, Structure Formats & Inventory Search
+
+ Read More 
+
+ CDD Insights 
+
+ 10 min
+
+ November 18, 2026 
+
+ Chemically Aware Biologics: Advanced Monomer Management, siRNA, and Macromolecule Tools
+
+ Read More 
+
+ CDD Insights 
+
+ 6 min
+
+ October 30, 2026 
+
+ Drug Discovery Industry Roundup with Barry Bunin — Oct 30, 2026
+
+ Read More 
+
+ Subscribe to email updates
+
+ CDD Vault now provides access to Lilly TuneLab, bringing predictive models into your discovery workflows. Learn more .

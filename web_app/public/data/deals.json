@@ -1,0 +1,1490 @@
+{
+"available": true,
+"edges_path": "New_mediciine/industry_transformation/partnerships_ecosystem/ecosystem_graph_edges.jsonl",
+"inventory_path": "New_mediciine/industry_transformation/partnerships_ecosystem/deal_inventory.md",
+"edges": [
+{
+"from": "Eli Lilly",
+"to": "Morphic",
+"type": "acquisition",
+"date": "2024-08-16",
+"claim_ids": [
+"CLM-009001"
+],
+"status": "completed",
+"value_usd_m": 3200,
+"year": 2024,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "POINT Biopharma",
+"type": "acquisition",
+"date": "2023-12-27",
+"claim_ids": [
+"CLM-009006"
+],
+"status": "completed",
+"value_usd_m": 1000,
+"year": 2023,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Akouos",
+"type": "acquisition",
+"date": "2022-12-01",
+"claim_ids": [
+"CLM-009007"
+],
+"status": "completed",
+"value_usd_m": 327,
+"year": 2022,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Verve Therapeutics",
+"type": "acquisition",
+"date": "2025-07-25",
+"claim_ids": [
+"CLM-009010"
+],
+"status": "completed",
+"value_usd_m": 549,
+"year": 2025,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "DICE Therapeutics",
+"type": "acquisition",
+"date": "2023-08",
+"claim_ids": [
+"CLM-009003"
+],
+"status": "completed",
+"value_usd_m": 1916,
+"year": 2023,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Versanis Bio",
+"type": "acquisition",
+"date": "2023-08",
+"claim_ids": [
+"CLM-009004"
+],
+"status": "completed",
+"value_usd_m": 604,
+"year": 2023,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Scorpion Therapeutics (STX-478)",
+"type": "asset_acquisition",
+"date": "2025-03",
+"claim_ids": [
+"CLM-009011"
+],
+"status": "completed",
+"value_usd_m": 1412,
+"year": 2025,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "SiteOne Therapeutics",
+"type": "acquisition",
+"date": "2025-07",
+"claim_ids": [
+"CLM-009011"
+],
+"status": "completed",
+"value_usd_m": 494,
+"year": 2025,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "NVIDIA",
+"type": "co_innovation_partnership",
+"date": "2026-01-12",
+"claim_ids": [
+"CLM-009029"
+],
+"status": "announced",
+"value_usd_m": 1000,
+"year": 2026,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Benchling",
+"type": "platform_distribution",
+"date": "2026-01",
+"claim_ids": [
+"CLM-009027"
+],
+"status": "announced",
+"year": 2026,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Cheplapharm",
+"type": "divestiture",
+"date": "2023-07",
+"claim_ids": [
+"CLM-009018"
+],
+"status": "completed",
+"value_usd_m": 1050,
+"year": 2023,
+"from_code": "LLY"
+},
+{
+"from": "Eli Lilly",
+"to": "Amphastar",
+"type": "divestiture",
+"date": "2023-06",
+"claim_ids": [
+"CLM-009018"
+],
+"status": "completed",
+"value_usd_m": 500,
+"year": 2023,
+"from_code": "LLY"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Abiomed",
+"type": "acquisition",
+"date": "2022-12-22",
+"claim_ids": [
+"CLM-009041"
+],
+"status": "completed",
+"value_usd_m": 17100,
+"year": 2022,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Shockwave Medical",
+"type": "acquisition",
+"date": "2024-05-31",
+"claim_ids": [
+"CLM-009033"
+],
+"status": "completed",
+"value_usd_m": 12600,
+"year": 2024,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Intra-Cellular Therapies",
+"type": "acquisition",
+"date": "2025-04-02",
+"claim_ids": [
+"CLM-009030"
+],
+"status": "completed",
+"value_usd_m": 14500,
+"year": 2025,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Halda Therapeutics",
+"type": "acquisition",
+"date": "2025-12-26",
+"claim_ids": [
+"CLM-009032"
+],
+"status": "completed",
+"value_usd_m": 3050,
+"year": 2025,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Ambrx",
+"type": "acquisition",
+"date": "2024-03-07",
+"claim_ids": [
+"CLM-009035"
+],
+"status": "completed",
+"value_usd_m": 1800,
+"year": 2024,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Proteologix",
+"type": "acquisition",
+"date": "2024-06-20",
+"claim_ids": [
+"CLM-009036"
+],
+"status": "completed",
+"value_usd_m": 800,
+"year": 2024,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Yellow Jersey (Numab NM26)",
+"type": "asset_acquisition",
+"date": "2024-07-11",
+"claim_ids": [
+"CLM-009037"
+],
+"status": "completed",
+"value_usd_m": 1250,
+"year": 2024,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "V-Wave",
+"type": "acquisition",
+"date": "2024-10-08",
+"claim_ids": [
+"CLM-009038"
+],
+"status": "completed",
+"value_usd_m": 600,
+"year": 2024,
+"from_code": "JNJ"
+},
+{
+"from": "Johnson & Johnson",
+"to": "Laminar",
+"type": "acquisition",
+"date": "2023",
+"claim_ids": [
+"CLM-009039"
+],
+"status": "completed",
+"value_usd_m": 400,
+"year": 2023,
+"from_code": "JNJ"
+},
+{
+"from": "AbbVie",
+"to": "ImmunoGen",
+"type": "acquisition",
+"date": "2024-02-12",
+"claim_ids": [
+"CLM-009056"
+],
+"status": "completed",
+"value_usd_m": 9800,
+"year": 2024,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Cerevel Therapeutics",
+"type": "acquisition",
+"date": "2024-08-01",
+"claim_ids": [
+"CLM-009053"
+],
+"status": "completed",
+"value_usd_m": 8700,
+"year": 2024,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Capstan Therapeutics",
+"type": "asset_acquisition",
+"date": "2025-08",
+"claim_ids": [
+"CLM-009058"
+],
+"status": "completed",
+"value_usd_m": 2100,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Gilgamesh Pharmaceuticals",
+"type": "asset_acquisition",
+"date": "2025-10",
+"claim_ids": [
+"CLM-009059"
+],
+"status": "completed",
+"value_usd_m": 906,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Ichnos Glenmark Innovation",
+"type": "license",
+"date": "2025-09",
+"claim_ids": [
+"CLM-009060"
+],
+"status": "completed",
+"value_usd_m": 700,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "ADARx Pharmaceuticals",
+"type": "license_option",
+"date": "2025-05",
+"claim_ids": [
+"CLM-009061"
+],
+"status": "completed",
+"value_usd_m": 335,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Gubra",
+"type": "license",
+"date": "2025-04",
+"claim_ids": [
+"CLM-009062"
+],
+"status": "completed",
+"value_usd_m": 350,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Aliada Therapeutics",
+"type": "asset_acquisition",
+"date": "2024-12",
+"claim_ids": [
+"CLM-009063"
+],
+"status": "completed",
+"value_usd_m": 1400,
+"year": 2024,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Celsius Therapeutics",
+"type": "asset_acquisition",
+"date": "2024-06",
+"claim_ids": [
+"CLM-009064"
+],
+"status": "completed",
+"value_usd_m": 250,
+"year": 2024,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Nimble Therapeutics",
+"type": "acquisition",
+"date": "2025-01-23",
+"claim_ids": [
+"CLM-009057"
+],
+"status": "completed",
+"value_usd_m": 288,
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "DJS Antibodies",
+"type": "acquisition",
+"date": "2022-10",
+"claim_ids": [
+"CLM-009065"
+],
+"status": "completed",
+"value_usd_m": 287,
+"year": 2022,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Syndesi Therapeutics",
+"type": "asset_acquisition",
+"date": "2022-02",
+"claim_ids": [
+"CLM-009066"
+],
+"status": "completed",
+"value_usd_m": 130,
+"year": 2022,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Soliton",
+"type": "acquisition",
+"date": "2021-12",
+"claim_ids": [
+"CLM-009067"
+],
+"status": "completed",
+"value_usd_m": 535,
+"year": 2021,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Calico Life Sciences",
+"type": "research_collaboration_option",
+"date": "2021-07",
+"claim_ids": [
+"CLM-009068"
+],
+"status": "extended",
+"value_usd_m": 500,
+"year": 2021,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Genmab",
+"type": "co_development",
+"date": "2022",
+"claim_ids": [
+"CLM-009072"
+],
+"status": "marketed",
+"year": 2022,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Johnson & Johnson (Janssen)",
+"type": "co_commercialization",
+"date": "2011",
+"claim_ids": [
+"CLM-009073"
+],
+"status": "ongoing",
+"year": 2011,
+"from_code": "ABBV"
+},
+{
+"from": "AbbVie",
+"to": "Takeda",
+"type": "license",
+"date": "2025",
+"claim_ids": [
+"CLM-009093"
+],
+"status": "ongoing",
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "Takeda",
+"to": "Nimbus Therapeutics (Lakshmi)",
+"type": "acquisition",
+"date": "2023-02-08",
+"claim_ids": [
+"CLM-009076"
+],
+"status": "completed",
+"value_usd_m": 4000,
+"year": 2023,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Innovent Biologics",
+"type": "license_equity_option",
+"date": "2025-10-22",
+"claim_ids": [
+"CLM-009078"
+],
+"status": "closed",
+"value_usd_m": 1200,
+"year": 2025,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Protagonist Therapeutics",
+"type": "license",
+"date": "2024-03",
+"claim_ids": [
+"CLM-009080"
+],
+"status": "completed",
+"year": 2024,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Keros Therapeutics",
+"type": "license",
+"date": "2025",
+"claim_ids": [
+"CLM-009081"
+],
+"status": "completed",
+"year": 2025,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "HUTCHMED",
+"type": "license",
+"date": "2023",
+"claim_ids": [
+"CLM-009082"
+],
+"status": "approved_product",
+"year": 2023,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Teva (Teva Takeda Pharma)",
+"type": "jv_dissolution",
+"date": "2025-03",
+"claim_ids": [
+"CLM-009085"
+],
+"status": "completed",
+"year": 2025,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Denali Therapeutics",
+"type": "collaboration_terminated",
+"date": "2026-04",
+"claim_ids": [
+"CLM-009089"
+],
+"status": "terminated",
+"year": 2026,
+"from_code": "TAK"
+},
+{
+"from": "Takeda",
+"to": "Neurocrine Biosciences",
+"type": "collaboration_terminated",
+"date": "2025-03",
+"claim_ids": [
+"CLM-009090"
+],
+"status": "terminated",
+"year": 2025,
+"from_code": "TAK"
+},
+{
+"from": "AbbVie",
+"to": "BaseLaunch",
+"type": "venture_platform_membership",
+"date": "2025",
+"claim_ids": [
+"CLM-009094"
+],
+"status": "ongoing",
+"year": 2025,
+"from_code": "ABBV"
+},
+{
+"from": "Johnson & Johnson",
+"to": "BaseLaunch",
+"type": "venture_platform_membership",
+"date": "2025",
+"claim_ids": [
+"CLM-009094"
+],
+"status": "ongoing",
+"year": 2025,
+"from_code": "JNJ"
+},
+{
+"from": "Takeda",
+"to": "BaseLaunch",
+"type": "venture_platform_membership",
+"date": "2025-12",
+"claim_ids": [
+"CLM-009091"
+],
+"status": "ongoing",
+"year": 2025,
+"from_code": "TAK"
+}
+],
+"inventory": [
+{
+"company": "LLY",
+"date": "2021-01 (lookback)",
+"year": 2021,
+"counterparty": "Prevail",
+"type": "Acquisition",
+"area": "Gene therapy, neuro",
+"upfront": "$747.4M net of cash",
+"contingent": "CVR up to ~$160M",
+"accounting": "Business combination; IPR&D $824.0M",
+"status": "GBA1 asset impaired 2022",
+"claim_ids": [
+"CLM-009008",
+"CLM-009009"
+]
+},
+{
+"company": "LLY",
+"date": "2021 (various)",
+"year": 2021,
+"counterparty": "Precision Bio, Merus, Asahi Kasei, Rigel, MiNA, Protomer, Foghorn",
+"type": "Licence / asset acquisitions",
+"area": "In vivo editing, oncology, immunology, insulin",
+"upfront": "$20.0M-$316.6M each (IPR&D expense)",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition, IPR&D expensed",
+"status": "Status not tracked (gap)",
+"claim_ids": [
+"CLM-009021"
+]
+},
+{
+"company": "LLY",
+"date": "2022-02",
+"year": 2022,
+"counterparty": "BioMarin priority review voucher",
+"type": "Asset purchase",
+"area": "Regulatory asset",
+"upfront": "$110.0M",
+"contingent": "n/a",
+"accounting": "IPR&D expense",
+"status": "Used/unknown (gap)",
+"claim_ids": [
+"CLM-009021"
+]
+},
+{
+"company": "LLY",
+"date": "2022",
+"year": 2022,
+"counterparty": "Innovent sintilimab (ex-China)",
+"type": "Licence (2020 deal) terminated",
+"area": "Oncology",
+"upfront": "$200.0M (2020)",
+"contingent": "n/a",
+"accounting": "IPR&D expense",
+"status": "Terminated 2022",
+"claim_ids": [
+"CLM-009023"
+]
+},
+{
+"company": "LLY",
+"date": "2022-12",
+"year": 2022,
+"counterparty": "Akouos",
+"type": "Acquisition",
+"area": "Hearing gene therapy",
+"upfront": "$327.2M net of cash",
+"contingent": "CVR up to ~$122M (FV $66.9M)",
+"accounting": "Business combination",
+"status": "Clinical (no approval in sources)",
+"claim_ids": [
+"CLM-009007"
+]
+},
+{
+"company": "LLY",
+"date": "2023-07",
+"year": 2023,
+"counterparty": "Zyprexa/olanzapine portfolio to Cheplapharm; Baqsimi to Amphastar (Jun 2023)",
+"type": "Divestiture",
+"area": "Mature products",
+"upfront": "$1.05B+$305M; $500M+$125M",
+"contingent": "n/a",
+"accounting": "Revenue recognition of sale",
+"status": "Divested",
+"claim_ids": [
+"CLM-009018"
+]
+},
+{
+"company": "LLY",
+"date": "2023-08",
+"year": 2023,
+"counterparty": "DICE Therapeutics",
+"type": "Acquisition (asset)",
+"area": "Immunology",
+"upfront": "$1,916M IPR&D",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition",
+"status": "DC-806 discontinued 2024",
+"claim_ids": [
+"CLM-009003"
+]
+},
+{
+"company": "LLY",
+"date": "2023-08",
+"year": 2023,
+"counterparty": "Versanis Bio",
+"type": "Acquisition (asset)",
+"area": "Obesity",
+"upfront": "$604M IPR&D",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition",
+"status": "Phase 2 ongoing (FY2023)",
+"claim_ids": [
+"CLM-009004"
+]
+},
+{
+"company": "LLY",
+"date": "2023-08",
+"year": 2023,
+"counterparty": "Emergence Therapeutics",
+"type": "Acquisition (asset)",
+"area": "Oncology ADC",
+"upfront": "$407M IPR&D",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition",
+"status": "Pre-clinical at deal",
+"claim_ids": [
+"CLM-009005"
+]
+},
+{
+"company": "LLY",
+"date": "2023-12",
+"year": 2023,
+"counterparty": "POINT Biopharma",
+"type": "Acquisition",
+"area": "Radioligand",
+"upfront": "$1.0B net of cash",
+"contingent": "None",
+"accounting": "Business combination; goodwill $854M",
+"status": "Capability integrated",
+"claim_ids": [
+"CLM-009006"
+]
+},
+{
+"company": "LLY",
+"date": "2024-05",
+"year": 2024,
+"counterparty": "NexPharm/Isopro site",
+"type": "Acquisition",
+"area": "Manufacturing",
+"upfront": "$925M net",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "Operating",
+"claim_ids": [
+"CLM-009012"
+]
+},
+{
+"company": "LLY",
+"date": "2024-08",
+"year": 2024,
+"counterparty": "Morphic",
+"type": "Acquisition (asset)",
+"area": "IBD oral integrin",
+"upfront": "$2,549M IPR&D ($3.2B headline)",
+"contingent": "None",
+"accounting": "Asset acquisition",
+"status": "MORF-057 Phase 2 at deal",
+"claim_ids": [
+"CLM-009001",
+"CLM-009002"
+]
+},
+{
+"company": "LLY",
+"date": "2025-03",
+"year": 2025,
+"counterparty": "Scorpion (STX-478)",
+"type": "Acquisition (asset)",
+"area": "Oncology PI3Ka",
+"upfront": "$1,412M IPR&D",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition",
+"status": "Phase 1 at deal",
+"claim_ids": [
+"CLM-009011"
+]
+},
+{
+"company": "LLY",
+"date": "2025-07",
+"year": 2025,
+"counterparty": "SiteOne (STC-004)",
+"type": "Acquisition (asset)",
+"area": "Pain Nav1.8",
+"upfront": "$494M IPR&D",
+"contingent": "Not extracted",
+"accounting": "Asset acquisition",
+"status": "Phase 1 at deal",
+"claim_ids": [
+"CLM-009011"
+]
+},
+{
+"company": "LLY",
+"date": "2025-07",
+"year": 2025,
+"counterparty": "Verve",
+"type": "Acquisition",
+"area": "Gene editing, CV",
+"upfront": "$549M net of cash",
+"contingent": "CVR up to ~$300M (FV $177M)",
+"accounting": "Business combination (prelim.)",
+"status": "VERVE-102 clinical",
+"claim_ids": [
+"CLM-009010"
+]
+},
+{
+"company": "LLY",
+"date": "2025-09",
+"year": 2025,
+"counterparty": "Lilly TuneLab / Catalyze360",
+"type": "Platform",
+"area": "AI data-for-access",
+"upfront": "n/d",
+"contingent": "n/a",
+"accounting": "n/a",
+"status": "Launched; Benchling channel 2026",
+"claim_ids": [
+"CLM-009026",
+"CLM-009025",
+"CLM-009027"
+]
+},
+{
+"company": "LLY",
+"date": "2026-01",
+"year": 2026,
+"counterparty": "NVIDIA co-innovation lab",
+"type": "Platform alliance",
+"area": "AI compute",
+"upfront": "Up to $1B over 5 yrs (joint)",
+"contingent": "n/a",
+"accounting": "n/a",
+"status": "Announced",
+"claim_ids": [
+"CLM-009029"
+]
+},
+{
+"company": "JNJ",
+"date": "2022-12",
+"year": 2022,
+"counterparty": "Abiomed",
+"type": "Acquisition",
+"area": "MedTech cardiovascular",
+"upfront": "$17.1B net ($380/share)",
+"contingent": "CVR $17.50/share on >$3.7B sales FY27-28",
+"accounting": "Business combination",
+"status": "Impella integrated; CVR liability reduced 2025",
+"claim_ids": [
+"CLM-009041",
+"CLM-009042",
+"CLM-009043"
+]
+},
+{
+"company": "JNJ",
+"date": "2023",
+"year": 2023,
+"counterparty": "Laminar",
+"type": "Acquisition (asset)",
+"area": "MedTech LAA",
+"upfront": "$0.4B",
+"contingent": "+$0.3B milestone 2024",
+"accounting": "IPR&D expense",
+"status": "Pivotal IDE study suspended 2025",
+"claim_ids": [
+"CLM-009039",
+"CLM-009040"
+]
+},
+{
+"company": "JNJ",
+"date": "2024-03",
+"year": 2024,
+"counterparty": "Ambrx",
+"type": "Acquisition",
+"area": "ADC platform",
+"upfront": "$1.8B net",
+"contingent": "n/d",
+"accounting": "Business combination",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009035"
+]
+},
+{
+"company": "JNJ",
+"date": "2024-05",
+"year": 2024,
+"counterparty": "Shockwave Medical",
+"type": "Acquisition",
+"area": "MedTech IVL",
+"upfront": "$12.6B ($11.5B net)",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "Revenue contributing",
+"claim_ids": [
+"CLM-009033",
+"CLM-009034"
+]
+},
+{
+"company": "JNJ",
+"date": "2024-06",
+"year": 2024,
+"counterparty": "Proteologix",
+"type": "Acquisition",
+"area": "Bispecifics",
+"upfront": "$0.8B net",
+"contingent": "Milestone possible",
+"accounting": "Business combination",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009036"
+]
+},
+{
+"company": "JNJ",
+"date": "2024-07",
+"year": 2024,
+"counterparty": "Yellow Jersey (NM26, Numab)",
+"type": "Acquisition (asset)",
+"area": "Atopic dermatitis",
+"upfront": "$1.25B",
+"contingent": "n/d",
+"accounting": "IPR&D expense",
+"status": "Phase 2b interim met early-termination criteria 2025",
+"claim_ids": [
+"CLM-009037"
+]
+},
+{
+"company": "JNJ",
+"date": "2024-10",
+"year": 2024,
+"counterparty": "V-Wave",
+"type": "Acquisition (asset)",
+"area": "Heart failure device",
+"upfront": "$0.6B",
+"contingent": "Up to ~$1.1B",
+"accounting": "IPR&D ~$0.5B",
+"status": "Clinical/regulatory",
+"claim_ids": [
+"CLM-009038"
+]
+},
+{
+"company": "JNJ",
+"date": "2024",
+"year": 2024,
+"counterparty": "Ponvory ex-US; Acclarent",
+"type": "Divestiture",
+"area": "Mature",
+"upfront": "~$0.2B; ~$0.3B",
+"contingent": "n/a",
+"accounting": "Gain/loss",
+"status": "Divested",
+"claim_ids": [
+"CLM-009048"
+]
+},
+{
+"company": "JNJ",
+"date": "2025-04",
+"year": 2025,
+"counterparty": "Intra-Cellular",
+"type": "Acquisition",
+"area": "Neuroscience",
+"upfront": "$14.5B ($132/share)",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "CAPLYTA MDD approved Q4 2025",
+"claim_ids": [
+"CLM-009030",
+"CLM-009031"
+]
+},
+{
+"company": "JNJ",
+"date": "2025-12",
+"year": 2025,
+"counterparty": "Halda",
+"type": "Acquisition",
+"area": "Oncology RIPTAC",
+"upfront": "~$3.05B net",
+"contingent": "None",
+"accounting": "Business combination (prelim.)",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009032"
+]
+},
+{
+"company": "JNJ",
+"date": "2020 (lookback)",
+"year": 2020,
+"counterparty": "Momenta",
+"type": "Acquisition",
+"area": "Immunology",
+"upfront": "$6.1B net",
+"contingent": "n/a",
+"accounting": "Business combination",
+"status": "Nipocalimab/IMAAVY approved 2025-04-30; M710 impaired",
+"claim_ids": [
+"CLM-009044",
+"CLM-009045"
+]
+},
+{
+"company": "JNJ",
+"date": "2020 (lookback)",
+"year": 2020,
+"counterparty": "XBiotech bermekimab",
+"type": "Asset acquisition",
+"area": "Dermatology",
+"upfront": "$0.8B",
+"contingent": "n/a",
+"accounting": "IPR&D",
+"status": "Impaired ~$0.8B FY2022",
+"claim_ids": [
+"CLM-009046"
+]
+},
+{
+"company": "JNJ",
+"date": "2019 (lookback)",
+"year": 2019,
+"counterparty": "Auris Health (Ottava)",
+"type": "Acquisition",
+"area": "Surgical robotics",
+"upfront": "$3.4B net + up to $2.35B",
+"contingent": "Milestones",
+"accounting": "Business combination",
+"status": "Partial $0.9B impairment FY2021",
+"claim_ids": [
+"CLM-009047"
+]
+},
+{
+"company": "ABBV",
+"date": "2021-07",
+"year": 2021,
+"counterparty": "Calico extension",
+"type": "Collaboration/option",
+"area": "Aging, neuro, oncology",
+"upfront": "$500M (AbbVie share)",
+"contingent": "Option after Ph2a",
+"accounting": "Collaboration",
+"status": "Ongoing",
+"claim_ids": [
+"CLM-009068"
+]
+},
+{
+"company": "ABBV",
+"date": "2021-12",
+"year": 2021,
+"counterparty": "Soliton",
+"type": "Acquisition",
+"area": "Aesthetics device",
+"upfront": "$535M",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "Integrated",
+"claim_ids": [
+"CLM-009067"
+]
+},
+{
+"company": "ABBV",
+"date": "2022-02",
+"year": 2022,
+"counterparty": "Syndesi",
+"type": "Acquisition (asset)",
+"area": "Neuroscience",
+"upfront": "$130M",
+"contingent": "Milestones",
+"accounting": "IPR&D",
+"status": "ABBV-552 in development",
+"claim_ids": [
+"CLM-009066"
+]
+},
+{
+"company": "ABBV",
+"date": "2022-10",
+"year": 2022,
+"counterparty": "DJS Antibodies",
+"type": "Acquisition",
+"area": "Fibrosis, platform",
+"upfront": "$255M upfront ($287M total)",
+"contingent": "Up to $95M",
+"accounting": "Business combination",
+"status": "Preclinical at deal",
+"claim_ids": [
+"CLM-009065"
+]
+},
+{
+"company": "ABBV",
+"date": "2022-2025",
+"year": 2022,
+"counterparty": "Genmab epcoritamab",
+"type": "Collaboration",
+"area": "Oncology",
+"upfront": "n/d here",
+"contingent": "n/d",
+"accounting": "Collaboration",
+"status": "EPKINLY marketed",
+"claim_ids": [
+"CLM-009072"
+]
+},
+{
+"company": "ABBV",
+"date": "2024-02",
+"year": 2024,
+"counterparty": "ImmunoGen",
+"type": "Acquisition",
+"area": "Oncology ADC",
+"upfront": "$9.2B net ($31.26/share)",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "Elahere marketed; 2024 op. loss $682M",
+"claim_ids": [
+"CLM-009056"
+]
+},
+{
+"company": "ABBV",
+"date": "2024-06",
+"year": 2024,
+"counterparty": "Celsius",
+"type": "Acquisition (asset)",
+"area": "IBD",
+"upfront": "$250M",
+"contingent": "n/d",
+"accounting": "IPR&D",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009064"
+]
+},
+{
+"company": "ABBV",
+"date": "2024-08",
+"year": 2024,
+"counterparty": "Cerevel",
+"type": "Acquisition",
+"area": "Neuroscience",
+"upfront": "$8.3B net ($45/share)",
+"contingent": "None",
+"accounting": "Business combination",
+"status": "Emraclidine Ph2 failed; $4.5B impairment",
+"claim_ids": [
+"CLM-009053",
+"CLM-009054"
+]
+},
+{
+"company": "ABBV",
+"date": "2024-12",
+"year": 2024,
+"counterparty": "Aliada",
+"type": "Acquisition (asset)",
+"area": "Alzheimer's",
+"upfront": "~$1.4B",
+"contingent": "n/d",
+"accounting": "IPR&D",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009063"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-01",
+"year": 2025,
+"counterparty": "Nimble",
+"type": "Acquisition",
+"area": "Oral peptide IL23R",
+"upfront": "$210M upfront ($288M total)",
+"contingent": "Up to $130M",
+"accounting": "Business combination",
+"status": "Clinical",
+"claim_ids": [
+"CLM-009057"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-04",
+"year": 2025,
+"counterparty": "Gubra",
+"type": "Licence",
+"area": "Obesity amylin",
+"upfront": "$350M",
+"contingent": "Up to $1.9B",
+"accounting": "IPR&D",
+"status": "Early",
+"claim_ids": [
+"CLM-009062"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-05",
+"year": 2025,
+"counterparty": "ADARx",
+"type": "Option licence",
+"area": "siRNA multi-area",
+"upfront": "$335M",
+"contingent": "Up to $385M + $7.5B",
+"accounting": "IPR&D",
+"status": "Early",
+"claim_ids": [
+"CLM-009061"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-08",
+"year": 2025,
+"counterparty": "Capstan",
+"type": "Acquisition (asset)",
+"area": "In vivo CAR-T",
+"upfront": "$1.9B net ($2.1B)",
+"contingent": "n/d",
+"accounting": "IPR&D",
+"status": "Early",
+"claim_ids": [
+"CLM-009058"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-09",
+"year": 2025,
+"counterparty": "Ichnos Glenmark Innovation",
+"type": "Licence",
+"area": "Myeloma TCE",
+"upfront": "$700M",
+"contingent": "Up to $1.2B",
+"accounting": "IPR&D",
+"status": "Early",
+"claim_ids": [
+"CLM-009060"
+]
+},
+{
+"company": "ABBV",
+"date": "2025-10",
+"year": 2025,
+"counterparty": "Gilgamesh",
+"type": "Acquisition (asset)",
+"area": "Depression",
+"upfront": "$906M",
+"contingent": "Up to $300M",
+"accounting": "IPR&D",
+"status": "Early",
+"claim_ids": [
+"CLM-009059"
+]
+},
+{
+"company": "ABBV",
+"date": "2023-2025",
+"year": 2023,
+"counterparty": "Other arrangements",
+"type": "Various",
+"area": "Early-stage",
+"upfront": "$582M/$975M/$602M per year",
+"contingent": "Up to $6.9B (2025 items)",
+"accounting": "IPR&D",
+"status": "Mixed",
+"claim_ids": [
+"CLM-009069"
+]
+},
+{
+"company": "TAK",
+"date": "2021-04",
+"year": 2021,
+"counterparty": "Teijin Pharma (Japan portfolio)",
+"type": "Divestiture",
+"area": "Diabetes etc.",
+"upfront": "JPY 133.0B",
+"contingent": "n/a",
+"accounting": "Revenue (IFRS 15)",
+"status": "Divested (pre-window)",
+"claim_ids": [
+"CLM-009086"
+]
+},
+{
+"company": "TAK",
+"date": "2022-03",
+"year": 2022,
+"counterparty": "Hasten (China portfolio)",
+"type": "Divestiture",
+"area": "Mature",
+"upfront": "USD 230M",
+"contingent": "n/a",
+"accounting": "Gain JPY 5.6B",
+"status": "Divested",
+"claim_ids": [
+"CLM-009086"
+]
+},
+{
+"company": "TAK",
+"date": "FY2022",
+"year": 2022,
+"counterparty": "HUTCHMED fruquintinib; Zedira/Falk TAK-227",
+"type": "Licence",
+"area": "Oncology; celiac",
+"upfront": "n/d",
+"contingent": "n/d",
+"accounting": "Licence",
+"status": "FRUZAQLA approved",
+"claim_ids": [
+"CLM-009082"
+]
+},
+{
+"company": "TAK",
+"date": "2023-02",
+"year": 2023,
+"counterparty": "Nimbus Lakshmi (TAK-279)",
+"type": "Acquisition",
+"area": "Immunology TYK2",
+"upfront": "$4.0B upfront",
+"contingent": "$2.0B sales milestones + BMS",
+"accounting": "Acquisition",
+"status": "Ph3 positive Dec 2025; NDA 2026",
+"claim_ids": [
+"CLM-009076",
+"CLM-009077"
+]
+},
+{
+"company": "TAK",
+"date": "FY2023",
+"year": 2023,
+"counterparty": "Protagonist rusfertide",
+"type": "Licence",
+"area": "Hematology",
+"upfront": "n/d",
+"contingent": "n/d",
+"accounting": "Licence",
+"status": "VERIFY Ph3 met Mar 2025",
+"claim_ids": [
+"CLM-009080"
+]
+},
+{
+"company": "TAK",
+"date": "FY2024",
+"year": 2024,
+"counterparty": "Keros elritercept",
+"type": "Licence",
+"area": "Hematology",
+"upfront": "n/d",
+"contingent": "n/d",
+"accounting": "Licence",
+"status": "Late stage",
+"claim_ids": [
+"CLM-009081"
+]
+},
+{
+"company": "TAK",
+"date": "2025-03",
+"year": 2025,
+"counterparty": "Teva Takeda Pharma",
+"type": "JV dissolution",
+"area": "Generics Japan",
+"upfront": "JPY 56.5B proceeds",
+"contingent": "n/a",
+"accounting": "Impairment JPY 18.9B",
+"status": "Exited",
+"claim_ids": [
+"CLM-009085"
+]
+},
+{
+"company": "TAK",
+"date": "2025-10",
+"year": 2025,
+"counterparty": "Innovent (IBI363/IBI343/IBI3001 option)",
+"type": "Licence + equity + option",
+"area": "Oncology IO/ADC",
+"upfront": "US$1.2B incl $100M equity",
+"contingent": "Up to $11.4B total",
+"accounting": "Licence/equity",
+"status": "Ph3; closed ~Dec 2025",
+"claim_ids": [
+"CLM-009078",
+"CLM-009079"
+]
+},
+{
+"company": "TAK",
+"date": "various",
+"year": null,
+"counterparty": "Ascentage (option), Denali, Neurocrine, AbbVie (Japan Elahere)",
+"type": "Options/licences",
+"area": "Multi",
+"upfront": "n/d",
+"contingent": "n/d",
+"accounting": "Licence",
+"status": "Denali ended Apr 2026; Neurocrine TAK-041/831 terminated",
+"claim_ids": [
+"CLM-009088",
+"CLM-009089",
+"CLM-009090",
+"CLM-009093"
+]
+},
+{
+"company": "TAK",
+"date": "FY2024-26",
+"year": 2024,
+"counterparty": "Maverick TAK-186/280; soticlestat; gamma delta T-cell",
+"type": "Write-offs of prior purchases",
+"area": "Oncology/neuro",
+"upfront": "JPY 27.8B; 21.5B; 58.2B",
+"contingent": "n/a",
+"accounting": "Impairment",
+"status": "Terminated",
+"claim_ids": [
+"CLM-009083",
+"CLM-009084"
+]
+}
+]
+}

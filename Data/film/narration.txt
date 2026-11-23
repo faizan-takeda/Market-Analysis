@@ -1,0 +1,43 @@
+TAKEDA 2040 — What We Must Build Today to Shape the Future of Medicine — narration as synthesised (954 words)
+
+[S01 · The defining question · 00:00.00]
+A single medicine can carry a company. At Takeda, Entyvio is twenty-one percent of revenue, and its exclusivity ends in the second half of this decade. But every medicine sits inside a wider system: science, data, manufacturing, evidence, partners, patients. So the question for the next fifteen years is not which drug comes next. It is what makes success repeatable.
+
+[S02 · Lesson one: concentration cuts both ways (Lilly) · 00:26.23]
+Eli Lilly grew from twenty-eight to sixty-five billion dollars in four years; tirzepatide became fifty-six percent of its sales. But concentration cuts both ways: by late twenty twenty-six, realized prices had fallen fifteen percent, and one pharmacy benefit manager kept Lilly's drug off its preferred list for fifteen months. A single franchise creates exposure long before any patent expires.
+
+[S03 · Lesson two: the successor must exist before the cliff (AbbVie) · 00:51.90]
+AbbVie faced the cliff Takeda now faces. Humira fell from twenty-one billion dollars to four and a half billion within three years of biosimilar entry. Yet AbbVie recovered, because Skyrizi and Rinvoq were already on the market, across Humira's major indications. Contracting held ninety-seven percent of volume for over a year. It delayed the fall. It did not prevent it.
+
+[S04 · Lesson three: diversification works; AI has no outcome yet (J&J and all four) · 01:15.73]
+Johnson and Johnson absorbed a forty-one percent fall in Stelara with a diversified base; its largest brand is only fifteen percent of sales. And artificial intelligence? Across all four companies, the research found no independent evidence that any AI programme has yet changed a cost, a timeline, or a revenue line. Lilly built an open robotic laboratory, then sold it. Announcements are not outcomes.
+
+[S05 · The central challenge · 01:42.23]
+Takeda. Entyvio brings in nine hundred fifty-eight billion yen. Medicare price negotiation takes effect in January twenty twenty-eight, and two biosimilar applications are already under FDA review. Vyvanse lost two hundred twenty billion yen in two years. If Entyvio erodes the way Humira did, three hundred eighty to seven hundred seventy billion yen a year is at risk; a scenario, not a forecast. But it defines the task: defend what is dated, and build what repeats.
+
+[S06 · What Takeda already has · 02:12.93]
+Takeda is not starting from zero. More than two hundred seventy plasma centres, with fractionation capacity expanding. Its Shonan labs discovered oveporexton, approved in August twenty twenty-six for narcolepsy. Rusfertide followed; zasocitinib is under priority review. Three Phase three readouts came in positive, on plan. And Takeda has shown it can stop: it exited cell therapy and took the write-down.
+
+[S07 · From products to repeatable scientific advantage · 02:39.50]
+What should Takeda build first? What rivals cannot buy. Compute can be rented and models are converging; what stays proprietary is the data a company generates when it decides. AbbVie connected two thousand trials into one research hub with fewer than ten staff. It has published no outcome yet. Takeda's version: a governed data and decision layer, where every experiment and every go or no-go is logged against a baseline.
+
+[S08 · Data as a strategic asset: baseline first, then claim · 03:07.30]
+Takeda already has the platform. Sixty-three percent of the workforce uses generative AI. But usage is adoption, not value. At Lessines, one hundred seventy predictive-maintenance agents run; their savings are unpublished. Baseline first, then claim. And whoever measures should not own the savings target.
+
+[S09 · The intelligent laboratory · 03:27.40]
+In the laboratory, the same rule applies. Scripted automation, robots that dose, measure and screen, is mature and sold as a service. Remote cloud labs work but have proved commercially fragile. An AI that plans its own experiments is a prototype; first clinical data from such partnerships is still a year or two away. A fully autonomous discovery loop has not been demonstrated anywhere. So: rent automation, climb only when triggers fire, and gate the AI partners on first-in-human data.
+
+[S10 · Commercial execution and care: the whole value chain · 03:59.13]
+Pharmacy benefit managers now decide biosimilar outcomes: when CVS moved its templates to Stelara biosimilars, most members paid nothing. The Entyvio plan is honest: delay erosion, and measure it. The subcutaneous pen drives uptake and the HYHUB device brings plasma therapy home. But the pharmacy channel is also where biosimilars win. No company studied publishes adherence outcomes; Takeda can be the first, starting with the oveporexton launch.
+
+[S11 · Partnerships, acquisitions and the leverage test · 04:29.17]
+Takeda's instrument for partnerships is the mid-sized licence: Nimbus for four billion dollars upfront, Innovent for one point two. AbbVie runs early options worth up to a billion a year, yet none signed in this period has produced an approved product. AbbVie wrote off half of Cerevel within months. At two point six times leverage, with Amitiza pending, a five billion dollar purchase fails the arithmetic. Fund a licensing channel instead, released when leverage allows.
+
+[S12 · Long-term compounding: what the platform analogies really say · 04:58.30]
+And the platform dream? NVIDIA says CUDA made no money for ten years. SpaceX built Falcon nine for a fraction of NASA's estimate. Alphabet's other bets lost seven and a half billion dollars in twenty twenty-five alone. Regeneron's discovery platform did not stop its lead product falling forty-two percent. Platforms compound slowly and protect no single product. So Takeda's long bets are capped options with stop rules, and the strengths it compounds are its own: plasma process data, and orexin biology.
+
+[S13 · Execution: the sequence, the gates, the envelope · 05:30.87]
+The sequence. Twenty twenty-seven: baselines, the data standard, rented automation and the Entyvio channel decision, together. Twenty twenty-eight: the Medicare price lands, the biosimilar playbook goes live, the AI partnerships face a go or no-go on data. The balanced envelope is about one point nine billion dollars over fourteen years, roughly three percent of today's R and D, plus a contingent pool for licences: planning assumptions, not a budget. The council that challenged this plan found no funded bet robust to severe pricing pressure; hence the gates.
+
+[S14 · Closing: build the system around the medicines · 06:06.63]
+No single drug secures the next decade. No acquisition. No technology. What endures is an organisation that discovers repeatedly, measures honestly, connects evidence to patients, and learns faster than the market moves. Takeda has the raw material: a franchise to defend, launches in hand, plasma and orexin to compound, and the discipline to stop. Build the system around them. Start in twenty twenty-seven. Measure from day one. Decide at every gate.

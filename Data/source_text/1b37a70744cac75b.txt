@@ -1,0 +1,74 @@
+1. N Engl J Med. 2025 Nov 6;393(18):1784-1795. doi: 10.1056/NEJMoa2504187.
+
+Oral Icotrokinra for Plaque Psoriasis in Adults and Adolescents.
+
+Bissonnette R(1), Soung J(2)(3), Hebert AA(4), Pink AE(5), Pinter A(6), Moore 
+AY(7)(8)(9)(10)(11), Shi Y(12)(13), Wang WH(14), Toth DP(15), Miller-Kassamali 
+M(16), Cafone J(16), Jiang J(17), Li S(16), DeKlotz CMC(16), Nunes F(16), 
+Lebwohl MG(18).
+
+Author information:
+(1)Innovaderm Research, Montreal.
+(2)Southern California Dermatology, Santa Ana.
+(3)Harbor-UCLA Medical Center, Torrance, CA.
+(4)UTHealth McGovern Medical School, Houston.
+(5)St. John's Institute of Dermatology, Guy's and St. Thomas' NHS Foundation 
+Trust and King's College London, London.
+(6)Department of Dermatology, University Hospital Frankfurt am Main, Frankfurt 
+am Main, Germany.
+(7)Baylor University Medical Center, Dallas.
+(8)University of North Texas Health Sciences Center, Texas College of 
+Osteopathic Medicine, Fort Worth.
+(9)Texas Christian University School of Medicine, Fort Worth.
+(10)University of Texas Medical Branch at Galveston, Galveston.
+(11)Arlington Center for Dermatology, Arlington Research Center, Arlington, TX.
+(12)Department of Dermatology, Shanghai Skin Disease Hospital, Tongji University 
+School of Medicine, Shanghai.
+(13)Institute of Psoriasis, Tongji University School of Medicine, Shanghai.
+(14)Peking University, Third Hospital Haidian District, Beijing.
+(15)Probity Medical Research and XLR8 Medical Research, Windsor, ON, Canada.
+(16)Johnson & Johnson, Spring House, PA.
+(17)Johnson & Johnson, Milpitas, CA.
+(18)Department of Dermatology, Icahn School of Medicine at Mount Sinai, New 
+York.
+
+BACKGROUND: Icotrokinra, a targeted oral peptide that selectively binds the 
+interleukin-23 receptor, is under investigation for the treatment of plaque 
+psoriasis.
+METHODS: We conducted a phase 3, double-blind, randomized, placebo-controlled 
+trial involving adults and adolescents (≥12 years of age) with 
+moderate-to-severe plaque psoriasis, as defined by all the following: a total 
+body-surface area of psoriasis involvement of at least 10%, a Psoriasis Area and 
+Severity Index (PASI) score of at least 12 (range, 0 to 72, with higher scores 
+indicating a greater extent or severity of psoriasis), and an Investigator's 
+Global Assessment (IGA) score of at least 3 (range, 0 [clear skin] to 4 [severe 
+disease]). Participants were assigned in a 2:1 ratio to receive icotrokinra at a 
+dose of 200 mg once daily through week 24 or placebo through week 16 followed by 
+transition to icotrokinra. The coprimary end points were an IGA 0/1 response 
+(IGA score of 0 or 1 with ≥2-point reduction from baseline) and a PASI 90 
+response (≥90% reduction from baseline in the PASI score) at week 16.
+RESULTS: A total of 684 participants underwent randomization (456 to the 
+icotrokinra group and 228 to the placebo group). At week 16, a total of 65% of 
+the participants receiving icotrokinra and 8% of those receiving placebo had an 
+IGA 0/1 response, and 50% and 4%, respectively, had a PASI 90 response (P<0.001 
+for both comparisons). Complete clearance of skin at week 16 was significantly 
+more likely with icotrokinra than with placebo (IGA score of 0, 33% vs. 1%; PASI 
+100 response [100% reduction from baseline in the PASI score], 27% vs. <1%; 
+P<0.001 for both comparisons). The percentage of participants with at least one 
+adverse event through week 16 was 49% in each group; the most common adverse 
+events in each group were nasopharyngitis and upper respiratory tract infection. 
+The exposure-adjusted incidence of adverse events was consistent through week 
+24.
+CONCLUSIONS: Selective blockade of the interleukin-23 receptor with the targeted 
+oral peptide icotrokinra resulted in a significantly higher incidence of skin 
+clearance at week 16 than placebo among adults and adolescents with 
+moderate-to-severe plaque psoriasis. Longer-term data will provide a more 
+complete understanding of the benefit-risk profile of icotrokinra. (Funded by 
+Johnson & Johnson; ICONIC-LEAD ClinicalTrials.gov number, NCT06095115.)See also 
+in NEJM Evidence: Targeted Oral Peptide Icotrokinra for Psoriasis Involving 
+High‑Impact Sites.
+
+Copyright © 2025 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2504187
+PMID: 41191940 [Indexed for MEDLINE]

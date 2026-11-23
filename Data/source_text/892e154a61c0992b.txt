@@ -1,0 +1,246 @@
+1. Lancet. 2022 May 28;399(10340):2031-2046. doi: 10.1016/S0140-6736(22)00466-4.
+
+Risankizumab as maintenance therapy for moderately to severely active Crohn's 
+disease: results from the multicentre, randomised, double-blind, 
+placebo-controlled, withdrawal phase 3 FORTIFY maintenance trial.
+
+Ferrante M(1), Panaccione R(2), Baert F(3), Bossuyt P(4), Colombel JF(5), Danese 
+S(6), Dubinsky M(5), Feagan BG(7), Hisamatsu T(8), Lim A(9), Lindsay JO(10), 
+Loftus EV Jr(11), Panés J(12), Peyrin-Biroulet L(13), Ran Z(14), Rubin DT(15), 
+Sandborn WJ(16), Schreiber S(17), Neimark E(18), Song A(18), Kligys K(18), Pang 
+Y(18), Pivorunas V(18), Berg S(18), Duan WR(18), Huang B(18), Kalabic J(19), 
+Liao X(18), Robinson A(18), Wallace K(18), D'Haens G(20).
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, University Hospitals Leuven, 
+KU Leuven, Leuven, Belgium. Electronic address: marc.ferrante@uzleuven.be.
+(2)Inflammatory Bowel Disease Unit and Gastrointestinal Research, University of 
+Calgary, Calgary, AB, Canada.
+(3)AZ Delta, Roeselare, Belgium.
+(4)Department of Gastroenterology, Imelda General Hospital, Bonheiden, Belgium.
+(5)Icahn School of Medicine at Mt Sinai, New York, NY, USA.
+(6)Gastroenterology and Gastrointestinal Endoscopy Unit, Vita-Salute San 
+Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy.
+(7)Division of Gastroenterology, Department of Medicine, University of Western 
+Ontario, London, ON, Canada.
+(8)Department of Gastroenterology and Hepatology, Kyorin University School of 
+Medicine, Kyorin University, Tokyo, Japan.
+(9)University of Alberta, Edmonton, AB, Canada.
+(10)Centre for Immunobiology, Barts and The London School of Medicine and 
+Dentistry, Queen Mary University of London, London, UK.
+(11)Division of Gastroenterology and Hepatology, Mayo Clinic College of Medicine 
+and Science, Rochester, MN, USA.
+(12)Department of Gastroenterology, Hospital Clinic Barcelona, IDIBAPS, 
+CIBERehd, Barcelona, Spain.
+(13)Department of Gastroenterology, University of Lorraine, CHRU-Nancy, Nancy, 
+France; Department of Gastroenterology, University of Lorraine, Inserm, NGERE, 
+Nancy, France.
+(14)Division of Gastroenterology and Hepatology, Key Laboratory of 
+Gastroenterology and Hepatology, Ministry of Health, Inflammatory Bowel Disease 
+Research Center, Shanghai, China; Renji Hospital School of Medicine, Shanghai 
+Jiao Tong University, Shanghai, China; Shanghai Institute of Digestive Disease, 
+Shanghai, China.
+(15)Section of Gastroenterology, Hepatology and Nutrition and Digestive Diseases 
+Center, The University of Chicago Medicine, Chicago, IL, USA.
+(16)Division of Gastroenterology, University of California San Diego, La Jolla, 
+CA, USA.
+(17)Department of General Internal Medicine, Christian-Albrechts-University, 
+Kiel, Germany.
+(18)AbbVie, Chicago, IL, USA.
+(19)AbbVie Deutschland, Ludwigshafen, Germany.
+(20)Inflammatory Bowel Disease Centre, Amsterdam University Medical Centre, 
+Amsterdam, Netherlands.
+
+Comment in
+ Lancet. 2022 May 28;399(10340):1992-1993. doi: 
+10.1016/S0140-6736(22)00628-6.
+ Gastroenterology. 2022 Nov;163(5):1470-1471. doi: 
+10.1053/j.gastro.2022.07.082.
+
+BACKGROUND: There is a great unmet need for new therapeutics with novel 
+mechanisms of action for patients with Crohn's disease. The ADVANCE and MOTIVATE 
+studies showed that intravenous risankizumab, a selective p19 anti-interleukin 
+(IL)-23 antibody, was efficacious and well tolerated as induction therapy. Here, 
+we report the efficacy and safety of subcutaneous risankizumab as maintenance 
+therapy.
+METHODS: FORTIFY is a phase 3, multicentre, randomised, double-blind, 
+placebo-controlled, maintenance withdrawal study across 273 clinical centres in 
+44 countries across North and South America, Europe, Oceania, Africa, and the 
+Asia-Pacific region that enrolled participants with clinical response to 
+risankizumab in the ADVANCE or MOTIVATE induction studies. Patients in ADVANCE 
+or MOTIVATE were aged 16-80 years with moderately to severely active Crohn's 
+disease. Patients in the FORTIFY substudy 1 were randomly assigned again (1:1:1) 
+to receive either subcutaneous risankizumab 180 mg, subcutaneous risankizumab 
+360 mg, or withdrawal from risankizumab to receive subcutaneous placebo (herein 
+referred to as withdrawal [subcutaneous placebo]). Treatment was given every 8 
+weeks. Patients were stratified by induction dose, post-induction endoscopic 
+response, and clinical remission status. Patients, investigators, and study 
+personnel were masked to treatment assignments. Week 52 co-primary endpoints 
+were clinical remission (Crohn's disease activity index [CDAI] in the US 
+protocol, or stool frequency and abdominal pain score in the non-US protocol) 
+and endoscopic response in patients who received at least one dose of study drug 
+during the 52-week maintenance period. Safety was assessed in patients receiving 
+at least one dose of study medication. This study is registered with 
+ClinicalTrials.gov, NCT03105102.
+FINDINGS: 712 patients were initially assessed and, between April 9, 2018, and 
+April 24, 2020, 542 patients were randomly assigned to either the risankizumab 
+180 mg group (n=179), the risankizumab 360 mg group (n=179), or the placebo 
+group (n=184). Greater clinical remission and endoscopic response rates were 
+reached with 360 mg risankizumab versus placebo (CDAI clinical remission was 
+reached in 74 (52%) of 141 patients vs 67 (41%) of 164 patients, adjusted 
+difference 15% [95% CI 5-24]; stool frequency and abdominal pain score clinical 
+remission was reached in 73 (52%) of 141 vs 65 (40%) of 164, adjusted difference 
+15% [5-25]; endoscopic response 66 (47%) of 141 patients vs 36 (22%) of 164 
+patients, adjusted difference 28% [19-37]). Higher rates of CDAI clinical 
+remission and endoscopic response (but not stool frequency and abdominal pain 
+score clinical remission [p=0·124]) were also reached with risankizumab 180 mg 
+versus withdrawal (subcutaneous placebo; CDAI clinical remission reached in 87 
+[55%] of 157 patients, adjusted difference 15% [95% CI 5-24]; endoscopic 
+response 74 [47%] of 157, adjusted difference 26% [17-35]). Results for more 
+stringent endoscopic and composite endpoints and inflammatory biomarkers were 
+consistent with a dose-response relationship. Maintenance treatment was well 
+tolerated. Adverse event rates were similar among groups, and the most 
+frequently reported adverse events in all treatment groups were worsening 
+Crohn's disease, arthralgia, and headache.
+INTERPRETATION: Subcutaneous risankizumab is a safe and efficacious treatment 
+for maintenance of remission in patients with moderately to severely active 
+Crohn's disease and offers a new therapeutic option for a broad range of 
+patients by meeting endpoints that might change the future course of disease.
+FUNDING: AbbVie.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(22)00466-4
+PMID: 35644155 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests MF reports being a 
+consultant or speaker for AbbVie, Amgen, Biogen, Boehringer Ingelheim, Celgene, 
+Celltrion, Dr Falk, Ferring, Janssen-Cilag, Lamepro, Eli Lilly, Medtronic, Merck 
+Sharp & Dohme (MSD), Mylan, Pfizer, Regeneron, Samsung Bioepis, Sandoz, Takeda, 
+Thermo Fisher Scientific, and Truvion Healthcare; and research grants from 
+AbbVie, Amgen, Biogen, Janssen, Pfizer, and Takeda. RP reports being a 
+consultant or speaker for AI4GI, AbbVie, Arena, Amgen, Atlantic Healthcare, 
+BioBalance, Boehringer Ingelheim, Bristol-Myers Squibb (BMS), Celgene, Coronado 
+Biosciences, Cosmo Technologies, Eagle, Eisai Medical Research, Elan, Eli Lilly, 
+EnGene, Ferring, Genentech, Gilead, Given Imaging, GlaxoSmithKline (GSK), 
+Janssen, Lycera, Meda, Merck & Co, Merck Research, MerckSerono, Novo Nordisk, 
+PDL Biopharma, Pfizer, Prometheus, Protagonist, Celgene, Alimentiv, Salix, Soz, 
+Sanofi Genzyme, Shire, Sigmoid, Sublimity, Takeda, and Theravance. FB reports 
+being a consultant or speaker for AbbVie, Arena, Celltrion, Falk, Ferring, 
+Janssen, Mundipharma, MSD, Pfizer, Sandoz, Takeda, Vifor; and received research 
+grants from AbbVie, Amgen, Chiesi, Ipsen, Janssen, and MSD. PB has received 
+financial support for research from AbbVie, Amgen, Janssen, Mundipharma, Mylan, 
+and Pfizer; lecture fees from AbbVie, Celltrion, Janssen, Pfizer, and Takeda; 
+and advisory board fees from AbbVie, Arena Pharmaceuticals, BMS, Hospira, 
+Janssen, Lilly, Merck, Mundipharma, Pentax Medical, Pfizer, PSI CRO, Roche, 
+Sandoz, and Takeda. J-FC reports research grants from AbbVie, Janssen 
+Pharmaceuticals, and Takeda; received payment for lectures from AbbVie, Amgen, 
+Allergan, Ferring Pharmaceuticals, Shire, and Takeda; received consulting fees 
+from AbbVie, Amgen, Arena Pharmaceuticals, Boehringer Ingelheim, BMS, Celgene, 
+Eli Lilly, Ferring Pharmaceuticals, Galmed Research, Genentech, GSK, Janssen 
+Pharmaceuticals, Kaleido Biosciences, Imedex, Immunic, Iterative Scopes, Merck, 
+Microba, Novartis, PBM Capital, Pfizer, Sanofi, Takeda, TiGenix, and Vifor; and 
+holds stock options in Intestinal Biotech Development. SD reports research 
+grants from AbbVie, Alimentiv, Amgen, Genentech, Gilead, Janssen, Pfizer, 
+Celgene, Seres Therapeutics, Takeda, and UCB; and has been a consultant for 
+AbbVie, Allergan, Amgen, BMS, Celgene, Celltrion, Janssen, Lilly, Pfizer, 
+Takeda, and UCB. MD reports being a consultant for AbbVie, Arena, BMS, 
+Boehringer Ingelheim, Celgene, Eli Lilly, Gilead, Janssen, Merck, Pfizer, 
+Prometheus Labs, Takeda, and UCB; and received research grants from Janssen, 
+AbbVie, and Prometheus Labs. BGF reports grants or research support from AbbVie, 
+Amgen, AstraZeneca (MedImmune), Atlantic Pharmaceuticals, Boehringer-Ingelheim, 
+Celgene Corporation, Celltech, Genentech (subsidiary of Roche), Gilead Sciences, 
+GSK, Janssen Research & Development, Pfizer, Celgene (Receptos), Sanofi, 
+Santarus, Takeda Development Center Americas, Tillotts Pharma, and UCB; reports 
+being a consultant for Abbott (AbbVie), AgomAB Therapeutics, Allakos, Allergan, 
+Amgen, Applied Molecular Transport, Aptevo Therapeutics, Astra Zeneca, Atlantic 
+Pharma, BioMx Israel, Boehringer-Ingelheim, BMS, Calypso Biotech, Celgene, 
+Connect BioPharma, Everest Clinical Research, Galapagos, Galen Atlantica, 
+Genentech (Roche), Gilead, Gossamer Pharma, GSK, Roche, Index Pharma, ImmunExt, 
+Janssen, Kaleido Biosciences, Kyowa Kakko Kirin, Lilly, Lument AB, Merck, 
+Millenium, Mylan, Nestle, Nextbiotix, Origo BioPharma, Pandion Therapeutics, 
+ParImmune, Parvus Therapeutics, Pfizer, Prometheus Therapeutics and Diagnostics, 
+Progenity, Protagonist, Qu Biologics, Rebiotix, Celgene, Salix Pharma, Sandoz, 
+Sanofi, Shire, Surrozen, Takeda, Tillotts, UCB Pharma, VHsquared, Ysios, and 
+Zealand Pharma; reports being on the speakers bureau for AbbVie, Janssen, and 
+Takeda; reports scientific advisory board membership with AbbVie, Allergan, 
+Amgen, Astra Zeneca, Boehringer-Ingelheim, BMS, Celgene, Genentech (Roche), 
+Janssen, Novartis, Origo BioPharma, Pfizer, Prometheus, Protagonist, Takeda, and 
+Tillotts Pharma; reports board of directors membership with Alimentiv; and 
+reports being a shareholder of stock with Gossamer Pharma. TH reports speaker or 
+consultant fees from Mitsubishi Tanabe Pharma Corporation, EA Pharma, AbbVie, 
+JIMRO, Zeria Pharmaceutical, Kyorin Pharmaceutical, Takeda Pharmaceutical, 
+Pfizer Japan, Mochida Pharmaceutical, Celgene, Janssen Pharmaceutical, and 
+Nichi-Iko Pharmaceutical; and reports research grants from Alfresa Pharma, EA 
+pharma, Mitsubishi Tanabe Pharma Corporation, AbbVie, JIMRO, Zeria 
+Pharmaceutical, Daiichi-Sankyo, Kyorin Pharmaceutical, Nippon Kayaku, Takeda 
+Pharmaceutical, Pfizer, and Mochida Pharmaceutical. AL reports being a 
+consultant, speaker, or stockholder with AbbVie, Takeda, Janssen, and Ferring; 
+and reports research grants from AbbVie, Takeda, Janssen, and Eli Lilly. JOL 
+reports advisory board membership or speaker fees from AbbVie, Allergan, BMS, 
+Celgene, Celtrion, Ferring, Gilead, GSK, Janssen, MSD, Napp, Pfizer, and Takeda; 
+and research grants from AbbVie, Gilead, Takeda, and Pfizer. EVL reports being a 
+consultant for AbbVie, Amgen, Arena Pharmaceuticals, Boehringer Ingelheim, BMS, 
+Calibr, Celgene, Genentech, Gilead, Gossamer Bio, Iterative Scopes, Janssen, 
+Lilly, Morphic, Ono Pharmaceutical, Pfizer, Protagonist, Scipher Medicine, Sun 
+Pharma, Surrozen, Takeda, and UCB; research support from Alimentiv (Robarts 
+Clinical Trials); and research grants from AbbVie, Amgen, BMS, Genentech, 
+Gilead, Gossamer Bio, Janssen, Pfizer, Celgene (Receptos), Takeda, Theravance, 
+and UCB. JP reports being a consultant or speaker for AbbVie, Arena, Boehringer 
+Ingelheim, Celgene, Celltrion, Ferring, Genentech, GSK, Janssen, Nestle, Origo, 
+Pandion, Pfizer, Progenity, Alimentiv, Roche, Shire, Takeda, Theravance, and 
+Wasserman; and research grants from AbbVie and Pfizer. LP-B reports personal 
+fees from Galapagos, AbbVie, Janssen, Genentech, Ferring, Tillots, Celltrion, 
+Takeda, Pfizer, Index Pharmaceuticals, Sandoz, Celgene, Biogen, Samsung Bioepis, 
+Inotrem, Allergan, MSD, Roche, Arena, Gilead, Amgen, BMS, Vifor, Norgine, Mylan, 
+Lilly, Fresenius Kabi, OSE Immunotherapeutics, Enthera, Theravance, Pandion 
+Therapeutics, Gossamer Bio, Viatris, and Thermo Fisher Scientific; grants from 
+AbbVie, MSD, Takeda, and Fresenius Kabi; and holds stock options in Clinical 
+Trials Mobile Application. DTR reports speaker or consultant fees from AbbVie, 
+Abgenomics, Allergan, Arena Pharmaceuticals, Bellatrix Pharmaceuticals, 
+Boehringer Ingelheim, BMS, CDx Diagnostics, Syneos, Check-Cap, Dizal 
+Pharmaceuticals, Genentech (Roche), Gilead Sciences, Ichnos Sciences (formerly 
+Glenmark Pharmaceuticals), InDex Pharmaceuticals, Iterative Scopes, Janssen, 
+Lilly, Materia Prima, Narrow River Management, Pfizer, Prometheus Laboratories, 
+Reistone, Takeda, and Techlab; and research grants from Takeda. WJS reports 
+research grants from Abbvie, Abivax, Arena Pharmaceuticals, Boehringer 
+Ingelheim, Celgene, Genentech, Gilead Sciences, GSK, Janssen, Lilly, Pfizer, 
+Prometheus Biosciences, Seres Therapeutics, Shire, Takeda, and Theravance 
+Biopharma; consulting fees from Abbvie, Abivax, Admirx, Alfasigma, Alimentiv 
+(Robarts Clinical Trials), Alivio Therapeutics, Allakos, Allergan, Amgen, 
+Applied Molecular Transport, Arena Pharmaceuticals, Avexegen Therapeutics, Salix 
+(subsidiary of Bausch Health), Beigene, Bellatrix Pharmaceuticals, Boehringer 
+Ingelheim, Boston Pharmaceuticals, BMS, Celgene, Celltrion, Cellularity, 
+Conatus, Cosmo Pharmaceuticals, Escalier Biosciences, Ferring, Forbion, 
+Equillium, Genentech (Roche), Gilead Sciences, Glenmark Pharmaceuticals, 
+Gossamer Bio, Immunic Therapeutics (formerly Vital Therapies), Incyte, Index 
+Pharmaceuticals, Intact Therapeutics, Janssen, Kyowa Kirin Pharmaceutical 
+Research, Kyverna Therapeutics, Landos Biopharma, Lilly, Miraca Life Sciences, 
+Nivalis Therapeutics, Novartis, Nutrition Science Partners, Oppilan Pharma 
+(acquired by Ventyx Biosciences), Otsuka, Pandion Therapeutics, Paul Hastings, 
+Pfizer, Progenity, Prometheus Biosciences, Prometheus Laboratories, Protagonists 
+Therapeutics, Provention Bio, Reistone Biopharma, Ritter Pharmaceuticals, Seres 
+Therapeutics, Shanghai Pharma Biotherapeutics, Shire, Shoreline Biosciences, 
+Sienna Biopharmaceuticals, Sigmoid Biotechnologies, Sterna Biologicals, 
+Sublimity Therapeutics, Surrozen, Takeda, Theravance Biopharma, Thetis 
+Pharmaceuticals, Tigenix, Tillotts Pharma, UCB Pharma, Vendata Biosciences, 
+Ventyx Biosciences, Vimalan Biosciences, Vivelix Pharmaceuticals, Vivreon 
+Biosciences, and Zealand Pharma; stock or stock options from Allakos, BeiGene, 
+Gossamer Bio, Oppilan Pharma (acquired by Ventyx Biosciences), Prometheus 
+Biosciences, Prometheus Laboratories, Progenity, Shoreline Biosciences, Ventyx 
+Biosciences, Vimalan Biosciences, and Vivreon Biosciences; and employment at 
+Shoreline Biosciences. SS reports consultant or speaker fees from AbbVie, 
+Allergosan, Amgen, Arena, BMS, Celltrion, Falk Pharma, Ferring, Galapagos, 
+Gilead, Genentech (Roche), GSK, IMAB, Janssen, Lilly, MSD, Pfizer, Shire, 
+Takeda, and Viatris. EN, AS, KK, YP, VP, SB, WRD, BH, JK, XL, AR, and KW are 
+full-time employees of AbbVie, and might hold AbbVie stock or stock options. ZR 
+declares no competing interests. GD’H reports being a consultant or speaker for 
+AbbVie, ActoGeniX, AIM, Allergan, Amgen, Arena, Boehringer Ingelheim, Celgene 
+(formerly Receptos), Celltrion, Cosmo Technologies, Elan, Eli Lilly, enGene, Dr 
+Falk Pharma, Ferring, Galapagos, Genentech, Gilead Sciences, Giuliani, Given 
+Imaging, GSK, Gossamer Bio, Janssen Biologics, MSD, Neovacs, Norgine, Novo 
+Nordisk, Otsuka, PDL BioPharma, Prometheus, Progenity, Pfizer, Alimentiv 
+(formerly Robarts Clinical Trials), Salix, Seres and Nestle, Schering-Plough, 
+SetPoint, Shire, Takeda, Tillotts, Tramedico, UCB, Versant, and Vifor; and 
+reports research grants from AbbVie, Dr Falk Pharma, Given Imaging, Janssen, 
+MSD, and PhotoPill.

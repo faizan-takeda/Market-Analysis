@@ -1,0 +1,12 @@
+# AbbVie directory map (A3)
+- [master_report.md](master_report.md): v1.1 dossier, 22 sections, 5 mechanism cards, Dossier status header, §22 audit repairs
+- [timeline.md](timeline.md): dated events 2020-2026
+- [business/business_model.md](business/business_model.md): product revenue and financial structure
+- [pipeline/late_stage_assets.md](pipeline/late_stage_assets.md): late-stage asset status
+- [commercial_market_access/commercial.md](commercial_market_access/commercial.md): Humira defence, access, IRA
+- [successes_failures/successes_failures.md](successes_failures/successes_failures.md): wins and failures
+- [competitive_advantage/moats.md](competitive_advantage/moats.md): moats
+- [leadership/leadership.md](leadership/leadership.md): CEO transition and team
+- [evidence_gaps.md](evidence_gaps.md): gaps and next queries (v1.1 expanded: metadata-only, blocked and unavailable sources, Ventures date conflict)
+- Horizontals: [ai_data_robotics](../../industry_transformation/ai_data_robotics/map.md), [partnerships_ecosystem](../../industry_transformation/partnerships_ecosystem/map.md), [pipeline_regulatory](../../industry_transformation/pipeline_regulatory/map.md), [policy](../../industry_transformation/policy/map.md), [commercial_patient](../../industry_transformation/commercial_patient/map.md)
+- Pre-existing, not modified: financials/xbrl_annual_facts.md, financials/edgar_annual_facts.md, pipeline/ctgov_inventory.md

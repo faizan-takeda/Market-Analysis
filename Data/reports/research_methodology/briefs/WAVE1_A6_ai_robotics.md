@@ -1,0 +1,25 @@
+# A6 — AI, Data & Robotics Intelligence (horizontal, wave 1)
+
+Shard: `A6_ai_robotics` (SRC/CLM-006000..006999). Output dir: `/Users/palrahma/Desktop/MEDICINE/New_mediciine/industry_transformation/ai_data_robotics/`. Companies: Lilly, J&J, AbbVie, Takeda (Takeda at baseline depth).
+
+## Research question
+For every material AI / data-platform / laboratory-automation / robotics / manufacturing-technology initiative at the four companies (2021-11→2026-11): what problem, what was built or bought, what data/talent/IP/infrastructure/partners enabled it, is it a concept / prototype / pilot / operational / scaled / demonstrated-outcome, what changed operationally, what measurable result exists, what did it cost (if disclosed), how defensible is it, and could Takeda build / buy / partner / watch / reject?
+
+Already in registry (cite, don't redo): CLM-000280 TuneLab (OPERATIONAL), CLM-000281/282 NVIDIA–Lilly lab (CONCEPT), CLM-000283/284 OTTAVA FDA/installation, CLM-000285/286 AbbVie–Valkai. Grep `/Users/palrahma/Desktop/MEDICINE/New_mediciine/evidence_library/claims_registry.jsonl` for `data_ai|robotics` first.
+
+## Inventory to investigate (open primary sources; add others you find)
+**Lilly**: TuneLab (Sept 2025 — any uptake/outcome since?), NVIDIA co-innovation lab + "AI factory" (Oct 2025 GTC announcement: >1,000 Blackwell Ultra GPUs; verify), OpenAI collaboration (Sept 2025, antimicrobials), Isomorphic Labs (Jan 2024, USD 45m upfront), XtalPi, Genesis Therapeutics, Insitro (2024), Chai Discovery?, Lilly Gateway Labs / Catalyze360, the historic **Strateos remote robotic lab in San Diego (Lilly Life Sciences Studio, 2020–2023 — Strateos closed 2023: a documented failure/retreat; verify)**, "Lilly Medicine Foundry" (Lebanon, IN, announced 2024-10 — automation claims), manufacturing digital twins, CIDO Diogo Rau statements, 10-K AI risk-factor language (CLM-000252).
+**J&J**: Polyphonic (digital surgery ecosystem, 2024), OTTAVA (IDE 2024-11, first cases 2025), MONARCH (bronchoscopy 2018; urology 2022), VELYS (knee 2021; spine 2024 "VELYS Spine"; "VELYS Active Robotic-Assisted System" hip 2025?), Impella connected/AI (Abiomed), J&J "intelligent automation" / Jim Swanson CIO statements (number of AI use cases), JLABS AI/ML collaborations, Innovative Medicine data science (e.g., "Pathway" platform?, AI in clinical trial site selection claims), Varipulse (PFA) data pause. Check adoption numbers: VELYS procedure counts, MONARCH installed base, OTTAVA installations (currently 1 per CLM-000284).
+**AbbVie**: ARCH (AbbVie R&D Convergence Hub, generative-AI platform, 2023–24 — any outcome?), Valkai (CLM-000285/6), BigHat Biosciences (2022/2024 antibody AI), Gilgamesh (psychedelics — not AI; skip), Tempus? (verify), Allergan Aesthetics digital (Allē), AbbVie manufacturing automation statements, 10-K AI language.
+**Takeda**: DD&T organisation, any named AI deployments (clinical ops, pharmacovigilance, manufacturing), partnerships (verify any claims about Microsoft/AWS/Accenture/Insilico?), Takeda–Nimbus (computational chemistry origin), BioLife plasma centre automation. Baseline depth only (≤10 claims).
+**Industry context (≤8 claims)**: FDA's 2025 AI draft guidance (Jan 2025) and FDA's own AI use; Isomorphic/Recursion/Insilico first AI-derived drugs in Phase 2/3 as the external yardstick; the Strateos/Zymergen/Emerald Cloud Lab automation track record — to calibrate "autonomous lab" maturity.
+
+## Method
+For each initiative produce a **Capability Mechanism Card** (table: Capability / Initial problem / Starting investment / Execution timeline / Enabling assets / Evidence of value / Durability / Competitive response / Takeda relevance / Evidence IDs) and one maturity-tagged claim per card (FACT about status) plus separate INTERPRETATION claims. Seek at least one independent (non-press-release) source per card: trade press investigation, FDA record, peer-reviewed paper, 10-K text, conference talk transcript. Record explicitly where an initiative has NO outcome evidence.
+Search also for failures: discontinued platforms, shut-down labs, impairments on tech partners, lawsuits, over-claimed AI (e.g., journalists' critiques).
+
+## Web targets
+lilly.com/news; jnj.com press releases; news.abbvie.com; takeda.com newsroom; NVIDIA newsroom (`https://nvidianews.nvidia.com/`); FDA 510(k)/De Novo database for devices; PubMed for peer-reviewed validations; STAT/Endpoints/Fierce (web_fetch)/BioPharma Dive/Reuters for independent reporting; company 10-K text on disk (`extracted_text/sec/`) for AI/automation language and capex sites.
+
+## Deliverables
+`ai_data_robotics_landscape.md` (one section per company + industry calibration; each initiative with maturity and evidence), `capability_mechanism_cards.md` (≥10 cards), `maturity_matrix.md` (initiative × maturity × evidence IDs × outcome evidence Y/N), `autonomous_lab_reality_check.md` (what is technically mature today, with evidence), `map.md`, `evidence_gaps.md`. Shard target ≥30 sources (≥20 retrieved), ≥60 claims, every one with `maturity`.

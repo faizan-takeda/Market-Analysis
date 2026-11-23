@@ -1,0 +1,242 @@
+# A11e council review data. Verdict is on the PROPOSED DECISION recorded in strategy_bets.json
+# (support = council backs the decision as written; conditional = backs it only if the stated condition is met;
+# oppose = council disputes the decision or its sizing). For REJECT/DEFER bets 'support' = council backs the REJECT/DEFER.
+# Each entry: (verdict, rationale, unresolved, claim ids)
+
+COUNCILS = ["scientific", "technology", "commercial", "capital", "regulatory_ethics", "red_team", "takeda_execution"]
+COUNCIL_TITLES = {
+    "scientific": "Scientific council",
+    "technology": "Technology council",
+    "commercial": "Commercial council",
+    "capital": "Capital allocation council",
+    "regulatory_ethics": "Regulatory and ethics council",
+    "red_team": "Competitive red team",
+    "takeda_execution": "Takeda execution council",
+}
+COUNCIL_QUESTIONS = {
+    "scientific": "Will the bet materially improve discovery, development or patient outcomes, judged on outcome evidence rather than activity?",
+    "technology": "Is it achievable with credible data and infrastructure, and what maturity evidence exists?",
+    "commercial": "Is there economic value and durable differentiation, or can a rival copy or buy it?",
+    "capital": "Is it an appropriate use of scarce capital against alternatives (buybacks, dividends, debt reduction, business development), including opportunity cost and timing against the Entyvio window?",
+    "regulatory_ethics": "Compliance, patient safety, responsible AI, data protection and ethical exposure.",
+    "red_team": "What do Lilly, J&J, AbbVie and tech-native entrants do to this bet, and does the thesis survive their response?",
+    "takeda_execution": "Is it compatible with Takeda's publicly observable capabilities and priorities, including the JPY 200bn cost programme and the 2026 CEO transition?",
+}
+
+BET_NAMES = {
+    "BET-01": "Governed cross-franchise R&D data and decision layer",
+    "BET-02": "Plasma process-intelligence and fixed-price automation programme",
+    "BET-03": "Orexin science as a multi-asset discovery platform",
+    "BET-04": "Entyvio franchise defence: payer contracting, evidence and lifecycle",
+    "BET-05": "Zasocitinib breadth and immunology successor evidence",
+    "BET-06": "Option-based external innovation engine incl. new-modality options",
+    "BET-07": "Milestone-gated AI-design partnerships (Nabla, Iambic and successors)",
+    "BET-08": "Federated data consortium participation",
+    "BET-09": "Rented automated data generation (CRO and cloud labs) with ladder triggers",
+    "BET-10": "Owned autonomous discovery lab (stage 4-5)",
+    "BET-11": "Drug-device and home/SC administration platform",
+    "BET-12": "Launch-pathway partnerships and patient-services outcome measurement",
+    "BET-13": "Neutral rare-disease or plasma real-world data registry",
+    "BET-14": "TuneLab-style productised external model platform",
+    "BET-15": "Large asset purchase (USD 5bn or more) as LOE bridge",
+    "BET-16": "U.S. cash-pay direct-to-patient channel",
+    "BET-17": "AI use-case measurement, decision support and reskilling",
+}
+DECISIONS = {
+    "BET-01": "BUILD", "BET-02": "BUILD", "BET-03": "BUILD", "BET-04": "BUILD", "BET-05": "INVEST", "BET-06": "PARTNER",
+    "BET-07": "PARTNER", "BET-08": "PARTNER", "BET-09": "PARTNER", "BET-10": "REJECT", "BET-11": "BUILD", "BET-12": "EXPERIMENT",
+    "BET-13": "DEFER", "BET-14": "REJECT", "BET-15": "DEFER", "BET-16": "REJECT", "BET-17": "EXPERIMENT",
+}
+
+S, C, O = "support", "conditional", "oppose"
+R = {}
+
+R["BET-01"] = {
+ "scientific": (C, "No independent outcome exists for any data layer: ARCH's outcome evidence is a preprint that A6 did not open, and the one Takeda outcome claim (about 30% shorter narcolepsy trial development, from the then-CEO's January 2026 interview) has no baseline or method. That Takeda's estate is fragmented is itself an unverified hypothesis. Backs the bet only because the decision log makes the claim testable.", "Whether any named decision can be baselined by end-2027 (the bet's own stop test); IVB-001.", "CLM-011052 CLM-014073 CLM-011055 CLM-006032"),
+ "technology": (S, "Lowest engineering risk of the AI-related bets. A Databricks-hosted agent platform for 10,000+ employees already exists and ARCH was built by fewer than ten full-time staff plus contractors. Catalogue, metadata standard and decision log are commodity components, so the risk is adoption, not engineering. Caveat: platform maturity is vendor self-report ('capacity of the audience, not agents in production').", "Count of data and AI products in production versus pilot (IVB-001).", "CLM-005058 CLM-006032 CLM-006034 CLM-005080"),
+ "commercial": (C, "No revenue or cost line is tied to the layer and the capital file says rNPV is not meaningful. Lilly's equivalent asset is experimental data company-estimated at over USD 1bn, which a governance layer over existing trial data does not replicate. Commercial value is cheaper or faster decisions, which has to be shown at gate 3 (RM-015, 2027 H2).", "Which franchise decision is the first baselined use; whether Takeda trial data are reusable under existing consents.", "CLM-000280 CLM-006055 CLM-011052"),
+ "capital": (S, "USD 200m over 14 years is about 4% of the balanced envelope and a small fraction of base R&D (JPY 675.9bn in FY2025). Stage-gated with a 2027 stop test. Main risk is sunk-cost persistence ('platform spend hard to stop'), so the stop criterion must bind.", "Run cost after scale (ASM-101 is a sizing assumption anchored on one competitor's headcount).", "CLM-005004 CLM-006032"),
+ "regulatory_ethics": (C, "FDA's January 2025 draft credibility framework applies where models inform regulatory decisions. Reuse of de-identified trial data across franchises needs a consent review (ARCH excluded prison and paediatric populations) and cross-border transfer rules for Japan, EU and US data; the bet analyses neither. Takeda's own 20-F warns models may be flawed or trained on inadequate data.", "Consent scope of legacy Takeda trials for secondary use.", "CLM-006046 CLM-006034 CLM-005054"),
+ "red_team": (C, "Competitors cannot take this away because it is internal, but it also creates no advantage they cannot copy: ARCH took under ten staff. It is hygiene that makes other bets testable, not a moat. Conditional on being presented as enabling infrastructure and not as differentiation.", "Whether Takeda's data are more decision-relevant than rivals' (no public evidence).", "CLM-006032 CLM-011082"),
+ "takeda_execution": (C, "Class 9 is EXISTING_BUT_UNDERDEVELOPED with a named CDTO and an insourced digital workforce, so extension is feasible. The same CDTO also owns BET-08 and supplies the platform BET-17 measures, during a CEO transition (24 June 2026) and a cost programme with about 4,500 role reductions per trade press. Conditional on IVB-001 showing the platform is not already doing this work.", "Whether a second function adopts the standard within 12 months (stage-gate stop test).", "CLM-005056 CLM-005057 CLM-005073 CLM-005078 CLM-005059"),
+}
+
+R["BET-02"] = {
+ "scientific": (C, "The science is process science: whether adaptive nomograms and AI process models raise yield per litre. Takeda gives no yield, productivity or cost figures. The sharpest objection is in the bet's own data: H1 FY2026 plasma revenue was -1.5% at constant rates (+8.5% at actual rates), which does not look capacity-bound; if demand rather than capacity limits sales, yield gains deliver cost savings only.", "Yield per litre and cost per litre by centre (IVB-006); whether plasma is demand- or capacity-bound.", "CLM-005060 CLM-005064 CLM-011056"),
+ "technology": (C, "No public evidence of Takeda lab, continuous-manufacturing or manufacturing robotics. Automating GMP fractionation needs validated change control and Takeda has a documented warning letter and supply shortage. 170+ predictive-maintenance agents at Lessines are a positive sign but carry no outcome. Fixed-price, outcome-linked vendor terms are a NEEDS_MORE_RESEARCH hypothesis and the SpaceX cost-gap analogue is not causally isolated by its own source.", "Whether any vendor accepts outcome-linked terms at plasma plant complexity (stage-gate stop test).", "CLM-005067 CLM-005020 CLM-014041 CLM-011031 CLM-011006"),
+ "commercial": (C, "Immunoglobulins are JPY 790.6bn (18% of revenue) and sit outside the biosimilar mechanism, the strongest part of the thesis. The revenue test is missing: PDT revenue +8.5% AER but -1.5% CER in H1 FY2026. 'No competitor holds this data' is true only because the comparison set (Lilly, J&J, AbbVie) has no plasma business; dedicated plasma companies are not in the registry. Value is cost per litre, which is unknown.", "Cost per litre versus plasma peers (not public).", "CLM-005064 CLM-005009 CLM-011056 CLM-009091"),
+ "capital": (C, "USD 430m is the third-largest funded line and sits on top of a USD 230m Los Angeles expansion that has no commissioning data. Back the USD 50-65m baseline-and-shadow-mode tranche. Do not pre-commit the USD 200m H2 and USD 150m H3 tranches until measured headroom clears ASM-031, which is an illustrative 2% with no economic anchor.", "Value of a 2% yield or cost gain (needs IVB-006 data).", "CLM-005065 CLM-005063"),
+ "regulatory_ethics": (C, "GMP validation of automated steps; prior warning letter, shortage and a USD 505m damages award; current inspection status unknown. Ethics gap: personalised nomograms change donation volume and frequency, and the registry holds no donor-welfare analysis. The neutral-capacity extension raises unresearched competition-law and liability questions.", "Donor-health evidence; inspection status (IVB-011).", "CLM-005020 CLM-005060 CLM-011041"),
+ "red_team": (O, "Opposes the 'unique data' premise: the registry cannot say what plasma peers do with process data, and neither does the bet. Competitors in the registry are irrelevant here and the competitors that matter are unresearched. A cost-per-litre case may still stand, but the data-moat framing is unsupported.", "Peer benchmark of plasma yield and automation (public-knowledge gap).", "CLM-011056 CLM-009091"),
+ "takeda_execution": (S, "Best fit to a public Takeda strength: 270+ centres, a USD 230m expansion, 99.6% on-time in-full, and a CEO who previously led the Plasma-Derived Therapies unit. Execution risk is quality, not sponsorship (Hikari history).", "Quality record since 2020 (IVB-011).", "CLM-005063 CLM-005065 CLM-014046 CLM-005074 CLM-005020"),
+}
+
+R["BET-03"] = {
+ "scientific": (C, "Orzeyful (oveporexton), approved 2026-08-05, is a credible in-house result, but the same franchise produced TAK-994, stopped for a liver-related signal. Second-asset approval is ASM-021 at 15% (range 5-30%). The bet's own competition line says other orexin programmes were 'not researched'. The platform claim needs two approvals, and the stage gate withdraws it if only one exists after 2040.", "Competitor orexin pipeline (not in registry); IVB-008 early-pipeline depth.", "CLM-005029 CLM-012119 CLM-005023 CLM-011038"),
+ "technology": (S, "Capability is demonstrated in-house: oveporexton was discovered in Shonan and has Phase 2 and Phase 3 publications. The bet needs candidate chemistry and safety screening, not new technology. AI design (BET-07) is an optional accelerator, not a dependency.", "None material.", "CLM-005048 CLM-012149 CLM-005027"),
+ "commercial": (C, "Narcolepsy type 1 is a rare indication and platform value needs further indications; the indication map is RM-008 (2027 H1) and does not yet exist. Launch is gated by a DEA scheduling decision. Regeneron's EYLEA -42% shows a platform does not protect a product, only repeated assets do.", "Indication map beyond NT1; payer terms for NT1.", "CLM-005029 CLM-011017 CLM-011037"),
+ "capital": (O, "Opposes USD 500m: 17% of the balanced envelope for PTS 0.1-0.3 and 8-12 years to payoff; RM-048 puts platform proof at 2038, after the Entyvio erosion window (ASM-025 2031 plus three years). The spend is called incremental to base R&D (ASM-035), but an orexin discovery team in Shonan is already in base R&D (JPY 675.9bn), so additionality cannot be tested. Would back the USD 300m constrained size with a Phase 1 gate before releasing H2.", "What share of the USD 500m is already inside base R&D (IVB-014).", "CLM-005004 CLM-005048 CLM-011038"),
+ "regulatory_ethics": (C, "Liver-safety history raises the safety bar for any follow-on orexin agonist. Orzeyful is lawful to market only after a DEA scheduling decision, so abuse liability and scheduling are open for the class. No registry evidence on label restrictions or risk-management requirements.", "DEA scheduling outcome and its effect on launch.", "CLM-005029 CLM-005023 CLM-012119"),
+ "red_team": (C, "A competitor orexin scan is missing from the bet and from the registry, so the red team cannot rate Takeda's head start. First-approval advantage is real but lasts only until a cleaner follower reaches the same indications. Conditional on that scan before the H2 tranche.", "Competitor orexin programmes and their phase.", "CLM-005048 CLM-011036"),
+ "takeda_execution": (S, "Supported by public capability: Shonan discovery, in-house origin and late-stage delivery against the 2024 R&D Day plan. Takeda has stopped programmes decisively (TAK-994, soticlestat, cell therapy). Risk: the JPY 200bn programme competes for R&D headcount and early-pipeline depth beyond six late-stage assets is unknown.", "IVB-008.", "CLM-005048 CLM-005042 CLM-005024 CLM-005025"),
+}
+
+R["BET-04"] = {
+ "scientific": (C, "The scientific content is real-world persistence and comparative evidence. No company publishes adherence or persistence outcomes, so the evidence plan has no benchmark. The pediatric sBLA (PDUFA Q1 2027) and the SC pen are real lifecycle assets, and Entyvio grew 2.7% at constant rates in H1 FY2026, so the franchise is not yet eroding.", "Persistence by payer segment (IVB-004).", "CLM-007039 CLM-005018 CLM-005012"),
+ "technology": (S, "No technology risk: payer analytics and contracting capability, not new infrastructure.", "None material.", "CLM-005072"),
+ "commercial": (S, "Largest dated exposure: Entyvio JPY 958.0bn (21% of revenue), Medicare negotiation effective January 2028, two biosimilar BLAs under FDA review and a PBM template precedent from Stelara. Supports spending ahead of dated events. Notes that cost is tiny against exposure, so the open question is whether contracting changes net outcome at all.", "Size of the contractable (pharmacy-benefit) share of Entyvio.", "CLM-005009 CLM-007026 CLM-014051 CLM-007015"),
+ "capital": (S, "USD 140m against JPY 383-766bn of annual revenue at risk (ASM-024 on the global base) is the cheapest line relative to exposure in the portfolio. Money is not the binding constraint, so the council would raise funding if a specific lever with measurable effect is named.", "Lever-level cost and effect.", "CLM-005009 CLM-014050"),
+ "regulatory_ethics": (C, "The Medicare negotiated price is statutory, so contracting cannot offset it. Rebate-for-access, co-brand and patient-programme designs sit under anti-kickback and copay-accumulator rules. Co-brand private-label arrangements draw scrutiny that the bet has not researched.", "Compliance review of any co-brand or rebate design.", "CLM-007026 CLM-007010"),
+ "red_team": (C, "Backs the spend but not the premise that contracting retains revenue. AbbVie kept at least 97% of Humira volume to March 2024 through rebate-for-access, yet global Humira fell 78.6% in three years. AbbVie and J&J already sell competing IBD products (Skyrizi and Rinvoq in UC and Crohn's, Tremfya in Crohn's). PBM private-label biosimilars route around contracts. The analogues are pharmacy-benefit drugs; whether Entyvio IV is mainly medical benefit is not in the registry.", "Medical versus pharmacy benefit split of Entyvio (IVB-004).", "CLM-003007 CLM-003002 CLM-003016 CLM-002053 CLM-007016 CLM-007015"),
+ "takeda_execution": (C, "Capability gap is documented: patient services and market access is an EVIDENCE_GAP, US revenue fell 9.0% at actual rates in FY2025, and the owning US unit is also preparing three launches. The new CEO is a former US unit head, which helps sponsorship. Conditional on named contracting leadership before RM-003 (2027 H1).", "Named owner and contracting team size.", "CLM-005072 CLM-005001 CLM-007033 CLM-005074"),
+}
+
+R["BET-05"] = {
+ "scientific": (S, "Strongest clinical evidence among the funded bets: two positive Phase 3 psoriasis studies (about 70% sPGA 0/1 at week 16) and head-to-head superiority over deucravacitinib on PASI 100. PsA Phase 3 completes May 2027. Efficacy statements are company-reported.", "PsA readout (May 2027).", "CLM-005033 CLM-005034 CLM-005037"),
+ "technology": (S, "No technology risk. Takeda met the December 2024 R&D Day plan for the first three assets on time.", "None material.", "CLM-005042 CLM-005029 CLM-005032 CLM-005035"),
+ "commercial": (C, "Psoriasis is crowded: J&J's oral IL-23 peptide Icotyde was approved 2026-03-17 with head-to-head superiority claims, and Skyrizi and Tremfya are entrenched. Zasocitinib replaces revenue; it does not succeed Entyvio in GI. The USD 10-20bn peak estimate is not probability-adjusted. Two USD 1.0bn milestones are payable at USD 4bn and USD 5bn annual net sales.", "Takeda's internal launch forecast (IVB-005).", "CLM-012012 CLM-002065 CLM-014049 CLM-009076"),
+ "capital": (S, "USD 180m incremental on a USD 4.0bn sunk asset has the highest marginal return in the portfolio because the base asset exists. The council asks whether it is under-funded relative to BET-03 and BET-06.", "Incremental indications that clear a Phase 2 bar.", "CLM-009076 CLM-005035"),
+ "regulatory_ethics": (C, "The FDA action date was not captured. Inspection findings, not clinical data, caused CRLs at Lilly and AbbVie, and Takeda's quality record includes Hikari. Third-party sites sit in the supply chain.", "Inspection status of sites supporting the NDA (IVB-011).", "CLM-005035 CLM-012134 CLM-012112 CLM-005020"),
+ "red_team": (C, "Competitor response is the central risk: oral and injectable IL-23 products with head-to-head data are marketed in psoriasis already and zasocitinib's head start is only against deucravacitinib. Conditional on payer coverage at 6 and 12 months (stage gate) and on tracking, not forecasting, replacement of Entyvio exposure.", "Payer position versus IL-23 class.", "CLM-012012 CLM-002065 CLM-003014 CLM-002026"),
+ "takeda_execution": (C, "Delivery to date is strong, but class 8 launch execution is POTENTIAL_NEW_CAPABILITY and three launches fall within 12 months of June 2026 while restructuring expense runs at JPY 128.1bn (FY2024), JPY 70.8bn (FY2025) and about JPY 160bn (FY2026 revised).", "Launch readiness (IVB-005).", "CLM-005074 CLM-005077 CLM-005078"),
+}
+
+R["BET-06"] = {
+ "scientific": (C, "No option from the window has produced an approved product. Neuroscience, gene and cell therapy concentrate write-downs (emraclidine USD 4.5bn, Takeda cell therapy JPY 58.2bn), and Denali and Neurocrine collaborations ended. The RNAi-next-to-fazirsiran idea is plausible but the bet names no target.", "Target modality and disease-depth map (stage-gate discovery).", "CLM-009097 CLM-009100 CLM-009089 CLM-009090"),
+ "technology": (C, "Needs modality-specific diligence that is not evidenced: Takeda Ventures and Center for External Innovation scope is an EVIDENCE_GAP. The deal-outcome scorecard that would discipline the engine does not exist yet (RM-007, 2027 H1).", "IVB-007.", "CLM-014052 CLM-005052"),
+ "commercial": (O, "Differentiation is 'low to moderate' in the capital file: others license similar assets and AbbVie spends USD 0.6-1.0bn a year on early upfronts and options. Takeda would bid with a USD 700m 14-year envelope against deeper pockets. PTS 0.05-0.15 and commercial probability 0.4-0.6 make expected value low and unquantified.", "Win rate against competing bidders for the same assets.", "CLM-009097 CLM-009061 CLM-009000"),
+ "capital": (O, "Opposes USD 700m: second-largest line (24% of balanced) with 7-12 years to payoff (RM-043: first option-sourced approval 2035), so it does not bridge the 2031-34 Entyvio window. It is also smaller than one Innovent-type licence (USD 1.2bn upfront), so it neither replaces nor funds the licence path Takeda actually uses. Would back a USD 150-300m scorecard-first tranche.", "Where Phase 2/3 licences of USD 0.5-2bn are funded (no bet covers them).", "CLM-009078 CLM-009097 CLM-009076"),
+ "regulatory_ethics": (C, "Antitrust and cross-border review is not researched, including China-sourced licences of the Innovent type. Contingent value rights and milestone structures need accounting and disclosure care.", "Cross-border review for China-sourced assets (not in registry).", "CLM-009098 CLM-009099 CLM-009078"),
+ "red_team": (C, "Rivals already hold new-modality positions and bid for the same assets (AbbVie ADARx USD 335m upfront with up to USD 7.5bn milestones; Lilly Verve). Takeda's edge must be selection and late-stage execution, which is evidenced for Nimbus and Protagonist but not for early options.", "Takeda hit rate on early assets.", "CLM-009061 CLM-009010 CLM-009076 CLM-012151"),
+ "takeda_execution": (C, "Deal flow is a public strength (four of six late-stage programmes externally sourced) and Takeda has terminated programmes decisively. The organisation behind early options is undocumented, and a CEO transition plus role cuts fall first on corporate functions.", "Corporate development capacity and CVR/option experience (IVB-007).", "CLM-005050 CLM-014052 CLM-005025 CLM-005078"),
+}
+
+R["BET-07"] = {
+ "scientific": (C, "Outcome evidence is mixed at best: Recursion ended four of 11 programmes, rentosertib's Phase IIa showed an FVC signal with seven liver-related discontinuations, and AI-origin Phase 2 success is cited as about conventional (secondary citation). Nabla's three-to-four-week loop is a CEO statement to Reuters. No Takeda outcome is disclosed. The first-in-human gate is the right test.", "Nabla first-in-human data (company expectation: one to two years from October 2025).", "CLM-006047 CLM-006048 CLM-006049 CLM-006040 CLM-006045"),
+ "technology": (C, "Models converge on shared open models, weakening any model-level edge. Dependency wiring is inconsistent: the bets file lists BET-01 and BET-09 as hard prerequisites, but roadmap gate RM-011 (Nabla first-in-human window, 2027 H2) depends only on RM-007, while the BET-01 decision-log gate (RM-015, 2027 H2) and the BET-09 cost benchmark (RM-018, 2028 H1) are not upstream of it. Data could arrive before a comparator exists.", "Whether a conventional-candidate comparator exists when Nabla data arrive.", "CLM-006056 CLM-006039 CLM-006040"),
+ "commercial": (O, "Opposes the moat claim: partners compound unless Takeda keeps data ownership, success-based payments above USD 1bn per deal are contingent liabilities, and commercial probability is 0.3-0.5. Tech-native partners serve Takeda's rivals in parallel (Isomorphic reportedly raised USD 600m; Lilly has Isomorphic, Chai and OpenAI).", "Contract terms on data ownership and feedback into partner models.", "CLM-006039 CLM-006041 CLM-011014 CLM-006012 CLM-006010"),
+ "capital": (C, "USD 180m with a first-in-human gate is a fair option price against reference deals (Isomorphic USD 45m upfront, BigHat USD 30m). Back the USD 40m H1 tranche. Release USD 80m H2 and USD 60m H3 only on RM-020 (2028 H2) evidence.", "Committed versus contingent payments in the Nabla and Iambic contracts (undisclosed).", "CLM-006012 CLM-006035 CLM-006039 CLM-006041"),
+ "regulatory_ethics": (C, "FDA's credibility framework is draft. AI-designed molecules still face the standard safety package, and rentosertib shows liver signals can appear. Data leakage and IP ownership terms in partner contracts are stated as a risk but cannot be reviewed.", "Contract data and IP terms.", "CLM-006046 CLM-006048"),
+ "red_team": (O, "Opposes as a differentiator: Lilly has Isomorphic, Chai, OpenAI and NVIDIA compute; AbbVie has BigHat and Valkai; the AISB consortium gives five pharmas the same fine-tuned model. A Takeda alliance with Nabla or Iambic is access to a model that rivals can also buy. Value exists only if Takeda's proprietary assay data are the differentiator, which makes this a feature of BET-01 and BET-09, not a separate bet.", "Whether alliance exclusivity exists (not public).", "CLM-006012 CLM-006010 CLM-006011 CLM-000281 CLM-006035 CLM-000285 CLM-006043"),
+ "takeda_execution": (C, "Alliances exist (Nabla 2022 and 2025, Iambic 2026) with no outcome disclosed. Takeda's stop discipline is evidenced in portfolio decisions (TAK-994, soticlestat, cell therapy), which supports feasibility. Conditional on stop rules being written into contracts before the next payment.", "IVB-010 alliance results.", "CLM-005049 CLM-006039 CLM-006041 CLM-005023 CLM-005024 CLM-005025"),
+}
+
+R["BET-08"] = {
+ "scientific": (C, "The only measured result is vendor-organised: about 10 points better pose accuracy on 1,056 private held-out structures, not peer reviewed. Whether it helps Takeda targets is untested; that is the bet's own gate.", "Held-out gain on Takeda targets (RM-006, 2027 H1).", "CLM-006043"),
+ "technology": (S, "Takeda has been a member since 2025-10-01, the infrastructure (Apheris) exists and held-out evaluation on Takeda data is straightforward.", "None material.", "CLM-006042 CLM-006043"),
+ "commercial": (C, "Access is pooled and non-exclusive, so it buys parity, not advantage; the bet itself says the moat is the internal decision layer. Takeda is not on the AISB Bind founding list.", "Which tasks Takeda would federate beyond structure prediction.", "CLM-006056 CLM-006044"),
+ "capital": (S, "USD 35m, reversible and measurable in 2027 H1. Best capital efficiency in the AI set.", "None material.", "CLM-006042"),
+ "regulatory_ethics": (C, "Federated learning between competitors needs a competition-law review of information flows and clean IP terms. Privacy and consent limit pooling. Neither is analysed.", "Competition-law opinion on consortium data flows.", "CLM-011054 CLM-006056"),
+ "red_team": (C, "Takeda is a follower in every consortium: AbbVie and J&J are founding partners of AISB Bind and Takeda is not, and Lilly's TuneLab reaches 1,300+ biotechs through Benchling. Acceptable at this price; unacceptable as a strategy.", "Takeda's contribution weight in AISB.", "CLM-006044 CLM-006008 CLM-009027"),
+ "takeda_execution": (S, "Already a member, owned by the CDTO, low organisational load.", "None material.", "CLM-006042"),
+}
+
+R["BET-09"] = {
+ "scientific": (C, "Stage 1-2 automation is commodity. The scientific question is whether AI-planned experiments beat human-planned ones prospectively, which no source shows. The 'rent, do not own' evidence partly rests on Lilly's sale of its Studio, whose reason is undisclosed and whose start date (2017 or about 2020) and Strateos link are disputed.", "Prospective AI-planned versus human-planned comparison on the same target.", "CLM-011062 CLM-006052 CLM-006017 CLM-006014"),
+ "technology": (S, "Technically mature: Arctoris runs the former Lilly platform as a CRO and expanded biophysics capacity ten-fold. Risks are interfaces, data schema and quality, manageable through acceptance criteria.", "Data schema acceptance tests (RM-005).", "CLM-006013 CLM-006016 CLM-011062"),
+ "commercial": (C, "Anyone can rent the same capacity, including AI-biotech rivals (Arctoris sells data generation to AI customers). The only asset Takeda owns is its schema and assay choice. Commercial probability 0.5-0.8 is cost avoidance against an unknown internal baseline (IVB-002).", "Internal cost per data point (IVB-002).", "CLM-006016 CLM-011065"),
+ "capital": (S, "USD 95m, service model, no fixed capital, with a cost-against-internal-baseline gate at RM-018 (2028 H1). The right instrument for an option on stage 3.", "None material.", "CLM-006013 CLM-006016"),
+ "regulatory_ethics": (C, "Data-integrity standards (GLP or GxP), audit rights and IP and data-ownership terms with a CRO are unstated. Vendor concentration risk if one provider dominates; the sector's rented-lab model is described as commercially fragile.", "CRO contract terms.", "CLM-006017 CLM-006016"),
+ "red_team": (C, "Accepts rent over own but contests the premise. Lilly sold the Studio in 2024 and in 2026 announced a joint lab of up to USD 1bn with NVIDIA, which reads as re-platforming at larger scale, not retreat. Zymergen, an industrial-biotech company, is a weak analogue for drug-discovery automation. If Lilly's new lab works, renting leaves Takeda a follower; the ladder triggers are the hedge.", "Whether the Lilly-NVIDIA lab is operating (CLM-006007 says no outcome reported).", "CLM-006013 CLM-000281 CLM-006051 CLM-006007"),
+ "takeda_execution": (S, "Low organisational load, no capability to build, owned by the Head of R&D. One inconsistency: the bets file lists no prerequisite, but roadmap RM-005 (CRO contract) depends on RM-002 (data standard), which depends on RM-001 (BET-17 inventory).", "Whether RM-005 can start before RM-001.", "CLM-005067 CLM-006016"),
+}
+
+R["BET-10"] = {
+ "scientific": (S, "Endorses REJECT. No independent demonstration of closed-loop autonomous discovery with a clinical outcome exists in any source opened; failure modes and reproducibility are unstudied.", "None.", "CLM-011062 CLM-006052"),
+ "technology": (S, "Endorses REJECT. Stage 4-5 is not demonstrated. The Lilly-NVIDIA lab is at concept and the Medicine Foundry is under construction.", "None.", "CLM-000281 CLM-006000 CLM-006001"),
+ "commercial": (S, "Endorses REJECT. No revenue case; commercial probability 0.1-0.3.", "None.", "CLM-006051"),
+ "capital": (S, "Endorses REJECT. Zero allocation, and watching the triggers is free.", "None.", "CLM-000281"),
+ "regulatory_ethics": (S, "Endorses REJECT. Acceptability of autonomously generated data for submissions is unsettled under the draft FDA credibility framework.", "None.", "CLM-006046"),
+ "red_team": (C, "Accepts zero spend but disputes the stated evidence: 'two owned-model failures' is one divestiture of undisclosed cause plus one company from another sector. Lilly is spending more on owned wet labs, not less. The trigger set (independent Lilly result, Nabla first-in-human, CRO cost) is a NEEDS_MORE_RESEARCH hypothesis and must be written so a Lilly success actually moves Takeda.", "Operationalised triggers with dates and owners.", "CLM-006017 CLM-006051 CLM-006052 CLM-000281 CLM-011066"),
+ "takeda_execution": (S, "Endorses REJECT. No lab-automation evidence at Takeda and no capacity to absorb a new capability during restructuring.", "IVB-002.", "CLM-005067 CLM-005078"),
+}
+
+R["BET-11"] = {
+ "scientific": (C, "Convenience formats raise access, but no persistence or outcome data exist for Takeda or competitors. Whether SC users persist longer or hold share after biosimilar entry is untested; the capital file says the effect after entry is not established.", "SC versus IV persistence (IVB-004).", "CLM-007039 CLM-007053"),
+ "technology": (S, "Capability exists: SC pen approvals and the HYHUB 510(k) clearance. J&J's OTTAVA impairment is a robotics counter-example, not a drug-device one.", "None material.", "CLM-005018 CLM-012029 CLM-012030 CLM-007042 CLM-009047"),
+ "commercial": (C, "Conflicts with BET-04: SC pens move patients into the pharmacy benefit, which is where PBM private-label biosimilar templates operate. Whether the pen protects net price is open, and IV-to-SC cannibalisation before exclusivity loss is a stated risk. The bet is labelled evidence_backed although its supporting interpretation is PARTIALLY_SUPPORTED.", "Net price per SC versus IV patient.", "CLM-007015 CLM-007016 CLM-007053"),
+ "capital": (S, "USD 190m at high capital efficiency, subject to the 2027 H2 baseline (RM-013). Device capex competes with core spending.", "Device capex share of the USD 190m.", "CLM-007042 CLM-007041"),
+ "regulatory_ethics": (C, "Combination-product and 510(k) pathways are familiar to Takeda. Human-factors and recall risk are sector-wide.", "Device recall history (not researched).", "CLM-007042 CLM-002046"),
+ "red_team": (C, "SC is table stakes: Tremfya, Skyrizi and Rinvoq are convenient and sit in the same prescriber base. Biosimilars in review are IV, so SC protection rests on patents and device IP, which do not outlast the drug's exclusivity.", "SC vedolizumab biosimilar timing.", "CLM-002026 CLM-003016 CLM-014051 CLM-007042"),
+ "takeda_execution": (S, "Existing strength: pen and HYHUB are approved and Takeda says SC drives uptake. Moderate load on the US unit.", "None material.", "CLM-007041 CLM-007033"),
+}
+
+R["BET-12"] = {
+ "scientific": (C, "No company publishes adherence, persistence or time-to-therapy outcomes, so there is no benchmark. Help at Hand's 100,000 patients is an enrolment count. That pathways limit oveporexton uptake is a NEEDS_MORE_RESEARCH hypothesis.", "Time from prescription to first dose (baseline).", "CLM-007039 CLM-007037 CLM-011070"),
+ "technology": (S, "Measurement and partnership work, not technology.", "None material.", "CLM-011070"),
+ "commercial": (C, "Pear Therapeutics shows reimbursement, not evidence, decides standalone digital support, so support attached to the drug is the right structure. AbbVie's revised Allē programme was reversed within months. Value is learning for the 2027-28 launches and is not quantifiable.", "Payer willingness to reimburse pathway services.", "CLM-007045 CLM-007046 CLM-011069 CLM-003033"),
+ "capital": (C, "USD 100m is large for an experiment in measurement. The USD 30m H1 tranche is reasonable; the USD 70m H2 and H3 balance should be contingent on RM-021 (2028 H2). Would cap at USD 50m until a pathway bottleneck is shown.", "Bottleneck evidence.", "CLM-007039 CLM-005072"),
+ "regulatory_ethics": (C, "The most compliance-exposed EXPERIMENT: anti-kickback and copay-accumulator rules constrain hub design, hub data ownership is unknown and patient data need consent.", "IVB-013.", "CLM-007010 CLM-005072"),
+ "red_team": (C, "Competitor launches were governed by certification and capacity: Spravato (site-limited) and Carvykti (capacity-bound), not by hubs. Timing: oveporexton was approved 2026-08-05 while the pathway pilot is dated 2027 H2 (RM-012) and reports in 2028 H2 (RM-021), so the first-year launch curve forms before the pilot reports.", "Date of oveporexton commercial availability (DEA scheduling).", "CLM-007029 CLM-007030 CLM-005029"),
+ "takeda_execution": (C, "Class 8 launch execution is POTENTIAL_NEW_CAPABILITY and class 14 patient services is an EVIDENCE_GAP. Owner is the US Patient Services head inside the same US organisation that carries three launches and the January 2028 Entyvio price. Conditional on one named launch and one named leader.", "Owner capacity.", "CLM-005074 CLM-005072 CLM-007033"),
+}
+
+R["BET-13"] = {
+ "scientific": (C, "Registry data can support evidence generation, but the cited regulatory-use example is a vendor snippet and Flatiron's value rests on oncology EHR scale that Takeda's areas lack.", "Disease choice.", "CLM-011023 CLM-011050"),
+ "technology": (C, "Needs consent, interoperability and governance that BET-01 will not deliver before about 2029. No Takeda data network is public.", "Dependency on BET-01 and BET-12.", "CLM-005072 CLM-011051"),
+ "commercial": (O, "Disputes carrying USD 80m: Flatiron's value is neutrality (Roche kept it a separate entity), and a single-pharma sponsor undermines it. Commercial probability is 0.2-0.4 with no demand evidence. Should be zero-funded until a neutral sponsor exists.", "Neutral sponsor.", "CLM-011049 CLM-011022 CLM-011050"),
+ "capital": (O, "Disputes inconsistent treatment: BET-13 is DEFER yet carries USD 80m in the balanced and USD 160m in the ambitious envelope, while the other DEFER bet (BET-15) is excluded. Would remove the line and fund a USD 25m options paper (RM-028, 2029 H2) from BET-12.", "Whether the USD 80m is counted in the USD 2,950m total (it is).", "CLM-011022"),
+ "regulatory_ethics": (C, "Consent, neutrality and cross-border privacy for rare-disease patients are unresearched.", "Consent model.", "CLM-011051"),
+ "red_team": (S, "Endorses DEFER: competitors will contribute only to a neutral registry and none exists; nothing is lost by waiting until 2029.", "None.", "CLM-011049 CLM-011022"),
+ "takeda_execution": (O, "Disputes: Takeda has no data-network capability and the class is POTENTIAL_NEW_CAPABILITY. Bandwidth is consumed by the cost programme and three launches.", "IVB-013.", "CLM-005072"),
+}
+
+R["BET-14"] = {
+ "scientific": (S, "Endorses REJECT. No measured internal advantage to productise.", "None.", "CLM-006045 CLM-011045"),
+ "technology": (S, "Endorses REJECT. Federated participation (BET-08) gives the only technology exposure that is warranted.", "None.", "CLM-006056"),
+ "commercial": (S, "Endorses REJECT. Customers are rivals, TuneLab has disclosed no uptake, and NVIDIA's own filing warns customers with in-house capability replace platform layers.", "None.", "CLM-011044 CLM-006008 CLM-011004"),
+ "capital": (S, "Endorses REJECT. Lilly's data cost is over USD 1bn; Takeda cannot show comparable data volume.", "None.", "CLM-000280"),
+ "regulatory_ethics": (S, "Endorses REJECT. Sharing models or data with competing biotechs raises unresearched competition-law, privacy and IP exposure.", "None.", "CLM-011054"),
+ "red_team": (S, "Endorses REJECT. Lilly is two years ahead with Benchling distribution to 1,300+ customers.", "None.", "CLM-009027 CLM-006008"),
+ "takeda_execution": (S, "Endorses REJECT. Class 9 is EXISTING_BUT_UNDERDEVELOPED with no outcome evidence.", "IVB-001.", "CLM-005058 CLM-006045"),
+}
+
+R["BET-15"] = {
+ "scientific": (C, "Agrees on requiring Phase 2+ data, but AbbVie's Cerevel purchase (a 54% write-down, emraclidine USD 4.5bn) shows Phase 2 CNS data do not de-risk.", "Named asset.", "CLM-009054 CLM-003057"),
+ "technology": (S, "Endorses DEFER. Nothing technical depends on it.", "None.", "CLM-009087"),
+ "commercial": (C, "The replacement gap is unmeasured without launch curves, and the USD 10-20bn peak is not probability-adjusted, so whether a bridge is needed cannot be shown from public data.", "IVB-005.", "CLM-014049 CLM-005041"),
+ "capital": (C, "Agrees nothing is funded, but the trigger arithmetic is already unmet. A USD 5bn purchase is JPY 750bn at ASM-001. Adjusted net debt JPY 3,817.6bn over EBITDA JPY 1,457.2bn is 2.6x; adding JPY 750bn gives about 3.13x before the Amitiza provision and about 3.41x if the JPY 403.5bn provision is also debt-funded, against the 3.0x ceiling (council arithmetic, ignores free cash flow and acquired earnings). DEFER hides that the purchase is infeasible without deleveraging.", "Free cash flow after dividends (IVB-012, IVB-014).", "CLM-005005 CLM-005014 CLM-005006"),
+ "regulatory_ethics": (C, "Antitrust review of a USD 5bn deal is not researched.", "Antitrust exposure by asset.", "CLM-009098"),
+ "red_team": (O, "Disputes DEFER: AbbVie (ImmunoGen plus Cerevel, USD 17.5bn net) and J&J (USD 17.5bn in FY2025) bought bridges. Entyvio exposure of JPY 383-766bn a year exceeds what USD 180m of BET-05 breadth can offset. If assets are bid away while Takeda waits for 2031 triggers, the bridge is gone. Asks for a funded USD 0.5-2bn Phase 2/3 licence channel instead of a binary USD 5bn trigger.", "Funding source for mid-size licences.", "CLM-003086 CLM-009049 CLM-002010 CLM-003014"),
+ "takeda_execution": (C, "Takeda stated no significant acquisitions in the three years to March 2026 and its one large purchase (Nimbus) has delivered. Capacity is limited by leverage, Amitiza and a progressive dividend policy. Conditional on the CFO and new CEO setting leverage policy first.", "Leverage and dividend policy.", "CLM-009087 CLM-009076 CLM-005006"),
+}
+
+R["BET-16"] = {
+ "scientific": (S, "Endorses REJECT. No clinical rationale.", "None.", "CLM-007052"),
+ "technology": (S, "Endorses REJECT. Would require a direct channel Takeda does not run.", "None.", "CLM-007052"),
+ "commercial": (S, "Endorses REJECT. Takeda's products are infused, specialty or plasma-derived. Lilly gives no revenue share for LillyDirect.", "None.", "CLM-007052 CLM-007005 CLM-007056"),
+ "capital": (S, "Endorses REJECT. Zero allocation.", "None.", "CLM-007005"),
+ "regulatory_ethics": (S, "Endorses REJECT. Copay-accumulator and anti-kickback rules limit combining discounts with insurance. Whether Takeda holds a government pricing agreement is not in the registry.", "Takeda MFN or TrumpRx status.", "CLM-007010 CLM-007009 CLM-008037"),
+ "red_team": (S, "Endorses REJECT. A cash-pay channel in a category with an uninsured gap is Lilly's advantage, not available to Takeda's specialty products.", "None.", "CLM-001042 CLM-007004"),
+ "takeda_execution": (S, "Endorses REJECT. Class 14 is an EVIDENCE_GAP and the US organisation is already loaded.", "None.", "CLM-005072"),
+}
+
+R["BET-17"] = {
+ "scientific": (C, "J&J's 10-15% of use cases driving about 80% of value is one CIO interview, and the 2.6x enrolment gain has no baseline. Takeda's 63.4% workforce AI use and 30.9% course take-up are adoption metrics. The only Takeda outcome claim is single-source.", "Whether baselines can be set (ASM-117).", "CLM-006019 CLM-006020 CLM-014043 CLM-014073"),
+ "technology": (S, "Measurement and advisory-only decision support; low technical risk.", "None material.", "CLM-011074"),
+ "commercial": (C, "No revenue line; value is pruned spend. Attribution is the issue: the JPY 200bn gross savings target mixes technology with about 4,500 role reductions. IVB-003 is meant to separate them, but the stage-gate owner is the CFO, who is also accountable for the savings.", "Share of savings attributable to technology.", "CLM-005059 CLM-005078"),
+ "capital": (C, "USD 120m is 4% of the envelope for a measurement office, decision support and reskilling, while ARCH shows platform-class work done by under ten staff. Back USD 40m in H1; make H2 contingent on measured use cases (RM-023, 2029 H1).", "Split of USD 120m between measurement, tools and reskilling.", "CLM-006032"),
+ "regulatory_ethics": (C, "Reskilling and role reductions interact with works councils and labour law in Europe and Japan (not researched). AI decision support touching HCP-facing content falls under promotional rules; the hypothesis assumes advise-only. Responsible-AI governance is thin in the bet.", "Employee-impact assessment.", "CLM-011074 CLM-011078 CLM-006046"),
+ "red_team": (S, "Low exposure to competitor action, and it limits wasted spend on the other AI bets. Nothing a rival does changes its value.", "None.", "CLM-006018 CLM-006022"),
+ "takeda_execution": (C, "Executing during a CEO transition, 4,500 role reductions and about JPY 359bn of restructuring expense over three years (128.1 + 70.8 + 160.0, council arithmetic) puts the morale risk the bet names on the bet itself. Owner conflict: CFO.", "Owner independence.", "CLM-005077 CLM-005078 CLM-005073"),
+}
+
+DISAGREEMENTS = [
+ ("BET-01", "Technology (support) versus Scientific (conditional): the platform can be built cheaply, but nobody can show that a data layer improves any decision outcome; ARCH's outcome is a preprint and Takeda's 30% claim is one interview. The councils disagree on whether low engineering risk is enough to proceed before IVB-001."),
+ ("BET-01", "Capital (support) versus Commercial (conditional): capital sees a USD 200m low-risk enabler; commercial sees no revenue line and a data asset that cannot match a competitor's USD 1bn+ experimental data."),
+ ("BET-02", "Takeda execution (support) versus Red team (oppose): the CEO's plasma heritage and the 270+ centre network make it Takeda's most executable bet, but the red team rejects the 'unique data' premise because plasma peers were never in the comparison set."),
+ ("BET-02", "Capital (conditional on tranche) versus the strategy's own stage-gate table: the stage-gate file lists USD 435m of capital at risk, USD 5m more than the USD 430m bet size."),
+ ("BET-03", "Technology and Takeda execution (support) versus Capital (oppose): capability is proven and in-house, but USD 500m for a 5-30% second-asset probability, paying off after the Entyvio window, is the weakest risk-adjusted use of scarce capital in the funded set."),
+ ("BET-04", "Commercial and Capital (support) versus Red team (conditional): the spend is cheap against exposure, but the red team doubts contracting can retain revenue (Humira kept 97% volume and still lost 78.6% in three years). The councils agree to spend, and disagree on what the spend can achieve."),
+ ("BET-05", "Scientific and Capital (support) versus Commercial and Red team (conditional): the clinical evidence is the best in the set, while the psoriasis market already contains an approved oral IL-23 with head-to-head claims."),
+ ("BET-06", "Takeda execution (conditional, deal flow is a strength) versus Capital and Commercial (oppose): the engine is sized below one Innovent-type licence and pays off after the Entyvio window. The councils disagree on whether the proven BD capability should be pointed at early options or at mid-size Phase 2/3 licences."),
+ ("BET-07", "Capital (conditional, small option) versus Commercial and Red team (oppose): cost is low but the differentiation claim is rejected because rivals hold the same or larger alliances. Technology flags that the prerequisite gates BET-01 and BET-09 are not wired into the roadmap before the Nabla window."),
+ ("BET-08", "Capital and Execution (support) versus Commercial and Red team (conditional): near-free parity versus a permanent follower position in consortia that AbbVie and J&J lead."),
+ ("BET-09", "Technology and Capital (support) versus Red team (conditional): the rent decision is technically and financially clean, but the red team argues the 'owned labs fail' evidence is weaker than the bet states."),
+ ("BET-10", "Five councils endorse REJECT; the red team endorses zero spend but disputes the evidence, because Lilly's 2026 joint lab suggests it is re-investing in owned wet labs."),
+ ("BET-11", "Technology and Execution (support) versus Commercial (conditional): the device capability exists, but moving patients to SC places them in the PBM channel where biosimilar templates apply, which works against BET-04."),
+ ("BET-12", "Technology (support) versus Scientific, Capital and Execution (conditional): measurement is easy, but USD 100m is large for an experiment, and the pilot (2027 H2) follows an August 2026 approval."),
+ ("BET-13", "Red team (support the DEFER) versus Commercial, Capital and Execution (oppose): all agree not to build now; three councils want the USD 80m removed from the envelope because DEFER bets elsewhere (BET-15) carry zero."),
+ ("BET-15", "Capital (conditional) versus Red team (oppose): capital shows a USD 5bn purchase already breaches the 3.0x ceiling by arithmetic, so DEFER is really REJECT for now. The red team argues the opposite, that Takeda needs a funded bridge and waiting means losing assets to AbbVie and J&J."),
+ ("BET-17", "Red team and Technology (support) versus Scientific, Commercial, Regulatory and Execution (conditional): everyone likes the discipline; four councils doubt the measurement can be independent when the CFO owns it and the savings target."),
+]

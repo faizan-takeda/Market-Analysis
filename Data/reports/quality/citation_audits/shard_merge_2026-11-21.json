@@ -1,0 +1,18 @@
+{
+  "run_at": "2026-11-21T13:39:58+00:00",
+  "shards": {
+    "A11_strategy": {
+      "sources_in_shard": 17,
+      "claims_in_shard": 100,
+      "sources_added": 17,
+      "claims_added": 100,
+      "aliases": 0,
+      "skipped_invalid": 0
+    }
+  },
+  "errors": [],
+  "totals": {
+    "sources": 524,
+    "claims": 1399
+  }
+}
